@@ -1,11 +1,10 @@
  [Adblock Plus 2.0]
-! Homepage: http://code.google.com/p/adblock-czechoslovaklist/
+! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 11/08/2013
+! Last change: 17/08/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
-! Forum: http://code.google.com/p/adblock-czechoslovaklist/issues/list
 !
 ! ---------- Czech Generic Blocking Rules ----------
 !
