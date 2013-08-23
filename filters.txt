@@ -330,7 +330,6 @@ autotube.cz##.rklh
 autotube.cz##.rklv
 autoweb.cz##.rklh
 blesk.cz###slevisteBox
-blesk.cz##.grid_4
 blisty.cz##.botadv
 blisty.cz##.midadv
 blisty.cz##.topadv
