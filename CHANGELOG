@@ -1,5 +1,6 @@
 ﻿= Changelog =
 
+28.8. - Added hiding filter for rouming.cz, white-listing filters for blesk.cz and moviezone.cz
 24.8. - Added ||d.lookit.cz/vv.js filter that blocks highlighted words on denik.cz and probably on some other pages
 22.8. - Removed ||c.mfstatic.cz/js/advantage_mf.js filter, because this filter caused some problems on f1sport.autorevue.cz
 21.8. - Added filters for mobilizujeme.cz, forum.mobilmania.sk and two general filters for "sklik"

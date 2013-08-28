@@ -1,10 +1,11 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 24/08/2013
+! Last change: 28/08/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
+! Forum: http://adblock.studenthosting.sk/forums/forum/easylist-czech-and-slovak/
 !
 ! ---------- Czech Generic Blocking Rules ----------
 !
@@ -232,9 +233,11 @@ _clickthru.swf?
 @@||alfacomp.cz/reklama/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/crossdomain.xml$domain=idnes.cz
+@@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
 @@||fastshare.cz/banner/site_logo.jpg
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||hry.cz/ad/ad.aspx?
+@@||moviezone.cz/js/
 @@||new.iboys.cz/advert-list.php
 @@||sokolov.cz/images/reklama/
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
@@ -509,6 +512,7 @@ ronnie.cz###rodkaz
 ronnie.cz##DIV[style="width:100%;height:50px;background-color:#F5FAFF;margin-bottom:19px;padding-top:5px;"]
 root.cz###box-64bit-eu
 root.cz###servers-promo
+rouming.cz##.roumingLista
 rychlost.cz##.hb
 search.seznam.cz##.sklik
 serialycz.cz##CENTER
