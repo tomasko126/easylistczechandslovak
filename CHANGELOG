@@ -1,5 +1,6 @@
 ﻿= Changelog =
 
+14.9. - Updated filter for azet.sk, added filters for tu-ke.com + csfd.cz, added white-list filter for iboys.cz
 05.9. - Added filter ||eserial.cz/liftago2.jpg for blocking image ad on eserial.cz
 28.8. - Added hiding filter for rouming.cz, white-listing filters for blesk.cz and moviezone.cz
 24.8. - Added ||d.lookit.cz/vv.js filter that blocks highlighted words on denik.cz and probably on some other pages

@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 05/09/2013
+! Last change: 14/09/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
@@ -146,6 +146,14 @@ _clickthru.swf?
 ||partner.zoznam.sk
 ||player.joj.sk/age-chooser.swf
 ||sport.aktuality.sk/css/skins/
+||tu-ke.com/certovskezlavy.jpg
+||tu-ke.com/jozko.png
+||tu-ke.com/kosiceprojekty.gif
+||tu-ke.com/poker.jpg
+||tu-ke.com/pokerbig.gif
+||tu-ke.com/shirtsk.jpg
+||tu-ke.com/shopcity.jpg
+||tu-ke.com/svadobny-salon-la-fiaba-kosice.png
 ||war-board.net/banner.swf
 ||war-board.net/images/vlastenec.jpg
 ||war-board.net/reklamasj.js
@@ -238,6 +246,7 @@ _clickthru.swf?
 @@||fastshare.cz/banner/site_logo.jpg
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||hry.cz/ad/ad.aspx?
+@@||iboys.cz/advert-list.php
 @@||moviezone.cz/js/
 @@||new.iboys.cz/advert-list.php
 @@||sokolov.cz/images/reklama/
@@ -362,6 +371,10 @@ computerworld.cz##.ad-obal
 computerworld.cz##.banner
 computerworld.cz##.square_banner
 csfd.cz##.ad-samsung
+csfd.cz##.branding.bottom
+csfd.cz##.branding.left
+csfd.cz##.branding.right
+csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
 ct24.cz##.commercialBox
 cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
@@ -583,7 +596,7 @@ zvraceny.cz##.reklama-vodorovne
 !
 aktuality.sk##.box-silver.texttip-box.silver-box-big
 autobazar.eu##.bannero2
-azet.sk##.box.zlavy
+azet.sk##.boxzlavy
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
 dsl.sk##.header_info_text
