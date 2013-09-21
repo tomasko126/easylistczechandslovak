@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 14/09/2013
+! Last change: 21/09/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
@@ -54,6 +54,7 @@ _clickthru.swf?
 ||adx.fotoaparat.cz/www/images/
 ||archiv.roumen.cz/roumingRLeader.html
 ||autoesa.cz/files/bannery/
+||avony.cz/mp3splocha.php
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
 ||cztorrent.net/images/bannery/
@@ -91,10 +92,13 @@ _clickthru.swf?
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
 ||mluveneslovo.chaves.cz/images/banners/palace.gif
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
+||mp3s.nadruhou.net/avony_square.gif
+||mp3s.nadruhou.net/js/bastard_*.js
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||novinky.cz/static/css/xmas.css
 ||parabola.cz/img_inzerent/
+||phaeton.nadruhou.net/data/mp3s/bastard/
 ||portalymest.cz/obrazky/eshop
 ||presentation.lmc.cz/aliance/
 ||programujte.com/galerie/banery/
@@ -121,6 +125,7 @@ _clickthru.swf?
 ||uloz.to/bannery/
 ||uloz.to/img/bannery/
 ||uschovna.cz/dt-dancer-234x60.swf
+||videacesky.server.zcom.cz/redirector/redir.php?r=LNKczechidea_dole
 ||war-net.cz/300x200.gif
 ||war-net.cz/aukcent.gif
 ||war-net.cz/vyhraj.swf
@@ -482,6 +487,11 @@ moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
 mojevideo.sk###brnd_koz
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz##.fullbanner
+mp3s.nadruhou.net###lista
+mp3s.nadruhou.net##DIV[style*="padding: 0px; height: 270px;"]
+mp3s.nadruhou.net##DIV[style*="padding: 0px; height: 275px;"]
+mp3s.nadruhou.net##DIV[style*="width: 380px; min-height: 30px;"]
+mp3s.nadruhou.net##DIV[style*="width: 202px; height: 60px;"]
 naakup.cz###ad-selfpromo
 naakup.cz###footer-link
 naseadresa.cz###bannersPanel
@@ -563,6 +573,8 @@ uloz.to##.banner300x300
 uschovna.cz###tiscali-bar
 uschovna.cz##.bottom_banner
 uschovna.cz##.right_banner_mat
+videacesky.cz##.im_top
+videacesky.cz##.leftAddBarContainer
 vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash

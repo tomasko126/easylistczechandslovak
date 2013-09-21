@@ -1,9 +1,10 @@
 ﻿= Changelog =
 
+21.9. - Added filters for mp3s.nadruhou.net + videacesky.cz 
 14.9. - Updated filter for azet.sk, added filters for tu-ke.com + csfd.cz, added white-list filter for iboys.cz
 05.9. - Added filter ||eserial.cz/liftago2.jpg for blocking image ad on eserial.cz
 28.8. - Added hiding filter for rouming.cz, white-listing filters for blesk.cz and moviezone.cz
 24.8. - Added ||d.lookit.cz/vv.js filter that blocks highlighted words on denik.cz and probably on some other pages
 22.8. - Removed ||c.mfstatic.cz/js/advantage_mf.js filter, because this filter caused some problems on f1sport.autorevue.cz
 21.8. - Added filters for mobilizujeme.cz, forum.mobilmania.sk and two general filters for "sklik"
-19.8. - Imported initial changelog, changes are from 17.8.
+19.8. - Imported initial changelog to GitHub from Google Project Code, last changes are from 17.8.
