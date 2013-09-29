@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 21/09/2013
+! Last change: 29/09/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
@@ -607,6 +607,8 @@ zvraceny.cz##.reklama-vodorovne
 !---------- Slovak Site Specific Element Hiding Rules ----------
 !
 aktuality.sk##.box-silver.texttip-box.silver-box-big
+amateri.sk###banner_left1
+amateri.sk###top_rekl
 autobazar.eu##.bannero2
 azet.sk##.boxzlavy
 centrum.sk##.h2.grad2.kupons_games
