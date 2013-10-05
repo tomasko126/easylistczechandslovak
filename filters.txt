@@ -654,3 +654,6 @@ $advertisement/
 !
 !---------- Experimental ----------
 @@svet-it.sk
+@@||adtech.de$domain=svet-it.sk
+@@||s.atemda.com/Admeta.js
+@@||atemda.com$domain=svet-it.sk
