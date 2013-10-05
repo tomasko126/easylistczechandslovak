@@ -653,4 +653,4 @@ $advertisement/
 /cgi-bin/banner/*
 !
 !---------- Experimental ----------
-@@||www.svet-it.sk/$document
+@@svet-it.sk
