@@ -179,6 +179,7 @@ _clickthru.swf?
 !
 ! ---------- Czech 3rd party blocking rules ----------
 !
+||001shop.cz$third-party
 ||10.im.cz$third-party
 ||a.stats.cz$third-party
 ||ad1.kde.cz^$third-party
@@ -410,6 +411,7 @@ extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
 financninoviny.cz##.hypertexty
+filmy.kinotip.cz##.vid
 firmy.cz###column
 fotoaparat.cz###banner2
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;"]
@@ -514,6 +516,7 @@ naseadresa.cz##.homeAdvertisement
 nasepenize.cz##.ks-detail-clanku
 nasepenize.cz##.latest-hypertext
 navratdoreality.cz##IMG[src="pub/naprivat-250x250-02.jpg"]
+nejlevnejsiramy.cz###banner_overlay
 nova.cz###banner_nestandard
 nova.cz###bb_wallpaper
 nova.cz###bbbanner_big_1
@@ -646,8 +649,10 @@ itnews.sk##.menu_logo
 lepsiebyvanie.centrum.sk##.tip
 mail.zoznam.sk###box3
 mojevideo.sk###brnd_htc1
+narodnablockovaloteria.tipos.sk###banners
 pcforum.sk##table[align="left"]
 pcforum.sk##TD[style="colspan: 2; cursor: pointer;"]
+pcforum.sk##TD[colspan="2"]
 pcforum.sk##td[style="padding: 5px; margin: 5px; cursor: pointer;"]
 pcforum.sk##td[width="110px"]
 pcforum.sk##.titles
