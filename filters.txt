@@ -1,11 +1,11 @@
  [Adblock Plus 2.0]
-! Homepage: http://adblock.studenthosting.sk
+! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 29/11/2013
+! Last change: 30/11/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
-! Email: tomasko126@gmail.com
-! Forum: http://adblock.studenthosting.sk/forums/forum/easylist-czech-and-slovak/
+! Email: tomastaro@adblock.sk
+! Forum: http://adblock.sk/forum
 !
 ! ---------- Czech Generic Blocking Rules ----------
 !
@@ -35,6 +35,7 @@
 /reklamy.
 /scripts/clickjs
 _clickthru.swf?
+##A[href="http://digitalportal.sk"]
 !
 ! ---------- Slovak Generic Blocking Rules ----------
 !
@@ -45,6 +46,7 @@ _clickthru.swf?
 !
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/12/*/*/webm/*.webm
+||*.war-forum.net/images/sh/
 ||1.im.cz/ad/$image
 ||1.im.cz/ad/activateFlashObject.js?$domain=novinky.cz
 ||1.im.cz/ad/gemius.js
@@ -69,6 +71,7 @@ _clickthru.swf?
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
 ||flash.stream.cz/get_sklik/
+||forum.w-source.net/images/*banner.jpg
 ||fotoradce.cz/layout/inzerce/
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
@@ -132,15 +135,21 @@ _clickthru.swf?
 ||uloz.to/img/bannery/
 ||uschovna.cz/dt-dancer-234x60.swf
 ||videacesky.server.zcom.cz/redirector/redir.php
+||war-city.eu/bannery/
 ||war-net.cz/300x200.gif
 ||war-net.cz/aukcent.gif
 ||war-net.cz/vyhraj.swf
+||war-portal.eu/bannery/
+||war4all.com/images//inzerce/
 ||warcenter.cz/banner.js
 ||warcenter.cz/banner/
 ||warcenter.cz/jennys.gif
+||warcenter.eu/images/bannery/
+||warez.azbase.net/images/azbase.gif
 ||warforum.cz/flyweb/
 ||warforum.cz/inau/
 ||warforum.cz/trika/
+||warzoneforum.eu/images/*banner.gif
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zvraceny.cz/data/upload/
@@ -164,6 +173,7 @@ _clickthru.swf?
 ||ourphorum.com/images/brapid.gif
 ||partner.zoznam.sk
 ||player.joj.sk/age-chooser.swf
+||poweruploaders.eu/bannery/
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||tu-ke.com/certovskezlavy.jpg
@@ -177,6 +187,7 @@ _clickthru.swf?
 ||war-board.net/banner.swf
 ||war-board.net/images/vlastenec.jpg
 ||war-board.net/reklamasj.js
+||war4u.sk/banners/
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
 !
@@ -627,6 +638,8 @@ volny.cz###banner_flash
 volny.cz###services_content
 volny.cz##[style="padding: 4px; font-size: 11px; background-color: #F6F8EA"]
 war-board.net##.mainmenu[style="color:red;font-weight:bold;"]
+warezforum.cz##OBJECT[id*="bfad"]
+warezforum.cz##.center
 warforum.cz###adLocation-21
 warforum.cz###popwrapper
 warforum.cz###t-overlay
@@ -634,6 +647,7 @@ warforum.cz##A[href="http://acu.cz"]
 warforum.cz##H3
 webovastranka.cz###deny_anonymous_visitors
 webovastranka.cz###overlay
+webshare.cz##.banner
 webshare.cz##.ws-adver-bg
 wmmania.cz###header-banner
 zdravi.tiscali.cz###zone-tiscali-zdravi-wide
@@ -696,6 +710,7 @@ topky.sk##.box_advertisment.addbox.recycle
 topky.sk##.nastip
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
+warmacher.com###reklamne_bannery
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
 zoznam.sk###rajknih
