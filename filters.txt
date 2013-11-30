@@ -675,6 +675,7 @@ amateri.sk###banner_left1
 amateri.sk###top_rekl
 autobazar.eu##.bannero2
 azet.sk##.box.bazar
+azet.sk##.box.zlavy
 azet.sk##.boxzlavy
 best4you.sk##A[href="http://www.movieportal.eu"]
 best4you.sk##A[href="http://www.Onlinefilmy.eu"]
