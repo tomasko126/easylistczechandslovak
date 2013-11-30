@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.studenthosting.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 28/11/2013
+! Last change: 29/11/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomasko126@gmail.com
@@ -221,6 +221,7 @@ _clickthru.swf?
 ||elweb.cz$third-party
 ||fastshare.cz$third-party
 ||heureka.cz$third-party
+||himymonline.tv/ssb/$domain=simpsonovi-tv.cz
 ||i.imedia.cz/$third-party
 ||inclick.sk^$third-party
 ||intext.billboard.cz^$third-party
@@ -569,6 +570,10 @@ search.seznam.cz##.sklik
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
+simpsonovi-tv.cz###a92
+simpsonovi-tv.cz###ideckoo
+simpsonovi-tv.cz###odkazy
+simpsonovi-tv.cz##A[href="http://novohradskehory-ubytovani.eu/"]
 smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
