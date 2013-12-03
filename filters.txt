@@ -45,7 +45,7 @@ _clickthru.swf?
 ! ---------- Czech 1st party blocking rules ----------
 !
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
-||*.s12.cdn.szn.cz/vod/12/*/*/webm/*.webm
+||*.s12.cdn.szn.cz/vod/*
 ||*.war-forum.net/images/sh/
 ||1.im.cz/ad/$image
 ||1.im.cz/ad/activateFlashObject.js?$domain=novinky.cz
