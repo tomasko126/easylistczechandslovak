@@ -658,6 +658,7 @@ zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zive.cz###ctl01_jobs
+zive.cz###pf-wrapper
 zive.cz###zivefirmy
 zive.cz##.banner
 zive.cz##.banner-box
