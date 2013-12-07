@@ -283,6 +283,8 @@ _clickthru.swf?
 @@||iboys.cz/advert-list.php
 @@||moviezone.cz/js/
 @@||new.iboys.cz/advert-list.php
+@@||reklama-horovice.cz
+@@||reklama-praha.cz
 @@||sokolov.cz/images/reklama/
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||ta3.com/advert-async-system/load-items.html?
