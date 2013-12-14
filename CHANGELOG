@@ -1,5 +1,11 @@
 ﻿= Changelog =
 
+14.12. - Added filters for gamepark.cz, rozzlobenimuzi.com, michalovskespravy.sk, karaoketexty.cz,
+         blbosti.cz, alkoholik.cz, androidportal.sk, e15.cz and busportal.cz 
+         Updated filters for pcforum.sk, aktuality.sk, sector.sk, eserial.cz,
+         kinotip.cz, topky.sk and atlas.sk, 
+         Added whitelist filter for tpd.sk
+         Added some generic filters
 07.12. - Added whitelist filters for reklama-praha.cz and reklama-horovice.cz
 05.12. - Updated filters for sme.sk
 03.12. - Updated filters for zive.cz and stream.cz

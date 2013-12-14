@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 07/12/2013
+! Last change: 14/12/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -56,9 +56,11 @@ _clickthru.swf?
 ||86.63.194.248/media/bann/
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
+||alkoholik.cz/zavislost/images/banners/
 ||archiv.roumen.cz/roumingRLeader.html
 ||autoesa.cz/files/bannery/
 ||avony.cz/mp3splocha.php
+||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
 ||cztorrent.net/images/bannery/
@@ -68,8 +70,10 @@ _clickthru.swf?
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
 ||dobresenajim.cz/idnesbanner?
 ||eserial.cz/liftago2.jpg
+||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
+||filmy.kinotip.cz/pop.php
 ||flash.stream.cz/get_sklik/
 ||forum.w-source.net/images/*banner.jpg
 ||fotoradce.cz/layout/inzerce/
@@ -122,10 +126,10 @@ _clickthru.swf?
 ||sasoft.cz/files/banner.gif
 ||serialycz.cz/wp-content/uploads/fbbannercz.jpg
 ||serialycz.cz/wp-content/uploads/kupi.png
+||showcase.gamepark.cz/
 ||slevy.tyden.cz/banner/
 ||spoluzaci.cz/img/new-skin/bgr-main.png
 ||static.autoweb.cz/img/brands/
-||static.itnews.sk/branding/
 ||super.cz/static/flash/
 ||superhry.cz/design/09/banner120.gif
 ||superhry.cz/fox_$subdocument
@@ -165,18 +169,23 @@ _clickthru.swf?
 ||cucaj.sk/images/bannery/
 ||cucaj.sk/Themes/cucaj3/images/bg/bg*.jpg
 ||dot.boss.sk
+||fileframe.sector.sk/banners/
 ||fony.sk/content/banners/
 ||hojko.com/images/banner*.gif
+||img.karaoketexty.cz/img/ad/
 ||img5.uloz.to/ul3/images/hp_brand_tsbohemia.jpg
 ||mhdba.eu/banerova-reklama-animacia.gif
+||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||naramok.sk/images/banner.swf
 ||ourphorum.com/images/468x60*.jpg
 ||ourphorum.com/images/brapid.gif
 ||partner.zoznam.sk
+||pcforum.sk/styles/white/imageset/topic_moved.gif
 ||player.joj.sk/age-chooser.swf
 ||poweruploaders.eu/bannery/
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
+||static.itnews.sk/branding/
 ||tu-ke.com/certovskezlavy.jpg
 ||tu-ke.com/jozko.png
 ||tu-ke.com/kosiceprojekty.gif
@@ -239,6 +248,7 @@ _clickthru.swf?
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
 ||intext.wdt.cz^$third-party
+||kamery.praha.eu^$third-party
 ||megadarky.cz^$third-party
 ||n.hyperinzerce.cz^$third-party
 ||net4ge.cz^$third-party
@@ -292,6 +302,7 @@ _clickthru.swf?
 !---------- Slovak Whitelist ------------
 !
 @@||img.aaaauto.eu/thumb/
+@@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------
@@ -312,8 +323,10 @@ _clickthru.swf?
 ###full_ad_note
 ###hp_ab
 ###inclickDock
+###iPark-banner
 ###nike-banner-hokej
 ###P_reklama_120x600
+###pf-wrapper
 ###promo-box
 ###prolinkhd
 ###reklama_ahead
@@ -329,6 +342,7 @@ _clickthru.swf?
 ##.ad_font
 ##.advert-square
 ##.article-adtip-box
+##.bazar-box
 ##.etarget
 ##.hp-advert
 ##.jobscz
@@ -359,6 +373,7 @@ _clickthru.swf?
 ##.spored-links
 ##.topreklama
 ##.vreklama
+##.zlavy-box
 !
 !---------- Czech Site Specific Element Hiding Rules ----------
 !
@@ -393,6 +408,9 @@ bohemians.cz###reklama_uvod
 businessworld.cz###skyscraper
 businessworld.cz##.banner
 businessworld.cz##.square_banner
+busportal.cz###sideScrapperLayout
+busportal.cz##.banner
+busportal.cz##DIV[id*="Banner"]
 cdr.cz##.not4bbtext
 centrum.cz###top-banner
 centrum.cz##.container-adfox
@@ -431,6 +449,7 @@ doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 drumandbass.cz##.banner
+e15.cz##.hp-page-card.hp-page-card-zive-firmy
 extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
@@ -579,6 +598,7 @@ ronnie.cz##DIV[style="width:100%;height:50px;background-color:#F5FAFF;margin-bot
 root.cz###box-64bit-eu
 root.cz###servers-promo
 rouming.cz##.roumingLista
+rozzlobenimuzi.com##.bgg
 rychlost.cz##.hb
 search.seznam.cz##.sklik
 serialycz.cz##CENTER
@@ -677,6 +697,8 @@ akoviazatkravatu.sk##A[href="http://www.drevenica-liptov.sk"]
 aktuality.sk##.box-silver.texttip-box.silver-box-big
 amateri.sk###banner_left1
 amateri.sk###top_rekl
+androidportal.zoznam.sk##.lazy.data-lazy-ready
+atlas.sk##DIV[id*="reklamne"]
 autobazar.eu##.bannero2
 azet.sk##.box.bazar
 azet.sk##.box.zlavy
@@ -697,8 +719,16 @@ itnews.sk##.menu_logo
 lenzabava.sk##A[href="http://on.fb.me/1aR7Kru"]
 lepsiebyvanie.centrum.sk##.tip
 mail.zoznam.sk###box3
+michalovskespravy.sk###footer
+michalovskespravy.sk###headerSlideContent1
+michalovskespravy.sk###ocko
 mojevideo.sk###brnd_htc1
 narodnablockovaloteria.tipos.sk###banners
+pcforum.sk##DIV[class="gensmall"]
+pcforum.sk##SPAN[class="gensmall"]
+pcforum.sk##.forumdesc
+pcforum.sk##.forumlink[href*="http://www.pcforum.sk/rd.php"]
+pcforum.sk##.postlink[href*="rd.php?"]
 pcforum.sk##table[align="left"]
 pcforum.sk##TD[style="colspan: 2; cursor: pointer;"]
 pcforum.sk##td[style="padding: 5px; margin: 5px; cursor: pointer;"]
@@ -727,6 +757,7 @@ zoznam.sk##[id*="BUTTON_ZOZNAM"]
 !
 !---------- For EasyList Users ----------
 !
+@@||youwatch.org/adframe.js
 $advertisement/
 /cgi-bin/banner/*
 !
