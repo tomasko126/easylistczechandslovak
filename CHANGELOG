@@ -5,7 +5,8 @@
          Updated filters for pcforum.sk, aktuality.sk, sector.sk, eserial.cz,
          kinotip.cz, topky.sk and atlas.sk, 
          Added whitelist filter for tpd.sk
-         Added some generic filters
+         Added some generic filters (First update)
+         Removed unnecessary filters (Second update)
 07.12. - Added whitelist filters for reklama-praha.cz and reklama-horovice.cz
 05.12. - Updated filters for sme.sk
 03.12. - Updated filters for zive.cz and stream.cz

@@ -292,7 +292,6 @@ _clickthru.swf?
 @@||hry.cz/ad/ad.aspx?
 @@||iboys.cz/advert-list.php
 @@||moviezone.cz/js/
-@@||new.iboys.cz/advert-list.php
 @@||reklama-horovice.cz
 @@||reklama-praha.cz
 @@||sokolov.cz/images/reklama/
@@ -509,7 +508,6 @@ ihned.cz###r-big-ozn
 ihned.cz###r-drazby
 ihned.cz###r-nes
 ihned.cz###rbannery-items
-ihned.cz###sklik
 ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
@@ -600,7 +598,6 @@ root.cz###servers-promo
 rouming.cz##.roumingLista
 rozzlobenimuzi.com##.bgg
 rychlost.cz##.hb
-search.seznam.cz##.sklik
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
@@ -638,9 +635,7 @@ tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
 topzine.cz###vyjizdeciBoxikDiv
-tv.sms.cz###P_reklama_horni
 tv.sms.cz##.P_nadpis[style="text-align:center;height:1em"]
-tv.sms.cz##.reklamni_sdeleni
 tv.sms.cz##[style="background-color:#cccccc;margin-top:.5em;padding-left:.7em;padding-right:.7em;padding-top:.1em;padding-bottom:.1em;width:90%"]
 tv.sms.cz##[style="border:1px solid #B7B7B7;width:320px"]
 tvfreak.cz##.banner
@@ -681,7 +676,6 @@ zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zive.cz###ctl01_jobs
-zive.cz###pf-wrapper
 zive.cz###zivefirmy
 zive.cz##.banner
 zive.cz##.banner-box
