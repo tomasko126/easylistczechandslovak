@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 14/12/2013
+! Last change: 23/12/2013
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -35,7 +35,6 @@
 /reklamy.
 /scripts/clickjs
 _clickthru.swf?
-##A[href="http://digitalportal.sk"]
 !
 ! ---------- Slovak Generic Blocking Rules ----------
 !
@@ -656,6 +655,8 @@ volny.cz###banner_flash
 volny.cz###services_content
 volny.cz##[style="padding: 4px; font-size: 11px; background-color: #F6F8EA"]
 war-board.net##.mainmenu[style="color:red;font-weight:bold;"]
+war-city.eu##A[href="http://digitalportal.sk"]
+war-portal.eu##A[href="http://digitalportal.sk"]
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
@@ -700,14 +701,17 @@ azet.sk##.boxzlavy
 best4you.sk##A[href="http://www.movieportal.eu"]
 best4you.sk##A[href="http://www.Onlinefilmy.eu"]
 best4you.sk##DIV[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
+bestwar.eu##A[href="http://digitalportal.sk"]
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
+downland.eu##A[href="http://digitalportal.sk"]
 dsl.sk##.header_info_text
 europa2.sk###bgr-anchor
 fony.sk##.divArticleBannerTop
 forum.mobilmania.azet.sk###rwrap
 forum.zive.sk###rwrap
 hladaj.referaty.atlas.sk###specbox
+istahuj.eu##A[href="http://digitalportal.sk"]
 itnews.sk###backgroundbanner
 itnews.sk##.menu_logo
 lenzabava.sk##A[href="http://on.fb.me/1aR7Kru"]
@@ -728,6 +732,7 @@ pcforum.sk##TD[style="colspan: 2; cursor: pointer;"]
 pcforum.sk##td[style="padding: 5px; margin: 5px; cursor: pointer;"]
 pcforum.sk##td[width="110px"]
 pokec.azet.sk##.c_banner300x300
+poweruploaders.eu##A[href="http://digitalportal.sk"]
 pretaktovanie.zoznam.sk##.post.bg5
 slovnik.azet.sk##.articlesBnr
 sme.sk###b-napizzu
