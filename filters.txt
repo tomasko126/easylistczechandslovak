@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 24/12/2013
+! Last change: 18/01/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -97,6 +97,7 @@ _clickthru.swf?
 ||img.mimiaukce.cz/h/ac/b/
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
+||lamer.cz/images/bg*.jpg
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
@@ -126,6 +127,7 @@ _clickthru.swf?
 ||serialycz.cz/wp-content/uploads/fbbannercz.jpg
 ||serialycz.cz/wp-content/uploads/kupi.png
 ||showcase.gamepark.cz/
+||skjalovec.com/img/banners/
 ||slevy.tyden.cz/banner/
 ||spoluzaci.cz/img/new-skin/bgr-main.png
 ||static.autoweb.cz/img/brands/
@@ -193,6 +195,7 @@ _clickthru.swf?
 ||tu-ke.com/shirtsk.jpg
 ||tu-ke.com/shopcity.jpg
 ||tu-ke.com/svadobny-salon-la-fiaba-kosice.png
+||vii.sk/player/adzoom.swf
 ||war-board.net/banner.swf
 ||war-board.net/images/vlastenec.jpg
 ||war-board.net/reklamasj.js
@@ -387,6 +390,7 @@ alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
 amk.to###header
 auto.cz##.novinka_out
+autobazar.cz###biglink
 autoesa.cz###bannerPopup
 autorevue.cz###adblock-leaderboard-clip
 autorevue.cz##.banner
@@ -467,6 +471,8 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
+games.tiscali.cz##.adtext
+games.tiscali.cz##.wide
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
@@ -585,6 +591,8 @@ penize.tiscali.cz###zone-tiscali-penize-wide
 prague.cz##TABLE[bgcolor="BLACK"]
 pravidla.cz##.advtick
 programujte.com##.jobs
+prozeny.blesk.cz##.pinkHeader.sportnanetuIco
+prozeny.blesk.cz##.sportnanetu
 recepty.vareni.cz##.banner
 restaurace.cz##.banner-120-600
 restaurace.cz##.banner-300-300
@@ -692,6 +700,7 @@ akoviazatkravatu.sk##A[href="http://www.drevenica-liptov.sk"]
 aktuality.sk##.box-silver.texttip-box.silver-box-big
 amateri.sk###banner_left1
 amateri.sk###top_rekl
+androidportal.zoznam.sk###text-63
 androidportal.zoznam.sk##.lazy.data-lazy-ready
 atlas.sk##DIV[id*="reklamne"]
 autobazar.eu##.bannero2
