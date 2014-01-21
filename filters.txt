@@ -701,7 +701,6 @@ aktuality.sk##.box-silver.texttip-box.silver-box-big
 amateri.sk###banner_left1
 amateri.sk###top_rekl
 androidportal.zoznam.sk###text-63
-androidportal.zoznam.sk##.lazy.data-lazy-ready
 atlas.sk##DIV[id*="reklamne"]
 autobazar.eu##.bannero2
 azet.sk##.box.bazar
