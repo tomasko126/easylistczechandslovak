@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 18/01/2014
+! Last change: 07/02/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -35,6 +35,8 @@
 /reklamy.
 /scripts/clickjs
 _clickthru.swf?
+##DIV[id^="sklikReklama"]
+##DIV[id^="sm-ad"]
 !
 ! ---------- Slovak Generic Blocking Rules ----------
 !
@@ -59,6 +61,7 @@ _clickthru.swf?
 ||archiv.roumen.cz/roumingRLeader.html
 ||autoesa.cz/files/bannery/
 ||avony.cz/mp3splocha.php
+||bannery.ccb.cz^
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
@@ -80,6 +83,7 @@ _clickthru.swf?
 ||geewa.ws/js/ad.
 ||gidnes.cz/b/
 ||heureka.cz/direct/bannery/
+||himym.cz/image/*banner*.gif
 ||hostareal.cz/provize/bannery/
 ||hry.cz/t/h/ad/
 ||hyperinzerce.cz/images/banner-text-
@@ -148,6 +152,7 @@ _clickthru.swf?
 ||war4all.com/images//inzerce/
 ||warcenter.cz/banner.js
 ||warcenter.cz/banner/
+||warcenter.cz/btw_745x100_CS.gif
 ||warcenter.cz/jennys.gif
 ||warcenter.eu/images/bannery/
 ||warez.azbase.net/images/azbase.gif
@@ -171,6 +176,7 @@ _clickthru.swf?
 ||cucaj.sk/Themes/cucaj3/images/bg/bg*.jpg
 ||dot.boss.sk
 ||fileframe.sector.sk/banners/
+||filmy.kinotip.in/pup.js
 ||fony.sk/content/banners/
 ||hojko.com/images/banner*.gif
 ||img.karaoketexty.cz/img/ad/
@@ -180,6 +186,7 @@ _clickthru.swf?
 ||naramok.sk/images/banner.swf
 ||ourphorum.com/images/468x60*.jpg
 ||ourphorum.com/images/brapid.gif
+||ourphorum.com/images/showlivecz.jpg
 ||partner.zoznam.sk
 ||pcforum.sk/styles/white/imageset/topic_moved.gif
 ||player.joj.sk/age-chooser.swf
@@ -246,6 +253,7 @@ _clickthru.swf?
 ||heureka.cz$third-party
 ||himymonline.tv/ssb/$domain=simpsonovi-tv.cz
 ||i.imedia.cz/$third-party
+||im9.cz/*/vyrobce/*background*$third-party
 ||inclick.sk^$third-party
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
@@ -303,6 +311,7 @@ _clickthru.swf?
 !---------- Slovak Whitelist ------------
 !
 @@||img.aaaauto.eu/thumb/
+@@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 !
@@ -340,6 +349,7 @@ _clickthru.swf?
 ###slevomat_ad
 ###super_ad_note
 ###super_banner_default
+###zivefirmy
 ##.ad_font
 ##.advert-square
 ##.article-adtip-box
@@ -397,6 +407,7 @@ autorevue.cz##.banner
 autotube.cz##.rklh
 autotube.cz##.rklv
 autoweb.cz##.rklh
+befun.cz##.ad
 blesk.cz###slevisteBox
 blesk.cz##.boxSlevy.bottomStickyBlock
 blesk.cz##.boxShopy.bottomStickyBlock
@@ -413,6 +424,7 @@ businessworld.cz##.square_banner
 busportal.cz###sideScrapperLayout
 busportal.cz##.banner
 busportal.cz##DIV[id*="Banner"]
+bydlimekvalitne.cz###block-block-1
 cdr.cz##.not4bbtext
 centrum.cz###top-banner
 centrum.cz##.container-adfox
@@ -452,6 +464,8 @@ doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
+esemes.cz###fancybox-overlay
+esemes.cz###t-content
 extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
@@ -590,6 +604,7 @@ pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 prague.cz##TABLE[bgcolor="BLACK"]
 pravidla.cz##.advtick
+primat.cz##.error
 programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
@@ -605,6 +620,7 @@ root.cz###servers-promo
 rouming.cz##.roumingLista
 rozzlobenimuzi.com##.bgg
 rychlost.cz##.hb
+sauto.cz###pvMid
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
@@ -665,6 +681,7 @@ volny.cz##[style="padding: 4px; font-size: 11px; background-color: #F6F8EA"]
 war-board.net##.mainmenu[style="color:red;font-weight:bold;"]
 war-city.eu##A[href="http://digitalportal.sk"]
 war-portal.eu##A[href="http://digitalportal.sk"]
+warcenter.cz###19704
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
@@ -684,6 +701,8 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
+zing.cz###background
+zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
 zive.cz###zivefirmy
 zive.cz##.banner
@@ -715,6 +734,7 @@ centrum.sk##.banner
 downland.eu##A[href="http://digitalportal.sk"]
 dsl.sk##.header_info_text
 europa2.sk###bgr-anchor
+filmy.kinotip.in##DIV[id^="ad"]
 fony.sk##.divArticleBannerTop
 forum.mobilmania.azet.sk###rwrap
 forum.zive.sk###rwrap

@@ -1,43 +1,46 @@
-= Changelog =
+= Zoznam zmien =
 
-21.01. - Removed problematic filter for androidportal.sk
-18.01. - Added filters for autobazar.cz, blesk.cz, games.tiscali.cz,lamer.cz, skjalovec.com, 
-         androidportal.zoznam.sk, vii.sk
-24.12. - Added filters for onlinefilmy.tv
-23.12. - Updated filter for digitalportal.sk
-14.12. - Added filters for gamepark.cz, rozzlobenimuzi.com, michalovskespravy.sk, karaoketexty.cz,
-         blbosti.cz, alkoholik.cz, androidportal.sk, e15.cz and busportal.cz 
-         Updated filters for pcforum.sk, aktuality.sk, sector.sk, eserial.cz,
-         kinotip.cz, topky.sk and atlas.sk, 
-         Added whitelist filter for tpd.sk
-         Added some generic filters (First update)
-         Removed unnecessary filters (Second update)
-07.12. - Added whitelist filters for reklama-praha.cz and reklama-horovice.cz
-05.12. - Updated filters for sme.sk
-03.12. - Updated filters for zive.cz and stream.cz
-30.11. - Added filters and updated for simpsonovi-tv.cz, webshare.cz, war-forum.net, warmacher.com,
-         warezforum.cz, filmy-zdarma.com, war4all.com, poweruploaders.eu, War-Portal.eu, War-City.eu, 
-         DownLand.eu, iStahuj.eu, BestWar.eu, w-source.net, azet.sk 
-28.11. - Added and updated filters for ourphorum.com, best4you.sk, webshare.cz, europa2.sk, cucaj.sk, 
+07.02. - Pridané filtre pre bydlimekvalitne.cz, esemes.cz, hiking.sk, hymim.cz, linuxexpres.cz, primat.cz,
+         ourphorum.com, sauto.cz, zing.cz
+         Aktualizované filtre pre befun.cz, heureka.cz, heureka.sk, kinotip.in, warcenter.cz
+         Pridané všeobecné generické filtre
+21.01. – Vymazaný problematický filter pre androidportal.sk
+18.01. – Pridané filtre pre autobazar.cz, blesk.cz, games.tiscali.cz, lamer.cz, skjalovec.com,
+         androidportal.zoznam.sk a vii.sk
+24.12. – Pridané filtre pre onlinefilmy.tv
+23.12. – Aktualizovaný filter pre digitalportal.sk
+14.12. - Pridané filtre pre gamepark.cz, rozzlobenimuzi.com, michalovskespravy.sk, karaoketexty.cz,
+         blbosti.cz, alkoholik.cz, androidportal.sk, e15.cz a busportal.cz
+         Aktualizované filtre pre pcforum.sk, aktuality.sk, sector.sk, eserial.cz, kinotip.cz, topky.sk a atlas.sk
+         Pridaný white-list filter pre tpd.sk
+         Vymazané nepotrebné filtre (2)
+07.12. – Pridané white-list filtre pre reklama-praha.cz a reklama-horovice.cz
+05.12. – Aktualizované filtre pre sme.sk
+03.12. - Aktualizované filtre pre zive.cz a stream.cz (2)
+30.11. - Pridané a aktualizované filtre pre simpsonovi-tv.cz, webshare.cz, war-forum.net, warmacher.com,
+         warezforum.cz, filmy-zdarma.com, war4all.com, poweruploaders.eu, War-Portal.eu, War-City.eu,
+         DownLand.eu, iStahuj.eu, BestWar.eu, w-source.net a azet.sk  (2,3)
+28.11. – Pridané a aktualizované filtre pre ourphorum.com, best4you.sk, webshare.cz, europa2.sk, cucaj.sk,
          lamky.net
-17.11. - Added filter for spartak.sk
-14.11. - Added filters for hojko.com, tipcars.com, toplist.cz, lenzabava.sk
-         Updated filters for sms.cz, tv.sms.cz, azet.sk, topky.sk and zoznam.sk
-         Removed bad filters for pcforum.sk
-31.10. - Added filters for tipos.sk, nejlevnejsiramy.cz, kinotip.cz and doktorka.cz
-30.10. - Updated filters for pcforum.sk
-29.10. - Added filters for auto.cz, blesk.cz and warforum.cz
-26.10. - Added filters for akoviazatkravatu.sk, stream.cz, devbook.cz, podnikovyzpravodaj.cz, itnews.sk,
+17.11. – Pridaný filter pre spartak.sk
+14.11. – Pridané filtre pre hojko.com, tipcars.com, toplist.cz, lenzabava.sk
+         Aktualizované filtre pre sms.cz, tv.sms.cz, azet.sk, topky.sk a zoznam.sk
+         Vymazaný filter pre pcforum.sk
+31.10. – Pridané filtre pre tipos.sk, nejlevnejsiramy.cz, kinotip.cz a doktorka.cz
+         Aktualizované filtre pre pcforum.sk
+29.10. - Pridané filtre pre auto.cz, blesk.cz a warforum.cz (2)
+26.10. - Pridané filtre pre akoviazatkravatu.sk, stream.cz, devbook.cz, podnikovyzpravodaj.cz, itnews.sk,
          kalkulacka-hypoteka.cz, karaoketexty.cz,
-         navratdoreality.cz, smsbrana.cz 
-         Updated filters for videacesky.cz, blesk.cz 
-05.10. - Added filters for sme.sk, experimental filter for svet-it.sk
-29.9.  - Added filters for amateri.sk
-21.9.  - Added filters for mp3s.nadruhou.net + videacesky.cz 
-14.9.  - Updated filter for azet.sk, added filters for tu-ke.com + csfd.cz, added white-list filter for iboys.cz
-05.9.  - Added filter ||eserial.cz/liftago2.jpg for blocking image ad on eserial.cz
-28.8.  - Added hiding filter for rouming.cz, white-listing filters for blesk.cz and moviezone.cz
-24.8.  - Added ||d.lookit.cz/vv.js filter that blocks highlighted words on denik.cz and probably on some other pages
-22.8.  - Removed ||c.mfstatic.cz/js/advantage_mf.js filter, because this filter caused some problems on f1sport.autorevue.cz
-21.8.  - Added filters for mobilizujeme.cz, forum.mobilmania.sk and two general filters for "sklik"
-19.8.  - Imported initial changelog to GitHub from Google Project Code, last changes are from 17.8.
+         navratdoreality.cz a smsbrana.cz
+         Aktualizované filtre pre videacesky.cz, blesk.cz (2)
+05.10. - Pridané filtre pre sme.sk, pridaný experimentálny filter pre svet-it.sk (2)
+29.9. –  Pridané filtre pre amateri.sk
+21.9. –  Pridané filtre pre mp3s.nadruhou.net + videacesky.cz
+14.9. -  Aktualizované filtre pre azet.sk, pridané filtre pre tu-ke.com + csfd.cz a prridaný white-list filter pre iboys.cz
+05.9. –  Pridané filtre pre eserial.cz
+28.8. –  Pridané filtre pre rouming.cz, blesk.cz a moviezone.cz
+24.8. –  Pridaný filter ||d.lookit.cz/vv.js, ktorý blokuje podčiarknuté slová na denik.cz
+23.8. –  Odstráneny filter blesk.cz##.grid_4, pretože spôsoboval problémy na stránke tv.blesk.cz
+22.8. –  Odstráneny filter ||c.mfstatic.cz/js/advantage_mf.js, pretože spôsoboval problémy na stránke f1sport.autorevue.cz
+21.8. –  Pridané filtre pre mobilizujeme.cz, forum.mobilmania.sk a dva generické filtre pre “sklik”
+17.8. –  Migrácia z Google Project Code na GitHub, posledné zmeny ku 17.8.
