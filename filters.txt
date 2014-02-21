@@ -7,7 +7,7 @@
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
 !
-! ---------- Czech Generic Blocking Rules ----------
+! ---------- Czech Generic Blocking Rules ----------!
 !
 .com/bannery/
 .cz/ads/$~object_subrequest,domain=~hcplzen.cz
@@ -38,12 +38,12 @@ _clickthru.swf?
 ##DIV[id^="sklikReklama"]
 ##DIV[id^="sm-ad"]
 !
-! ---------- Slovak Generic Blocking Rules ----------
+! ---------- Slovak Generic Blocking Rules ----------!
 !
 .sk/img/banner
 ^rd.php^$domain=pcforum.sk
 !
-! ---------- Czech 1st party blocking rules ----------
+! ---------- Czech 1st party blocking rules ----------!
 !
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/*
@@ -102,6 +102,7 @@ _clickthru.swf?
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
+||libise.eu/r/
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
@@ -164,7 +165,7 @@ _clickthru.swf?
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zvraceny.cz/data/upload/
 !
-! ---------- Slovak 1st party blocking rules ----------
+! ---------- Slovak 1st party blocking rules ----------!
 !
 ||81.89.48.147/if.html
 ||akoviazatkravatu.sk/domain/akoviazatkravatu/files/sponzorovane-odkazy/
@@ -210,13 +211,13 @@ _clickthru.swf?
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
 !
-! ---------- General blocking rules ----------
+! ---------- General blocking rules ----------!
 !
 ||static.mymobucks.com/client_
 ||takeit.idnes.cz^$subdocument
 ||video.vid4u.org/vid4ul.js
 !
-! ---------- Czech 3rd party blocking rules ----------
+! ---------- Czech 3rd party blocking rules ----------!
 !
 ||001shop.cz$third-party
 ||10.im.cz$third-party
@@ -280,7 +281,7 @@ _clickthru.swf?
 ||xzone.cz$third-party
 ||zapakatel.cz^$third-party
 !
-! ---------- Slovak 3rd party blocking rules ----------
+! ---------- Slovak 3rd party blocking rules ----------!
 !
 ||heureka.sk$third-party
 ||ls.hit.gemius.pl/^$third-party
@@ -288,7 +289,7 @@ _clickthru.swf?
 ||p1.naj.sk^$third-party
 ||top-sk.mconet.biz^$third-party
 !
-!---------- Czech Whitelist ------------
+!---------- Czech Whitelist ------------!
 !
 @@/banners/banner$domain=hafici.cz|svatba.cz
 @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
@@ -301,6 +302,7 @@ _clickthru.swf?
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||hry.cz/ad/ad.aspx?
 @@||iboys.cz/advert-list.php
+@@||i.imedia.cz/js/im2.js
 @@||moviezone.cz/js/
 @@||reklama-horovice.cz
 @@||reklama-praha.cz
@@ -308,14 +310,14 @@ _clickthru.swf?
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||ta3.com/advert-async-system/load-items.html?
 !
-!---------- Slovak Whitelist ------------
+!---------- Slovak Whitelist ------------!
 !
 @@||img.aaaauto.eu/thumb/
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 !
-!---------- Czech and Slovak Generic Element Hiding Rules ----------
+!---------- Czech and Slovak Generic Element Hiding Rules ----------!
 !
 ###adblock-rightside
 ###adRectangle
@@ -386,7 +388,7 @@ _clickthru.swf?
 ##.vreklama
 ##.zlavy-box
 !
-!---------- Czech Site Specific Element Hiding Rules ----------
+!---------- Czech Site Specific Element Hiding Rules ----------!
 !
 abecedazahrady.dama.cz##.banneraltext
 adfox.cz###vse
@@ -547,6 +549,7 @@ kurzy.cz##.box9
 kurzy.cz##.textovka
 kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 lamer.cz##.square
+libise.eu###aa1
 lidovky.cz###reality-idnes
 lidovky.cz###self-box
 lidovky.cz###self-promo
@@ -558,6 +561,7 @@ lupa.cz###speed-promo
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
 medop.cz###block-nodesinblock-0
+mladypodnikatel.cz##.scroll_banner
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
 mojevideo.sk###brnd_koz
@@ -712,7 +716,7 @@ zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
 zvraceny.cz##.reklama-vodorovne
 !
-!---------- Slovak Site Specific Element Hiding Rules ----------
+!---------- Slovak Site Specific Element Hiding Rules ----------!
 !
 akoviazatkravatu.sk##A[href="http://www.uwer.sk"]
 akoviazatkravatu.sk##A[href="http://www.drevenica-liptov.sk"]
@@ -786,7 +790,7 @@ zoznam.sk##P.left
 zoznam.sk##.adbox-genertel
 zoznam.sk##[id*="BUTTON_ZOZNAM"]
 !
-!---------- For EasyList Users ----------
+!---------- For EasyList Users ----------!
 !
 @@||youwatch.org/adframe.js
 $advertisement/
