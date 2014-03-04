@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 07/02/2014
+! Last change: 04/03/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -110,6 +110,7 @@ _clickthru.swf?
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
 ||mp3s.nadruhou.net/avony_square.gif
 ||mp3s.nadruhou.net/js/bastard_*.js
+||mrk.cz/images/baners/
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||novinky.cz/static/css/xmas.css
@@ -301,6 +302,7 @@ _clickthru.swf?
 @@||fastshare.cz/banner/site_logo.jpg
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||hry.cz/ad/ad.aspx?
+@@||hry.sazka.cz/banners/new_banner*.*
 @@||iboys.cz/advert-list.php
 @@||i.imedia.cz/js/im2.js
 @@||moviezone.cz/js/
@@ -309,6 +311,7 @@ _clickthru.swf?
 @@||sokolov.cz/images/reklama/
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||ta3.com/advert-async-system/load-items.html?
+realitygo.cz#@#.advert-detail
 !
 !---------- Slovak Whitelist ------------!
 !
@@ -473,6 +476,7 @@ extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
 financninoviny.cz##.hypertexty
 filmy.kinotip.cz##.vid
+filmycz.com##.ccs
 firmy.cz###column
 fotoaparat.cz###banner2
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;"]
@@ -596,6 +600,8 @@ nova.cz##.big_baner
 nova.cz##.pr_box
 novinky.cz###advertRightTopPosition
 novinky.cz###sklikReklama_6022
+onlajny.com###banner-top-four
+onlajny.com###sportObchodBanner
 orbion.cz###DIV[style="text-align: center; display: none; z-index: 9999; bottom: 0px;"]
 orbion.cz###videoad_full_vol_201305
 orbion.cz###videoad_curtain_vol_201305
@@ -650,6 +656,7 @@ sokolov.cz##IMG[src="/images/reklama/Banner_Wolf.jpg"]
 sokolov.cz##IMG[src="/images/reklama/toyota_men__.gif"]
 sony-playstation.cz###banner1
 sport.tiscali.cz###zone-tiscali-sport-wide
+statnisprava.cz##.banner
 stesti.cz##.mabo.faa
 stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 stream.cz###img_link
@@ -690,9 +697,11 @@ warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
 warforum.cz###popwrapper
+warforum.cz###t-content
 warforum.cz###t-overlay
 warforum.cz##A[href="http://acu.cz"]
 warforum.cz##H3
+warforum.cz##.row0
 webovastranka.cz###deny_anonymous_visitors
 webovastranka.cz###overlay
 webshare.cz##.banner
