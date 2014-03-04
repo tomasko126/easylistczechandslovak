@@ -614,7 +614,6 @@ pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 prague.cz##TABLE[bgcolor="BLACK"]
 pravidla.cz##.advtick
-primat.cz##.error
 programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
