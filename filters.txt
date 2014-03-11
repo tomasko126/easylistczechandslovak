@@ -641,7 +641,7 @@ smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
 sms.cz###P_reklama_horni
-sms.cz##.reklamni_sdeleni 
+sms.cz##.reklamni_sdeleni
 sms.cz##.rs_reklama
 sms.cz##[style="vertical-align:middle; text-align: left; width: 139px;"]
 sms.t-zones.cz###adv-topmenu-bar
@@ -804,3 +804,8 @@ zoznam.sk##[id*="BUTTON_ZOZNAM"]
 $advertisement/
 /cgi-bin/banner/*
 !
+!---------- Anti-AdBlock filters ----------!
+!Titulky.com!
+titulky.com#@##reklama
+@@||titulky.com/bannery/$image
+@@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
