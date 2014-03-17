@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 04/03/2014
+! Last change: 17/03/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: tomastaro@adblock.sk
@@ -77,7 +77,7 @@ _clickthru.swf?
 ||fdb.cz/ad/
 ||filmy.kinotip.cz/pop.php
 ||flash.stream.cz/get_sklik/
-||forum.w-source.net/images/*banner.jpg
+||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
@@ -196,6 +196,7 @@ _clickthru.swf?
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
+||tailormysuit.sk/wp-content/uploads/banner*.jpg
 ||tu-ke.com/certovskezlavy.jpg
 ||tu-ke.com/jozko.png
 ||tu-ke.com/kosiceprojekty.gif
@@ -469,6 +470,7 @@ doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
+elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###t-content
 extrawindows.cnews.cz###block-block-1
@@ -559,7 +561,6 @@ lidovky.cz###self-box
 lidovky.cz###self-promo
 lidovky.cz###selfik-box
 lidovky.cz##.ahead
-lidovky.cz##.col-d
 lidovky.cz##.widesquare
 lupa.cz###speed-promo
 mediafax.cz##.bannercauta
