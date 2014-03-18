@@ -313,6 +313,7 @@ _clickthru.swf?
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||ta3.com/advert-async-system/load-items.html?
 realitygo.cz#@#.advert-detail
+lidovky.cz#@#.col-ad
 !
 !---------- Slovak Whitelist ------------!
 !
