@@ -1,9 +1,9 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
-! Title: Easylist Czech and Slovak filters for AdBlock and Adblock Plus
-! Last change: 18/03/2014
+! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
+! Last change: 17/04/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
-! License: http://creativecommons.org/licenses/by/3.0/
+! License: GNU GPL v3.0
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
 !
@@ -65,6 +65,7 @@ _clickthru.swf?
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
+||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
 ||data.idnes.cz/soutez/
@@ -173,6 +174,7 @@ _clickthru.swf?
 ||autobazar.eu/__branding/
 ||bannersector.sector.sk/
 ||best4you.sk/templates/subSilverPlus/images/Viaczdravialink.swf
+||bmwklub.sk/images/banners/
 ||c.sme.sk/imgs/ext/napizzu/napizzu.jpg
 ||cucaj.sk/images/bannery/
 ||cucaj.sk/Themes/cucaj3/images/bg/bg*.jpg
@@ -186,6 +188,8 @@ _clickthru.swf?
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||naramok.sk/images/banner.swf
+||onlinefilmy.tv/*bg*.jpg
+||onlinefilmy.tv/giga.ogv
 ||ourphorum.com/images/468x60*.jpg
 ||ourphorum.com/images/brapid.gif
 ||ourphorum.com/images/showlivecz.jpg
@@ -197,6 +201,7 @@ _clickthru.swf?
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
 ||tailormysuit.sk/wp-content/uploads/banner*.jpg
+||totalpozicky.sk/images/banners/
 ||tu-ke.com/certovskezlavy.jpg
 ||tu-ke.com/jozko.png
 ||tu-ke.com/kosiceprojekty.gif
@@ -307,9 +312,11 @@ _clickthru.swf?
 @@||iboys.cz/advert-list.php
 @@||i.imedia.cz/js/im2.js
 @@||moviezone.cz/js/
+@@||ocko.tv/content/adv/flash/
 @@||reklama-horovice.cz
 @@||reklama-praha.cz
 @@||sokolov.cz/images/reklama/
+@@||static.cz.prg.cmestatic.com/static/cz/shared/js/adtrack.nova.js
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||ta3.com/advert-async-system/load-items.html?
 realitygo.cz#@#.advert-detail
@@ -396,6 +403,7 @@ lidovky.cz#@#.col-ad
 !---------- Czech Site Specific Element Hiding Rules ----------!
 !
 abecedazahrady.dama.cz##.banneraltext
+abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
 aktualne.centrum.cz##.box-dvojity
 aktualne.centrum.cz##.box-reality
@@ -471,6 +479,7 @@ doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
+edna.cz##.banner
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###t-content
@@ -542,6 +551,7 @@ ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
+karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz##.roumingLista
 kurzy.cz###adv_fullhead
@@ -616,6 +626,8 @@ pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 prague.cz##TABLE[bgcolor="BLACK"]
 pravidla.cz##.advtick
+primat.cz##A[class^="levakolejroku"]
+primat.cz##A[class^="pravakolejroku"]
 programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
@@ -635,6 +647,7 @@ sauto.cz###pvMid
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
+serialzone.cz###top-banner
 simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
 simpsonovi-tv.cz###odkazy
@@ -739,10 +752,12 @@ autobazar.eu##.bannero2
 azet.sk##.box.bazar
 azet.sk##.box.zlavy
 azet.sk##.boxzlavy
+behame.sk##DIV[class^="banner_box"]
 best4you.sk##A[href="http://www.movieportal.eu"]
 best4you.sk##A[href="http://www.Onlinefilmy.eu"]
 best4you.sk##DIV[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bestwar.eu##A[href="http://digitalportal.sk"]
+bmwklub.sk##DIV[id^="ad"]
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
 downland.eu##A[href="http://digitalportal.sk"]
@@ -768,6 +783,7 @@ onlinefilmy.tv###bg_left
 onlinefilmy.tv###bg_right
 onlinefilmy.tv##.ads
 onlinefilmy.tv##.ads_new
+onlinevidea.tv##.ads_new
 pcforum.sk##DIV[class="gensmall"]
 pcforum.sk##SPAN[class="gensmall"]
 pcforum.sk##.forumdesc
@@ -794,6 +810,7 @@ topnovinky.sk###rekl_left_banner
 warmacher.com###reklamne_bannery
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
+zmeskanyhovor.com###offerio
 zoznam.sk###rajknih
 zoznam.sk###tipy
 zoznam.sk##P.left
