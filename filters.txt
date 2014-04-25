@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
-! Last change: 17/04/2014
+! Last change: 25/04/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: GNU GPL v3.0
 ! Email: tomastaro@adblock.sk
@@ -100,6 +100,7 @@ _clickthru.swf?
 ||idnes.cz^*/body-$image
 ||idnes.cz^*/main-$image
 ||img.mimiaukce.cz/h/ac/b/
+||img14.imageshack.us/img14/7953/lineage2a.gif$domain=warforum.cz
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
@@ -145,6 +146,7 @@ _clickthru.swf?
 ||topkontakt.cz/banner/
 ||uloz.to/bannery/
 ||uloz.to/img/bannery/
+||uloz.to/staticadvert/branding/
 ||uschovna.cz/dt-dancer-234x60.swf
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||war-city.eu/bannery/
@@ -161,7 +163,10 @@ _clickthru.swf?
 ||warez.azbase.net/images/azbase.gif
 ||warforum.cz/flyweb/
 ||warforum.cz/inau/
+||warforum.cz/rotator.php
+||warforum.cz/tmp
 ||warforum.cz/trika/
+||warforum.cz/x2014/
 ||warzoneforum.eu/images/*banner.gif
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
