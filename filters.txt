@@ -1,9 +1,9 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
-! Last change: 26/04/2014
+! Last change: 30/04/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
-! License: GNU GPL v3.0
+! License: GNU GPL v3
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
 !
@@ -76,6 +76,7 @@ _clickthru.swf?
 ||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
+||filmporno.cz/media/banners/
 ||filmy.kinotip.cz/pop.php
 ||flash.stream.cz/get_sklik/
 ||forum.w-source.net/images/*banner*.jpg
@@ -476,6 +477,7 @@ cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###hracky
+dama.cz###adframe-shell
 digitalnitelevize.cz##DIV[style="position: absolute; width: auto; height: auto; top: 0px; left: 783px; z-index: 1; background-color: #EBEEF7; text-align: center;"]
 digitalnitelevize.cz##TD[style="font-size: 12px; font-family: Arial, sans-serif; color: Navy"]
 diit.cz###block-block-30
@@ -495,6 +497,8 @@ extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
 fdb.cz###blackfooter
 financninoviny.cz##.hypertexty
+filmporno.cz##.ads
+filmporno.cz##.topbanners
 filmy.kinotip.cz##.vid
 filmycz.com##.ccs
 firmy.cz###column
@@ -562,6 +566,7 @@ kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
 karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz##.roumingLista
+kniha.cz##DIV[id^="banner"]
 kurzy.cz###adv_fullhead
 kurzy.cz###adv_nestandardni
 kurzy.cz###adv_prezentace
@@ -757,6 +762,8 @@ amateri.sk###top_rekl
 androidportal.zoznam.sk###text-63
 atlas.sk##DIV[id*="reklamne"]
 autobazar.eu##.bannero2
+automoto.cas.sk##.autobazar.autobazar-hp
+automoto.cas.sk##.box-autobazar
 azet.sk##.box.bazar
 azet.sk##.box.zlavy
 azet.sk##.boxzlavy
@@ -771,6 +778,7 @@ centrum.sk##.banner
 downland.eu##A[href="http://digitalportal.sk"]
 dsl.sk##.header_info_text
 europa2.sk###bgr-anchor
+f1.sk##.banner_300x300
 filmy.kinotip.in##DIV[id^="ad"]
 fony.sk##.divArticleBannerTop
 forum.mobilmania.azet.sk###rwrap
