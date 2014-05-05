@@ -164,7 +164,7 @@ _clickthru.swf?
 ||warez.azbase.net/images/azbase.gif
 ||warforum.cz/flyweb/
 ||warforum.cz/inau/
-||warforum.cz/rotator.php
+||warforum.cz/rotator*.php
 ||warforum.cz/tmp
 ||warforum.cz/trika/
 ||warforum.cz/x2014/
