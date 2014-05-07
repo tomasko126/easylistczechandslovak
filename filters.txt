@@ -193,6 +193,7 @@ _clickthru.swf?
 ||img5.uloz.to/ul3/images/hp_brand_tsbohemia.jpg
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
+||mojevideo.sk/ff.jpg
 ||naramok.sk/images/banner.swf
 ||onlinefilmy.tv/*bg*.jpg
 ||onlinefilmy.tv/giga.ogv
@@ -796,7 +797,6 @@ mail.zoznam.sk###box3
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
-mojevideo.sk###brnd_htc1
 narodnablockovaloteria.tipos.sk###banners
 onlinefilmy.tv###bg_left
 onlinefilmy.tv###bg_right
