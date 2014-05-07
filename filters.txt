@@ -797,6 +797,7 @@ mail.zoznam.sk###box3
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
+mojevideo.sk###video_ad
 narodnablockovaloteria.tipos.sk###banners
 onlinefilmy.tv###bg_left
 onlinefilmy.tv###bg_right
