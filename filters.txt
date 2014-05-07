@@ -596,7 +596,7 @@ medop.cz###block-nodesinblock-0
 mladypodnikatel.cz##.scroll_banner
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
-mojevideo.sk###brnd_koz
+mojevideo.sk###brnd
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz##.fullbanner
 mp3s.nadruhou.net###lista
