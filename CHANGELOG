@@ -1,5 +1,6 @@
 = Zoznam zmien =
 
+08.05. - Pridané filtre pre i-navody.cz
 07.05. - Pridaný whitelist filter pre odstránenie problémus inzerátmi na stránkach autobazar.sk, bazar.sk a nehnutelnosti.sk
          Upravený filter pre mojevideo.sk (#2 update)
 05.05. - Upravený filter pre warforum.cz

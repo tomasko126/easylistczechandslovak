@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
-! Last change: 07/05/2014
+! Last change: 08/05/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: GNU GPL v3
 ! Email: tomastaro@adblock.sk
@@ -117,6 +117,7 @@ _clickthru.swf?
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||novinky.cz/static/css/xmas.css
+||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||podnikovyzpravodaj.cz/homepage/banner
@@ -169,6 +170,7 @@ _clickthru.swf?
 ||warforum.cz/trika/
 ||warforum.cz/x2014/
 ||warzoneforum.eu/images/*banner.gif
+||wesa.cz/banner/
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zvraceny.cz/data/upload/
@@ -565,6 +567,7 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
+i-navody.cz###slider
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
 karaoketexty.cz###branding_link
