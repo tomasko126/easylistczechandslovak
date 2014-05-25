@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
-! Last change: 23/05/2014
+! Last change: 25/05/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: GNU GPL v3
 ! Email: tomastaro@adblock.sk
@@ -35,8 +35,9 @@
 /reklamy.
 /scripts/clickjs
 _clickthru.swf?
-##DIV[id^="sklikReklama"]
-##DIV[id^="sm-ad"]
+##[id^="sklikReklama"]
+##[id^="sm-ad"]
+exashare.com###player_img
 !
 ! ---------- Slovak Generic Blocking Rules ----------!
 !
@@ -55,6 +56,11 @@ _clickthru.swf?
 ||10.im.cz/sos/$object,domain=novinky.cz
 ||10.im.cz/sos/$object-subrequest,domain=play.iprima.cz
 ||86.63.194.248/media/bann/
+||ab-forum.info/animation.swf
+||ab-forum.info/astrasat.gif
+||ab-forum.info/*banner*.gif
+||ab-forum.info/Ferguson_NEW.jpg
+||ab-forum.info/xpeed.jpg
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
 ||alkoholik.cz/zavislost/images/banners/
@@ -70,8 +76,10 @@ _clickthru.swf?
 ||d.lookit.cz/vv.js
 ||data.idnes.cz/soutez/
 ||devbook.cz/images/banners/
+||devbook.cz/images/partnersky*.jpg
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
 ||dobresenajim.cz/idnesbanner?
+||edna.cz/static/web/img/banners/branding*
 ||eserial.cz/liftago2.jpg
 ||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
@@ -105,6 +113,7 @@ _clickthru.swf?
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
+||kurzy.sfinance.cz/img/front/sfinance/*banner*
 ||libise.eu/r/
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
@@ -117,8 +126,10 @@ _clickthru.swf?
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||novinky.cz/static/css/xmas.css
+||old.disk.cz/disk/Lib.adv.Server.cls
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
+||partner.xprovize.cz/accounts/default*/banners/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||podnikovyzpravodaj.cz/homepage/banner
 ||portalymest.cz/obrazky/eshop
@@ -133,6 +144,7 @@ _clickthru.swf?
 ||ronnie.cz/cache/bannery/
 ||s.imedia.cz/js/szn-script.js
 ||sagit.cz/inzarchiv/bannery/
+||sapro.cz/banner/
 ||sasoft.cz/files/banner.gif
 ||serialycz.cz/wp-content/uploads/fbbannercz.jpg
 ||serialycz.cz/wp-content/uploads/kupi.png
@@ -175,12 +187,14 @@ _clickthru.swf?
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zvraceny.cz/data/upload/
+||zvukarina.cz/forum/images/ostatni/
 !
 ! ---------- Slovak 1st party blocking rules ----------!
 !
 ||81.89.48.147/if.html
 ||akoviazatkravatu.sk/domain/akoviazatkravatu/files/sponzorovane-odkazy/
 ||autobazar.eu/__branding/
+||banners.spoluziaci.sk
 ||bannersector.sector.sk/
 ||best4you.sk/templates/subSilverPlus/images/Viaczdravialink.swf
 ||bmwklub.sk/images/banners/
@@ -191,6 +205,7 @@ _clickthru.swf?
 ||fileframe.sector.sk/banners/
 ||filmy.kinotip.in/pup.js
 ||fony.sk/content/banners/
+||gamesite.sk/templates/gamesite_sk/images/background/
 ||hojko.com/images/banner*.gif
 ||img.karaoketexty.cz/img/ad/
 ||img5.uloz.to/ul3/images/hp_brand_tsbohemia.jpg
@@ -200,6 +215,7 @@ _clickthru.swf?
 ||naramok.sk/images/banner.swf
 ||onlinefilmy.tv/*bg*.jpg
 ||onlinefilmy.tv/giga.ogv
+||onlinovky.sk/bannery/
 ||ourphorum.com/images/468x60*.jpg
 ||ourphorum.com/images/brapid.gif
 ||ourphorum.com/images/showlivecz.jpg
@@ -251,6 +267,7 @@ _clickthru.swf?
 ||admarket.cz^$third-party
 ||admatik.pl^$third-party
 ||ads.esports.cz^$third-party
+||advantage.as$third-party
 ||adverts.cz^$third-party
 ||aukro.cz/ap/ap_show.php?$third-party
 ||autoesa.cz/dynbann/$third-party
@@ -263,6 +280,7 @@ _clickthru.swf?
 ||bidmax.cz^$third-party
 ||c.imedia.cz^$third-party
 ||cars.cz^$third-party
+||data.itiscali.cz^$third-party
 ||dev.youcan.cz^$third-party
 ||dot.idot.cz^$third-party
 ||ecigareta.eu^$third-party
@@ -271,6 +289,7 @@ _clickthru.swf?
 ||fastshare.cz$third-party
 ||heureka.cz$third-party
 ||himymonline.tv/ssb/$domain=simpsonovi-tv.cz
+||hudebniraj.cz/inshop/Layout/bannery_external/^&third-party
 ||i.imedia.cz/$third-party
 ||im9.cz/*/vyrobce/*background*$third-party
 ||inclick.sk^$third-party
@@ -297,6 +316,7 @@ _clickthru.swf?
 ||supersouteze.best4man.cz^$third-party
 ||tely.cz^$third-party
 ||xzone.cz$third-party
+||zombiezone.cz$third-party
 !
 ! ---------- Slovak 3rd party blocking rules ----------!
 !
@@ -314,6 +334,7 @@ _clickthru.swf?
 @@||alfacomp.cz/reklama/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/crossdomain.xml$domain=idnes.cz
+@@||cars.cz^$third-party,domain=autocartichy.cz
 @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
 @@||fastshare.cz/banner/site_logo.jpg
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
@@ -484,6 +505,7 @@ cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###hracky
 dama.cz###adframe-shell
+denik.cz##.rkl-top
 digitalnitelevize.cz##DIV[style="position: absolute; width: auto; height: auto; top: 0px; left: 783px; z-index: 1; background-color: #EBEEF7; text-align: center;"]
 digitalnitelevize.cz##TD[style="font-size: 12px; font-family: Arial, sans-serif; color: Navy"]
 diit.cz###block-block-30
@@ -497,6 +519,7 @@ e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
+esemes.cz###h_part_right
 esemes.cz###t-content
 extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
@@ -586,6 +609,7 @@ kurzy.cz##.box9
 kurzy.cz##.textovka
 kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 lamer.cz##.square
+letemsvetemapplem.eu###pravy_uzky
 libise.eu###aa1
 lidovky.cz###reality-idnes
 lidovky.cz###self-box
@@ -594,6 +618,8 @@ lidovky.cz###selfik-box
 lidovky.cz##.ahead
 lidovky.cz##.widesquare
 lupa.cz###speed-promo
+maminka.cz###adframe-shell
+maminka.cz###hledejceny-banner
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
 medop.cz###block-nodesinblock-0
@@ -644,10 +670,11 @@ parlamentnilisty.cz##.wallpaper
 pcworld.cz###skyscraper
 pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
-prague.cz##TABLE[bgcolor="BLACK"]
+pestujemeweb.cz###lista
 pravidla.cz##.advtick
 primat.cz##A[class^="levakolejroku"]
 primat.cz##A[class^="pravakolejroku"]
+programujte.com##[class^="adtea"]
 programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
@@ -657,7 +684,6 @@ restaurace.cz##.banner-300-300
 ronnie.cz###fixedMenu
 ronnie.cz###rek3
 ronnie.cz###rodkaz
-ronnie.cz##DIV[style="width:100%;height:50px;background-color:#F5FAFF;margin-bottom:19px;padding-top:5px;"]
 root.cz###box-64bit-eu
 root.cz###servers-promo
 rouming.cz##.roumingLista
@@ -667,11 +693,11 @@ sauto.cz###pvMid
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
+serialzone.cz###hpbglink-watch
 serialzone.cz###top-banner
 simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
 simpsonovi-tv.cz###odkazy
-simpsonovi-tv.cz##A[href="http://novohradskehory-ubytovani.eu/"]
 smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
@@ -822,6 +848,7 @@ pretaktovanie.zoznam.sk##.post.bg5
 slovnik.azet.sk##.articlesBnr
 sme.sk###b-napizzu
 sme.sk###wg_megaboard
+spoluziaci.sk##[id^="rekl_google"]
 sport.aktuality.sk###skin_link_left
 sport.aktuality.sk###skin_link_right
 topky.sk##.ad
