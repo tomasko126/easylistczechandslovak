@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list for AdBlock and Adblock Plus
-! Last change: 25/05/2014
+! Last change: 07/06/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: GNU GPL v3
 ! Email: tomastaro@adblock.sk
@@ -29,7 +29,6 @@
 /ImgLib/bannery/*
 /komercni-sdeleni/*
 /n4/r-head.gif
-/reklama-
 /reklama3.
 /reklama_
 /reklamy.
@@ -41,6 +40,8 @@ exashare.com###player_img
 !
 ! ---------- Slovak Generic Blocking Rules ----------!
 !
+/reklama.
+/reklama/*
 .sk/img/banner
 ^rd.php^$domain=pcforum.sk
 !
@@ -117,6 +118,7 @@ exashare.com###player_img
 ||libise.eu/r/
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
+||lui-magazine.cz/images/banners/nove/brand/
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
 ||mluveneslovo.chaves.cz/images/banners/palace.gif
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
@@ -196,6 +198,7 @@ exashare.com###player_img
 ||autobazar.eu/__branding/
 ||banners.spoluziaci.sk
 ||bannersector.sector.sk/
+||bcastgw.livebox.cz/TA3_VOD_COM/
 ||best4you.sk/templates/subSilverPlus/images/Viaczdravialink.swf
 ||bmwklub.sk/images/banners/
 ||c.sme.sk/imgs/ext/napizzu/napizzu.jpg
@@ -267,7 +270,6 @@ exashare.com###player_img
 ||admarket.cz^$third-party
 ||admatik.pl^$third-party
 ||ads.esports.cz^$third-party
-||advantage.as$third-party
 ||adverts.cz^$third-party
 ||aukro.cz/ap/ap_show.php?$third-party
 ||autoesa.cz/dynbann/$third-party
@@ -320,11 +322,15 @@ exashare.com###player_img
 !
 ! ---------- Slovak 3rd party blocking rules ----------!
 !
-||heureka.sk$third-party
+||heureka.sk^$third-party
+||imr.sk^$third-party
 ||ls.hit.gemius.pl/^$third-party
 ||netsuccess.sk$third-party
 ||p1.naj.sk^$third-party
+||rsz.sk^$third-party
 ||top-sk.mconet.biz^$third-party
+||uspech.sk^$third-party
+||zachej.sk$third-party
 !
 !---------- Czech Whitelist ------------!
 !
@@ -344,8 +350,6 @@ exashare.com###player_img
 @@||i.imedia.cz/js/im2.js
 @@||moviezone.cz/js/
 @@||ocko.tv/content/adv/flash/
-@@||reklama-horovice.cz
-@@||reklama-praha.cz
 @@||sokolov.cz/images/reklama/
 @@||static.cz.prg.cmestatic.com/static/cz/shared/js/adtrack.nova.js
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
@@ -452,6 +456,7 @@ amk.to###header
 auto.cz##.novinka_out
 autobazar.cz###biglink
 autoesa.cz###bannerPopup
+autohit.cz###leva-reklama
 autorevue.cz###adblock-leaderboard-clip
 autorevue.cz##.banner
 autotube.cz##.rklh
@@ -531,6 +536,8 @@ filmporno.cz##.topbanners
 filmy.kinotip.cz##.vid
 filmycz.com##.ccs
 firmy.cz###column
+firstclass.cz###stOverlay
+firstclass.cz##.promobox
 fotoaparat.cz###banner2
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;"]
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;font-family: Arial,\"Geneva CE\",sans-serif;"]
@@ -617,12 +624,14 @@ lidovky.cz###self-promo
 lidovky.cz###selfik-box
 lidovky.cz##.ahead
 lidovky.cz##.widesquare
+lui-magazine.cz##.bannergroup
 lupa.cz###speed-promo
 maminka.cz###adframe-shell
 maminka.cz###hledejceny-banner
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
 medop.cz###block-nodesinblock-0
+mesec.cz##.ad.ad-stickyboard
 mladypodnikatel.cz##.scroll_banner
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
@@ -693,6 +702,7 @@ sauto.cz###pvMid
 serialycz.cz##CENTER
 serialycz.cz##P[style="text-align: center;"]
 securityworld.cz##.banner
+serialkeys.svetu.cz###menu_rozdel_mene
 serialzone.cz###hpbglink-watch
 serialzone.cz###top-banner
 simpsonovi-tv.cz###a92
@@ -842,6 +852,7 @@ pcforum.sk##table[align="left"]
 pcforum.sk##TD[style="colspan: 2; cursor: pointer;"]
 pcforum.sk##td[style="padding: 5px; margin: 5px; cursor: pointer;"]
 pcforum.sk##td[width="110px"]
+pocasie.pozri.sk/nba2.gif
 pokec.azet.sk##.c_banner300x300
 poweruploaders.eu##A[href="http://digitalportal.sk"]
 pretaktovanie.zoznam.sk##.post.bg5
