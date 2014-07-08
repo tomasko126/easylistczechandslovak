@@ -898,5 +898,7 @@ titulky.com#@##reklama
 !Dobrenoviny.sk!
 @@||a1media.sk$domain=dobrenoviny.sk
 @@||adtech.de$domain=dobrenoviny.sk
+@@||atemda.com$domain=dobrenoviny.sk
 @@.etargetnet.$domain=dobrenoviny.sk
 dobrenoviny.sk#@#.adsbygoogle
+dobrenoviny.sk#@#a[href^="http://adserver.adtech.de/"]
