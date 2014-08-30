@@ -386,6 +386,7 @@ exashare.com###player_img
 @@||hry.cz/ad/ad.aspx?
 @@||hry.sazka.cz/banners/new_banner*.*
 @@||iboys.cz/advert-list.php
+@@||i.imedia.cz/$third-party,domain=stream.cz
 @@||i.imedia.cz/js/im2.js
 @@||moviezone.cz/js/
 @@||ocko.tv/content/adv/flash/
