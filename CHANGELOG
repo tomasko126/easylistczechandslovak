@@ -1,5 +1,6 @@
 = Zoznam zmien =
 
+01.09. - Upravený globálny filter pre stránku cars.cz
 30.08. - Pridané filtre pre teevee.sk a parabola.cz, vyriešený problém s HTML5 playerom na stream.cz (#2 update)
 24.07. - Pridané rôzne filtre vďaka prispievateľovi
 09.07. - Pridané anti-adblock filtre pre dobrenoviny.sk
