@@ -1,5 +1,6 @@
 = Zoznam zmien =
 
+26.10. - Pridaný filter pre tv.seznam.cz
 22.10. - Pridané blokovacie filtre pre stobklub.cz a teevee.sk
 01.09. - Upravený globálny filter pre stránku cars.cz
 30.08. - Pridané filtre pre teevee.sk a parabola.cz, vyriešený problém s HTML5 playerom na stream.cz (#2 update)
