@@ -812,6 +812,7 @@ tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
 topzine.cz###vyjizdeciBoxikDiv
+tv.seznam.cz##.o2Box
 tvfreak.cz##.banner
 tvfreak.cz##.sidebar-banner
 tvfreak.cz##.skyscrapper-right
