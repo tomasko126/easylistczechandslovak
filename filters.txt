@@ -888,6 +888,9 @@ bmwklub.sk##DIV[id^="ad"]
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
 dsl.sk##.header_info_text
+e-sim.org##.newFightWindow
+e-sim.org##.pico-close
+e-sim.org##.pico-overlay
 etrend.sk###trendtip
 etrend.sk##.reality
 etrend.sk##.sponsors
