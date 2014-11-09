@@ -573,6 +573,7 @@ ct24.cz##.commercialBox
 cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
+cztorrent.net###bnr_middle
 cztorrent.net###hracky
 dama.cz###adframe-shell
 denik.cz##.rkl-top
