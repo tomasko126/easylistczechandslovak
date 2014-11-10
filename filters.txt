@@ -116,6 +116,7 @@ exashare.com###player_img
 ||idnes.cz^*/body-$image
 ||idnes.cz^*/main-$image
 ||im9.cz/*aukro
+||img.blesk.cz/static/data/blesk/*bg.jpg
 ||img.mimiaukce.cz/h/ac/b/
 ||img14.imageshack.us/img14/7953/lineage2a.gif$domain=warforum.cz
 ||itnetwork.cz/images/banners/
@@ -381,6 +382,8 @@ exashare.com###player_img
 @@||alfacomp.cz/reklama/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/crossdomain.xml$domain=idnes.cz
+@@||blesk.cz/js/*adocean.js*$domain=synotliga.isport.blesk.cz
+@@||blesk.cz/js/*/player/videoad.swf*$domain=synotliga.isport.blesk.cz
 @@||cars.cz^$third-party,domain=autocartichy.cz
 @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
 @@||fastshare.cz/banner/site_logo.jpg
@@ -808,6 +811,7 @@ stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 stream.cz###img_link
 stream.cz###user_head
 superhry.cz##.video-doporucujeme
+synotliga.isport.blesk.cz##.leaderboard
 t-mobile.cz##.advttl
 tipcars.com###loading
 tipcars.com##IFRAME[id*="TC"]
