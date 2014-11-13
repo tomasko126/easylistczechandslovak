@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 10/11/2014
+! Last change: 13/11/2014
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! License: GNU GPL v3
 ! Email: tomastaro@adblock.sk
@@ -206,6 +206,7 @@ exashare.com###player_img
 ||warforum.cz/x2014/
 ||warzoneforum.eu/images/*banner.gif
 ||wesa.cz/banner/
+||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zvraceny.cz/data/upload/
