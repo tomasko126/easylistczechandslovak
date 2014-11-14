@@ -781,6 +781,7 @@ rouming.cz##.roumingLista
 rozzlobenimuzi.com##.bgg
 rychlost.cz##.hb
 sauto.cz###pvMid
+search.seznam.cz###sklik-right
 search.seznam.cz##.sklik-right
 search.seznam.cz##.skliktop
 serialycz.cz##CENTER
