@@ -8,3 +8,5 @@ In /host folder
 
 In /tpl folder
  - Tracking Protection List, which can be used in IE as an ad filter list
+
+Subscribe to Easylist Czech and Slovak TPL <a href="javascript:window.external.msAddTrackingProtectionList('https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/tpl/filters.tpl','EasyList Czech and Slovak')">here!</a>
