@@ -1,5 +1,7 @@
 = Zoznam zmien =
-
+= 2015 =
+12.01. - Pridane blokovacie a hiding filtre pre matematika.cz a alfa.cz
+= 2014 =
 26.11. - Pridanie whitelist filtru pre seznam.cz, z dôvodu nefungovania e-mailovej služby (GH issue #7)
 14.11. - Pridané hiding filtre pre seznam.cz
 13.11. - Pridaný blokovací filter pre youradio.cz
