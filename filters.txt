@@ -3,7 +3,7 @@
 ! Title: Easylist Czech and Slovak filter list
 ! Last change: 12/01/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
-! License: GNU GPL v3
+! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
 !
