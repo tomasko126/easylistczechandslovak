@@ -2,6 +2,7 @@
 
 = 2015 =
 
+03.02. - Pridaný blokovací filter pre idnes.cz
 31.01. - Pridaný whitelist filter pre mapa-mapy.sk (problém s načítaním máp)
 30.01. - Pridaný whitelist filter pre zive.cz (problém s vyhľadávaním)
 25.01. - Pridaný blokovací filter pre teevee.sk
