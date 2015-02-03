@@ -409,6 +409,7 @@ exashare.com###player_img
 @@||static.cz.prg.cmestatic.com/static/cz/shared/js/adtrack.nova.js
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||stream.cz/static/js/stream/IssueDetector/advert.js
+@@||stream.cz/static/swf/advert-nextEpisode.swf
 @@||*-reklama.cz
 @@||ta3.com/advert-async-system/load-items.html?
 lidovky.cz#@#.col-ad
