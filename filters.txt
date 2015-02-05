@@ -1,8 +1,9 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 03/02/2015
+! Last change: 05/02/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
+! Expires: 3 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
@@ -401,6 +402,9 @@ exashare.com###player_img
 @@||i.imedia.cz/js/im2.js
 @@||i.imedia.cz/js/im3.js
 @@||moviezone.cz/js/
+@@||novaplus.nova.cz/static/cz/shared/js/advert.js
+@@||novaplus.nova.cz/static/shared/app/videojs/plugins/adblock/
+@@||novaplus.nova.cz/static/shared/app/videojs/plugins/ads/
 @@||ocko.tv/content/adv/flash/
 @@||reklama-*.cz
 @@||smartmania.cz/advertisment.js
@@ -758,6 +762,7 @@ nova.cz###square_banner
 nova.cz###square_banner_2
 nova.cz##.big_baner
 nova.cz##.pr_box
+novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
 novinky.cz###sklikReklama_6022
 onlajny.com###banner-top-four
@@ -941,7 +946,7 @@ onlinefilmy.tv###bg_right
 onlinefilmy.tv##.ads
 onlinefilmy.tv##.ads_new
 onlinevidea.tv##.ads_new
-www.pcforum.sk##td[style="cursor: pointer; padding: 10px; background: rgb(255, 255, 255);"]
+pcforum.sk##td[style="cursor: pointer; padding: 10px; background: rgb(255, 255, 255);"]
 pocasie.pozri.sk/nba2.gif
 pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
