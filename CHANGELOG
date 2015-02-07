@@ -2,6 +2,7 @@
 
 = 2015 =
 
+07.02. - Upravená detekcia AdBlocku na nova.cz
 05.02. - Pridané whitelist filtre a hiding filter pre nova.cz (vyriešená detekcia AdBlocku a neprehrávania videí)
 03.02. - Pridané hiding filtre a blokovací filter pre idnes.cz a opravený problém s načítaním videí na stream.cz
 31.01. - Pridaný whitelist filter pre mapa-mapy.sk (problém s načítaním máp)
