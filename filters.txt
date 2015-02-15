@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 07/02/2015
+! Last change: 15/02/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -406,6 +406,7 @@ exashare.com###player_img
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
 @@||*.nova.cz/static/shared/app/videojs/plugins/ads/
 @@||ocko.tv/content/adv/flash/
+@@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 @@||reklama-*.cz
 @@||smartmania.cz/advertisment.js
 @@||sokolov.cz/images/reklama/
@@ -419,7 +420,6 @@ lidovky.cz#@#.col-ad
 realitygo.cz#@#.advert-detail
 sluzebnik.cz#@##adverts
 zive.cz#@#.box-adsense
-
 !
 !---------- Slovak Whitelist ------------!
 !

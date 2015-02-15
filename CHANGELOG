@@ -2,6 +2,7 @@
 
 = 2015 =
 
+15.02. - Pridaný whitelist filter kvôli obídeniu detekcie AdBlocku (GH #9)
 07.02. - Upravená detekcia AdBlocku na nova.cz
 05.02. - Pridané whitelist filtre a hiding filter pre nova.cz (vyriešená detekcia AdBlocku a neprehrávania videí)
 03.02. - Pridané hiding filtre a blokovací filter pre idnes.cz a opravený problém s načítaním videí na stream.cz
