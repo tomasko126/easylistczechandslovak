@@ -172,7 +172,6 @@ exashare.com###player_img
 ||showcase.gamepark.cz/
 ||skjalovec.com/img/banners/
 ||slevy.tyden.cz/banner/
-||sokolov.cz/images/reklama/
 ||spoluzaci.cz/img/new-skin/bgr-main.png
 ||static.autoweb.cz/img/brands/
 ||stream*.idnes.cz/*#Reklama*
@@ -429,7 +428,7 @@ zive.cz#@#.box-adsense
 @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
-@@||/moje-konto/inzeraty/
+@@/moje-konto/inzeraty/
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||tpd.sk/ads/rotator/
 ulozisko.sk#@##reklama_big
@@ -465,7 +464,6 @@ ulozisko.sk#@##reklama_big
 ###reklamni-box
 ###reklamy
 ###sklik
-###sklikReklama_19976
 ###slevomat_ad
 ###super_ad_note
 ###super_banner_default
@@ -721,7 +719,7 @@ mapy.in-pocasi.cz##.devicewidth
 maminka.cz###adframe-shell
 maminka.cz###hledejceny-banner
 matematika.cz###box-3
-matematika.cz##A[id="rbackground-link"]
+matematika.cz###rbackground-link
 matematika.cz##DIV[id*="reklama"]
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
@@ -766,7 +764,6 @@ nova.cz##.big_baner
 nova.cz##.pr_box
 novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
-novinky.cz###sklikReklama_6022
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 orbion.cz###DIV[style="text-align: center; display: none; z-index: 9999; bottom: 0px;"]
@@ -860,7 +857,6 @@ vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
 volny.cz###services_content
-warcenter.cz###19704
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
@@ -885,7 +881,6 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
-zive.cz###zivefirmy
 zive.cz##.banner
 zive.cz##.banner-box
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
