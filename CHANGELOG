@@ -2,6 +2,7 @@
 
 = 2015 =
 
+17.02. - Pridané blokovacie filtre pre digizone.cz a parabola.cz (GH #10)
 16.02. - Pridané whitelist filtre pre doupe.zive.cz (GH #11)
 15.02. - Pridaný whitelist filter kvôli obídeniu detekcie AdBlocku (GH #9)
 07.02. - Upravená detekcia AdBlocku na nova.cz
