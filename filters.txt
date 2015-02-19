@@ -266,6 +266,7 @@ exashare.com###player_img
 ||partner.zoznam.sk
 ||player.joj.sk/age-chooser.swf
 ||poweruploaders.eu/bannery/
+||priznaj.sk/images/*_banner.png
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
 ||spartak.sk/pics-new2/reklamy/
