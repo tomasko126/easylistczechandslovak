@@ -847,8 +847,6 @@ tvfreak.cz##.sidebar-banner
 tvfreak.cz##.skyscrapper-right
 tvt-online.cz###a3f
 tvt-online.cz###ideckoo
-tv-program.sk##tr:nth-of-type(1) > .stn.stnu > a
-tv-program.sk##.dragobj > div:nth-of-type(2)
 uloz.to##.banner300x300
 uschovna.cz###tiscali-bar
 uschovna.cz##.bottom_banner
@@ -969,6 +967,8 @@ topky.sk##.nastip
 topky.sk##.takeoverKlik
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
+tv-program.sk##tr:nth-of-type(1) > .stn.stnu > a
+tv-program.sk##.dragobj > div:nth-of-type(2)
 warmacher.com###reklamne_bannery
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
