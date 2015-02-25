@@ -847,6 +847,8 @@ tvfreak.cz##.sidebar-banner
 tvfreak.cz##.skyscrapper-right
 tvt-online.cz###a3f
 tvt-online.cz###ideckoo
+tv-program.sk##tr:nth-of-type(1) > .stn.stnu > a
+tv-program.sk##.dragobj > div:nth-of-type(2)
 uloz.to##.banner300x300
 uschovna.cz###tiscali-bar
 uschovna.cz##.bottom_banner
