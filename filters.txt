@@ -967,7 +967,8 @@ topky.sk##.nastip
 topky.sk##.takeoverKlik
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
-tv-program.sk##tr:nth-of-type(1) > .stn.stnu > a
+tv-program.sk##.stn.stns > a[target="_blank"]
+tv-program.sk##.stn.stnu > a[target="_blank"]
 tv-program.sk##.dragobj > div:nth-of-type(2)
 warmacher.com###reklamne_bannery
 webnode.sk###f3l9j1708q
