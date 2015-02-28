@@ -2,6 +2,7 @@
 
 = 2015 =
 
+28.02. - Pridaný blokovací filter pre idnes.cz (GH #15)
 25.02. - Pridané hiding filtre pre tv-program.sk
 17.02. - Pridané blokovacie filtre pre digizone.cz a parabola.cz (GH #10)
 16.02. - Pridané whitelist filtre pre doupe.zive.cz (GH #11)
