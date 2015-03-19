@@ -2,6 +2,7 @@
 
 = 2015 =
 
+19.03. - Pridané filtre pre idnes.cz a topky.sk
 04.03. - Pridaný hiding a blokovací filter pre doupe.zive.cz, vyriešená detekcia AB (GH #16)
 28.02. - Pridaný blokovací filter pre idnes.cz (GH #15)
 25.02. - Pridané hiding filtre pre tv-program.sk
