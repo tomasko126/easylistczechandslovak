@@ -966,6 +966,7 @@ onlinefilmy.tv###bg_right
 onlinefilmy.tv##.ads
 onlinefilmy.tv##.ads_new
 onlinevidea.tv##.ads_new
+openload.io###videooverlay
 pcforum.sk##td[style="cursor: pointer; padding: 10px; background: rgb(255, 255, 255);"]
 pocasie.pozri.sk/nba2.gif
 pokec.azet.sk##.c_banner300x300
