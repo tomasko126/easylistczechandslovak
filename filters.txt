@@ -281,6 +281,7 @@ exashare.com###player_img
 ||static.itnews.sk/branding/
 ||tailormysuit.sk/wp-content/uploads/banner*.jpg
 ||techbox.sk/*colorbox
+||img.teevee.sk/img/comm/
 ||totalpozicky.sk/images/banners/
 ||tu-ke.com/certovskezlavy.jpg
 ||tu-ke.com/jozko.png
@@ -979,6 +980,9 @@ sport.aktuality.sk###skin_link_left
 sport.aktuality.sk###skin_link_right
 techbox.sk##.anotacia-sponsored
 techbox.sk##.inzercia
+teevee.sk##A[href^="https://www.tipsport.sk/PartnerRedirectAction.do?"]
+teevee.sk###colorbox
+teevee.sk###cboxOverlay
 topky.sk##.ad
 topky.sk##.addbox.avizo
 topky.sk##.box_advertisment.addbox.recycle

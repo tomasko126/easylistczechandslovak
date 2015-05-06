@@ -2,7 +2,7 @@
 
 = 2015 =
 
-06.05. - Fixnutá detekcia AdBlocku v Openload.io playeri
+06.05. - Fixnutá detekcia AdBlocku v Openload.io playeri, pridané filtre pre teevee.sk
 03.05. - Pridaný hiding a whitelist filter pre topserialy.sk, whitelist filter pre spusti.net
          hiding filtre pre serialycz.cz a blokovacie filtre pre ab-forum.info
 10.04. - Pridané whitelist filtre pre pcforum.sk a dobre-recepty.sk
