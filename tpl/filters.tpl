@@ -1,7 +1,14 @@
 msFilterList
-# Last change: 26/11/2014
+# Title: EasyList Czech and Slovak+EasyList
+# EasyList Czech and Slovak and EasyList combination subscription
+# Last modified: 21 Jun 2015 21:21 UTC
+: Expires=4
+# Homepage: http://adblock.sk/
+#
+# *** Fetched from: https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt ***
+# Last change: 21/06/2015
 # List maintainers: Fanboy, Moskoe, tomasko126
-# License: GNU GPL v3
+# License: CC-BY-SA v4.0
 # Email: tomastaro@adblock.sk
 # Forum: http://adblock.sk/forum
 #
@@ -63,10 +70,16 @@ msFilterList
 -d ab-forum.info /animation.swf
 -d ab-forum.info /astrasat.gif
 -d ab-forum.info banner*.gif
+-d ab-forum.info /bannery/
 -d ab-forum.info /Ferguson_NEW.jpg
+-d ab-forum.info /lx3-maly.jpg
+-d ab-forum.info /odbojna.sk.jpg
 -d ab-forum.info /xpeed.jpg
 -d abecedaher.cz /index_banner_
+-d advantage.as
+-d adv.forpsi.com
 -d adx.fotoaparat.cz /www/images/
+-d alfa.cz /images/branding*.jpg
 -d alkoholik.cz /zavislost/images/banners/
 -d archiv.roumen.cz /roumingRLeader.html
 -d autoesa.cz /files/bannery/
@@ -75,10 +88,13 @@ msFilterList
 -d blbosti.cz /sites/www.blbosti.cz/files/banner/
 -d blisty.cz /ad/
 -d centrum.cz /design/akt3/o/ads/
+-d cn130.com /wp-content/uploads/an-temp/
 -d cviceni-doma.cz /images/*banner
 -d cztorrent.net /images/bannery/
 -d d.lookit.cz /vv.js
+-d data.idnes.cz /nocache/DPP/dacan/
 -d data.idnes.cz /soutez/
+-d data.idnes.cz /uni/
 -d devbook.cz /images/banners/
 -d devbook.cz /images/partnersky*.jpg
 -d digitalnitelevize.cz /obrazky/reklamni_odkazy/
@@ -124,12 +140,16 @@ msFilterList
 -d lamer.cz /images/bg*.jpg
 -d kurzy.sfinance.cz /img/front/sfinance/*banner
 -d libise.eu /r/
+-d linkbucks.com /visitScript/
 - http://liveagent.mobilbonus.cz
 -d logobox.cz /images/banners/
 -d lphard.cz /images/banners/
 -d lui-magazine.cz /images/banners/nove/brand/
 -d luxusnirekreacnidomy.cz /adds/
 -d mamincinyrecepty.cz /images/banner
+-d matematika.cz /content/files/*/background*.jpg
+-d matematika.cz /content/files/snapbacks/
+- http://mfad*.advantage.as
 -d mluveneslovo.chaves.cz /images/banners/castor_745x150.jpg
 -d mluveneslovo.chaves.cz /images/banners/palace.gif
 -d mluveneslovo.chaves.cz /images/user/pokourenicko.jpg
@@ -165,7 +185,6 @@ msFilterList
 -d showcase.gamepark.cz
 -d skjalovec.com /img/banners/
 -d slevy.tyden.cz /banner/
--d sokolov.cz /images/reklama/
 -d spoluzaci.cz /img/new-skin/bgr-main.png
 -d static.autoweb.cz /img/brands/
 -d stobklub.cz /images/banners/maintop.jpg
@@ -234,8 +253,11 @@ msFilterList
 -d gamesite.sk /templates/gamesite_sk/images/background/
 -d hnonline.sk hn_lekaren_extra_blok.png
 -d hojko.com /images/banner*.gif
+-d i.iinfo.cz /sh//ads/
 -d img.karaoketexty.cz /img/ad/
+-d img.teevee.sk /img/beangel*.gif
 -d img.teevee.sk /img/TEE-Final2.gif
+-d img.zoznam.sk /adimages/
 -d img5.uloz.to /ul3/images/hp_brand_tsbohemia.jpg
 -d kamzakrasou.sk /actions/
 -d mediacentrum.sk /google/
@@ -251,19 +273,22 @@ msFilterList
 -d ourphorum.com /images/banner
 -d ourphorum.com /images/brapid.gif
 -d ourphorum.com /images/showlivecz.jpg
--d parabola.cz /img_menu/b*.gif
+-d parabola.cz /img_menu/b
+-d parabola.cz /img_menu/ico_*.gif
 -d parabola.cz /img_menu/flash_astra.swf
 - http://partner.zoznam.sk
--d pcforum.sk /styles/white/imageset/topic_moved.gif
 -d player.joj.sk /age-chooser.swf
 -d poweruploaders.eu /bannery/
+-d priznaj.sk /images/*_banner.png
 -d pricemania.sk /pictures/banners/
 -d pricemania.sk /pictures/campaigns/
+-d recycle-static.zoznam.sk /*branding*.jpg
 -d spartak.sk /pics-new2/reklamy/
 -d sport.aktuality.sk /css/skins/
 -d static.itnews.sk /branding/
 -d tailormysuit.sk /wp-content/uploads/banner*.jpg
 -d techbox.sk colorbox
+-d img.teevee.sk /img/comm/
 -d totalpozicky.sk /images/banners/
 -d tu-ke.com /certovskezlavy.jpg
 -d tu-ke.com /jozko.png
@@ -374,6 +399,7 @@ msFilterList
 #
 #---------- Czech Whitelist ------------#
 #
++d adserver.adtech.de /?advideo/3.0/
 # @@/banners/banner$domain=hafici.cz|svatba.cz
 # @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
 +d ads2.czc.cz /www/
@@ -382,8 +408,10 @@ msFilterList
 # @@||bbelements.com/crossdomain.xml$domain=idnes.cz
 # @@||blesk.cz/js/*adocean.js*$domain=synotliga.isport.blesk.cz
 # @@||blesk.cz/js/*/player/videoad.swf*$domain=synotliga.isport.blesk.cz
+# @@||c.mfstatic.cz/js/advantage.min.js$domain=doupe.zive.cz
 # @@||cars.cz^$third-party,domain=autocartichy.cz
 # @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
++d doupe.zive.cz /Client.Scripts/advertisement.js
 +d fastshare.cz /banner/site_logo.jpg
 +d g.idnes.cz /o/lidovky_ln3b/poutaky/sport/
 # @@||heureka.*/crossdomain.xml
@@ -391,16 +419,22 @@ msFilterList
 +d hry.cz /ad/ad.aspx?
 +d hry.sazka.cz /banners/new_banner*.
 +d iboys.cz /advert-list.php
-# @@||i.imedia.cz/$third-party,domain=stream.cz
 +d i.imedia.cz /js/im2.js
 +d i.imedia.cz /js/im3.js
 +d moviezone.cz /js/
+# @@||*.nova.cz/static/cz/shared/js/advert.js
+# @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
+# @@||*.nova.cz/static/shared/app/videojs/plugins/ads/
 +d ocko.tv /content/adv/flash/
++d openload.io /assets/js/advertisement.js
+# @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 # @@||reklama-*.cz
 +d smartmania.cz /advertisment.js
 +d sokolov.cz /images/reklama/
 +d static.cz.prg.cmestatic.com /static/cz/shared/js/adtrack.nova.js
 +d static.tn.nova.cz /static/cz/shared/js/banners.js
++d stream.cz /static/js/stream/IssueDetector/advert.js
++d stream.cz /static/swf/advert-nextEpisode.swf
 # @@||*-reklama.cz
 +d ta3.com /advert-async-system/load-items.html?
 #
@@ -409,8 +443,15 @@ msFilterList
 # @@/moje-konto/inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 # @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 +d img.aaaauto.eu /thumb/
-# @@||/moje-konto/inzeraty/
+# @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
+# @@/moje-konto/inzeraty/
+# @@||openload.io/assets/js/pop.js$domain=openload.io
++d openload.io /deliverad/2
+# @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
+# @@||pcforum.sk$elemhide
++d pcforum.sk /styles/*/advertisement.js
 +d reklama.hiking.sk /lib/HikingMaps-3.0.2.js
+# @@||spusti.net/data/advertisement.js$domain=spusti.net
 +d tpd.sk /ads/rotator/
 # @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 #
