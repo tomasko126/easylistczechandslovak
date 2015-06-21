@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 06/05/2015
+! Last change: 21/06/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -83,6 +83,7 @@ exashare.com###player_img
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
+||cn130.com/wp-content/uploads/an-temp/
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
@@ -134,6 +135,7 @@ exashare.com###player_img
 ||lamer.cz/images/bg*.jpg
 ||kurzy.sfinance.cz/img/front/sfinance/*banner*
 ||libise.eu/r/
+||linkbucks.com/visitScript/
 ||liveagent.mobilbonus.cz
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
@@ -276,6 +278,7 @@ exashare.com###player_img
 ||priznaj.sk/images/*_banner.png
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
+||recycle-static.zoznam.sk/*/*branding*.jpg
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
@@ -392,6 +395,7 @@ exashare.com###player_img
 !
 !---------- Czech Whitelist ------------!
 !
+@@||adserver.adtech.de/?advideo/3.0/
 @@/banners/banner$domain=hafici.cz|svatba.cz
 @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
 @@||ads2.czc.cz/www/
@@ -442,7 +446,10 @@ zive.cz#@#.box-adsense
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
+mojevideo.sk#@##video_ad
+@@||openload.io/assets/js/pop.js$domain=openload.io
 @@||openload.io/deliverad/2
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 @@||pcforum.sk$elemhide
 @@||pcforum.sk/styles/*/advertisement.js
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
@@ -820,9 +827,20 @@ sauto.cz###pvMid
 search.seznam.cz###sklik-right
 search.seznam.cz##.sklik-right
 search.seznam.cz##.skliktop
-serialycz.cz##CENTER
+serialycz.cz##A[href^="http://aclick.adhoc1.net/"]
 serialycz.cz##IFRAME[src^="http://vk.com/"]
-serialycz.cz##P[style="text-align: center;"]
+serialycz.cz###text-11
+serialycz.cz###text-20
+serialycz.cz###text-21
+serialycz.cz###text-29
+serialycz.cz###text-32
+serialycz.cz###text-36
+serialycz.cz###text-37
+serialycz.cz###text-39
+serialycz.cz###text-40
+serialycz.cz###text-41
+serialycz.cz###text-42
+serialycz.cz###text-43
 securityworld.cz##.banner
 serialkeys.svetu.cz###menu_rozdel_mene
 serialzone.cz###hpbglink-watch
