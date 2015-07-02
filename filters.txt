@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 21/06/2015
+! Last change: 02/07/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -127,6 +127,9 @@ exashare.com###player_img
 ||img.blesk.cz/static/data/blesk/*bg.jpg
 ||img.mimiaukce.cz/h/ac/b/
 ||img14.imageshack.us/img14/7953/lineage2a.gif$domain=warforum.cz
+||in-pocasi.cz/img/left*.jpg
+||in-pocasi.cz/img/right*.jpg
+||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
 ||jpg.assets-finance-media.cz/newsimg/brand/
@@ -134,6 +137,7 @@ exashare.com###player_img
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
 ||kurzy.sfinance.cz/img/front/sfinance/*banner*
+||letemsvetemapplem.eu/rklm/
 ||libise.eu/r/
 ||linkbucks.com/visitScript/
 ||liveagent.mobilbonus.cz
@@ -453,7 +457,8 @@ mojevideo.sk#@##video_ad
 @@||pcforum.sk$elemhide
 @@||pcforum.sk/styles/*/advertisement.js
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
-@@||spusti.net/data/advertisement.js$domain=spusti.net
+@@||spusti.net/data/advertisement.js
+@@||spusti.net/advertisement.js
 @@||tpd.sk/ads/rotator/
 ulozisko.sk#@##reklama_big
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
@@ -477,6 +482,7 @@ ulozisko.sk#@##reklama_big
 ###hp_ab
 ###inclickDock
 ###iPark-banner
+###komercnisdeleni
 ###nike-banner-hokej
 ###P_reklama_120x600
 ###pf-wrapper
@@ -491,6 +497,7 @@ ulozisko.sk#@##reklama_big
 ###slevomat_ad
 ###super_ad_note
 ###super_banner_default
+###topbanner
 ###zivefirmy
 ##.ad_font
 ##.advert-square
@@ -731,6 +738,7 @@ kurzy.cz##.box9
 kurzy.cz##.textovka
 kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 lamer.cz##.square
+letemsvetemapplem.eu###headervelka
 letemsvetemapplem.eu###pravy_uzky
 libise.eu###aa1
 lidovky.cz###reality-idnes
