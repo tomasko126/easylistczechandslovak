@@ -2,6 +2,7 @@
 
 = 2015 =
 
+03.07. - Vyriešená detekcia AdBlocku - flashx.tv a pridaný whitelist filter pre automotofans.cz
 02.07. - Pridané filtre pre letemsvetemapplem.eu, in-pocasi.cz a vyriešená detekcia AdBlocku na spusti.net
 21.06. - Opäť vyriešená detekcia AdBlocku v Openload.io video-playeri a na stránkach mojevideo.sk a nova.cz,
          odstránená reklama zo stránok cn130.com, serialycz.cz a zoznam.sk, dostránený redirect na linkbucks.com
