@@ -289,6 +289,7 @@ exashare.com###player_img
 ||static.itnews.sk/branding/
 ||tailormysuit.sk/wp-content/uploads/banner*.jpg
 ||techbox.sk/*colorbox
+||topserialy.sk/img/dreamair.swf
 ||img.teevee.sk/img/comm/
 ||totalpozicky.sk/images/banners/
 ||tu-ke.com/certovskezlavy.jpg
@@ -461,6 +462,8 @@ mojevideo.sk#@##video_ad
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
+@@||topserialy.sk/js/ads.js
+@@||topserialy.sk/js/advert.js
 @@||tpd.sk/ads/rotator/
 ulozisko.sk#@##reklama_big
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
@@ -1020,6 +1023,7 @@ topky.sk##.takeoverKlik
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
 topserialy.sk##BODY > div:last-child
+topserialy.sk##.dreamair
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
 tv-program.sk##.dragobj > div:nth-of-type(2)
