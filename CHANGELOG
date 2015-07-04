@@ -2,6 +2,7 @@
 
 = 2015 =
 
+04.07. - Opäť vyriešená detekcia AdBlocku vo flashx.tv a openload.io playeri
 03.07. - Vyriešená detekcia AdBlocku - flashx.tv a topserialy.sk, pridaný whitelist filter pre automotofans.cz
 02.07. - Pridané filtre pre letemsvetemapplem.eu, in-pocasi.cz a vyriešená detekcia AdBlocku na spusti.net
 21.06. - Opäť vyriešená detekcia AdBlocku v Openload.io video-playeri a na stránkach mojevideo.sk a nova.cz,

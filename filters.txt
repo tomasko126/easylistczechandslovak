@@ -1,7 +1,7 @@
  [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 03/07/2015
+! Last change: 04/07/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -84,6 +84,7 @@ exashare.com###player_img
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
 ||cn130.com/wp-content/uploads/an-temp/
+||count.flashx.tv:81/count_e.js
 ||count.flashx.tv:81/embed_view.js
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
@@ -429,7 +430,6 @@ exashare.com###player_img
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
 @@||*.nova.cz/static/shared/app/videojs/plugins/ads/
 @@||ocko.tv/content/adv/flash/
-@@||openload.io/assets/js/advertisement.js
 @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 @@||reklama-*.cz
 @@||smartmania.cz/advertisment.js
@@ -454,7 +454,9 @@ zive.cz#@#.box-adsense
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
 mojevideo.sk#@##video_ad
-@@||openload.io/assets/js/pop.js$domain=openload.io
+@@||openload.io/assets/js/advertisement.js
+@@||openload.io/assets/js/pop.js
+@@||openload.io/assets/js/popad.js
 @@||openload.io/deliverad/2
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 @@||pcforum.sk$elemhide
