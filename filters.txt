@@ -203,6 +203,7 @@ exashare.com###player_img
 ||videacesky.cz/img/*.swf
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||videoad.cz^
+||view.flashx.tv:81$script
 ||war-city.eu/bannery/
 ||war-net.cz/300x200.gif
 ||war-net.cz/aukcent.gif
@@ -457,6 +458,7 @@ mojevideo.sk#@##video_ad
 @@||openload.io/assets/js/pop.js
 @@||openload.io/assets/js/popad.js
 @@||openload.io/deliverad/2
+@@||openload.io^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 @@||pcforum.sk$elemhide
 @@||pcforum.sk/styles/*/advertisement.js
@@ -1023,7 +1025,6 @@ topky.sk##.nastip
 topky.sk##.takeoverKlik
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
-topserialy.sk##BODY > div:last-child
 topserialy.sk##.dreamair
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
