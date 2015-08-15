@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 05/07/2015
+! Last change: 15/08/2015
 ! List maintainers: Fanboy, Moskoe, tomasko126
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -153,6 +153,7 @@ exashare.com###player_img
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
 ||mluveneslovo.chaves.cz/images/banners/palace.gif
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
+||mobilizujeme.cz/branding*.png$image
 ||mp3s.nadruhou.net/avony_square.gif
 ||mp3s.nadruhou.net/js/bastard_*.js
 ||mrk.cz/images/baners/
@@ -346,6 +347,7 @@ exashare.com###player_img
 ||bidmax.cz^$third-party
 ||c.imedia.cz^$third-party
 ||ads.cars.cz^$third-party
+||d.vvbox.cz^$third-party
 ||data.itiscali.cz^$third-party
 ||dev.youcan.cz^$third-party
 ||dot.idot.cz^$third-party
@@ -392,9 +394,11 @@ exashare.com###player_img
 ||be1.sk^$third-party
 ||heureka.sk^$third-party
 ||imr.sk^$third-party
+||kariera.zoznam.sk/?page=banner$third-party
 ||ls.hit.gemius.pl/^$third-party
 ||netsuccess.sk$third-party
 ||p1.naj.sk^$third-party
+||recycle-static.zoznam.sk^$third-party
 ||rsz.sk^$third-party
 ||top-sk.mconet.biz^$third-party
 ||uspech.sk^$third-party
@@ -926,6 +930,7 @@ webovastranka.cz###deny_anonymous_visitors
 webovastranka.cz###overlay
 webshare.cz##.banner
 webshare.cz##.ws-adver-bg
+webtrh.cz##.breadcrumb + .ui-state-default
 wmmania.cz###header-banner
 zdravi.tiscali.cz###zone-tiscali-zdravi-wide
 zena-in.cz##.reklama-doporucujeme-right
