@@ -165,6 +165,7 @@ exashare.com###player_img
 ||parabola.cz/img_inzerent/
 ||partner.xprovize.cz/accounts/default*/banners/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
+||playing.flashx.tv:81/player_embed.js
 ||podnikovyzpravodaj.cz/homepage/banner
 ||pornuj.cz/files/ntva.php
 ||portalymest.cz/obrazky/eshop
@@ -438,6 +439,7 @@ exashare.com###player_img
 @@||reklama-*.cz
 @@||smartmania.cz/advertisment.js
 @@||sokolov.cz/images/reklama/
+@@||static.flashx.tv/js/advertisement.js
 @@||static.cz.prg.cmestatic.com/static/cz/shared/js/adtrack.nova.js
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
 @@||stream.cz/static/js/stream/IssueDetector/advert.js
@@ -463,6 +465,7 @@ mojevideo.sk#@##video_ad
 @@||openload.io/assets/js/popad.js
 @@||openload.io/deliverad/2
 @@||openload.io^$xmlhttprequest
+@@||openload.tv/adblock.js
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 @@||pcforum.sk$elemhide
 @@||pcforum.sk/styles/*/advertisement.js

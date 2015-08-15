@@ -2,8 +2,9 @@
 
 = 2015 =
 
-15.08. - Pridané filtre pre denik.cz, mobilizujeme.cz, webtrh.cz a zoznam.sk
-20.07. - Vyriešená detekcia AdBlocku fo flashx.tv a openload.io video-playeri, bol vymazaný problémový filter
+15.08. - Pridané filtre pre denik.cz, mobilizujeme.cz, webtrh.cz a zoznam.sk, vyriešená detekcia AdBlocku
+         vo flashx.tv a openload.io playeri
+20.07. - Vyriešená detekcia AdBlocku vo flashx.tv a openload.io video-playeri, bol vymazaný problémový filter
          pre topserialy.sk
 05.07. - Vyriešená detekcia AdBlocku vo flashx.tv playeri
 04.07. - Opäť vyriešená detekcia AdBlocku vo flashx.tv a openload.io playeri
