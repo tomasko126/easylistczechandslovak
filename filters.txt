@@ -1050,5 +1050,6 @@ zoznam.sk##[id*="BUTTON_ZOZNAM"]
 !---------- Anti-AdBlock filters ----------!
 !Titulky.com!
 titulky.com#@##reklama
+titulky.com#@#.pub_728x90
 @@||titulky.com/bannery/$image
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
