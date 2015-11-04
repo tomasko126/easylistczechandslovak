@@ -3,6 +3,7 @@
 ! Title: Easylist Czech and Slovak filter list
 ! Last change: 04/11/2015
 ! List maintainers: tomasko126, Fanboy, Moskoe
+! GitHub contributors: @hrobky, @Conder000, @MilanPala, @freezy-sk & @martinrotter
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
