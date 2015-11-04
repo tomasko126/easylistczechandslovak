@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 15/08/2015
-! List maintainers: Fanboy, Moskoe, tomasko126
+! Last change: 04/11/2015
+! List maintainers: tomasko126, Fanboy, Moskoe
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
@@ -88,7 +88,9 @@ exashare.com###player_img
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
-||data.idnes.cz/nocache/DPP/dacan/
+||data.idnes.cz/nocache/*/automodul.htm
+||data.idnes.cz/nocache/*/jobdnes.htm
+||data.idnes.cz/nocache/*/reality.htm
 ||data.idnes.cz/soutez/
 ||data.idnes.cz/uni/
 ||devbook.cz/images/banners/
@@ -146,6 +148,7 @@ exashare.com###player_img
 ||lphard.cz/images/banners/
 ||lui-magazine.cz/images/banners/nove/brand/
 ||luxusnirekreacnidomy.cz/adds/
+||majnuj.cz/wp-content/uploads/*/ulozto_button.png
 ||mamincinyrecepty.cz/images/banner*
 ||matematika.cz/content/files/*/background*.jpg
 ||matematika.cz/content/files/snapbacks/
@@ -163,6 +166,8 @@ exashare.com###player_img
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
+||parabola.cz/img_menu/s125_01.gif
+||partner.alza.cz$domain=majnuj.cz
 ||partner.xprovize.cz/accounts/default*/banners/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||playing.flashx.tv:81/player_embed.js
@@ -229,8 +234,10 @@ exashare.com###player_img
 ||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
+||zkouknito.cz/js/js.htmlad.js
 ||zvraceny.cz/data/upload/
 ||zvukarina.cz/forum/images/ostatni/
+
 !
 ! ---------- Slovak 1st party blocking rules ----------!
 !
@@ -339,6 +346,7 @@ exashare.com###player_img
 ||allewidget.aukro.cz^$third-party
 ||aukro.cz/ap/ap_show.php?$third-party
 ||autoesa.cz/dynbann/$third-party
+||automodul.cz$third-party
 ||b.lookit.cz^$third-party,subdocument
 ||banan.cz^$third-party
 ||banner.ifortuna.cz^$third-party
@@ -410,6 +418,7 @@ exashare.com###player_img
 @@||adserver.adtech.de/?advideo/3.0/
 @@/advertisements/*$domain=automotofans.cz
 @@/banners/banner$domain=hafici.cz|svatba.cz
+@@/VideoAd/*$domain=zkouknito.cz
 @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
 @@||ads2.czc.cz/www/
 @@||alfacomp.cz/reklama/
@@ -460,6 +469,7 @@ zive.cz#@#.box-adsense
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
 mojevideo.sk#@##video_ad
+@@||openload.co/ad.php
 @@||openload.io/assets/js/advertisement.js
 @@||openload.io/assets/js/pop.js
 @@||openload.io/assets/js/popad.js
@@ -474,9 +484,16 @@ mojevideo.sk#@##video_ad
 @@||spusti.net/advertisement.js
 @@||topserialy.sk/js/ads.js
 @@||topserialy.sk/js/advert.js
+@@||topserialy.sk/js/advert-detail.js
+@@||topserialy.sk/js/advertisement.js
+@@||topserialy.sk/js/fuckadblock.js
 @@||tpd.sk/ads/rotator/
-ulozisko.sk#@##reklama_big
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
+komentare.sme.sk#@#.share-box
+topserialy.sk#@##adsense
+topserialy.sk#@##tester
+topserialy.sk#@##ad-box
+ulozisko.sk#@##reklama_big
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------!
 !
@@ -634,6 +651,7 @@ csfd.cz##.branding.right
 csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
 ct24.cz##.commercialBox
+ctrlv.cz##DIV[id^="ad"]
 cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
@@ -699,6 +717,7 @@ hokej.cz##.top_banner_second
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
+idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
 idnes.cz###aaa-box
 idnes.cz###advert
 idnes.cz###eTargetContent
@@ -934,6 +953,7 @@ webovastranka.cz###overlay
 webshare.cz##.banner
 webshare.cz##.ws-adver-bg
 webtrh.cz##.breadcrumb + .ui-state-default
+webtrh.cz##LI[id^="navbar_notice"]
 wmmania.cz###header-banner
 zdravi.tiscali.cz###zone-tiscali-zdravi-wide
 zena-in.cz##.reklama-doporucujeme-right

@@ -2,6 +2,8 @@
 
 = 2015 =
 
+04.11. - Vyriešená detekcia AdBlocku na topserialy.sk, pridané filtre pre automodul.cz, ctrlv.cz, idnes.cz, majnuj.cz,
+         parabola.cz, webtrh.cz, zkouknito.cz, sme.sk a ulozisko.sk
 15.08. - Pridané filtre pre denik.cz, mobilizujeme.cz, webtrh.cz a zoznam.sk, vyriešená detekcia AdBlocku
          vo flashx.tv a openload.io playeri
 20.07. - Vyriešená detekcia AdBlocku vo flashx.tv a openload.io video-playeri, bol vymazaný problémový filter
