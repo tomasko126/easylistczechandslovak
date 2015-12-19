@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 10/11/2015
-! List maintainers: tomasko126, Fanboy, Moskoe
+! Last change: 19/12/2015
+! List maintainers: tomasko126, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter & Blackbird88
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
@@ -17,7 +17,7 @@
 .cz/banners/$domain=~web.volny.cz
 .cz/bannery_
 .cz/img/banery/
-.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz
+.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz|~mironet.cz
 .cz/o/poutani^
 .cz/rs/get-iframe.php?
 .etargetnet.
@@ -89,9 +89,7 @@ exashare.com###player_img
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
-||data.idnes.cz/nocache/*/automodul.htm
-||data.idnes.cz/nocache/*/jobdnes.htm
-||data.idnes.cz/nocache/*/reality.htm
+||data.idnes.cz/nocache/DPP/
 ||data.idnes.cz/soutez/
 ||data.idnes.cz/uni/
 ||devbook.cz/images/banners/
@@ -440,6 +438,7 @@ exashare.com###player_img
 @@||iboys.cz/advert-list.php
 @@||i.imedia.cz/js/im2.js
 @@||i.imedia.cz/js/im3.js
+@@||images.mironet.cz$image
 @@||moviezone.cz/js/
 @@||*.nova.cz/static/cz/shared/js/advert.js
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
@@ -447,6 +446,8 @@ exashare.com###player_img
 @@||ocko.tv/content/adv/flash/
 @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 @@||reklama-*.cz
+@@||reklama.mironet.cz$image
+@@||reklama.mironet.cz/axshown*.php$script
 @@||smartmania.cz/advertisment.js
 @@||sokolov.cz/images/reklama/
 @@||static.flashx.tv/js/advertisement.js
@@ -458,6 +459,7 @@ exashare.com###player_img
 @@||ta3.com/advert-async-system/load-items.html?
 doupe.zive.cz#@##adblock-leaderboard
 lidovky.cz#@#.col-ad
+play.iprima.cz#@#.ads-wrapper
 realitygo.cz#@#.advert-detail
 sluzebnik.cz#@##adverts
 zive.cz#@#.box-adsense
@@ -483,17 +485,18 @@ mojevideo.sk#@##video_ad
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
-@@||topserialy.sk/js/ads.js
-@@||topserialy.sk/js/advert.js
-@@||topserialy.sk/js/advert-detail.js
-@@||topserialy.sk/js/advertisement.js
-@@||topserialy.sk/js/fuckadblock.js
+@@||topserialy.sk/*/ads.js
+@@||topserialy.sk/*/advert.js
+@@||topserialy.sk/*/advert-detail.js
+@@||topserialy.sk/*/advertisement.js
+@@||topserialy.sk/*/fuckadblock.js
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 komentare.sme.sk#@#.share-box
+topserialy.sk#@##ad-box
 topserialy.sk#@##adsense
 topserialy.sk#@##tester
-topserialy.sk#@##ad-box
+topserialy.sk#@#.big-ad
 ulozisko.sk#@##reklama_big
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------!
@@ -722,6 +725,7 @@ hyperinzerce.cz###skyscraper
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
 idnes.cz###aaa-box
 idnes.cz###advert
+idnes.cz###christmas-popup
 idnes.cz###eTargetContent
 idnes.cz###hyper300
 idnes.cz###r
@@ -735,6 +739,7 @@ idnes.cz###wbox-dovolena
 idnes.cz##.adbox-regiobox
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
+idnes.cz##.authors + div
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
@@ -955,7 +960,7 @@ webovastranka.cz###overlay
 webshare.cz##.banner
 webshare.cz##.ws-adver-bg
 webtrh.cz##.breadcrumb + .ui-state-default
-webtrh.cz##LI[id^="navbar_notice"]
+webtrh.cz##OL > LI[id^="navbar_notice"]
 wmmania.cz###header-banner
 zdravi.tiscali.cz###zone-tiscali-zdravi-wide
 zena-in.cz##.reklama-doporucujeme-right
@@ -967,8 +972,12 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
+zive.cz###page-hub-wrapper
+zive.cz###prolinkhdr
 zive.cz##.banner
 zive.cz##.banner-box
+zive.cz##.bx-ext-rss
+zive.cz##.bx-livecompanies
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
