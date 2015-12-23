@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 19/12/2015
+! Last change: 23/12/2015
 ! List maintainers: tomasko126, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter & Blackbird88
 ! Expires: 3 days
@@ -485,11 +485,14 @@ mojevideo.sk#@##video_ad
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
+@@||topserialy.sk/*/adblock.js
 @@||topserialy.sk/*/ads.js
 @@||topserialy.sk/*/advert.js
+@@||topserialy.sk/*/adverts.js
 @@||topserialy.sk/*/advert-detail.js
 @@||topserialy.sk/*/advertisement.js
 @@||topserialy.sk/*/fuckadblock.js
+@@||topserialy.sk/*/popad.js
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 komentare.sme.sk#@#.share-box
@@ -497,6 +500,7 @@ topserialy.sk#@##ad-box
 topserialy.sk#@##adsense
 topserialy.sk#@##tester
 topserialy.sk#@#.big-ad
+topserialy.sk#@#.video_ad
 ulozisko.sk#@##reklama_big
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------!
