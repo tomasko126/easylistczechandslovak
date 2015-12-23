@@ -141,7 +141,6 @@ exashare.com###player_img
 ||kurzy.sfinance.cz/img/front/sfinance/*banner*
 ||letemsvetemapplem.eu/rklm/
 ||libise.eu/r/
-||linkbucks.com/visitScript/
 ||liveagent.mobilbonus.cz
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
@@ -459,6 +458,7 @@ exashare.com###player_img
 @@||ta3.com/advert-async-system/load-items.html?
 doupe.zive.cz#@##adblock-leaderboard
 lidovky.cz#@#.col-ad
+nissanclub.cz#@#.reklama
 play.iprima.cz#@#.ads-wrapper
 realitygo.cz#@#.advert-detail
 sluzebnik.cz#@##adverts
@@ -976,6 +976,7 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
+zive.cz###page-hub-wrapper
 zive.cz##.banner
 zive.cz##.banner-box
 zive.cz##.bx-ext-rss
