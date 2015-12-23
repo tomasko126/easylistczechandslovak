@@ -976,8 +976,6 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
-zive.cz###page-hub-wrapper
-zive.cz###prolinkhdr
 zive.cz##.banner
 zive.cz##.banner-box
 zive.cz##.bx-ext-rss

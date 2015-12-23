@@ -2,7 +2,7 @@
 
 = 2015 =
 
-23.12. - Vyriešená detekcia AdBlock na topserialy.sk
+23.12. - Vyriešená detekcia AdBlock na topserialy.sk, odstránené filtre zo stránky zive.cz
 19.12. - Vyriešená detekcia AdBlocku na topserialy.sk a play.iprima.cz, pridané filtre pre idnes.cz a zive.cz
          Pridané whitelist filtre pre mironet.cz
 04.11. - Vyriešená detekcia AdBlocku na topserialy.sk, pridané filtre pre automodul.cz, ctrlv.cz, idnes.cz, majnuj.cz,
