@@ -1087,3 +1087,4 @@ titulky.com#@##reklama
 titulky.com#@#.pub_728x90
 @@||titulky.com/bannery/$image
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
+~mazdaclub.cz##.reklama
