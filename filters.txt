@@ -134,6 +134,7 @@ exashare.com###player_img
 ||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
+||itnetwork.cz##div[style="margin-bottom: 10px;"]
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
