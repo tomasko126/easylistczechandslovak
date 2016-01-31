@@ -92,8 +92,6 @@ exashare.com###player_img
 ||data.idnes.cz/nocache/DPP/
 ||data.idnes.cz/soutez/
 ||data.idnes.cz/uni/
-||devbook.cz/images/banners/
-||devbook.cz/images/partnersky*.jpg
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
 ||dobresenajim.cz/idnesbanner?
 ||edna.cz/static/web/img/banners/branding*
@@ -134,6 +132,8 @@ exashare.com###player_img
 ||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
+||itnetwork.cz/api/Abc-Def/def/16
+||itnetwork.cz##.ad-730
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
@@ -189,6 +189,7 @@ exashare.com###player_img
 ||serialycz.cz/wp-content/uploads/kupi.png
 ||showcase.gamepark.cz/
 ||skjalovec.com/img/banners/
+||sledujufilmy.cz##div[style="width: 930px; height: 180px; margin: 0 auto;"]
 ||slevy.tyden.cz/banner/
 ||spoluzaci.cz/img/new-skin/bgr-main.png
 ||static.autoweb.cz/img/brands/
@@ -901,6 +902,7 @@ serialzone.cz###top-banner
 simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
 simpsonovi-tv.cz###odkazy
+
 smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
