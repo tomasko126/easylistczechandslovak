@@ -125,6 +125,7 @@ exashare.com###player_img
 ||idnes.cz/r.asp?
 ||idnes.cz^*/body-$image
 ||idnes.cz^*/main-$image
+||idnes.cz##div#space-c-add
 ||im9.cz/*aukro
 ||img.blesk.cz/static/data/blesk/*bg.jpg
 ||img.mimiaukce.cz/h/ac/b/
@@ -134,8 +135,7 @@ exashare.com###player_img
 ||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
-||itnetwork.cz##div[style="margin-bottom: 10px;"]
-||itnetwork.cz/api/Abc-Def/*
+||itnetwork.cz##div.ad-730
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
