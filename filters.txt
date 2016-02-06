@@ -715,6 +715,8 @@ gamepark.cz##.banner
 gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
 games.tiscali.cz##.wide
+games.tiscali.cz##.box-offer
+games.tiscali.cz##.article-offer
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
@@ -1089,3 +1091,13 @@ titulky.com#@##reklama
 titulky.com#@#.pub_728x90
 @@||titulky.com/bannery/$image
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
+!poradte.cz!
+poradte.cz#@#.text-ad-links
+poradte.cz#@#.text-ads
+poradte.cz#@#.text_ads
+poradte.cz#@#.text_ad
+poradte.cz#@#.textAd
+poradte.cz#@#.text-ad
+poradte.cz#@#.pub_728x90
+poradte.cz#@#.pub_300x250m
+poradte.cz#@#.pub_300x250
