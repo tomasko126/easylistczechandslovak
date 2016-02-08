@@ -1101,3 +1101,4 @@ poradte.cz#@#.text-ad
 poradte.cz#@#.pub_728x90
 poradte.cz#@#.pub_300x250m
 poradte.cz#@#.pub_300x250
+@@||iprima.cz^$generichide
