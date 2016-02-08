@@ -125,7 +125,6 @@ exashare.com###player_img
 ||idnes.cz/r.asp?
 ||idnes.cz^*/body-$image
 ||idnes.cz^*/main-$image
-||idnes.cz##div#space-c-add
 ||im9.cz/*aukro
 ||img.blesk.cz/static/data/blesk/*bg.jpg
 ||img.mimiaukce.cz/h/ac/b/
@@ -135,7 +134,6 @@ exashare.com###player_img
 ||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
-||itnetwork.cz##div.ad-730
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
@@ -731,6 +729,7 @@ hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
+idnes.cz##div#space-c-add
 idnes.cz###aaa-box
 idnes.cz###advert
 idnes.cz###christmas-popup
@@ -768,6 +767,7 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
+itnetwork.cz##div.ad-730
 i-navody.cz###slider
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
