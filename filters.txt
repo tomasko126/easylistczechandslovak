@@ -3,7 +3,7 @@
 ! Title: Easylist Czech and Slovak filter list
 ! Last change: 23/12/2015
 ! List maintainers: tomasko126, Moskoe, Fanboy
-! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter & Blackbird88
+! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88 & Aslanex
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
@@ -676,6 +676,7 @@ doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 doupe.zive.cz###adframe-shell
+dpp.cz###top-banner
 drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
