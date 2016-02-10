@@ -722,6 +722,7 @@ hcplzen.cz###ads_top_box
 heureka.cz###banner-leaderboard
 heureka.cz###bottom
 heureka.cz##.filtr.category-partner
+heureka.cz##.banner-leaderboard-cover
 hokej.cz##.ban1
 hokej.cz##.dolni_reklama
 hokej.cz##.top_banner
