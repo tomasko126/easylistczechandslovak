@@ -956,6 +956,12 @@ vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
 volny.cz###services_content
+warcenter.istadin.co##DIV[align="center"]
+warcenter.istadin.co##TD[bgcolor="#066490"]
+warcenter.istadin.co###interVeil
+warcenter.istadin.co###lovexin14
+warcenter.istadin.co###lovexin12
+warcenter.istadin.co###divExoLayerWrapper
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
