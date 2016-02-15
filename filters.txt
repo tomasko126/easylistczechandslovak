@@ -769,6 +769,7 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
+idnes.cz##DIV.authors+DIV+DIV:not(.art-tags)
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
