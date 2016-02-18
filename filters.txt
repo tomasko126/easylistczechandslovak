@@ -778,9 +778,12 @@ karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz##.roumingLista
 kniha.cz##DIV[id^="banner"]
+kurzy.cz###adv_300adsense
+kurzy.cz###adv_doublesky
 kurzy.cz###adv_fullhead
 kurzy.cz###adv_nestandardni
 kurzy.cz###adv_prezentace
+kurzy.cz###adv_rectanglespodni
 kurzy.cz###elektro
 kurzy.cz###exchangedlinks
 kurzy.cz###partnerbox
