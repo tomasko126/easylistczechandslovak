@@ -742,13 +742,16 @@ idnes.cz###r-billboard
 idnes.cz###self-box
 idnes.cz###self-promo
 idnes.cz###selfik-box
+idnes.cz###space-c
 idnes.cz###topkontakt-ahead
 idnes.cz###topkontakt-sph
 idnes.cz###wbox-dovolena
 idnes.cz##.adbox-regiobox
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
+idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.authors + div
+idnes.cz##.authors + DIV + DIV:not(.art-tags)
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
@@ -769,7 +772,6 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
-idnes.cz##DIV.authors+DIV+DIV:not(.art-tags)
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
