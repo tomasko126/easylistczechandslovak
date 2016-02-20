@@ -751,11 +751,12 @@ idnes.cz##.aheadegiobox
 idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.authors + div
-idnes.cz##.authors + DIV + DIV:not(.art-tags)
+idnes.cz##.authors + DIV + DIV:not(#art-tags)
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
 idnes.cz##.m54
+idnes.cz###najdete + SCRIPT + DIV + DIV
 idnes.cz##.r-art.art
 idnes.cz##.r-body
 idnes.cz##.r-head
