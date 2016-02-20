@@ -540,6 +540,7 @@ ulozisko.sk#@##reklama_big
 ###topbanner
 ###zivefirmy
 ##.ad_font
+##.adform-adbox
 ##.advert-square
 ##.article-adtip-box
 ##.bazar-box
@@ -713,9 +714,12 @@ gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
-games.tiscali.cz##.wide
-games.tiscali.cz##.box-offer
 games.tiscali.cz##.article-offer
+games.tiscali.cz##.b-300x250
+games.tiscali.cz##.box-offer
+games.tiscali.cz##.pe-banner
+games.tiscali.cz##.wide
+games.tiscali.cz###alzadiv
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
