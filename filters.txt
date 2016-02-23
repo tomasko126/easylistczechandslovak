@@ -755,7 +755,7 @@ idnes.cz##.aheadegiobox
 idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.authors + div
-idnes.cz##.authors + DIV + DIV:not(#art-tags)
+idnes.cz##.authors + DIV + DIV [style="margin:0; font-size:100%;"]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
