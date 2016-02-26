@@ -716,10 +716,13 @@ gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
+games.tiscali.cz##.bbtitle
 games.tiscali.cz##.box-offer
 games.tiscali.cz##.pe-banner
+games.tiscali.cz##.sklik-ads
 games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
+games.tiscali.cz###aw0
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
@@ -756,6 +759,9 @@ idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.authors + div
 idnes.cz##.authors + DIV + DIV[style="margin:0; font-size:100%;"]
+idnes.cz##.authors + DIV + DIV[style="font-size:100%; margin:0;"]
+idnes.cz##A[style="display: block; font-weight: bold; font-size: 23px; letter-spacing: 0; padding-bottom: 50px; text-decoration:none;"]
+idnes.cz##A[class][href="#"][target="_top"]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
