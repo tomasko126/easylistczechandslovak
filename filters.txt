@@ -760,10 +760,10 @@ idnes.cz##.adbox-regiobox
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
+idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
 idnes.cz##.authors + div
-idnes.cz##.authors + DIV + DIV[style="margin:0; font-size:100%;"]
-idnes.cz##.authors + DIV + DIV[style="font-size:100%; margin:0px;"]
-idnes.cz##A[class][href][target="_top"]
+idnes.cz##.authors + DIV + DIV[style]
+idnes.cz##A[class][href][style]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
