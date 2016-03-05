@@ -598,6 +598,7 @@ alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
 amk.to###header
+andreashop.cz##.field.field-type-image.field-label-hidden
 auto.cz##.novinka_out
 autobazar.cz###biglink
 autoesa.cz###bannerPopup
@@ -719,6 +720,7 @@ gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
+games.tiscali.cz###banner
 games.tiscali.cz##.bbtitle
 games.tiscali.cz##.box-offer
 games.tiscali.cz##.pe-banner
@@ -726,6 +728,7 @@ games.tiscali.cz##.sklik-ads
 games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
 games.tiscali.cz###aw0
+games.tiscali.cz###sticky-top.sticky
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
