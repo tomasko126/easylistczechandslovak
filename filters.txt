@@ -744,34 +744,37 @@ hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
-idnes.cz##div#space-c-add
+idnes.cz##A[class][href][style]
+idnes.cz##DIV#space-c-add
 idnes.cz###aaa-box
 idnes.cz###advert
 idnes.cz###christmas-popup
 idnes.cz###eTargetContent
 idnes.cz###hyper300
+idnes.cz###najdete + SCRIPT + DIV + DIV
 idnes.cz###r
 idnes.cz###r-billboard
 idnes.cz###self-box
 idnes.cz###self-promo
 idnes.cz###selfik-box
 idnes.cz###space-c
+idnes.cz###space-c + DIV
 idnes.cz###topkontakt-ahead
 idnes.cz###topkontakt-sph
 idnes.cz###wbox-dovolena
 idnes.cz##.adbox-regiobox
+idnes.cz##.AdTrack-CSS-Link
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
-idnes.cz##.authors + div
+idnes.cz##.art-full > DIV[style]
+idnes.cz##.authors + DIV
 idnes.cz##.authors + DIV + DIV[style]
-idnes.cz##A[class][href][style]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
 idnes.cz##.m54
-idnes.cz###najdete + SCRIPT + DIV + DIV
 idnes.cz##.r-art.art
 idnes.cz##.r-body
 idnes.cz##.r-head
