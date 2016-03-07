@@ -744,7 +744,6 @@ hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
-idnes.cz##A[class][href][style]
 idnes.cz##DIV#space-c-add
 idnes.cz###aaa-box
 idnes.cz###advert
