@@ -767,7 +767,6 @@ idnes.cz##.aheadegiobox
 idnes.cz##.ahead
 idnes.cz##.ahead + DIV:not(.m-bg-1)
 idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
-idnes.cz##.art-full > DIV[style]
 idnes.cz##.authors + DIV
 idnes.cz##.authors + DIV + DIV[style]
 idnes.cz##.catchbox-dual-l
@@ -780,6 +779,7 @@ idnes.cz##.r-head
 idnes.cz##.r-text
 idnes.cz##.raketa_dacan
 idnes.cz##.sme-art
+idnes.cz##.text:not(#art-text)
 idnes.cz##.widesquare
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
