@@ -685,6 +685,7 @@ drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
 echo24.cz##.relama-caption
+ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
