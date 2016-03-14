@@ -685,7 +685,8 @@ drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
 echo24.cz##.relama-caption
-ekonomika.idnes.cz###foot2 DIV[style~="background-color:white;"]
+ekonomika.idnes.cz###art-tags DIV[style]
+ekonomika.idnes.cz###foot2 DIV[style]
 ekonomika.idnes.cz###main DIV[style~="font-size:"]
 ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
 ekonomika.idnes.cz###main > DIV#foot2[style]
