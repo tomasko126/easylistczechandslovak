@@ -786,6 +786,8 @@ idnes.cz##.raketa_dacan
 idnes.cz##.sme-art
 idnes.cz##.text:not(#art-text)
 idnes.cz##.widesquare
+idnes.cz###art-tags DIV[style]
+idnes.cz###foot2 DIV[style]
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
 ihned.cz###r-drazby
