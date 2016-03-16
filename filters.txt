@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 15/08/2015
-! List maintainers: Fanboy, Moskoe, tomasko126
+! Last change: 23/12/2015
+! List maintainers: tomasko126, Moskoe, Fanboy
+! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88 & Aslanex
 ! Expires: 3 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
@@ -16,7 +17,7 @@
 .cz/banners/$domain=~web.volny.cz
 .cz/bannery_
 .cz/img/banery/
-.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz
+.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz|~mironet.cz
 .cz/o/poutani^
 .cz/rs/get-iframe.php?
 .etargetnet.
@@ -88,7 +89,7 @@ exashare.com###player_img
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
-||data.idnes.cz/nocache/DPP/dacan/
+||data.idnes.cz/nocache/DPP/
 ||data.idnes.cz/soutez/
 ||data.idnes.cz/uni/
 ||devbook.cz/images/banners/
@@ -140,12 +141,12 @@ exashare.com###player_img
 ||kurzy.sfinance.cz/img/front/sfinance/*banner*
 ||letemsvetemapplem.eu/rklm/
 ||libise.eu/r/
-||linkbucks.com/visitScript/
 ||liveagent.mobilbonus.cz
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
 ||lui-magazine.cz/images/banners/nove/brand/
 ||luxusnirekreacnidomy.cz/adds/
+||majnuj.cz/wp-content/uploads/*/ulozto_button.png
 ||mamincinyrecepty.cz/images/banner*
 ||matematika.cz/content/files/*/background*.jpg
 ||matematika.cz/content/files/snapbacks/
@@ -163,6 +164,8 @@ exashare.com###player_img
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
+||parabola.cz/img_menu/s125_01.gif
+||partner.alza.cz$domain=majnuj.cz
 ||partner.xprovize.cz/accounts/default*/banners/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||playing.flashx.tv:81/player_embed.js
@@ -229,8 +232,10 @@ exashare.com###player_img
 ||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
+||zkouknito.cz/js/js.htmlad.js
 ||zvraceny.cz/data/upload/
 ||zvukarina.cz/forum/images/ostatni/
+
 !
 ! ---------- Slovak 1st party blocking rules ----------!
 !
@@ -339,6 +344,7 @@ exashare.com###player_img
 ||allewidget.aukro.cz^$third-party
 ||aukro.cz/ap/ap_show.php?$third-party
 ||autoesa.cz/dynbann/$third-party
+||automodul.cz$third-party
 ||b.lookit.cz^$third-party,subdocument
 ||banan.cz^$third-party
 ||banner.ifortuna.cz^$third-party
@@ -410,6 +416,7 @@ exashare.com###player_img
 @@||adserver.adtech.de/?advideo/3.0/
 @@/advertisements/*$domain=automotofans.cz
 @@/banners/banner$domain=hafici.cz|svatba.cz
+@@/VideoAd/*$domain=zkouknito.cz
 @@||activesolutions.cz/ad/www/delivery/ajs.php?zoneid=19&$script,domain=autoroad.cz
 @@||ads2.czc.cz/www/
 @@||alfacomp.cz/reklama/
@@ -430,6 +437,7 @@ exashare.com###player_img
 @@||iboys.cz/advert-list.php
 @@||i.imedia.cz/js/im2.js
 @@||i.imedia.cz/js/im3.js
+@@||images.mironet.cz$image
 @@||moviezone.cz/js/
 @@||*.nova.cz/static/cz/shared/js/advert.js
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
@@ -437,6 +445,8 @@ exashare.com###player_img
 @@||ocko.tv/content/adv/flash/
 @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 @@||reklama-*.cz
+@@||reklama.mironet.cz$image
+@@||reklama.mironet.cz/axshown*.php$script
 @@||smartmania.cz/advertisment.js
 @@||sokolov.cz/images/reklama/
 @@||static.flashx.tv/js/advertisement.js
@@ -448,6 +458,8 @@ exashare.com###player_img
 @@||ta3.com/advert-async-system/load-items.html?
 doupe.zive.cz#@##adblock-leaderboard
 lidovky.cz#@#.col-ad
+nissanclub.cz#@#.reklama
+play.iprima.cz#@#.ads-wrapper
 realitygo.cz#@#.advert-detail
 sluzebnik.cz#@##adverts
 zive.cz#@#.box-adsense
@@ -460,6 +472,7 @@ zive.cz#@#.box-adsense
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
 mojevideo.sk#@##video_ad
+@@||openload.co/ad.php
 @@||openload.io/assets/js/advertisement.js
 @@||openload.io/assets/js/pop.js
 @@||openload.io/assets/js/popad.js
@@ -472,11 +485,23 @@ mojevideo.sk#@##video_ad
 @@||reklama.hiking.sk/lib/HikingMaps-3.0.2.js
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
-@@||topserialy.sk/js/ads.js
-@@||topserialy.sk/js/advert.js
+@@||topserialy.sk/*/adblock.js
+@@||topserialy.sk/*/ads.js
+@@||topserialy.sk/*/advert.js
+@@||topserialy.sk/*/adverts.js
+@@||topserialy.sk/*/advert-detail.js
+@@||topserialy.sk/*/advertisement.js
+@@||topserialy.sk/*/fuckadblock.js
+@@||topserialy.sk/*/popad.js
 @@||tpd.sk/ads/rotator/
-ulozisko.sk#@##reklama_big
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
+komentare.sme.sk#@#.share-box
+topserialy.sk#@##ad-box
+topserialy.sk#@##adsense
+topserialy.sk#@##tester
+topserialy.sk#@#.big-ad
+topserialy.sk#@#.video_ad
+ulozisko.sk#@##reklama_big
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------!
 !
@@ -515,6 +540,7 @@ ulozisko.sk#@##reklama_big
 ###topbanner
 ###zivefirmy
 ##.ad_font
+##.adform-adbox
 ##.advert-square
 ##.article-adtip-box
 ##.bazar-box
@@ -553,8 +579,10 @@ ulozisko.sk#@##reklama_big
 ##.velke_zlavy
 ##.vreklama
 ##.zlavy-box
+##[id^="aswift"]
 ##[id^="sklikReklama"]
 ##[id^="sm-ad"]
+
 !
 !---------- Czech Site Specific Element Hiding Rules ----------!
 !
@@ -570,6 +598,7 @@ alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
 amk.to###header
+andreashop.cz##.field.field-type-image.field-label-hidden
 auto.cz##.novinka_out
 autobazar.cz###biglink
 autoesa.cz###bannerPopup
@@ -634,10 +663,12 @@ csfd.cz##.branding.right
 csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
 ct24.cz##.commercialBox
+ctrlv.cz##DIV[id^="ad"]
 cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###bnr_middle
+cztorrent.net###bnr_header
 cztorrent.net###hracky
 dama.cz###adframe-shell
 denik.cz##.rkl-top
@@ -649,9 +680,16 @@ doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ban1
 doupe.zive.cz###adframe-shell
+dpp.cz###top-banner
 drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
+echo24.cz##.relama-caption
+ekonomika.idnes.cz###art-tags DIV[style]
+ekonomika.idnes.cz###foot2 DIV[style]
+ekonomika.idnes.cz###main DIV[style~="font-size:"]
+ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
+ekonomika.idnes.cz###main > DIV#foot2[style]
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
@@ -685,13 +723,24 @@ gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
+games.tiscali.cz##.article-offer
+games.tiscali.cz##.b-300x250
+games.tiscali.cz###banner
+games.tiscali.cz##.bbtitle
+games.tiscali.cz##.box-offer
+games.tiscali.cz##.pe-banner
+games.tiscali.cz##.sklik-ads
 games.tiscali.cz##.wide
+games.tiscali.cz###alzadiv
+games.tiscali.cz###aw0
+games.tiscali.cz###sticky-top.sticky
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
 heureka.cz###banner-leaderboard
 heureka.cz###bottom
 heureka.cz##.filtr.category-partner
+heureka.cz##.banner-leaderboard-cover
 hokej.cz##.ban1
 hokej.cz##.dolni_reklama
 hokej.cz##.top_banner
@@ -699,21 +748,32 @@ hokej.cz##.top_banner_second
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
+idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
+idnes.cz##DIV#space-c-add
 idnes.cz###aaa-box
 idnes.cz###advert
+idnes.cz###christmas-popup
 idnes.cz###eTargetContent
 idnes.cz###hyper300
+idnes.cz###najdete + SCRIPT + DIV + DIV
 idnes.cz###r
 idnes.cz###r-billboard
 idnes.cz###self-box
 idnes.cz###self-promo
 idnes.cz###selfik-box
+idnes.cz###space-c
+idnes.cz###space-c + DIV
 idnes.cz###topkontakt-ahead
 idnes.cz###topkontakt-sph
 idnes.cz###wbox-dovolena
 idnes.cz##.adbox-regiobox
+idnes.cz##.AdTrack-CSS-Link
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
+idnes.cz##.ahead + DIV:not(.m-bg-1)
+idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
+idnes.cz##.authors + DIV
+idnes.cz##.authors + DIV + DIV[style]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
@@ -724,6 +784,7 @@ idnes.cz##.r-head
 idnes.cz##.r-text
 idnes.cz##.raketa_dacan
 idnes.cz##.sme-art
+idnes.cz##.text:not(#art-text)
 idnes.cz##.widesquare
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
@@ -734,6 +795,7 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
+itnetwork.cz##div.ad-730
 i-navody.cz###slider
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
@@ -741,9 +803,12 @@ karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz##.roumingLista
 kniha.cz##DIV[id^="banner"]
+kurzy.cz###adv_300adsense
+kurzy.cz###adv_doublesky
 kurzy.cz###adv_fullhead
 kurzy.cz###adv_nestandardni
 kurzy.cz###adv_prezentace
+kurzy.cz###adv_rectanglespodni
 kurzy.cz###elektro
 kurzy.cz###exchangedlinks
 kurzy.cz###partnerbox
@@ -878,6 +943,9 @@ sms.cz###P_reklama_horni
 sms.cz##.reklamni_sdeleni
 sms.cz##.rs_reklama
 sms.cz##[style="vertical-align:middle; text-align: left; width: 139px;"]
+sms.1188.cz##.leader
+sms.1188.cz##.sky-right
+sms.1188.cz##.sky-left
 sms.t-zones.cz###adv-topmenu-bar
 sms.t-zones.cz###gk-skyscraper
 sms.t-zones.cz##P[style="font-size:10px;margin:0;"]
@@ -920,6 +988,12 @@ vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
 volny.cz###services_content
+warcenter.istadin.co##DIV[align="center"]
+warcenter.istadin.co##TD[bgcolor="#066490"]
+warcenter.istadin.co###interVeil
+warcenter.istadin.co###lovexin14
+warcenter.istadin.co###lovexin12
+warcenter.istadin.co###divExoLayerWrapper
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
@@ -934,6 +1008,7 @@ webovastranka.cz###overlay
 webshare.cz##.banner
 webshare.cz##.ws-adver-bg
 webtrh.cz##.breadcrumb + .ui-state-default
+webtrh.cz##OL > LI[id^="navbar_notice"]
 wmmania.cz###header-banner
 zdravi.tiscali.cz###zone-tiscali-zdravi-wide
 zena-in.cz##.reklama-doporucujeme-right
@@ -945,8 +1020,11 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
+zive.cz###page-hub-wrapper
 zive.cz##.banner
 zive.cz##.banner-box
+zive.cz##.bx-ext-rss
+zive.cz##.bx-livecompanies
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
@@ -1053,3 +1131,15 @@ titulky.com#@##reklama
 titulky.com#@#.pub_728x90
 @@||titulky.com/bannery/$image
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
+!poradte.cz!
+poradte.cz#@#.text-ad-links
+poradte.cz#@#.text-ads
+poradte.cz#@#.text_ads
+poradte.cz#@#.text_ad
+poradte.cz#@#.textAd
+poradte.cz#@#.text-ad
+poradte.cz#@#.pub_728x90
+poradte.cz#@#.pub_300x250m
+poradte.cz#@#.pub_300x250
+@@||poradte.cz/js/ads.js
+@@||iprima.cz^$generichide
