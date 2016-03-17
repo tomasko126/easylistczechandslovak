@@ -686,10 +686,14 @@ e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
 echo24.cz##.relama-caption
 ekonomika.idnes.cz###art-tags DIV[style]
+ekonomika.idnes.cz###art-tags[class]:not(.art-tags)
+ekonomika.idnes.cz###content > DIV > DIV > DIV > A[href][style]
 ekonomika.idnes.cz###foot2 DIV[style]
+ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
 ekonomika.idnes.cz###main DIV[style~="font-size:"]
 ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
 ekonomika.idnes.cz###main > DIV#foot2[style]
+ekonomika.idnes.cz###main > DIV#foot2[class]
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
