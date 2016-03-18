@@ -106,7 +106,10 @@ exashare.com###player_img
 ||flash.stream.cz/get_sklik/
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
+||games.tiscali.cz/*/extra/*
+||games.tiscali.cz/*/partnerJsApi*
 ||garaz.autorevue.cz/advantage.js
+||gemius.pl
 ||geewa.ws/js/ad.
 ||gidnes.cz/b/
 ||heureka.cz/direct/bannery/
@@ -167,6 +170,7 @@ exashare.com###player_img
 ||parabola.cz/img_menu/s125_01.gif
 ||partner.alza.cz$domain=majnuj.cz
 ||partner.xprovize.cz/accounts/default*/banners/
+||performax.cz
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||playing.flashx.tv:81/player_embed.js
 ||podnikovyzpravodaj.cz/homepage/banner
@@ -685,15 +689,22 @@ drumandbass.cz##.banner
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
 echo24.cz##.relama-caption
+ekonomika.idnes.cz##DIV#space-c-add
+ekonomika.idnes.cz##.ahead + DIV:not(.m-bg-1)
+ekonomika.idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
+ekonomika.idnes.cz##.authors + DIV
+ekonomika.idnes.cz##.authors + DIV + DIV[style]
+ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
+ekonomika.idnes.cz##.text:not(#art-text)
 ekonomika.idnes.cz###art-tags DIV[style]
 ekonomika.idnes.cz###art-tags[class]:not(.art-tags)
 ekonomika.idnes.cz###content > DIV > DIV > DIV > A[href][style]
 ekonomika.idnes.cz###foot2 DIV[style]
-ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
 ekonomika.idnes.cz###main DIV[style~="font-size:"]
 ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
 ekonomika.idnes.cz###main > DIV#foot2[style]
 ekonomika.idnes.cz###main > DIV#foot2[class]
+ekonomika.idnes.cz###najdete + SCRIPT + DIV + DIV
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
@@ -729,14 +740,17 @@ gamepark.cz##.headerpicture
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
-games.tiscali.cz###banner
 games.tiscali.cz##.bbtitle
 games.tiscali.cz##.box-offer
 games.tiscali.cz##.pe-banner
 games.tiscali.cz##.sklik-ads
+games.tiscali.cz##.top.row-main
 games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
 games.tiscali.cz###aw0
+games.tiscali.cz###banner
+games.tiscali.cz###cookie-bar
+games.tiscali.cz###intAds
 games.tiscali.cz###sticky-top.sticky
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
@@ -753,13 +767,11 @@ hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
-idnes.cz##DIV#space-c-add
 idnes.cz###aaa-box
 idnes.cz###advert
 idnes.cz###christmas-popup
 idnes.cz###eTargetContent
 idnes.cz###hyper300
-idnes.cz###najdete + SCRIPT + DIV + DIV
 idnes.cz###r
 idnes.cz###r-billboard
 idnes.cz###self-box
@@ -774,10 +786,6 @@ idnes.cz##.adbox-regiobox
 idnes.cz##.AdTrack-CSS-Link
 idnes.cz##.aheadegiobox
 idnes.cz##.ahead
-idnes.cz##.ahead + DIV:not(.m-bg-1)
-idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
-idnes.cz##.authors + DIV
-idnes.cz##.authors + DIV + DIV[style]
 idnes.cz##.catchbox-dual-l
 idnes.cz##.col-r
 idnes.cz##.fix-m11
@@ -788,7 +796,6 @@ idnes.cz##.r-head
 idnes.cz##.r-text
 idnes.cz##.raketa_dacan
 idnes.cz##.sme-art
-idnes.cz##.text:not(#art-text)
 idnes.cz##.widesquare
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
