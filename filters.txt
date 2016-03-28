@@ -705,7 +705,6 @@ ekonomika.idnes.cz###foot2 DIV[style]
 ekonomika.idnes.cz###foot2 DIV[class^="c"]
 ekonomika.idnes.cz###foot2 > DIV[class]
 ekonomika.idnes.cz###main DIV[style~="font-size:"]
-ekonomika.idnes.cz###main > DIV:not(.m-bg-1):not(#foot2)
 ekonomika.idnes.cz###main > DIV#foot2[style]
 ekonomika.idnes.cz###main > DIV#foot2[class]
 ekonomika.idnes.cz###najdete + SCRIPT + DIV + DIV
