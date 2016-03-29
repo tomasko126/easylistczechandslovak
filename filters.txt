@@ -240,6 +240,17 @@ exashare.com###player_img
 ||zvraceny.cz/data/upload/
 ||zvukarina.cz/forum/images/ostatni/
 
+! idnes.cz
+||idnes.cz$script,~third-party
+@@||servix.idnes.cz$script,~third-party
+@@||mapy.idnes.cz$script,~third-party
+@@||jizdnirady.idnes.cz$script,~third-party
+@@||idnes.cz/cms$script,~third-party
+@@||idnes.cz/js$script,~third-party
+@@||idnes.cz/foto.aspx$script,~third-party
+@@||static.akcniceny.cz$image,third-party
+@@||data.idnes.cz$script,~third-party
+
 !
 ! ---------- Slovak 1st party blocking rules ----------!
 !
