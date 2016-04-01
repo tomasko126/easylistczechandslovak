@@ -240,6 +240,10 @@ exashare.com###player_img
 ||zvraceny.cz/data/upload/
 ||zvukarina.cz/forum/images/ostatni/
 
+! games.tiscali.cz
+||games.tiscali.cz/*/^$image,~third-party
+@@||games.tiscali.cz/img/
+
 ! idnes.cz
 ||idnes.cz$script,~third-party
 @@||servix.idnes.cz$script,~third-party
@@ -381,6 +385,7 @@ exashare.com###player_img
 ||himymonline.tv/ssb/$domain=simpsonovi-tv.cz
 ||hudebniraj.cz/inshop/Layout/bannery_external/^&third-party
 ||i.imedia.cz/$third-party
+||ibillboard.com^$third-party
 ||im9.cz/*/vyrobce/*background*$third-party
 ||inclick.sk^$third-party
 ||intext.billboard.cz^$third-party
@@ -751,6 +756,8 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
+games.tiscali.cz##A[href*="go.cz.bbelements.com"]
+games.tiscali.cz##A[href*="click.performax.cz"]
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
