@@ -241,7 +241,7 @@ exashare.com###player_img
 ||zvukarina.cz/forum/images/ostatni/
 
 ! games.tiscali.cz
-||games.tiscali.cz/*/^$image,~third-party
+||games.tiscali.cz/$image,~third-party
 @@||games.tiscali.cz/img/
 
 ! idnes.cz
