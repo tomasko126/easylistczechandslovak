@@ -751,6 +751,7 @@ fotoaparat.cz##[style="position: absolute; top: 610px; left: 770px; width: 155px
 fotoaparat.cz##[style="width:628px; height:60px"]
 fotoradce.cz###reklamad-vlevo
 fotoradce.cz###reklamavlevo
+g.cz##.advert-fallback
 gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
@@ -1176,4 +1177,5 @@ poradte.cz#@#.pub_300x250m
 poradte.cz#@#.pub_300x250
 @@||poradte.cz/js/ads.js
 @@||iprima.cz^$generichide
+@@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 mazdaclub.cz#@#.reklama
