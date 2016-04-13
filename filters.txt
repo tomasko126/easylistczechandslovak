@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 05/04/2015
+! Last change: 13/04/2015
 ! List maintainers: tomasko126, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88 & Aslanex
 ! Expires: 3 days
@@ -332,6 +332,9 @@ exashare.com###player_img
 ||war-board.net/images/vlastenec.jpg
 ||war-board.net/reklamasj.js
 ||war4u.sk/banners/
+||warmacher.com/banner.png
+||warmacher.com/bathshop.jpg
+||warmacher.com/banner.gif
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
 !
@@ -1149,6 +1152,8 @@ topserialy.sk##.dreamair
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
 tv-program.sk##.dragobj > div:nth-of-type(2)
+warmacher.com###fblikebg
+warmacher.com###fblikepop
 warmacher.com###reklamne_bannery
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
