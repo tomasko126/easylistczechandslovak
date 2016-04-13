@@ -1,7 +1,7 @@
-easylistczechandslovak
+EasyList Czech and Slovak
 ======================
 
-Easylist Czech and Slovak is an official filter list for AdBlock and Adblock Plus.
+Easylist Czech and Slovak is an official filter list for AdBlock, Adblock Plus and other ad blockers.
 
 In /host folder
  - Hosts file, which can be used for redirecting known ad servers to localhost
