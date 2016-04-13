@@ -643,6 +643,7 @@ blisty.cz##.midadv
 blisty.cz##.topadv
 blog.cz###mainBanner
 bohemians.cz###reklama_uvod
+budejckadrbna.cz##A[href^="http://www.budejckadrbna.cz/proclick.html"]
 businessworld.cz###skyscraper
 businessworld.cz##.banner
 businessworld.cz##.square_banner
