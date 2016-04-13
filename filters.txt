@@ -467,6 +467,8 @@ exashare.com###player_img
 @@||ocko.tv/content/adv/flash/
 @@|http://pagead2.googlesyndication.com/pagead/show_ads.js$domain=pismenkuje.cz|pise.cz|blbne.cz|bonzuje.cz|sdeluje.cz|svetu.cz|vzpomina.cz
 @@||reklama-*.cz
+@@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
+@@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||reklama.mironet.cz$image
 @@||reklama.mironet.cz/axshown*.php$script
 @@||smartmania.cz/advertisment.js
