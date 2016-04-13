@@ -758,6 +758,7 @@ fotoaparat.cz##[style="width:628px; height:60px"]
 fotoradce.cz###reklamad-vlevo
 fotoradce.cz###reklamavlevo
 g.cz##.advert-fallback
+g.cz###block-g-advert-d-leaderboard
 gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
