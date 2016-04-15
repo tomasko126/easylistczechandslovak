@@ -240,8 +240,14 @@ exashare.com###player_img
 ||zvukarina.cz/forum/images/ostatni/
 
 ! games.tiscali.cz
-||games.tiscali.cz/$image,~third-party
-@@||games.tiscali.cz/img/
+||games.tiscali.cz/$image,script,~third-party
+@@||games.tiscali.cz/img/bg/
+@@||games.tiscali.cz/img/special/
+@@||games.tiscali.cz/img/socials.png
+@@||games.tiscali.cz/img/logo-games.png
+@@||games.tiscali.cz/img/fav/
+@@||games.tiscali.cz/img/adblock_on.gif
+@@||games.tiscali.cz/js/
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
@@ -774,6 +780,7 @@ games.tiscali.cz##.bbtitle
 games.tiscali.cz##.box-offer
 games.tiscali.cz##.pe-banner
 games.tiscali.cz##.sklik-ads
+games.tiscali.cz##.sklik-ad
 games.tiscali.cz##.top.row-main
 games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
