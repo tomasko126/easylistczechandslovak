@@ -768,11 +768,11 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
-games.tiscali.cz##A[href*="go.cz.bbelements.com"]
 games.tiscali.cz##A[href*="click.performax.cz"]
 games.tiscali.cz##A[href*="CREFURL"]
 games.tiscali.cz##A[href*="utm_campaign"]
 games.tiscali.cz##A[href*="mmotraffic.com"]
+games.tiscali.cz##BODY > DIV:first-of-type > DIV:first-of-type
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
