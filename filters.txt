@@ -1203,5 +1203,6 @@ poradte.cz#@#.pub_300x250
 mazdaclub.cz#@#.reklama
 games.tiscali.cz#@##ads-test
 games.tiscali.cz#@#.afs_ads
+games.tiscali.cz#@#.tracked-event
 @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
 @@||games.tiscali.cz/img/adblock_on.gif
