@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 30/04/2015
+! Last change: 02/05/2015
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88
 ! Expires: 3 days
@@ -449,6 +449,7 @@ exashare.com###player_img
 @@||alfacomp.cz/reklama/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/crossdomain.xml$domain=idnes.cz
+@@||bibloo.cz^$xmlhttprequest
 @@||blesk.cz/js/*adocean.js*$domain=synotliga.isport.blesk.cz
 @@||blesk.cz/js/*/player/videoad.swf*$domain=synotliga.isport.blesk.cz
 @@||c.mfstatic.cz/js/advantage.min.js$domain=doupe.zive.cz
@@ -768,7 +769,6 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
-games.tiscali.cz##A[href*="click.performax.cz"]
 games.tiscali.cz##A[href*="CREFURL"]
 games.tiscali.cz##A[href*="utm_campaign"]
 games.tiscali.cz##A[href*="mmotraffic.com"]
@@ -1206,3 +1206,4 @@ games.tiscali.cz#@#.afs_ads
 games.tiscali.cz#@#.tracked-event
 @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
 @@||games.tiscali.cz/img/adblock_on.gif
+@@||games.tiscali.cz^$generichide
