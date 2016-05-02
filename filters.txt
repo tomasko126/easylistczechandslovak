@@ -695,6 +695,7 @@ csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
 ct24.cz##.commercialBox
 ctrlv.cz##DIV[id^="ad"]
+ctrlv.cz##DIV.behind
 cyklotoulkytv.cz##.advert_vert_cs.advert_745x100
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
