@@ -1208,3 +1208,4 @@ games.tiscali.cz#@#.tracked-event
 @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
 @@||games.tiscali.cz/img/adblock_on.gif
 @@||games.tiscali.cz^$generichide
+root.cz###adblockMessage
