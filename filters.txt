@@ -886,6 +886,7 @@ lidovky.cz###self-box
 lidovky.cz###self-promo
 lidovky.cz###selfik-box
 lidovky.cz##.ahead
+lidovky.cz##.authors + DIV:not(.related)
 lidovky.cz##.widesquare
 lui-magazine.cz##.bannergroup
 lupa.cz###speed-promo
