@@ -152,7 +152,7 @@ exashare.com###player_img
 ||mamincinyrecepty.cz/images/banner*
 ||matematika.cz/content/files/*/background*.jpg
 ||matematika.cz/content/files/snapbacks/
-||mfad*.advantage.as
+||mf*ad*.advantage.as
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
 ||mluveneslovo.chaves.cz/images/banners/palace.gif
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
@@ -965,6 +965,8 @@ programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
 recepty.vareni.cz##.banner
+rejstrik.finance.cz##.right > IFRAME
+rejstrik.finance.cz##.toScroll
 restaurace.cz##.banner-120-600
 restaurace.cz##.banner-300-300
 ronnie.cz###fixedMenu
