@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 02/06/2015
+! Last change: 03/05/2015
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88
 ! Expires: 3 days
@@ -152,7 +152,7 @@ exashare.com###player_img
 ||mamincinyrecepty.cz/images/banner*
 ||matematika.cz/content/files/*/background*.jpg
 ||matematika.cz/content/files/snapbacks/
-||mf*ad*.advantage.as
+||mfad*.advantage.as
 ||mluveneslovo.chaves.cz/images/banners/castor_745x150.jpg
 ||mluveneslovo.chaves.cz/images/banners/palace.gif
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
@@ -162,8 +162,6 @@ exashare.com###player_img
 ||mrk.cz/images/baners/
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
-||navratdoreality.cz/static/branding$image
-||navratdoreality.cz/static/takeover$image
 ||novinky.cz/static/css/xmas.css
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||online-filmy-zdarma.cz/upload/Banner/
@@ -777,11 +775,7 @@ games.tiscali.cz##A[href*="utm_campaign"]
 games.tiscali.cz##A[href*="mmotraffic.com"]
 games.tiscali.cz##DIV[-abp-properties="min-height: 200px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
-games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
-games.tiscali.cz##DIV[-abp-properties="height: 20*.*px"]
-games.tiscali.cz##DIV[-abp-properties="height: 19*.*px"]
 games.tiscali.cz##DIV[style*="z-index:9999"]
-games.tiscali.cz##DIV[style*="height: 200px; position: relative;"]
 games.tiscali.cz##.adtext
 games.tiscali.cz##.article-offer
 games.tiscali.cz##.b-300x250
@@ -800,8 +794,6 @@ games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
 games.tiscali.cz###aw0
 games.tiscali.cz###banner
-games.tiscali.cz###brand-right
-games.tiscali.cz###brand-left
 games.tiscali.cz###cookie-bar
 games.tiscali.cz###intAds
 games.tiscali.cz###menu-accessibility + DIV:not(#header)
@@ -862,7 +854,6 @@ ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
-jizdnirady.idnes.cz##.advert
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
 karaoketexty.cz###branding_link
@@ -892,7 +883,6 @@ lidovky.cz###self-box
 lidovky.cz###self-promo
 lidovky.cz###selfik-box
 lidovky.cz##.ahead
-lidovky.cz##.authors + DIV:not(.related)
 lidovky.cz##.widesquare
 lui-magazine.cz##.bannergroup
 lupa.cz###speed-promo
@@ -929,7 +919,6 @@ naseadresa.cz##.advertAlignBoxSpec
 naseadresa.cz##.homeAdvertisement
 nasepenize.cz##.ks-detail-clanku
 nasepenize.cz##.latest-hypertext
-navratdoreality.cz##A[href*="utm_campaign"]
 navratdoreality.cz##IMG[src="pub/naprivat-250x250-02.jpg"]
 nejlevnejsiramy.cz###banner_overlay
 netu.tv###this-pays-for-bandwidth-container-hor
@@ -948,8 +937,6 @@ nova.cz##.big_baner
 nova.cz##.pr_box
 novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
-olomouckadrbna.cz###bannerTop
-olomouckadrbna.cz##.bs-overhidden
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 orbion.cz###DIV[style="text-align: center; display: none; z-index: 9999; bottom: 0px;"]
@@ -971,8 +958,6 @@ programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
 recepty.vareni.cz##.banner
-rejstrik.finance.cz##.right > IFRAME
-rejstrik.finance.cz##.toScroll
 restaurace.cz##.banner-120-600
 restaurace.cz##.banner-300-300
 ronnie.cz###fixedMenu
@@ -1218,7 +1203,6 @@ poradte.cz#@#.pub_300x250
 @@||poradte.cz/js/ads.js
 @@||iprima.cz^$generichide
 @@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
-@@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/*
 mazdaclub.cz#@#.reklama
 games.tiscali.cz#@##ads-test
 games.tiscali.cz#@#.afs_ads
@@ -1226,6 +1210,3 @@ games.tiscali.cz#@#.tracked-event
 @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
 @@||games.tiscali.cz/img/adblock_on.gif
 @@||games.tiscali.cz^$generichide
-@@||topserialy.sk/*fuck-adblock$script
-@@||topserialy.sk$generichide
-idnes.cz##DIV[id*="adb-box"]
