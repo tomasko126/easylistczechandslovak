@@ -900,6 +900,7 @@ mapy.in-pocasi.cz###topbanner
 mapy.in-pocasi.cz##.devicewidth
 maminka.cz###adframe-shell
 maminka.cz###hledejceny-banner
+maminka.cz##.bx-bb
 matematika.cz###box-3
 matematika.cz###rbackground-link
 matematika.cz##DIV[id*="reklama"]
@@ -911,6 +912,7 @@ mesec.cz##.ad.ad-stickyboard
 minecrafak.cz###poutak
 minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
+mobilmania.cz##.bx-bb
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
 mojevideo.sk###brnd
