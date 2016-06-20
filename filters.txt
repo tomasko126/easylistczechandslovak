@@ -261,6 +261,8 @@ exashare.com###player_img
 @@||idnes.cz/foto.aspx$script,~third-party
 @@||static.akcniceny.cz$image,third-party
 @@||data.idnes.cz$script,~third-party
+@@||dc.idnes.cz$script,~third-party
+@@||servis.idnes.cz$script,~third-party
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
