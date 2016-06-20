@@ -253,6 +253,7 @@ exashare.com###player_img
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
+@@||servix.idnes.cz/media$script,first-party
 @@||mapy.idnes.cz$script,~third-party
 @@||jizdnirady.idnes.cz$script,~third-party
 @@||idnes.cz/cms$script,~third-party
