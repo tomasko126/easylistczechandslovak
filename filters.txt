@@ -1240,3 +1240,4 @@ games.tiscali.cz#@#.tracked-event
 @@||topserialy.sk/*fuck-adblock$script
 @@||topserialy.sk$generichide
 idnes.cz##DIV[id*="adb-box"]
+@@||i0.cz/js/advert.
