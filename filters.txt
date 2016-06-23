@@ -644,7 +644,11 @@ autotube.cz##.rklh
 autotube.cz##.rklv
 autoweb.cz##.rklh
 befun.cz##.ad
+blesk.cz##[class*="adform"]
+blesk.cz##[class*="banheight"]
+blesk.cz###ads-leader-board
 blesk.cz###slevisteBox
+blesk.cz##.article-ad-wrapper
 blesk.cz##.boxSlevy.bottomStickyBlock
 blesk.cz##.boxShopy.bottomStickyBlock
 blesk.cz##.crossPromo
