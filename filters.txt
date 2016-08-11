@@ -78,6 +78,7 @@ exashare.com###player_img
 ||autoesa.cz/files/bannery/
 ||avony.cz/mp3splocha.php
 ||bannery.ccb.cz^
+||bcastgw.livebox.cz/TA3_VOD_COM/
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
@@ -108,11 +109,12 @@ exashare.com###player_img
 ||hry.cz/t/h/ad/
 ||hyperinzerce.cz/images/banner-text-
 ||i.iinfo.cz/l/ads/
+||i.iinfo.cz/sh/ads/
 ||i.mimibazar.cz/h/bc/b/
 ||i.stream.cz/channel/background/
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/realitymix/ext-data/
-||i.sme.sk/fst/
+||img.karaoketexty.cz/img/ad/
 ||idnes.cz/foto.aspx?*&ad=
 ||idnes.cz/js/ad/
 ||idnes.cz/r.asp?
@@ -143,6 +145,7 @@ exashare.com###player_img
 ||mluveneslovo.chaves.cz/images/user/pokourenicko.jpg
 ||mp3s.nadruhou.net/avony_square.gif
 ||mp3s.nadruhou.net/js/bastard_*.js
+||mp3stahuj.cz/images/*banner*
 ||mrk.cz/images/baners/
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
@@ -150,6 +153,9 @@ exashare.com###player_img
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
+||parabola.cz/img_menu/b*
+||parabola.cz/img_menu/ico_*.gif
+||parabola.cz/img_menu/flash_astra.swf
 ||partner.xprovize.cz/accounts/default*/banners/
 ||phaeton.nadruhou.net/data/mp3s/bastard/
 ||podnikovyzpravodaj.cz/homepage/banner
@@ -224,7 +230,6 @@ exashare.com###player_img
 ||autobazar.eu/__branding/
 ||banners.spoluziaci.sk
 ||bannersector.sector.sk/
-||bcastgw.livebox.cz/TA3_VOD_COM/
 ||best4you.sk/templates/subSilverPlus/images/Viaczdravialink.swf
 ||bmwklub.sk/images/banners/
 ||c.sme.sk/imgs/ext/napizzu/napizzu.jpg
@@ -241,8 +246,7 @@ exashare.com###player_img
 ||gamesite.sk/templates/gamesite_sk/images/background*/
 ||hnonline.sk/*hn_lekaren_extra_blok.png
 ||hojko.com/images/banner*.gif
-||i.iinfo.cz/sh/ads/
-||img.karaoketexty.cz/img/ad/
+||i.sme.sk/fst/
 ||img.teevee.sk/img/beangel*.gif
 ||img.teevee.sk/img/TEE-Final2.gif
 ||img5.uloz.to/ul3/images/hp_brand_tsbohemia.jpg
@@ -252,14 +256,10 @@ exashare.com###player_img
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojevideo.sk/ff.jpg
 ||mojevideo.sk/star.jpg
-||mp3stahuj.cz/images/*banner*
 ||onlinefilmy.tv/*bg*.jpg
 ||onlinefilmy.tv/giga.ogv
 ||onlinovky.sk/bannery/
 ||ourphorum.com/images/banner*
-||parabola.cz/img_menu/b*
-||parabola.cz/img_menu/ico_*.gif
-||parabola.cz/img_menu/flash_astra.swf
 ||partner.zoznam.sk
 ||player.joj.sk/age-chooser.swf
 ||pricemania.sk/pictures/banners/
@@ -334,7 +334,6 @@ exashare.com###player_img
 ||hudebniraj.cz/inshop/Layout/bannery_external/^&third-party
 ||i.imedia.cz/$third-party
 ||im9.cz/*/vyrobce/*background*$third-party
-||inclick.sk^$third-party
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
 ||intext.wdt.cz^$third-party
@@ -368,6 +367,7 @@ exashare.com###player_img
 ||be1.sk^$third-party
 ||heureka.sk^$third-party
 ||imr.sk^$third-party
+||inclick.sk^$third-party
 ||ls.hit.gemius.pl/^$third-party
 ||netsuccess.sk$third-party
 ||p1.naj.sk^$third-party
@@ -517,6 +517,7 @@ aktualne.centrum.cz##.box-reality
 aktualne.centrum.cz##.cars-regiony
 aktualne.centrum.cz##.regiony-najisto
 aktualne.centrum.cz##.top-standard-obal
+alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
