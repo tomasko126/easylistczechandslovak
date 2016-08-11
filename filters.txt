@@ -251,6 +251,7 @@ exashare.com###player_img
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojevideo.sk/ff.jpg
+||www.mojevideo.sk/star.jpg
 ||mp3stahuj.cz/images/*banner*
 ||naramok.sk/images/banner.swf
 ||onlinefilmy.tv/*bg*.jpg
@@ -733,7 +734,6 @@ minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
-mojevideo.sk###brnd
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz##.fullbanner
 mp3s.nadruhou.net###lista
@@ -938,6 +938,7 @@ michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
 milujemefilmy.eu##div[style^="z-index: 1000"]
+mojevideo.sk###brnd
 mojevideo.sk###video_ad
 narodnablockovaloteria.tipos.sk###banners
 onlinefilmy.tv###bg_left
