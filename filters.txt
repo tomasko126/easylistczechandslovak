@@ -69,6 +69,7 @@ exashare.com###player_img
 ||ab-forum.info/*banner*.gif
 ||ab-forum.info/Ferguson_NEW.jpg
 ||ab-forum.info/xpeed.jpg
+||ab-forum.info/reklamy/
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
 ||alfa.cz/images/branding*.jpg
@@ -195,7 +196,7 @@ exashare.com###player_img
 ||war-net.cz/aukcent.gif
 ||war-net.cz/vyhraj.swf
 ||war-portal.eu/bannery/
-||war4all.com/images//inzerce/
+||war4all.com/images/inzerce/
 ||warcenter.cz/banner.js
 ||warcenter.cz/banner/
 ||warcenter.cz/btw_745x100_CS.gif
@@ -285,9 +286,6 @@ exashare.com###player_img
 ||tu-ke.com/svadobny-salon-la-fiaba-kosice.png
 ||ulozisko.sk/img/demotivacia.png
 ||vii.sk/player/adzoom.swf
-||war-board.net/banner.swf
-||war-board.net/images/vlastenec.jpg
-||war-board.net/reklamasj.js
 ||war4u.sk/banners/
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
@@ -859,6 +857,7 @@ vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
 volny.cz###services_content
+war4all.com###tblHorniLista
 warezforum.cz##OBJECT[id*="bfad"]
 warezforum.cz##.center
 warforum.cz###adLocation-21
