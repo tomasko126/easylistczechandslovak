@@ -251,7 +251,7 @@ exashare.com###player_img
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojevideo.sk/ff.jpg
-||www.mojevideo.sk/star.jpg
+||mojevideo.sk/star.jpg
 ||mp3stahuj.cz/images/*banner*
 ||naramok.sk/images/banner.swf
 ||onlinefilmy.tv/*bg*.jpg
