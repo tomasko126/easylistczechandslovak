@@ -72,6 +72,7 @@ exashare.com###player_img
 ||ab-forum.info/Ferguson_NEW.jpg
 ||ab-forum.info/lx3-maly.jpg
 ||ab-forum.info/odbojna.sk.jpg
+||ab-forum.info/reklamy/
 ||ab-forum.info/xpeed.jpg
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
@@ -81,6 +82,7 @@ exashare.com###player_img
 ||autoesa.cz/files/bannery/
 ||avony.cz/mp3splocha.php
 ||bannery.ccb.cz^
+||bcastgw.livebox.cz/TA3_VOD_COM/
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
@@ -117,11 +119,12 @@ exashare.com###player_img
 ||hry.cz/t/h/ad/
 ||hyperinzerce.cz/images/banner-text-
 ||i.iinfo.cz/l/ads/
+||i.iinfo.cz/sh/ads/
 ||i.mimibazar.cz/h/bc/b/
 ||i.stream.cz/channel/background/
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/realitymix/ext-data/
-||i.sme.sk/fst/
+||img.karaoketexty.cz/img/ad/
 ||idnes.cz/foto.aspx?*&ad=
 ||idnes.cz/js/ad/
 ||idnes.cz/r.asp?
@@ -159,6 +162,7 @@ exashare.com###player_img
 ||mobilizujeme.cz/branding*.png$image
 ||mp3s.nadruhou.net/avony_square.gif
 ||mp3s.nadruhou.net/js/bastard_*.js
+||mp3stahuj.cz/images/*banner*
 ||mrk.cz/images/baners/
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
@@ -169,6 +173,9 @@ exashare.com###player_img
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
 ||parabola.cz/img_menu/s125_01.gif
+||parabola.cz/img_menu/b*
+||parabola.cz/img_menu/ico_*.gif
+||parabola.cz/img_menu/flash_astra.swf
 ||partner.alza.cz$domain=majnuj.cz
 ||partner.xprovize.cz/accounts/default*/banners/
 ||performax.cz
@@ -219,7 +226,7 @@ exashare.com###player_img
 ||war-net.cz/aukcent.gif
 ||war-net.cz/vyhraj.swf
 ||war-portal.eu/bannery/
-||war4all.com/images//inzerce/
+||war4all.com/images/inzerce/
 ||warcenter.cz/banner.js
 ||warcenter.cz/banner/
 ||warcenter.cz/btw_745x100_CS.gif
@@ -269,11 +276,9 @@ exashare.com###player_img
 !
 ||81.89.48.147/if.html
 ||adb.azet.sk
-||akoviazatkravatu.sk/domain/akoviazatkravatu/files/sponzorovane-odkazy/
 ||autobazar.eu/__branding/
 ||banners.spoluziaci.sk
 ||bannersector.sector.sk/
-||bcastgw.livebox.cz/TA3_VOD_COM/
 ||best4you.sk/templates/subSilverPlus/images/Viaczdravialink.swf
 ||bmwklub.sk/images/banners/
 ||c.sme.sk/imgs/ext/napizzu/napizzu.jpg
@@ -287,11 +292,10 @@ exashare.com###player_img
 ||filmy.kinotip.in/pup.js
 ||fony.sk/content/banners/
 ||fs5.mojevideo.sk/securevd/siet.mp4
-||gamesite.sk/templates/gamesite_sk/images/background/
+||gamesite.sk/templates/gamesite_sk/images/background*/
 ||hnonline.sk/*hn_lekaren_extra_blok.png
 ||hojko.com/images/banner*.gif
-||i.iinfo.cz/sh//ads/
-||img.karaoketexty.cz/img/ad/
+||i.sme.sk/fst/
 ||img.teevee.sk/img/beangel*.gif
 ||img.teevee.sk/img/TEE-Final2.gif
 ||img.zoznam.sk/adimages/
@@ -301,21 +305,13 @@ exashare.com###player_img
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojevideo.sk/ff.jpg
-||mp3stahuj.cz/images/*banner*
-||naramok.sk/images/banner.swf
+||mojevideo.sk/star.jpg
 ||onlinefilmy.tv/*bg*.jpg
 ||onlinefilmy.tv/giga.ogv
 ||onlinovky.sk/bannery/
-||ourphorum.com/images/468x60*.jpg
 ||ourphorum.com/images/banner*
-||ourphorum.com/images/brapid.gif
-||ourphorum.com/images/showlivecz.jpg
-||parabola.cz/img_menu/b*
-||parabola.cz/img_menu/ico_*.gif
-||parabola.cz/img_menu/flash_astra.swf
 ||partner.zoznam.sk
 ||player.joj.sk/age-chooser.swf
-||poweruploaders.eu/bannery/
 ||priznaj.sk/images/*_banner.png
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
@@ -323,11 +319,11 @@ exashare.com###player_img
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
-||tailormysuit.sk/wp-content/uploads/banner*.jpg
 ||techbox.sk/*colorbox
 ||topserialy.sk/img/dreamair.swf
 ||img.teevee.sk/img/comm/
 ||totalpozicky.sk/images/banners/
+||tu-ke.com/ali-jewelry.jpg
 ||tu-ke.com/certovskezlavy.jpg
 ||tu-ke.com/jozko.png
 ||tu-ke.com/kosiceprojekty.gif
@@ -338,13 +334,10 @@ exashare.com###player_img
 ||tu-ke.com/svadobny-salon-la-fiaba-kosice.png
 ||ulozisko.sk/img/demotivacia.png
 ||vii.sk/player/adzoom.swf
-||war-board.net/banner.swf
-||war-board.net/images/vlastenec.jpg
-||war-board.net/reklamasj.js
 ||war4u.sk/banners/
-||warmacher.com/banner.png
+||warmacher.com/banner*
 ||warmacher.com/bathshop.jpg
-||warmacher.com/banner.gif
+||warmacher.com/cash.gif
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
 !
@@ -399,7 +392,6 @@ exashare.com###player_img
 ||i.imedia.cz/$third-party
 ||ibillboard.com^$third-party
 ||im9.cz/*/vyrobce/*background*$third-party
-||inclick.sk^$third-party
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
 ||intext.wdt.cz^$third-party
@@ -432,6 +424,7 @@ exashare.com###player_img
 !
 ||heureka.sk^$third-party
 ||imr.sk^$third-party
+||inclick.sk^$third-party
 ||kariera.zoznam.sk/?page=banner$third-party
 ||ls.hit.gemius.pl/^$third-party
 ||netsuccess.sk$third-party
@@ -629,6 +622,7 @@ aktualne.centrum.cz##.box-reality
 aktualne.centrum.cz##.cars-regiony
 aktualne.centrum.cz##.regiony-najisto
 aktualne.centrum.cz##.top-standard-obal
+alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
@@ -934,7 +928,6 @@ mobilmania.cz##.bx-billboard
 mobilmania.cz##.bx-scroller
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
-mojevideo.sk###brnd
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz##.fullbanner
 mp3s.nadruhou.net###lista
@@ -1081,6 +1074,7 @@ vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
 volny.cz###services_content
+war4all.com###tblHorniLista
 warcenter.istadin.co##DIV[align="center"]
 warcenter.istadin.co##TD[bgcolor="#066490"]
 warcenter.istadin.co###interVeil
@@ -1129,8 +1123,6 @@ zvraceny.cz##.reklama-vodorovne
 !
 !---------- Slovak Site Specific Element Hiding Rules ----------!
 !
-akoviazatkravatu.sk##A[href="http://www.uwer.sk"]
-akoviazatkravatu.sk##A[href="http://www.drevenica-liptov.sk"]
 aktuality.sk##.box-silver.texttip-box.silver-box-big
 amateri.sk###banner_left1
 amateri.sk###top_rekl
@@ -1152,6 +1144,7 @@ blickclick.webnoviny.sk##.ads.center.clr
 bmwklub.sk##DIV[id^="ad"]
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
+cucaj.sk###interContainer
 dobre-recepty.sk#@##ad_skin
 dsl.sk##.header_info_text
 etrend.sk###trendtip
@@ -1176,6 +1169,7 @@ michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
 milujemefilmy.eu##div[style^="z-index: 1000"]
+mojevideo.sk###brnd
 mojevideo.sk###video_ad
 narodnablockovaloteria.tipos.sk###banners
 onlinefilmy.tv###bg_left
@@ -1212,9 +1206,15 @@ topserialy.sk##.dreamair
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
 tv-program.sk##.dragobj > div:nth-of-type(2)
+war4u.sk###bluemask
+war4u.sk##.tmask
+war4u.sk##.tbox
+warmacher.com###bluemask
 warmacher.com###fblikebg
 warmacher.com###fblikepop
 warmacher.com###reklamne_bannery
+warmacher.com##.tbox
+warmacher.com##.tmask
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
 zmeskanyhovor.com###offerio
