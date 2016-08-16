@@ -787,6 +787,7 @@ gamepark.cz##.headerpicture
 games.tiscali.cz##A[href*="CREFURL"]
 games.tiscali.cz##A[href*="utm_campaign"]
 games.tiscali.cz##A[href*="mmotraffic.com"]
+games.tiscali.cz##BODY>DIV>DIV[class^="r"]:first-of-type
 games.tiscali.cz##DIV[-abp-properties="min-height: 200px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
