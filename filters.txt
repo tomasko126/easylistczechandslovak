@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 26/06/2015
+! Last change: 16/08/2015
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -926,7 +926,10 @@ mesec.cz##.ad.ad-stickyboard
 minecrafak.cz###poutak
 minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
+mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 mobilmania.cz##.bx-bb
+mobilmania.cz##.bx-billboard
+mobilmania.cz##.bx-scroller
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
 mojevideo.sk###brnd
@@ -1105,6 +1108,7 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
+zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
@@ -1112,8 +1116,10 @@ zive.cz###page-hub-wrapper
 zive.cz##.banner
 zive.cz##.banner-box
 zive.cz##.bx-bb
+zive.cz##.bx-billboard
 zive.cz##.bx-ext-rss
 zive.cz##.bx-livecompanies
+zive.cz##.bx-scroller
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
@@ -1247,3 +1253,4 @@ games.tiscali.cz#@#.tracked-event
 @@||topserialy.sk$generichide
 idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
+@@||i0.cz/*.js|
