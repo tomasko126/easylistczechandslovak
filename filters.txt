@@ -461,6 +461,7 @@ exashare.com###player_img
 @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
 @@||doupe.zive.cz/Client.Scripts/advertisement.js
 @@||fastshare.cz/banner/site_logo.jpg
+@@||firmy.idnes.cz$script,domain=firmy.idnes.cz
 @@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
