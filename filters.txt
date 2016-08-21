@@ -1131,6 +1131,7 @@ zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz###ctl01_jobs
+zive.cz###mainFORM > DIV:not(.cs-cnt-wrapper)
 zive.cz###page-hub-wrapper
 zive.cz##.banner
 zive.cz##.banner-box
@@ -1139,6 +1140,7 @@ zive.cz##.bx-billboard
 zive.cz##.bx-ext-rss
 zive.cz##.bx-livecompanies
 zive.cz##.bx-scroller
+zive.cz##.prolinkhdr-content
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
