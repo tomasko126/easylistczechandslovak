@@ -214,6 +214,7 @@ exashare.com###player_img
 ||svoboda.info/assets/files/banners_2013/
 ||svoboda.info/assets/files/banners_2014/
 ||topkontakt.cz/banner/
+||tryhard.cz/images/*/*fullbrand*.jpg
 ||uloz.to/bannery/
 ||uloz.to/img/bannery/
 ||uloz.to/staticadvert/branding/
@@ -1090,6 +1091,7 @@ tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
 topzine.cz###vyjizdeciBoxikDiv
+tryhard.cz##.banneritem
 tv.seznam.cz##.o2Box
 tvfreak.cz##.banner
 tvfreak.cz##.sidebar-banner
