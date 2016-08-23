@@ -539,6 +539,7 @@ mojevideo.sk#@##video_ad
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
 @@||topserialy.sk/*/adblock.js
+@@||topserialy.sk/*/adnetwork.js
 @@||topserialy.sk/*/ads.js
 @@||topserialy.sk/*/advert.js
 @@||topserialy.sk/*/adverts.js
