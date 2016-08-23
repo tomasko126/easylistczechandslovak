@@ -897,6 +897,7 @@ ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
+isport.blesk.cz##.ads
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
 jizdnirady.idnes.cz##.advert
