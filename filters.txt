@@ -644,6 +644,9 @@ ulozisko.sk#@##reklama_big
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
+aktualne.cz###reklama-halfpage
+aktualne.cz###reklama-megaboard
+aktualne.cz###reklama-wallpaper
 aktualne.centrum.cz##.box-dvojity
 aktualne.centrum.cz##.box-reality
 aktualne.centrum.cz##.cars-regiony
