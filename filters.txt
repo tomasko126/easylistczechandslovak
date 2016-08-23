@@ -1193,6 +1193,8 @@ filmy.teevee.sk##.rp
 fony.sk##.divArticleBannerTop
 forum.mobilmania.azet.sk###rwrap
 forum.zive.sk###rwrap
+freefilm.sk###blockerBG
+freefilm.sk###blockerINFO
 heureka.sk###banner-leaderboard
 heureka.sk##.filtr.category-partner
 hladaj.referaty.atlas.sk###specbox
