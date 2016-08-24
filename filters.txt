@@ -650,11 +650,6 @@ adfox.cz###vse
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
-aktualne.centrum.cz##.box-dvojity
-aktualne.centrum.cz##.box-reality
-aktualne.centrum.cz##.cars-regiony
-aktualne.centrum.cz##.regiony-najisto
-aktualne.centrum.cz##.top-standard-obal
 alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
@@ -1143,6 +1138,7 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
+zive.cz##DIV[style="display: block;"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zing.cz###background
 zing.cz###bgSpaceArea
