@@ -114,6 +114,8 @@ exashare.com###player_img
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
 ||gidnes.cz/b/
+||hd-forum.cz/images/banner/
+||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
 ||himym.cz/image/*banner*.gif
 ||hostareal.cz/provize/bannery/
