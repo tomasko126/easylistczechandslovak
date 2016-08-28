@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 26/08/2015
+! Last change: 28/08/2015
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -817,6 +817,7 @@ games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
 games.tiscali.cz##DIV[-abp-properties="height: 20*.*px"]
 games.tiscali.cz##DIV[-abp-properties="height: 19*.*px"]
+games.tiscali.cz##DIV[inittop]
 games.tiscali.cz##DIV[style*="z-index:9999"]
 games.tiscali.cz##DIV[style*="height: 200px; position: relative;"]
 games.tiscali.cz##.adtext
@@ -827,6 +828,7 @@ games.tiscali.cz##.box-offer
 games.tiscali.cz##.box-article-detail ~ DIV
 games.tiscali.cz##.col-side > DIV:not(.box-std)
 games.tiscali.cz##.page-bg > DIV:first-of-type
+games.tiscali.cz##.page-homepage > DIV > DIV[class*="-main"]
 games.tiscali.cz##.pe-banner
 games.tiscali.cz##.sklik-ads
 games.tiscali.cz##.sklik-ad
@@ -841,6 +843,7 @@ games.tiscali.cz###cookie-bar
 games.tiscali.cz###intAds
 games.tiscali.cz###menu-accessibility + DIV:not(#header)
 games.tiscali.cz###sticky-top.sticky
+games.tiscali.cz##[class*="adform"]
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 hcplzen.cz###ads_top_box
@@ -1298,3 +1301,4 @@ games.tiscali.cz#@#.tracked-event
 idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
+jaguar-club.net#@#.reklama
