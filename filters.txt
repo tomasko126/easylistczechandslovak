@@ -917,6 +917,9 @@ kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
 karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz##.roumingLista
+kladenskelisty.cz##.rleft
+kladenskelisty.cz##.rright
+kladenskelisty.cz##.tree
 kniha.cz##DIV[id^="banner"]
 kurzy.cz###adv_300adsense
 kurzy.cz###adv_doublesky
