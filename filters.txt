@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 31/08/2015
+! Last change: 01/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -812,6 +812,7 @@ games.tiscali.cz##A[href*="CREFURL"]
 games.tiscali.cz##A[href*="utm_campaign"]
 games.tiscali.cz##A[href*="mmotraffic.com"]
 games.tiscali.cz##BODY>DIV>DIV[class^="r"]:first-of-type
+games.tiscali.cz##BODY > DIV > DIV[class*="-main"]
 games.tiscali.cz##DIV[-abp-properties="min-height: 200px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
@@ -828,6 +829,7 @@ games.tiscali.cz##.box-offer
 games.tiscali.cz##.box-article-detail ~ DIV
 games.tiscali.cz##.col-side > DIV:not(.box-std)
 games.tiscali.cz##.col:nth-of-type(2) > DIV:not([class*=" "])
+games.tiscali.cz##.col:nth-of-type(2) > DIV:not([class*="box-"])
 games.tiscali.cz##.page-bg > DIV:first-of-type
 games.tiscali.cz##.page-homepage > DIV > DIV[class*="-main"]
 games.tiscali.cz##.pe-banner
@@ -1146,6 +1148,7 @@ zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zive.cz##DIV[style="display: block;"]
+zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zing.cz###background
 zing.cz###bgSpaceArea
