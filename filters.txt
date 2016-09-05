@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 01/09/2016
+! Last change: 05/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -965,10 +965,11 @@ mesec.cz##.ad.ad-stickyboard
 minecrafak.cz###poutak
 minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
-mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
+mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper):not(#mainwrap)
 mobilmania.cz##.bx-bb
 mobilmania.cz##.bx-billboard
 mobilmania.cz##.bx-scroller
+mobilmania.cz##.not4bbtext + A
 mobilmania.cz##[id*="3.1.1"]
 moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
