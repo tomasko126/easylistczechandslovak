@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 12/09/2016
+! Last change: 13/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -288,7 +288,6 @@ exashare.com###player_img
 @@||speedtest2.zive.cz/js/script.js$script
 ||zive.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
 ||zive.cz/*velky-vyprodej*/swf$object,~third-party
-||zive.cz/*/|$image,~third-party
 
 ! mobilmania.cz
 ||mobilmania.cz$script,~third-party
@@ -1290,22 +1289,7 @@ zoznam.sk##.adbox-genertel
 zoznam.sk##[id*="BUTTON_ZOZNAM"]
 !
 !---------- Anti-AdBlock filters ----------!
-!Titulky.com!
-titulky.com#@##reklama
-titulky.com#@#.pub_728x90
-@@||titulky.com/bannery/$image
-@@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
-!poradte.cz!
-poradte.cz#@#.text-ad-links
-poradte.cz#@#.text-ads
-poradte.cz#@#.text_ads
-poradte.cz#@#.text_ad
-poradte.cz#@#.textAd
-poradte.cz#@#.text-ad
-poradte.cz#@#.pub_728x90
-poradte.cz#@#.pub_300x250m
-poradte.cz#@#.pub_300x250
-@@||poradte.cz/js/ads.js
+
 @@||iprima.cz^$generichide
 @@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/*
@@ -1322,3 +1306,22 @@ idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
 jaguar-club.net#@#.reklama
+||echo24.cz/templateAssets/js/inlog.js
+
+!Titulky.com!
+titulky.com#@##reklama
+titulky.com#@#.pub_728x90
+@@||titulky.com/bannery/$image
+@@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
+
+!poradte.cz!
+poradte.cz#@#.text-ad-links
+poradte.cz#@#.text-ads
+poradte.cz#@#.text_ads
+poradte.cz#@#.text_ad
+poradte.cz#@#.textAd
+poradte.cz#@#.text-ad
+poradte.cz#@#.pub_728x90
+poradte.cz#@#.pub_300x250m
+poradte.cz#@#.pub_300x250
+@@||poradte.cz/js/ads.js
