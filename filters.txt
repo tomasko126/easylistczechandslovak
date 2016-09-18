@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 13/09/2016
+! Last change: 18/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -345,6 +345,8 @@ exashare.com###player_img
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
 ||recycle-static.zoznam.sk/*/*branding*.jpg
+||recycle-static.zoznam.sk/*.mp4
+||recycle-static.zoznam.sk/*.html
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
@@ -1282,11 +1284,12 @@ warmacher.com##.tmask
 webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
 zmeskanyhovor.com###offerio
+zoznam.sk###branding_wrapper2
 zoznam.sk###rajknih
 zoznam.sk###tipy
-zoznam.sk##P.left
 zoznam.sk##.adbox-genertel
 zoznam.sk##[id*="BUTTON_ZOZNAM"]
+zoznam.sk##P.left
 !
 !---------- Anti-AdBlock filters ----------!
 
