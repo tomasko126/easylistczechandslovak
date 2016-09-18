@@ -1285,6 +1285,7 @@ webnode.sk###f3l9j1708q
 webnode.sk###fStrip150815823
 zmeskanyhovor.com###offerio
 zoznam.sk###branding_wrapper2
+zoznam.sk###branding
 zoznam.sk###rajknih
 zoznam.sk###tipy
 zoznam.sk##.adbox-genertel
