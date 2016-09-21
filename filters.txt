@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 19/09/2016
+! Last change: 21/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -854,6 +854,7 @@ games.tiscali.cz###intAds
 games.tiscali.cz###menu-accessibility + DIV:not(#header)
 games.tiscali.cz###sticky-top.sticky
 games.tiscali.cz##[class*="adform"]
+games.tiscali.cz##[class^="bb-brand"]
 games.tiscali.cz##[class*="ld-top"]
 games.tiscali.cz##[src*="creativecdn"]
 google.cz,google.com###mbEnd
@@ -1240,6 +1241,9 @@ milujemefilmy.eu##div[style^="z-index: 1000"]
 mojevideo.sk###brnd
 mojevideo.sk###video_ad
 narodnablockovaloteria.tipos.sk###banners
+nitralive.sk###bannertop
+nitralive.sk###reklama02
+nitralive.sk##.bannergroup
 onlinefilmy.tv###bg_left
 onlinefilmy.tv###bg_right
 onlinefilmy.tv##.ads
