@@ -781,6 +781,7 @@ esemes.cz###t-content
 euro.cz##.adv
 euro.cz##.float-ad-wrapper
 evysledky.com###box-over-content-a
+extra.cz##.ad
 extrawindows.cnews.cz###block-block-1
 extrawindows.cnews.cz###block-block-2
 extrawindows.cnews.cz###block-block-5
