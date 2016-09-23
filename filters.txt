@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 21/09/2016
+! Last change: 23/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -263,6 +263,7 @@ exashare.com###player_img
 @@||games.tiscali.cz/img/fav/
 @@||games.tiscali.cz/img/adblock_on.gif
 @@||games.tiscali.cz/js/
+@@||foto.games.tiscali.cz^$image
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
@@ -841,6 +842,7 @@ games.tiscali.cz##.col:nth-of-type(2) > DIV:not([class*="box-"])
 games.tiscali.cz##.page-bg > DIV:first-of-type
 games.tiscali.cz##.page-homepage > DIV > DIV[class*="-main"]
 games.tiscali.cz##.pe-banner
+games.tiscali.cz##.reset > [class^="box-"]
 games.tiscali.cz##.sklik-ads
 games.tiscali.cz##.sklik-ad
 games.tiscali.cz##.top.row-main
@@ -857,6 +859,7 @@ games.tiscali.cz###sticky-top.sticky
 games.tiscali.cz##[class*="adform"]
 games.tiscali.cz##[class^="bb-brand"]
 games.tiscali.cz##[class*="ld-top"]
+games.tiscali.cz##[class^=" "]
 games.tiscali.cz##[src*="creativecdn"]
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
@@ -923,6 +926,8 @@ ihned.cz##.karieraweb-label
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
 isport.blesk.cz##.ads
+isport.blesk.cz##[id*=".1.2"]
+isport.blesk.cz##[id*=".1.1"]
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
 jizdnirady.idnes.cz##.advert
