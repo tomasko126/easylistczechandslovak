@@ -145,6 +145,7 @@ exashare.com###player_img
 ||itnetwork.cz/script/abc/
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kaloricketabulky.cz/images/branding/
+||kaloricketabulky.cz/styles4/bigscreen2.css
 ||kecy.roumen.cz/roumingBannerator.php
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
