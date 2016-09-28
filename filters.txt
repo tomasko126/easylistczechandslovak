@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 26/09/2016
+! Last change: 28/09/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -971,7 +971,10 @@ lidovky.cz##.authors + DIV:not(.related)
 lidovky.cz##.widesquare
 livesport.cz###box-over-content-a
 lui-magazine.cz##.bannergroup
+lupa.cz###jobs
 lupa.cz###speed-promo
+lupa.cz##[data-adp="leaderboard"]
+lupa.cz##[data-adp^="side-"]
 mapy.in-pocasi.cz###topbanner
 mapy.in-pocasi.cz##.devicewidth
 maminka.cz###adframe-shell
