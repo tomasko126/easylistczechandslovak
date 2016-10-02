@@ -610,6 +610,7 @@ ulozisko.sk#@##reklama_big
 ##.advert-square
 ##.article-adtip-box
 ##.bazar-box
+##.bx-leaderboard
 ##.etarget
 ##.hp-advert
 ##.ic0.vendor-list
@@ -652,6 +653,7 @@ ulozisko.sk#@##reklama_big
 !
 !---------- Czech Site Specific Element Hiding Rules ----------!
 !
+auto.cz##.adv
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
@@ -669,6 +671,7 @@ autobazar.cz###biglink
 autoesa.cz###bannerPopup
 autohit.cz###leva-reklama
 autorevue.cz###adblock-leaderboard-clip
+autorevue.cz##[id*="3.1."]
 autorevue.cz##.banner
 autorevue.cz##.bx-bb
 autotube.cz##.rklh
