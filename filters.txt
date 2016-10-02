@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 28/09/2016
+! Last change: 02/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -265,7 +265,7 @@ exashare.com###player_img
 @@||games.tiscali.cz/img/logo-games.png
 @@||games.tiscali.cz/img/fav/
 @@||games.tiscali.cz/img/adblock_on.gif
-@@||games.tiscali.cz/js/
+@@||games.tiscali.cz/js/$script
 @@||foto.games.tiscali.cz^$image
 
 ! idnes.cz
@@ -879,6 +879,7 @@ hokej.cz##.ban1
 hokej.cz##.dolni_reklama
 hokej.cz##.top_banner
 hokej.cz##.top_banner_second
+hrej.cz##.inzerce
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
@@ -993,6 +994,7 @@ minecrafak.cz###poutak
 minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
 mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper):not(#mainwrap)
+mobilmania.cz##IFRAME[src*="alza"]
 mobilmania.cz##.bx-bb
 mobilmania.cz##.bx-billboard
 mobilmania.cz##.bx-scroller
@@ -1057,6 +1059,9 @@ programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
 recepty.vareni.cz##.banner
+reflex.cz###ads-leader-board
+reflex.cz###adsenceX
+reflex.cz###banner_iframe2
 rejstrik.finance.cz##.right > IFRAME
 rejstrik.finance.cz##.toScroll
 restaurace.cz##.banner-120-600
@@ -1178,6 +1183,7 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
+zive.cz##BODY > FORM:first-of-type > TABLE:first-of-type + DIV
 zive.cz##DIV[style="display: block;"]
 zive.cz##DIV[style*="position"]
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
@@ -1193,6 +1199,7 @@ zive.cz##.banner
 zive.cz##.banner-box
 zive.cz##.bx-bb
 zive.cz##.bx-billboard
+zive.cz##.bx-commercial ~ DIV
 zive.cz##.bx-ext-rss
 zive.cz##.bx-livecompanies
 zive.cz##.bx-scroller
