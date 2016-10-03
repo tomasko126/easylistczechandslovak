@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 02/10/2016
+! Last change: 03/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -55,6 +55,7 @@ exashare.com###player_img
 !
 ! ---------- Czech 1st party blocking rules ----------!
 !
+||autoforum.cz/autoforum/tmp/reklama$image
 ||alza.cz/$image,third-party,domain=zive.cz
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/*
@@ -653,7 +654,6 @@ ulozisko.sk#@##reklama_big
 !
 !---------- Czech Site Specific Element Hiding Rules ----------!
 !
-auto.cz##.adv
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
@@ -666,17 +666,27 @@ alfacomp.cz###middlebanner
 alfacomp.cz##.rtxtbannerh4
 amk.to###header
 andreashop.cz##.field.field-type-image.field-label-hidden
+appliste.cz##.banner-header
+auto.cz##.adv
 auto.cz##.novinka_out
 autobazar.cz###biglink
 autoesa.cz###bannerPopup
+autoforum.cz###content-right > div[style]:first-of-type
+autoforum.cz###header-banner
 autohit.cz###leva-reklama
 autorevue.cz###adblock-leaderboard-clip
 autorevue.cz##[id*="3.1."]
 autorevue.cz##.banner
 autorevue.cz##.bx-bb
+autosport.cz###header-reklama
+autosport.cz##.side-bann-l
+autosport.cz##.side-bann-r
 autotube.cz##.rklh
 autotube.cz##.rklv
 autoweb.cz##.rklh
+autozine.cz##.banner
+autozine.cz##.banner2
+autozine.cz##.wrap + DIV:not(#footer)
 befun.cz##.ad
 blesk.cz##[class*="adform"]
 blesk.cz##[class*="banheight"]
@@ -701,7 +711,6 @@ busportal.cz##.banner
 busportal.cz##DIV[id*="Banner"]
 bydlimekvalitne.cz###block-block-1
 cdr.cz##.not4bbtext
-centrum.cz###top-banner
 centrum.cz##[id^="widget_23"]
 centrum.cz###widget_195
 centrum.cz###widget_135
@@ -710,11 +719,12 @@ centrum.cz###widget_271
 centrum.cz###widget_264
 centrum.cz###widget_208
 centrum.cz###widget_209 > .widget-content
+centrum.cz###widget_240
 centrum.cz##.container-adfox
 centrum.cz##.najisto
+centrum.cz##.top-banner
 centrum.cz##.widget.widgetType-amplionwidgets_advancedamplionwidget.widgetSlug-amplion
 centrum.cz##.widget.widgetType-rsswidgets_rsswidget.widgetSlug-dovolena-rss
-centrum.cz###widget_240
 centrum.cz##.widget.widgetType-carswidgets_carswidget.widgetSlug-cars
 cervenykostelec.cz##.sliderbubble-right
 ceskatelevize.cz###commercialBox
@@ -883,6 +893,7 @@ hokej.cz##.dolni_reklama
 hokej.cz##.top_banner
 hokej.cz##.top_banner_second
 hrej.cz##.inzerce
+hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
@@ -926,6 +937,7 @@ ihned.cz###r-big-ozn
 ihned.cz###r-drazby
 ihned.cz###r-nes
 ihned.cz###rbannery-items
+ihned.cz##.jobs
 ihned.cz##.jobs09
 ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
@@ -964,8 +976,10 @@ kurzy.cz##.box9
 kurzy.cz##.textovka
 kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 lamer.cz##.square
+letemsvetemapplem.eu###brandingconts
 letemsvetemapplem.eu###headervelka
 letemsvetemapplem.eu###pravy_uzky
+letemsvetemapplem.eu###tallbanner1
 libise.eu###aa1
 lidovky.cz###reality-idnes
 lidovky.cz###self-box
@@ -990,12 +1004,17 @@ matematika.cz###rbackground-link
 matematika.cz##DIV[id*="reklama"]
 mediafax.cz##.bannercauta
 mediafax.cz##.casetaright
+mediar.cz##.banns-group
 medop.cz###block-nodesinblock-0
 menu.olomouc.cz##.adTopBox
-mesec.cz##.ad.ad-stickyboard
+mesec.cz###jobs
+mesec.cz##.ad
 minecrafak.cz###poutak
 minecrafak.cz###sidebar
+mladypodnikatel.cz##.banner
 mladypodnikatel.cz##.scroll_banner
+mobilizujeme.cz###leaderbanner_space
+mobilizujeme.cz##.fullbanner
 mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper):not(#mainwrap)
 mobilmania.cz##IFRAME[src*="alza"]
 mobilmania.cz##.bx-bb
@@ -1003,10 +1022,9 @@ mobilmania.cz##.bx-billboard
 mobilmania.cz##.bx-scroller
 mobilmania.cz##.not4bbtext + A
 mobilmania.cz##[id*="3.1.1"]
-moda.cz##.square
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
-mobilizujeme.cz###leaderbanner_space
-mobilizujeme.cz##.fullbanner
+moda.cz##.square
+motoforum.cz###ahead
 mp3s.nadruhou.net###lista
 mp3s.nadruhou.net##DIV[style*="padding: 0px; height: 270px;"]
 mp3s.nadruhou.net##DIV[style*="padding: 0px; height: 275px;"]
@@ -1054,6 +1072,7 @@ pcworld.cz###skyscraper
 pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 pestujemeweb.cz###lista
+podnikatel.cz##.ad
 pravidla.cz##.advtick
 primat.cz##A[class^="levakolejroku"]
 primat.cz##A[class^="pravakolejroku"]
@@ -1127,11 +1146,14 @@ stesti.cz##.mabo.faa
 stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 stream.cz###img_link
 stream.cz###user_head
+superapple.cz##A[href*="banner"]
+superapple.cz##.widget-header
 superhry.cz##.video-doporucujeme
 synotliga.isport.blesk.cz##.leaderboard
 t-mobile.cz##.advttl
 tipcars.com###loading
 tipcars.com##IFRAME[id*="TC"]
+tiscali.cz##.box-offer
 tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
@@ -1143,6 +1165,7 @@ tvfreak.cz##.sidebar-banner
 tvfreak.cz##.skyscrapper-right
 tvt-online.cz###a3f
 tvt-online.cz###ideckoo
+uloz.to##.banner
 uloz.to##.banner300x300
 uschovna.cz###tiscali-bar
 uschovna.cz##.bottom_banner
