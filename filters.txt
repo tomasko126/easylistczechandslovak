@@ -991,7 +991,10 @@ lidovky.cz##.widesquare
 livesport.cz###box-over-content-a
 lui-magazine.cz##.bannergroup
 lupa.cz###jobs
+lupa.cz###jobs-prace
+lupa.cz###jobs-kurzy
 lupa.cz###speed-promo
+lupa.cz##[class*="advert"]
 lupa.cz##[data-adp="leaderboard"]
 lupa.cz##[data-adp^="side-"]
 mapy.in-pocasi.cz###topbanner
