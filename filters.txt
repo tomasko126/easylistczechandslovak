@@ -1081,6 +1081,11 @@ pcworld.cz###skyscraper
 pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 pestujemeweb.cz###lista
+playzone.cz###block-block-128
+playzone.cz###block-block-132
+playzone.cz###block-block-143
+playzone.cz###top-banner
+playzone.cz##.no-extlink-icon
 podnikatel.cz##.ad
 pravidla.cz##.advtick
 primat.cz##A[class^="levakolejroku"]
