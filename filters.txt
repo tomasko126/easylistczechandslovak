@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 03/10/2016
+! Last change: 05/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -78,6 +78,7 @@ exashare.com###player_img
 ||ab-forum.info/xpeed.jpg
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
+||aktualne.cz/*/*fireplace$image
 ||alfa.cz/images/branding*.jpg
 ||alkoholik.cz/zavislost/images/banners/
 ||archiv.roumen.cz/roumingRLeader.html
@@ -660,6 +661,10 @@ adfox.cz###vse
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
+aktualne.cz##.adWrapperFlight
+aktualne.cz##.job_box_hp
+aktualne.cz##.leaderboard-obal
+aktualne.cz##.reklama-vpravo-obal
 alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
@@ -841,6 +846,7 @@ games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
 games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
 games.tiscali.cz##DIV[-abp-properties="height: 20*.*px"]
 games.tiscali.cz##DIV[-abp-properties="height: 19*.*px"]
+games.tiscali.cz##DIV[class^="box"] [style*="px;"]
 games.tiscali.cz##DIV[inittop]
 games.tiscali.cz##DIV[id*="1.1."]
 games.tiscali.cz##DIV[id*="2.1."]
@@ -1212,13 +1218,13 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
+zing.cz###background
+zing.cz###bgSpaceArea
 zive.cz##BODY > FORM:first-of-type > TABLE:first-of-type + DIV
 zive.cz##DIV[style="display: block;"]
 zive.cz##DIV[style*="position"]
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
-zing.cz###background
-zing.cz###bgSpaceArea
 zive.cz###content-lead
 zive.cz###ctl01_jobs
 zive.cz###mainFORM > DIV > DIV[class*="3.1.2"]
@@ -1230,8 +1236,10 @@ zive.cz##.bx-bb
 zive.cz##.bx-billboard
 zive.cz##.bx-commercial ~ DIV
 zive.cz##.bx-ext-rss
+zive.cz##.bx-fullbanner ~ DIV
 zive.cz##.bx-livecompanies
 zive.cz##.bx-scroller
+zive.cz##.not4bbtext + DIV
 zive.cz##.prolinkhdr-content
 zive.cz##[class*="banheight"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
