@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 07/10/2016
+! Last change: 10/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -1229,6 +1229,7 @@ zing.cz###bgSpaceArea
 zive.cz##BODY > FORM:first-of-type > TABLE:first-of-type + DIV
 zive.cz##DIV[style="display: block;"]
 zive.cz##DIV[style*="position"]
+zive.cz##FIELDSET
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zive.cz###content-lead
