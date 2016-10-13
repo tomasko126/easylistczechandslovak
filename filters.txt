@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 10/10/2016
+! Last change: 13/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -79,6 +79,7 @@ exashare.com###player_img
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
 ||aktualne.cz/*/*fireplace$image
+||aktualne.cz/*=wallpaper*
 ||alfa.cz/images/branding*.jpg
 ||alkoholik.cz/zavislost/images/banners/
 ||archiv.roumen.cz/roumingRLeader.html
@@ -89,6 +90,7 @@ exashare.com###player_img
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
 ||centrum.cz/design/akt3/o/ads/
+||centrum.cz/*=wallpaper*
 ||cn130.com/wp-content/uploads/an-temp/
 ||count.flashx.tv:81/
 ||cviceni-doma.cz/images/*banner*
@@ -284,9 +286,8 @@ exashare.com###player_img
 @@||servis.idnes.cz$script,~third-party
 
 ! zive.cz
-||zive.cz$script,~third-party
 ||assets.adobedtm.com$script,domain=zive.cz
-@@||zive.cz/Client.Scripts$script,~third-party
+||zive.cz/Client.Scripts/*zive?format=js
 @@||zive.cz/Client.Gallery$script,~third-party
 @@||zive.cz/_rev2015/js$script,~third-party
 @@||zive.cz/WebResource.axd$script,~third-party
@@ -298,6 +299,8 @@ exashare.com###player_img
 
 ! mobilmania.cz
 ||mobilmania.cz$script,~third-party
+||mobilmania.cz/*_-*-_*$image
+||mobilmania.cz/*bg*$image
 ||assets.adobedtm.com$script,domain=mobilmania.cz
 @@||mobilmania.cz/Client.Scripts$script,~third-party
 @@||mobilmania.cz/Client.Gallery$script,~third-party
@@ -658,9 +661,11 @@ ulozisko.sk#@##reklama_big
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
+aktualne.cz###brand-c > div:first-child
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
+aktualne.cz###sas-leader
 aktualne.cz##.adWrapperFlight
 aktualne.cz##.job_box_hp
 aktualne.cz##.job_box_300
@@ -1025,6 +1030,7 @@ mladypodnikatel.cz##.banner
 mladypodnikatel.cz##.scroll_banner
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz##.fullbanner
+mobilmania.cz###leadBrand
 mobilmania.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper):not(#mainwrap)
 mobilmania.cz##IFRAME[src*="alza"]
 mobilmania.cz##.bx-bb
@@ -1032,6 +1038,7 @@ mobilmania.cz##.bx-billboard
 mobilmania.cz##.bx-scroller
 mobilmania.cz##.not4bbtext + A
 mobilmania.cz##[id*="3.1.1"]
+mobilmania.cz##noscript + script + div
 moda.cz##DIV[style="clear:both; padding-top:30px; width:540px;"]
 moda.cz##.square
 motoforum.cz###ahead
@@ -1232,8 +1239,10 @@ zive.cz##DIV[style*="position"]
 zive.cz##FIELDSET
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
+zive.cz###bx-cnt-full > div > div
 zive.cz###content-lead
 zive.cz###ctl01_jobs
+zive.cz###leadBrand
 zive.cz###mainFORM > DIV > DIV[class*="3.1.2"]
 zive.cz###mainFORM > DIV > DIV[id*="3.1.2"]
 zive.cz###page-hub-wrapper
