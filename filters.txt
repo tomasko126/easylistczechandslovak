@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 13/10/2016
+! Last change: 14/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -144,6 +144,8 @@ exashare.com###player_img
 ||in-pocasi.cz/img/left*.jpg
 ||in-pocasi.cz/img/right*.jpg
 ||in-pocasi.cz/img/zahlavi*.jpg
+||isport.blesk.cz/*/ad-list
+||isport.blesk.cz/*&target$script
 ||isport.blesk.cz/*/*$image,~third-party
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
@@ -261,15 +263,15 @@ exashare.com###player_img
 ||zvukarina.cz/forum/images/ostatni/
 
 ! games.tiscali.cz
-||games.tiscali.cz/$script,~third-party
+||games.tiscali.cz/js/*Ad$script,~third-party
+||games.tiscali.cz/js/*target$script,~third-party
+||games.tiscali.cz/js/*please$script,~third-party
 ||games.tiscali.cz/*/$image,~third-party
 @@||games.tiscali.cz/img/bg/
 @@||games.tiscali.cz/img/special/
 @@||games.tiscali.cz/img/socials.png
 @@||games.tiscali.cz/img/logo-games.png
 @@||games.tiscali.cz/img/fav/
-@@||games.tiscali.cz/img/adblock_on.gif
-@@||games.tiscali.cz/js/$script
 @@||foto.games.tiscali.cz^$image
 
 ! idnes.cz
