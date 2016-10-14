@@ -1011,6 +1011,7 @@ lupa.cz###speed-promo
 lupa.cz##[class*="advert"]
 lupa.cz##[data-adp="leaderboard"]
 lupa.cz##[data-adp^="side-"]
+lupa.cz##[id*="Adform"]
 mapy.in-pocasi.cz###topbanner
 mapy.in-pocasi.cz##.devicewidth
 maminka.cz###adframe-shell
@@ -1238,6 +1239,7 @@ zing.cz###bgSpaceArea
 zive.cz##BODY > FORM:first-of-type > TABLE:first-of-type + DIV
 zive.cz##DIV[style="display: block;"]
 zive.cz##DIV[style*="position"]
+zive.cz##DIV[style*="margin"]
 zive.cz##FIELDSET
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
