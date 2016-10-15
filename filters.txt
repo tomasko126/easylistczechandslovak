@@ -79,6 +79,7 @@ exashare.com###player_img
 ||abecedaher.cz/index_banner_
 ||adx.fotoaparat.cz/www/images/
 ||aktualne.cz/*/*fireplace$image
+||aktualne.cz/*/bbx-desktop.js
 ||aktualne.cz/*=wallpaper*
 ||alfa.cz/images/branding*.jpg
 ||alkoholik.cz/zavislost/images/banners/
