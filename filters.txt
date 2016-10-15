@@ -290,6 +290,7 @@ exashare.com###player_img
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
 ||zive.cz/Client.Scripts/*zive?format=js
+||zive.cz/Client.Scripts/*please$script
 @@||zive.cz/Client.Gallery$script,~third-party
 @@||zive.cz/_rev2015/js$script,~third-party
 @@||zive.cz/WebResource.axd$script,~third-party
