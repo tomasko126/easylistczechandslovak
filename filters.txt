@@ -718,6 +718,7 @@ blisty.cz##.midadv
 blisty.cz##.topadv
 blog.cz###mainBanner
 bohemians.cz###reklama_uvod
+brnenskadrbna.cz###banner-top
 budejckadrbna.cz##A[href^="http://www.budejckadrbna.cz/proclick.html"]
 businessworld.cz###skyscraper
 businessworld.cz##.banner
