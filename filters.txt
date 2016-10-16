@@ -237,6 +237,7 @@ exashare.com###player_img
 ||videacesky.cz/img/*.swf
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||videoad.cz^
+||video.aktualne.cz/adpod.php
 ||view.flashx.tv:81$script
 ||war-city.eu/bannery/
 ||war-net.cz/300x200.gif
