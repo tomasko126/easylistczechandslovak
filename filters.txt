@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 16/10/2016
+! Last change: 17/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -266,6 +266,12 @@ exashare.com###player_img
 ||zvraceny.cz/data/upload/
 ||zvukarina.cz/forum/images/ostatni/
 
+! aktualne.cz
+||aktualne.cz/*fullbanner$script
+
+! autorevue.cz
+||autorevue.cz/*one2n2$script
+
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
 ||games.tiscali.cz/js/*target$script,~third-party
@@ -295,6 +301,7 @@ exashare.com###player_img
 ||assets.adobedtm.com$script,domain=zive.cz
 ||zive.cz/Client.Scripts/*zive?format=js
 ||zive.cz/Client.Scripts/*please$script
+||zive.cz/*one2n2$script
 @@||zive.cz/Client.Gallery$script,~third-party
 @@||zive.cz/_rev2015/js$script,~third-party
 @@||zive.cz/WebResource.axd$script,~third-party
@@ -308,6 +315,7 @@ exashare.com###player_img
 ||mobilmania.cz/*_-*-_*$image
 ||mobilmania.cz/*bg*$image
 ||mobilmania.cz/Client.Scripts/*/showit$script
+||mobilmania.cz/Client.Scripts/*one2n2$script
 ||assets.adobedtm.com$script,domain=mobilmania.cz
 @@||mobilmania.cz/Client.Gallery$script,~third-party
 @@||mobilmania.cz/_rev2015/js$script,~third-party
