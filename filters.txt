@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 19/10/2016
+! Last change: 20/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -144,9 +144,6 @@ exashare.com###player_img
 ||in-pocasi.cz/img/left*.jpg
 ||in-pocasi.cz/img/right*.jpg
 ||in-pocasi.cz/img/zahlavi*.jpg
-||isport.blesk.cz/*/ad-list
-||isport.blesk.cz/*&target$script
-||isport.blesk.cz/*/*$image,~third-party
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
 ||jpg.assets-finance-media.cz/newsimg/brand/
@@ -302,12 +299,33 @@ exashare.com###player_img
 @@||dc.idnes.cz$script,~third-party
 @@||servis.idnes.cz$script,~third-party
 
+! isport.blesk.cz
+||isport.blesk.cz/*//*uaw$script
+||isport.blesk.cz/*/ad-list
+||isport.blesk.cz/*&target$script
+||isport.blesk.cz/*/*$image,~third-party
+
+! mobilmania.cz
+||mobilmania.cz/*_-*-_*$image
+||mobilmania.cz/Client.Scripts/*/showit$script
+||mobilmania.cz/Client.Scripts/*one2n2$script
+||mobilmania.cz/Client.Scripts/*BBID$script
+||mobilmania.cz/Client.Scripts/*//*uaw$script
+||assets.adobedtm.com$script,domain=mobilmania.cz
+@@||mobilmania.cz/Client.Gallery$script,~third-party
+@@||mobilmania.cz/_rev2015/js$script,~third-party
+@@||mobilmania.cz/WebResource.axd$script,~third-party
+@@||mobilmania.cz/ScriptResource.axd$script,~third-party
+@@||forum.mobilmania.cz/styles$script,~third-party
+||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
+
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
 ||zive.cz/Client.Scripts/*zive?format=js
 ||zive.cz/Client.Scripts/*please$script
 ||zive.cz/*one2n2$script
 ||zive.cz/*BBID$script
+||zive.cz/*//*uaw$script
 @@||zive.cz/Client.Gallery$script,~third-party
 @@||zive.cz/_rev2015/js$script,~third-party
 @@||zive.cz/WebResource.axd$script,~third-party
@@ -316,19 +334,6 @@ exashare.com###player_img
 @@||speedtest2.zive.cz/js/script.js$script
 ||zive.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
 ||zive.cz/*velky-vyprodej*/swf$object,~third-party
-
-! mobilmania.cz
-||mobilmania.cz/*_-*-_*$image
-||mobilmania.cz/Client.Scripts/*/showit$script
-||mobilmania.cz/Client.Scripts/*one2n2$script
-||mobilmania.cz/Client.Scripts/*BBID$script
-||assets.adobedtm.com$script,domain=mobilmania.cz
-@@||mobilmania.cz/Client.Gallery$script,~third-party
-@@||mobilmania.cz/_rev2015/js$script,~third-party
-@@||mobilmania.cz/WebResource.axd$script,~third-party
-@@||mobilmania.cz/ScriptResource.axd$script,~third-party
-@@||forum.mobilmania.cz/styles$script,~third-party
-||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
