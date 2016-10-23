@@ -1416,6 +1416,7 @@ idnes.cz##DIV[id*="adb-box"]
 jaguar-club.net#@#.reklama
 ||echo24.cz/templateAssets/js/inlog.js
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
+@@||i.imedia.cz/json*seznam.clanky.zpravy$script,domain=stream.cz
 
 !Titulky.com!
 titulky.com#@##reklama
