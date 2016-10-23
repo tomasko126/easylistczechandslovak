@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 21/10/2016
+! Last change: 23/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -300,10 +300,11 @@ exashare.com###player_img
 @@||servis.idnes.cz$script,~third-party
 
 ! isport.blesk.cz
-||isport.blesk.cz/*//*uaw$script
 ||isport.blesk.cz/*/ad-list
 ||isport.blesk.cz/*&target$script
 ||isport.blesk.cz/*/*$image,~third-party
+||isport.blesk.cz/*//*uaw$script
+||isport.blesk.cz/*//*//*1.1.3*/*/$script
 
 ! mobilmania.cz
 ||mobilmania.cz/*_-*-_*$image
@@ -1414,6 +1415,7 @@ idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/*.js|
 jaguar-club.net#@#.reklama
 ||echo24.cz/templateAssets/js/inlog.js
+@@||bbelements.com/bb/bb_one$domain=hrej.cz
 
 !Titulky.com!
 titulky.com#@##reklama
