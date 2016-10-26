@@ -280,6 +280,11 @@ exashare.com###player_img
 ||games.tiscali.cz/js/*please$script,~third-party
 ||games.tiscali.cz/js/*target$script,~third-party
 ||games.tiscali.cz/js/*0.19$script
+||games.tiscali.cz/*/JSAdserving$script
+||games.tiscali.cz/*/*&clbk=sklik$script
+||games.tiscali.cz/*rand*&hostname$xmlhttprequest
+||games.tiscali.cz/*/*&ad_slot$script
+||games.tiscali.cz/*/*&uje$script
 ||games.tiscali.cz/*/$image,~third-party
 @@||games.tiscali.cz/img/bg/
 @@||games.tiscali.cz/img/special/
