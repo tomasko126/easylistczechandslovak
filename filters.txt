@@ -814,6 +814,7 @@ drumandbass.cz##.banner
 e15.cz##.bx-bb
 e15.cz##.hp-page-card.hp-page-card-zive-firmy
 edna.cz##.banner
+edna.cz##.leaderboard
 echo24.cz##.relama-caption
 ekonomika.idnes.cz##DIV#space-c-add
 ekonomika.idnes.cz##.ahead + DIV:not(.m-bg-1)
@@ -1262,7 +1263,6 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 zive.cz##BODY > FORM:first-of-type > TABLE:first-of-type + DIV
-zive.cz##DIV[style="display: block;"]
 zive.cz##FORM > DIV > DIV[id*="3.1.2"]
 zive.cz##TABLE#prolinkhdr-v3+DIV:not(.cs-cnt-wrapper)
 zive.cz###bx-cnt-full > div > div
