@@ -1173,6 +1173,7 @@ simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
 simpsonovi-tv.cz###odkazy
 sledujserialy.sk##[name='iframe'] + div
+sledujufilmy.cz##.bottom-advert
 smartmania.cz###tely-top
 smartmania.cz##.bAdvert
 smartmania.cz##.heureka3-content
