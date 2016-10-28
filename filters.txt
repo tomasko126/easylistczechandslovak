@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 27/10/2016
+! Last change: 28/10/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -267,6 +267,10 @@ exashare.com###player_img
 ||aktualne.cz/*fullbanner$script
 ||aktualne.cz/*viewid$script
 ||aktualne.cz/*/*/*=leader$script
+||aktualne.cz/*/*/*leaderboard$script
+||aktualne.cz/*/*&ad_slot$script
+||aktualne.cz/*//*adfscript$script
+||i0.cz/abcampaign/
 
 ! autorevue.cz
 ||autorevue.cz/*one2n2$script
@@ -696,11 +700,13 @@ ulozisko.sk#@##reklama_big
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
+aktualne.cz##A[href*="size=leader"]
 aktualne.cz###brand-c > div:first-child
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
 aktualne.cz###sas-leader
+aktualne.cz###sas-jobbox-300
 aktualne.cz##.adWrapperFlight
 aktualne.cz##.job_box_hp
 aktualne.cz##.job_box_300
@@ -811,6 +817,7 @@ diit.cz##.footer_links
 diit.cz##.leftbox-main
 doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
+doktorka.cz##.ad_code_box
 doktorka.cz##.ban1
 doupe.zive.cz###adframe-shell
 dpp.cz###top-banner
@@ -821,12 +828,6 @@ edna.cz##.banner
 edna.cz##.leaderboard
 echo24.cz##.relama-caption
 ekonomika.idnes.cz##DIV#space-c-add
-ekonomika.idnes.cz##.ahead + DIV:not(.m-bg-1)
-ekonomika.idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
-ekonomika.idnes.cz##.authors + DIV
-ekonomika.idnes.cz##.authors + DIV + DIV[style]
-ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
-ekonomika.idnes.cz##.text:not(#art-text)
 ekonomika.idnes.cz###art-tags DIV[style]
 ekonomika.idnes.cz###art-tags DIV[class]
 ekonomika.idnes.cz###art-tags[class]:not(.art-tags)
@@ -839,6 +840,12 @@ ekonomika.idnes.cz###main DIV[style~="font-size:"]
 ekonomika.idnes.cz###main > DIV#foot2[style]
 ekonomika.idnes.cz###main > DIV#foot2[class]
 ekonomika.idnes.cz###najdete + SCRIPT + DIV + DIV
+ekonomika.idnes.cz##.ahead + DIV:not(.m-bg-1)
+ekonomika.idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
+ekonomika.idnes.cz##.authors + DIV
+ekonomika.idnes.cz##.authors + DIV + DIV[style]
+ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
+ekonomika.idnes.cz##.text:not(#art-text)
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
@@ -871,8 +878,8 @@ fotoaparat.cz##[style="position: absolute; top: 610px; left: 770px; width: 155px
 fotoaparat.cz##[style="width:628px; height:60px"]
 fotoradce.cz###reklamad-vlevo
 fotoradce.cz###reklamavlevo
-g.cz##.advert-fallback
 g.cz###block-g-advert-d-leaderboard
+g.cz##.advert-fallback
 gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
@@ -893,17 +900,6 @@ games.tiscali.cz##DIV[inittop]
 games.tiscali.cz##DIV[id*="1.1."]
 games.tiscali.cz##DIV[id*="2.1."]
 games.tiscali.cz##DIV[style*="z-index:9999"]
-games.tiscali.cz##.adtext
-games.tiscali.cz##.article-offer
-games.tiscali.cz##.b-300x250
-games.tiscali.cz##.bbtitle
-games.tiscali.cz##.box-offer
-games.tiscali.cz##.box-article-detail ~ DIV
-games.tiscali.cz##.pe-banner
-games.tiscali.cz##.sklik-ads
-games.tiscali.cz##.sklik-ad
-games.tiscali.cz##.top.row-main
-games.tiscali.cz##.wide
 games.tiscali.cz###alzadiv
 games.tiscali.cz###aw0
 games.tiscali.cz###banner
@@ -918,6 +914,17 @@ games.tiscali.cz##[class^="bb-brand"]
 games.tiscali.cz##[class*="ld-top"]
 games.tiscali.cz##[class^=" "]
 games.tiscali.cz##[src*="creativecdn"]
+games.tiscali.cz##.adtext
+games.tiscali.cz##.article-offer
+games.tiscali.cz##.b-300x250
+games.tiscali.cz##.bbtitle
+games.tiscali.cz##.box-offer
+games.tiscali.cz##.box-article-detail ~ DIV
+games.tiscali.cz##.pe-banner
+games.tiscali.cz##.sklik-ads
+games.tiscali.cz##.sklik-ad
+games.tiscali.cz##.top.row-main
+games.tiscali.cz##.wide
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 grunex.com##.banner-nbg-page
@@ -938,7 +945,6 @@ hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
-idnes.cz##[class^="AdTrack"]
 idnes.cz##A[href~="bbelements"]
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
 idnes.cz##DIV[id~="adform"]
@@ -958,6 +964,7 @@ idnes.cz###space-c + DIV
 idnes.cz###topkontakt-ahead
 idnes.cz###topkontakt-sph
 idnes.cz###wbox-dovolena
+idnes.cz##[class^="AdTrack"]
 idnes.cz##.adbox-regiobox
 idnes.cz##.AdTrack-CSS-Link
 idnes.cz##.aheadegiobox
@@ -985,10 +992,12 @@ ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
-isport.blesk.cz##.ads
+isport.blesk.cz##A[href*="ibb"]
 isport.blesk.cz###ads-widesquare
 isport.blesk.cz##[id*=".1.2"]
 isport.blesk.cz##[id*=".1.1"]
+isport.blesk.cz##.ads
+isport.blesk.cz##.promo-bar + DIV[id]:not(.wrapper)
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
 jizdnirady.idnes.cz##.advert
@@ -1002,6 +1011,7 @@ kladenskelisty.cz##.rleft
 kladenskelisty.cz##.rright
 kladenskelisty.cz##.tree
 kniha.cz##DIV[id^="banner"]
+kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 kurzy.cz###adv_300adsense
 kurzy.cz###adv_doublesky
 kurzy.cz###adv_fullhead
@@ -1015,7 +1025,6 @@ kurzy.cz##.box2
 kurzy.cz##.box4
 kurzy.cz##.box9
 kurzy.cz##.textovka
-kurzy.cz##DIV[style="border: 1px silver solid; float: left;"]
 lamer.cz##.square
 letemsvetemapplem.eu###brandingconts
 letemsvetemapplem.eu###headervelka
