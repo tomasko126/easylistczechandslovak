@@ -24,7 +24,7 @@
 .lt/banner/
 .sk/img/banner
 /a_adv.dat?
-/advantage.$domain=~dama.cz
+/advantage.$domain=~dama.cz|~kentico.com
 /ad_supermedia.php?
 /banner-system/banners/*
 /cron.php?rand=
