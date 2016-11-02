@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 1/11/2016
+! Last change: 2/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -336,17 +336,13 @@ exashare.com###player_img
 ||assets.adobedtm.com$script,domain=zive.cz
 ||zive.cz/Client.Scripts/*zive?format=js
 ||zive.cz/Client.Scripts/*please$script
-||zive.cz/Client.Scripts/*/$script
 ||zive.cz/*one2n2$script
 ||zive.cz/*BBID$script
 ||zive.cz/*//*uaw$script
 ||zive.cz/_rev2015/js/*=/$script
-@@||zive.cz/Client.Scripts/*?v=6$script
-@@||zive.cz/Client.Scripts/*?ver=$script
-@@||zive.cz/Client.Scripts/*.008$script
-@@||zive.cz/Client.Gallery$script,~third-party
 ||zive.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
 ||zive.cz/*velky-vyprodej*/swf$object,~third-party
+/\bzive.cz\/_rev2015\/js\/[\w+]{400,450}\//
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
