@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 2/11/2016
+! Last change: 4/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -276,6 +276,7 @@ exashare.com###player_img
 ||autorevue.cz/*one2n2$script
 ||autorevue.cz/*ad_slot$script
 ||autorevue.cz/*//*//*3.1.1*/*/$script
+/\bautorevue\.cz\/[\w+]{440,500}\/$/
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -289,6 +290,9 @@ exashare.com###player_img
 ||games.tiscali.cz/*rand*&hostname$xmlhttprequest
 ||games.tiscali.cz/*/*&ad_slot$script
 ||games.tiscali.cz/*/*&uje$script
+||games.tiscali.cz/*//please/$script
+||games.tiscali.cz/*/*/*=/$script
+||games.tiscali.cz/*/*siteid$script
 ||games.tiscali.cz/*/$image,~third-party
 @@||games.tiscali.cz/img/bg/
 @@||games.tiscali.cz/img/special/
@@ -296,6 +300,7 @@ exashare.com###player_img
 @@||games.tiscali.cz/img/logo-games.png
 @@||games.tiscali.cz/img/fav/
 @@||foto.games.tiscali.cz^$image
+/\bgames\.tiscali\.cz\/[\w+-]{83}$/
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
@@ -331,6 +336,7 @@ exashare.com###player_img
 @@||mobilmania.cz/ScriptResource.axd$script,~third-party
 @@||forum.mobilmania.cz/styles$script,~third-party
 ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
+/\bmobilmania\.cz\/Client\.Scripts\/[\w+]{430,460}\/$/
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
@@ -987,6 +993,7 @@ ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
+iprima.cz###work-my-reklamicka
 isport.blesk.cz##A[href*="ibb"]
 isport.blesk.cz###ads-widesquare
 isport.blesk.cz##[id*=".1.2"]
@@ -1209,6 +1216,7 @@ stream.cz###user_head
 superapple.cz##A[href*="banner"]
 superapple.cz##.widget-header
 superhry.cz##.video-doporucujeme
+synonymus.cz##[style="width:550px"]
 synotliga.isport.blesk.cz##.leaderboard
 t-mobile.cz##.advttl
 tipcars.com###loading
