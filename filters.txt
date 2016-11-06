@@ -107,6 +107,7 @@ exashare.com###player_img
 ||eserial.cz/liftago2.jpg
 ||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
+||extra.cz/*//please$script
 ||fdb.cz/ad/
 ||filmporno.cz/media/banners/
 ||filmy.kinotip.cz/pop.php
@@ -180,6 +181,7 @@ exashare.com###player_img
 ||navratdoreality.cz/static/takeover$image
 ||novinky.cz/static/css/xmas.css
 ||old.disk.cz/disk/Lib.adv.Server.cls
+||onetv.cz/*//please$script
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
 ||parabola.cz/img_menu/s125_01.gif
