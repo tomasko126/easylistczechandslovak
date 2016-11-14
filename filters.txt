@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 8/11/2016
+! Last change: 14/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -93,6 +93,8 @@ exashare.com###player_img
 ||centrum.cz/*=wallpaper*
 ||cn130.com/wp-content/uploads/an-temp/
 ||count.flashx.tv:81/
+||http://img.csfd.cz/assets/$script
+@@||img.csfd.cz/assets/b1984/modules/web/scripts/scripts.js
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
@@ -148,6 +150,8 @@ exashare.com###player_img
 ||in-pocasi.cz/img/zahlavi*.jpg
 ||itnetwork.cz/images/banners/
 ||itnetwork.cz/script/abc/
+||jiskra-benesov.cz/images/branding/
+||jiskra-benesov.cz/webloader/jsloader-*.js
 ||jpg.assets-finance-media.cz/newsimg/brand/
 ||kaloricketabulky.cz/images/branding/
 ||kaloricketabulky.cz/styles4/bigscreen2.css
@@ -1229,6 +1233,7 @@ tiscali.cz##.box-offer
 tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
+topserialy.sk##A[class^="banner"]
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##.banneritem
 tv.seznam.cz##.o2Box
@@ -1434,6 +1439,7 @@ games.tiscali.cz#@#.tracked-event
 @@||games.tiscali.cz^$generichide
 @@||topserialy.sk/*fuck-adblock$script
 @@||topserialy.sk$generichide
+@@||topserialy.sk/js/adsbygoogle.js
 idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
