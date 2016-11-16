@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 15/11/2016
+! Last change: 16/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -1397,6 +1397,7 @@ techbox.sk##.inzercia
 teevee.sk##A[href^="https://www.tipsport.sk/PartnerRedirectAction.do?"]
 teevee.sk###colorbox
 teevee.sk###cboxOverlay
+titulky.com##[id^="bannery"]
 topky.sk##.ad
 topky.sk##.addbox.avizo
 topky.sk##.box_advertisment.addbox.recycle
@@ -1455,7 +1456,6 @@ jaguar-club.net#@#.reklama
 !Titulky.com!
 titulky.com#@##reklama
 titulky.com#@#.pub_728x90
-@@||titulky.com/bannery/$image
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 
 !poradte.cz!
