@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 16/11/2016
+! Last change: 18/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -110,7 +110,7 @@ exashare.com###player_img
 ||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
 ||extra.cz/*//please$script
-/.extra\.cz\/[\w+]{410,600}\/$/
+/\bextra\.cz\/[\w+]{300,450}\/[\w+]{50,350}$/
 ||fdb.cz/ad/
 ||filmporno.cz/media/banners/
 ||filmy.kinotip.cz/pop.php
@@ -187,7 +187,7 @@ exashare.com###player_img
 ||novinky.cz/static/css/xmas.css
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||onetv.cz/*//please$script
-/.onetv\.cz\/[\w+]{410,600}\/$/
+/\bonetv\.cz\/[\w+]{300,450}\/[\w+]{50,350}$/
 ||online-filmy-zdarma.cz/upload/Banner/
 ||parabola.cz/img_inzerent/
 ||parabola.cz/img_menu/s125_01.gif
@@ -278,7 +278,10 @@ exashare.com###player_img
 ||aktualne.cz/*/*/*leaderboard$script
 ||aktualne.cz/*/*&ad_slot$script
 ||aktualne.cz/*//*adfscript$script
+||aktualne.cz/*loader.js?v=1.2$script
 ||i0.cz/abcampaign/
+/\baktualne\.cz\/\w{320,370}\/\w{20,100}$/
+/\baktualne\.cz\/[\w-]{70,110}k\?_=\d{7}$/
 
 ! autorevue.cz
 ||autorevue.cz/*one2n2$script
@@ -311,6 +314,7 @@ exashare.com###player_img
 @@||games.tiscali.cz/img/fav/
 @@||foto.games.tiscali.cz^$image
 /\bgames\.tiscali\.cz\/[\w+-]{60,83}$/
+/(?=\bgames\.tiscali\.cz(?:\/[\w-+.]+){2,4}$)(?=\bgames\.tiscali\.cz(?:[\w-+/]+\.[\w-+/]+){1}$)(?:\bgames\.tiscali\.cz\/[\w-+./]{400,500}$)/
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
