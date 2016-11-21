@@ -93,6 +93,8 @@ exashare.com###player_img
 ||centrum.cz/*=wallpaper*
 ||cn130.com/wp-content/uploads/an-temp/
 ||count.flashx.tv:81/
+||http://img.csfd.cz/assets/$script
+@@||img.csfd.cz/assets/*/modules/web/scripts/scripts.js
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
@@ -558,7 +560,6 @@ exashare.com###player_img
 @@||i.imedia.cz/js/im2.js
 @@||i.imedia.cz/js/im3.js
 @@||images.mironet.cz$image
-@@||img.csfd.cz/assets/
 @@||moviezone.cz/js/
 @@||*.nova.cz/static/cz/shared/js/advert.js
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
