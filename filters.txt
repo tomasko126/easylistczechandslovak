@@ -94,7 +94,7 @@ exashare.com###player_img
 ||cn130.com/wp-content/uploads/an-temp/
 ||count.flashx.tv:81/
 ||http://img.csfd.cz/assets/$script
-@@||img.csfd.cz/assets/b1984/modules/web/scripts/scripts.js
+@@||img.csfd.cz/assets/*/modules/web/scripts/scripts.js
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
