@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 23/11/2016
+! Last change: 25/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -280,7 +280,7 @@ exashare.com###player_img
 ||aktualne.cz/*abcampaign.js
 ||i0.cz/abcampaign/
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
-/(?:\baktualne\.cz)(?=(?:\/[\w+]+){1,2}$)(?:\/[\w+/]{350,900}$)/
+/(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 ! autorevue.cz
 ||autorevue.cz/*one2n2$script
@@ -290,7 +290,7 @@ exashare.com###player_img
 
 ! extra.cz a onetv.cz
 ||extra.cz/js/fuckadblock.js
-/(?:(?:\bextra\.cz)|(?:\bonetv\.cz))(?=(?:\/[\w+]+){1,4}$)(?:\/[\w+/]{350,900}$)/
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{300,}\/$)/$script
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -321,6 +321,7 @@ exashare.com###player_img
 @@||foto.games.tiscali.cz^$image
 /\bgames\.tiscali\.cz\/[\w+-]{60,83}$/
 /(?=\bgames\.tiscali\.cz(?:\/[\w-+.]+){2,4}$)(?=\bgames\.tiscali\.cz(?:[\w-+/]+\.[\w-+/]+){1,5}$)(?:\bgames\.tiscali\.cz\/[\w-+./]{350,500}$)/
+/(?:\bgames\.tiscali\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{500,}\/$)/$script
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
@@ -342,7 +343,8 @@ exashare.com###player_img
 ||isport.blesk.cz/*//*uaw$script
 ||isport.blesk.cz/*//*//*1.1.3*/*/$script
 ||isport.blesk.cz/*1.8.3.min.js$script
-/(?=\bisport\.blesk\.cz(?:\/[\w+]+){1,3}$)(?:\bisport\.blesk\.cz\/[\w+/]{400,800}$)/
+/(?=\bisport\.blesk\.cz(?:\/[\w+]+){1}$)(?:\bisport\.blesk\.cz\/[\w+/]{400,800}$)/
+/(?:\bisport\.blesk\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 ! mobilmania.cz
 ||mobilmania.cz/*_-*-_*$image
@@ -358,7 +360,7 @@ exashare.com###player_img
 @@||mobilmania.cz/ScriptResource.axd$script,~third-party
 @@||forum.mobilmania.cz/styles$script,~third-party
 ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
-/(?=\bmobilmania\.cz\/Client\.Scripts(?:\/[\w+]+){1,3}$)(?:\bmobilmania\.cz\/Client\.Scripts\/[\w+/]{400,800}$)/
+/(?:\bmobilmania\.cz\/Client\.Scripts\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
@@ -373,7 +375,7 @@ exashare.com###player_img
 ||zive.cz/_rev2015/js/*1.8.3.min.js$script
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
-/\bzive.cz\/_rev2015\/js\/[\w+]{350,400}\/[\w+]{70,150}$/
+/(?:\bzive\.cz\/_rev2015\/js\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
