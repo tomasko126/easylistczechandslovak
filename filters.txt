@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 25/11/2016
+! Last change: 28/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -313,11 +313,7 @@ exashare.com###player_img
 ||games.tiscali.cz/*?2.0.200$script
 ||games.tiscali.cz/*sklik$script
 ||games.tiscali.cz/*/$image,~third-party
-@@||games.tiscali.cz/img/bg/
-@@||games.tiscali.cz/img/special/
-@@||games.tiscali.cz/img/socials.png
-@@||games.tiscali.cz/img/logo-games.png
-@@||games.tiscali.cz/img/fav/
+@@||games.tiscali.cz/img/$image
 @@||foto.games.tiscali.cz^$image
 /\bgames\.tiscali\.cz\/[\w+-]{60,83}$/
 /(?=\bgames\.tiscali\.cz(?:\/[\w-+.]+){2,4}$)(?=\bgames\.tiscali\.cz(?:[\w-+/]+\.[\w-+/]+){1,5}$)(?:\bgames\.tiscali\.cz\/[\w-+./]{350,500}$)/
@@ -375,7 +371,7 @@ exashare.com###player_img
 ||zive.cz/_rev2015/js/*1.8.3.min.js$script
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
-/(?:\bzive\.cz\/_rev2015\/js\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
+/(?:\bzive\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
