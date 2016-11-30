@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 28/11/2016
+! Last change: 30/11/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -339,8 +339,6 @@ exashare.com###player_img
 ||isport.blesk.cz/*//*uaw$script
 ||isport.blesk.cz/*//*//*1.1.3*/*/$script
 ||isport.blesk.cz/*1.8.3.min.js$script
-/(?=\bisport\.blesk\.cz(?:\/[\w+]+){1}$)(?:\bisport\.blesk\.cz\/[\w+/]{400,800}$)/
-/(?:\bisport\.blesk\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 ! mobilmania.cz
 ||mobilmania.cz/*_-*-_*$image
@@ -356,7 +354,6 @@ exashare.com###player_img
 @@||mobilmania.cz/ScriptResource.axd$script,~third-party
 @@||forum.mobilmania.cz/styles$script,~third-party
 ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
-/(?:\bmobilmania\.cz\/Client\.Scripts\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
@@ -371,7 +368,7 @@ exashare.com###player_img
 ||zive.cz/_rev2015/js/*1.8.3.min.js$script
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
-/(?:\bzive\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
+/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w+/]{400,}$)/$script
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
