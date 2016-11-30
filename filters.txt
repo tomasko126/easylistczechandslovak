@@ -290,7 +290,9 @@ exashare.com###player_img
 
 ! extra.cz a onetv.cz
 ||extra.cz/js/fuckadblock.js
-/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{300,}\/$)/$script
+||extra.cz/*banner$script
+extra.cz##iframe[src*="performax"]
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[\w+/]{300,}$)/$script
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -315,9 +317,8 @@ exashare.com###player_img
 ||games.tiscali.cz/*/$image,~third-party
 @@||games.tiscali.cz/img/$image
 @@||foto.games.tiscali.cz^$image
-/\bgames\.tiscali\.cz\/[\w+-]{60,83}$/
-/(?=\bgames\.tiscali\.cz(?:\/[\w-+.]+){2,4}$)(?=\bgames\.tiscali\.cz(?:[\w-+/]+\.[\w-+/]+){1,5}$)(?:\bgames\.tiscali\.cz\/[\w-+./]{350,500}$)/
-/(?:\bgames\.tiscali\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{500,}\/$)/$script
+/\bgames\.tiscali\.cz\/[\w+-]{60,83}$/$script
+/(?:\bgames\.tiscali\.cz\/)(?:[\w+/]{500,}$)/$script
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
