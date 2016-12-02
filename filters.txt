@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 30/11/2016
+! Last change: 2/12/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -164,6 +164,7 @@ exashare.com###player_img
 ||logobox.cz/images/banners/
 ||lphard.cz/images/banners/
 ||lui-magazine.cz/images/banners/nove/brand/
+||lupa.cz/*/please/showit/$script
 ||luxusnirekreacnidomy.cz/adds/
 ||majnuj.cz/wp-content/uploads/*/ulozto_button.png
 ||mamincinyrecepty.cz/images/banner*
@@ -286,13 +287,12 @@ exashare.com###player_img
 ||autorevue.cz/*one2n2$script
 ||autorevue.cz/*ad_slot$script
 ||autorevue.cz/*//*//*3.1.1*/*/$script
-/\bautorevue\.cz\/[\w+]{440,500}\/$/
 
 ! extra.cz a onetv.cz
 ||extra.cz/js/fuckadblock.js
 ||extra.cz/*banner$script
 extra.cz##iframe[src*="performax"]
-/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[\w+/]{300,}$)/$script
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[\w+/.]{300,}$)/$script
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -318,7 +318,7 @@ extra.cz##iframe[src*="performax"]
 @@||games.tiscali.cz/img/$image
 @@||foto.games.tiscali.cz^$image
 /\bgames\.tiscali\.cz\/[\w+-]{60,83}$/$script
-/(?:\bgames\.tiscali\.cz\/)(?:[\w+/]{500,}$)/$script
+/(?:\bgames\.tiscali\.cz\/)(?:[\w+/.]{500,}$)/$script
 
 ! idnes.cz
 ||idnes.cz$script,~third-party
@@ -369,7 +369,8 @@ extra.cz##iframe[src*="performax"]
 ||zive.cz/_rev2015/js/*1.8.3.min.js$script
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
-/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w+/]{400,}$)/$script
+||zive.cz/*JSAdserving$script
+/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\breflex\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w+/.]{400,}$)/$script
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
@@ -1462,6 +1463,7 @@ jaguar-club.net#@#.reklama
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
 @@||i.imedia.cz/json*seznam.clanky.zpravy$script,domain=stream.cz
 ||onetv.cz/js/fuckadblock.js
+||manmagazin.sk/wp-content/uploads/*/*.js?ver=2.0.11
 
 !Titulky.com!
 titulky.com#@##reklama
