@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 6/12/2016
+! Last change: 9/12/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -165,6 +165,7 @@ exashare.com###player_img
 ||lphard.cz/images/banners/
 ||lui-magazine.cz/images/banners/nove/brand/
 ||lupa.cz/*/please/showit/$script
+||lupa.cz/*one2n1$script
 ||luxusnirekreacnidomy.cz/adds/
 ||majnuj.cz/wp-content/uploads/*/ulozto_button.png
 ||mamincinyrecepty.cz/images/banner*
@@ -292,7 +293,7 @@ exashare.com###player_img
 ||extra.cz/js/fuckadblock.js
 ||extra.cz/*banner$script
 extra.cz##iframe[src*="performax"]
-/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[\w+/.,]{300,}$)/$script
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^\/]{300,}$)/$script
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -322,6 +323,7 @@ extra.cz##iframe[src*="performax"]
 
 ! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
 ||idnes.cz/*/please/showit/$script
+/(?:\bidnes\.cz\/)(?:[^\/]{300,}$)/$script
 ! ||idnes.cz$script,~third-party
 ! @@||servix.idnes.cz/media$script,~third-party
 ! @@||mapy.idnes.cz$script,~third-party
@@ -371,7 +373,7 @@ extra.cz##iframe[src*="performax"]
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
 ||zive.cz/*JSAdserving$script
-/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\breflex\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w+/.,]{400,}$)/$script
+/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\breflex\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[\w-;+.]{400,}$)/$script
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
