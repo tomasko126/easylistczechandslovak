@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 14/12/2016
+! Last change: 16/12/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -294,6 +294,7 @@ exashare.com###player_img
 ||extra.cz/js/fuckadblock.js
 ||extra.cz/*banner$script
 extra.cz##iframe[src*="performax"]
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{40,48}$)/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{400,}$)/$script
 
 ! games.tiscali.cz
@@ -316,14 +317,18 @@ extra.cz##iframe[src*="performax"]
 ||games.tiscali.cz/*?typkodu=$script
 ||games.tiscali.cz/*?2.0.200$script
 ||games.tiscali.cz/*sklik$script
+||games.tiscali.cz/*;click=$script
+||games.tiscali.cz/*ad.js
 ||games.tiscali.cz/*/$image,~third-party
 @@||games.tiscali.cz/img/$image
 @@||foto.games.tiscali.cz^$image
-/\bgames\.tiscali\.cz\/[\w+-]{60,83}$/$script
+/\bgames\.tiscali\.cz\/[\w+-]{43,83}$/$script
+/(?:\bgames\.tiscali\.cz\/)(?:.{80,100}$)/$script
 /(?:\bgames\.tiscali\.cz\/)(?:[\w+/.]{500,}$)/$script
 
 ! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
 ||idnes.cz/*/please/showit/$script
+/(?=.*(?:\/\*)+.*$)(?:\bidnes.cz\/)(?:.{120,}$)/$script
 /(?:\bidnes\.cz\/)(?:.{250,}$)/$script
 /(?:\bidnes\.cz\/)(?:.{40,48}$)/$script
 ! ||idnes.cz$script,~third-party
@@ -376,6 +381,7 @@ extra.cz##iframe[src*="performax"]
 ||zive.cz/*sklik$script
 ||zive.cz/*JSAdserving$script
 /(?=.*(?:\/\*)+.*$)(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:.{400,}$)/$script
+/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
 
@@ -1214,6 +1220,7 @@ securityworld.cz##.banner
 serialkeys.svetu.cz###menu_rozdel_mene
 serialzone.cz###hpbglink-watch
 serialzone.cz###top-banner
+seznam.cz##.ogm-advert-vendor-sizer
 simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
 simpsonovi-tv.cz###odkazy
@@ -1463,6 +1470,7 @@ games.tiscali.cz#@#.tracked-event
 @@||topserialy.sk/*fuck-adblock$script
 @@||topserialy.sk$generichide
 @@||topserialy.sk/js/adsbygoogle.js
+@@||h.imedia.cz^$domain=seznam.cz
 idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
