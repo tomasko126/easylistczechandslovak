@@ -296,6 +296,7 @@ exashare.com###player_img
 extra.cz##iframe[src*="performax"]
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{40,48}$)/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{400,}$)/$script
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
 
 ! games.tiscali.cz
 ||games.tiscali.cz/js/*Ad$script,~third-party
@@ -329,6 +330,7 @@ extra.cz##iframe[src*="performax"]
 ! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
 ||idnes.cz/*/please/showit/$script
 /(?=.*(?:\/\*)+.*$)(?:\bidnes.cz\/)(?:.{120,}$)/$script
+/(?:\bidnes.cz\/)(?:[^.]{120,}$)/$script
 /(?:\bidnes\.cz\/)(?:.{250,}$)/$script
 /(?:\bidnes\.cz\/)(?:.{40,48}$)/$script
 ! ||idnes.cz$script,~third-party
