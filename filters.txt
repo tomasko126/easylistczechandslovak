@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 16/12/2016
+! Last change: 23/12/2016
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -323,7 +323,7 @@ extra.cz##iframe[src*="performax"]
 @@||games.tiscali.cz/img/$image
 @@||foto.games.tiscali.cz^$image
 /\bgames\.tiscali\.cz\/[\w+-]{43,83}$/$script
-/(?:\bgames\.tiscali\.cz\/)(?:.{80,100}$)/$script
+/(?:\bgames\.tiscali\.cz\/)(?:.{80,170}$)/$script
 /(?:\bgames\.tiscali\.cz\/)(?:[\w+/.]{500,}$)/$script
 
 ! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
@@ -380,7 +380,7 @@ extra.cz##iframe[src*="performax"]
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/*sklik$script
 ||zive.cz/*JSAdserving$script
-/(?=.*(?:\/\*)+.*$)(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:.{400,}$)/$script
+/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^.]{400,}$)/$script
 /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
