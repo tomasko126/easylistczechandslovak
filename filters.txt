@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 23/12/2016
+! Last change: 06/01/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -294,8 +294,7 @@ exashare.com###player_img
 ||extra.cz/js/fuckadblock.js
 ||extra.cz/*banner$script
 extra.cz##iframe[src*="performax"]
-/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{40,48}$)/$script
-/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:.{400,}$)/$script
+/(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
 
 ! games.tiscali.cz
@@ -1469,7 +1468,7 @@ games.tiscali.cz#@##ads-test
 games.tiscali.cz#@#.afs_ads
 games.tiscali.cz#@#.tracked-event
 @@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
-@@||games.tiscali.cz/img/adblock_on.gif
+@@||games.tiscali.cz/img/adblock_on.gif$image
 @@||games.tiscali.cz^$generichide
 @@||topserialy.sk/*fuck-adblock$script
 @@||topserialy.sk$generichide
