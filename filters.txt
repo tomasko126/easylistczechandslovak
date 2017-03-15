@@ -741,7 +741,7 @@ abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
 aktualne.cz##A[href*="size=leader"]
-aktualne.cz###brand-c > div:first-child
+aktualne.cz###brand-c > div:first-child:not(.vse)
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
