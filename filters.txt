@@ -289,8 +289,8 @@ exashare.com###player_img
 ||aktualne.cz/*/adfscript$script
 ||i0.cz/abcampaign/
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
-/(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w+/]{400,}\/$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
+/(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
 
 ! autorevue.cz
 ||autorevue.cz/*one2n2$script
