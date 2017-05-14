@@ -1388,6 +1388,9 @@ centrum.sk##.banner
 cucaj.sk###interContainer
 dobre-recepty.sk#@##ad_skin
 dsl.sk##.header_info_text
+e-sim.org##.newFightWindow
+e-sim.org##.pico-close
+e-sim.org##.pico-overlay
 etrend.sk###trendtip
 etrend.sk##.reality
 etrend.sk##.sponsors
