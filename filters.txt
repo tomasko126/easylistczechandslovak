@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 25/04/2017
+! Last change: 28/05/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -155,6 +155,7 @@ exashare.com###player_img
 ||kaloricketabulky.cz/images/branding/
 ||kaloricketabulky.cz/styles4/bigscreen2.css
 ||kecy.roumen.cz/roumingBannerator.php
+||kupi.cz/*/json
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
 ||kurzy.sfinance.cz/img/front/sfinance/*banner*
@@ -232,6 +233,7 @@ exashare.com###player_img
 ||superhry.cz/media/
 ||svoboda.info/assets/files/banners_2013/
 ||svoboda.info/assets/files/banners_2014/
+||titulky.com/img/bn
 ||topkontakt.cz/banner/
 ||tryhard.cz/images/*/*fullbrand*.jpg
 ||uloz.to/bannery/
@@ -1275,6 +1277,7 @@ tipcars.com###loading
 tipcars.com##IFRAME[id*="TC"]
 tiscali.cz##.box-offer
 titulky.com###bnx300x300
+titulky.com##A[onclick^="openAd"]
 tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
