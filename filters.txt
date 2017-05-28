@@ -1502,6 +1502,7 @@ jaguar-club.net#@#.reklama
 ||onetv.cz/js/fuckadblock.js
 ||manmagazin.sk/wp-content/uploads/*/*.js?ver=2.0.11
 skrblik.cz#@##adsense
+@@||pise.cz$generichide
 
 !Titulky.com!
 titulky.com#@##reklama
