@@ -288,9 +288,11 @@ exashare.com###player_img
 ||aktualne.cz/*abcampaign.js
 ||aktualne.cz/*/ads/$script
 ||aktualne.cz/*/*banner$image
+||aktualne.cz/*/banner.js
 ||aktualne.cz/*/adfscript$script
-||aktualne.cz/*/*_branding_$image
+||aktualne.cz/*/*_branding$image
 ||i0.cz/abcampaign/
+||zrks.cz/storage/$third-party,domain=aktualne.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
