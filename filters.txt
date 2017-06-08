@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 03/06/2017
+! Last change: 08/06/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -1153,6 +1153,7 @@ naseadresa.cz##.advertAlignBoxSpec
 naseadresa.cz##.homeAdvertisement
 nasepenize.cz##.ks-detail-clanku
 nasepenize.cz##.latest-hypertext
+nasepraha7.cz###reklama_leaderboard
 navratdoreality.cz##A[href*="utm_campaign"]
 navratdoreality.cz##IMG[src="pub/naprivat-250x250-02.jpg"]
 nejlevnejsiramy.cz###banner_overlay
