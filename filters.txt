@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 09/06/2017
+! Last change: 19/06/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -1008,6 +1008,7 @@ idnes.cz##A[href~="bbelements"]
 idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
 idnes.cz##DIV[id~="adform"]
 idnes.cz##DIV[id~="add"]
+idnes.cz##DIV#main > table[id][class]
 idnes.cz###aaa-box
 idnes.cz###advert
 idnes.cz###christmas-popup
@@ -1020,6 +1021,7 @@ idnes.cz###self-promo
 idnes.cz###selfik-box
 idnes.cz###space-c
 idnes.cz###space-c + DIV
+idnes.cz###space-g
 idnes.cz###topkontakt-ahead
 idnes.cz###topkontakt-sph
 idnes.cz###wbox-dovolena
@@ -1508,6 +1510,7 @@ jaguar-club.net#@#.reklama
 ||manmagazin.sk/wp-content/uploads/*/*.js?ver=2.0.11
 skrblik.cz#@##adsense
 @@||pise.cz$generichide
+@@||1gr.cz/reklama/banner.js$script,domain=idnes.cz
 
 !Titulky.com!
 titulky.com#@##reklama
