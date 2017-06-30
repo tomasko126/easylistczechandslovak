@@ -625,6 +625,7 @@ zive.cz#@#.box-adsense
 !
 @@/moje-konto/inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
+@@||bombuj.eu$generichide
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
@@ -1396,6 +1397,9 @@ best4you.sk##A[href="http://www.Onlinefilmy.eu"]
 best4you.sk##DIV[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 blickclick.webnoviny.sk##.ads.center.clr
 bmwklub.sk##DIV[id^="ad"]
+bombuj.eu###reklamacasino
+bombuj.eu###videooverlay
+bombuj.eu###zatvorit-reklamu
 centrum.sk##.h2.grad2.kupons_games
 centrum.sk##.banner
 cucaj.sk###interContainer
