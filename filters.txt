@@ -1194,6 +1194,8 @@ pcworld.cz###skyscraper
 pcworld.cz##.banner
 penize.tiscali.cz###zone-tiscali-penize-wide
 pestujemeweb.cz###lista
+play.iprima.cz###player-wrapper + div
+play.iprima.cz##.vjs-marker-ad
 playzone.cz###block-block-128
 playzone.cz###block-block-132
 playzone.cz###block-block-143
