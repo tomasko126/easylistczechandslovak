@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 13/01/2017
+! Last change: 01/07/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 3 days
@@ -743,6 +743,7 @@ aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
 aktualne.cz###sas-leader
 aktualne.cz###sas-jobbox-300
+aktualne.cz###sas-multisize-1
 aktualne.cz##.adWrapperFlight
 aktualne.cz##.job_box_hp
 aktualne.cz##.job_box_300
@@ -1387,6 +1388,8 @@ freefilm.sk###blockerINFO
 heureka.sk###banner-leaderboard
 heureka.sk##.filtr.category-partner
 hladaj.referaty.atlas.sk###specbox
+hnonline.sk##.s-branding
+hnonline.sk##stripemark
 itnews.sk###backgroundbanner
 itnews.sk##.menu_logo
 lenzabava.sk##A[href="http://on.fb.me/1aR7Kru"]
@@ -1477,7 +1480,6 @@ idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
 jaguar-club.net#@#.reklama
-||echo24.cz/templateAssets/js/inlog.js
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
 @@||i.imedia.cz/json*seznam.clanky.zpravy$script,domain=stream.cz
 ||onetv.cz/js/fuckadblock.js
