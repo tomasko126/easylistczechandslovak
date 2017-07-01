@@ -106,6 +106,7 @@ exashare.com###player_img
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
 ||dobresenajim.cz/idnesbanner?
 ||edna.cz/static/web/img/banners/branding*
+||eltrack.pro$popup
 ||eserial.cz/liftago2.jpg
 ||eserial.cz/trikator/
 ||espoluprace.cz/affiliate/
@@ -116,6 +117,7 @@ exashare.com###player_img
 ||flash.stream.cz/get_sklik/
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
+||freefilm.sk/banner
 ||games.tiscali.cz/*/extra/*
 ||games.tiscali.cz/*/partnerJsApi*
 ||garaz.autorevue.cz/advantage.js
@@ -626,6 +628,7 @@ zive.cz#@#.box-adsense
 @@/moje-konto/inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@||bombuj.eu$generichide
+@||freefilm.sk$generichide
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
