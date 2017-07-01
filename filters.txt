@@ -450,7 +450,7 @@ extra.cz##iframe[src*="performax"]
 ||bbmedia.cz^$third-party
 ||betclick.com^$third-party
 ||bidmax.cz^$third-party
-||c.imedia.cz^$third-party
+||c.imedia.cz^$third-party,domain=~idnes.cz
 ||ads.cars.cz^$third-party
 ||d.vvbox.cz^$third-party
 ||data.itiscali.cz^$third-party
