@@ -428,7 +428,6 @@ extra.cz##iframe[src*="performax"]
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
 ||techbox.sk/*colorbox
-||topserialy.sk/img/dreamair.swf
 ||img.teevee.sk/img/comm/
 ||totalpozicky.sk/images/banners/
 ||tu-ke.com/ali-jewelry.jpg
@@ -626,26 +625,12 @@ mojevideo.sk#@##video_ad
 @@||sledujserialy.sk/$generichide
 @@||spusti.net/data/advertisement.js
 @@||spusti.net/advertisement.js
-@@||topserialy.sk/*/adblock.js
-@@||topserialy.sk/*/adnetwork.js
-@@||topserialy.sk/*/ads.js
-@@||topserialy.sk/*/advert.js
-@@||topserialy.sk/*/adverts.js
-@@||topserialy.sk/*/advert-detail.js
-@@||topserialy.sk/*/advertisement.js
-@@||topserialy.sk/*/fuckadblock.js
-@@||topserialy.sk/*/popad.js
 @@||topserialy.to/js/advertisements.js
 @@||topserialy.to/js/googlead.js
 @@||topserialy.to$generichide
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 komentare.sme.sk#@#.share-box
-topserialy.sk#@##ad-box
-topserialy.sk#@##adsense
-topserialy.sk#@##tester
-topserialy.sk#@#.big-ad
-topserialy.sk#@#.video_ad
 ulozisko.sk#@##reklama_big
 !
 !---------- Czech and Slovak Generic Element Hiding Rules ----------!
@@ -1243,7 +1228,6 @@ titulky.com##A[onclick^="openAd"]
 tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
-topserialy.sk##A[class^="banner"]
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##.banneritem
 tv.seznam.cz##.o2Box
@@ -1419,7 +1403,6 @@ topky.sk##.nastip
 topky.sk##.takeoverKlik
 topky.sk###top-offers-slider
 topnovinky.sk###rekl_left_banner
-topserialy.sk##.dreamair
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
 tv-program.sk##.dragobj > div:nth-of-type(2)
@@ -1449,9 +1432,6 @@ zoznam.sk##P.left
 @@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/*
 mazdaclub.cz#@#.reklama
-@@||topserialy.sk/*fuck-adblock$script
-@@||topserialy.sk$generichide
-@@||topserialy.sk/js/adsbygoogle.js
 @@||h.imedia.cz^$domain=seznam.cz
 idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
