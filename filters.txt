@@ -592,6 +592,8 @@ extra.cz##iframe[src*="performax"]
 @@||stream.cz/static/swf/advert-nextEpisode.swf
 @@||*-reklama.cz
 @@||ta3.com/advert-async-system/load-items.html?
+@@||warforum.cz/ads.js
+
 doupe.zive.cz#@##adblock-leaderboard
 lidovky.cz#@#.col-ad
 nissanclub.cz#@#.reklama
