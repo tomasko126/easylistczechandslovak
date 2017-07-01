@@ -1110,6 +1110,7 @@ lidovky.cz##.authors + DIV:not(.related)
 lidovky.cz##.widesquare
 livesport.cz###box-over-content-a
 lui-magazine.cz##.bannergroup
+lupa.cz##div[data-admarker='reklama']
 lupa.cz###jobs
 lupa.cz###jobs-prace
 lupa.cz###jobs-kurzy
