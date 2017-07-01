@@ -115,6 +115,7 @@ exashare.com###player_img
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
 ||freefilm.sk/banner
+||g.cz$subdocument,domain=g.cz
 ||games.tiscali.cz$subdocument,domain=games.tiscali.cz
 ||games.tiscali.cz/img/socials.png/*
 ||games.tiscali.cz/img/bg/
@@ -859,6 +860,7 @@ fotoradce.cz###reklamad-vlevo
 fotoradce.cz###reklamavlevo
 g.cz###block-g-advert-d-leaderboard
 g.cz##.advert-fallback
+g.cz##div[class^='etargetReklama']
 gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
