@@ -628,6 +628,7 @@ zive.cz#@#.box-adsense
 @@/moje-konto/inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@||bombuj.eu$generichide
+@@||easylist.club^$third-party
 @@||freefilm.sk$generichide
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
@@ -656,6 +657,9 @@ mojevideo.sk#@##video_ad
 @@||topserialy.sk/*/advertisement.js
 @@||topserialy.sk/*/fuckadblock.js
 @@||topserialy.sk/*/popad.js
+@@||topserialy.to/js/advertisements.js
+@@||topserialy.to/js/googlead.js
+@@||topserialy.to$generichide
 @@||tpd.sk/ads/rotator/
 @@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 komentare.sme.sk#@#.share-box
