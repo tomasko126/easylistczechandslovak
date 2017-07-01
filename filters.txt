@@ -4,7 +4,7 @@
 ! Last change: 01/07/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
-! Expires: 3 days
+! Expires: 1 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
