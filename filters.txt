@@ -735,6 +735,7 @@ aktualne.cz##.job_box_hp
 aktualne.cz##.job_box_300
 aktualne.cz##.leaderboard-obal
 aktualne.cz##.reklama-vpravo-obal
+aktualnityden.cz##.contentTeaser.itemAddBlock
 alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
 alfacomp.cz###middlebanner
