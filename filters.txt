@@ -464,7 +464,7 @@ extra.cz##iframe[src*="performax"]
 ||himymonline.tv/ssb/$domain=simpsonovi-tv.cz
 ||hudebniraj.cz/inshop/Layout/bannery_external/^&third-party
 ||i.imedia.cz/$third-party
-||ibillboard.com^$third-party
+||ibillboard.com^$third-party,domain=~idnes.cz
 ||im9.cz/*/vyrobce/*background*$third-party
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
