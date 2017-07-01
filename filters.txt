@@ -118,7 +118,7 @@ exashare.com###player_img
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
 ||freefilm.sk/banner
-||games.tiscali.cz$subdocument
+||games.tiscali.cz$subdocument,domain=games.tiscali.cz
 ||games.tiscali.cz/img/socials.png/*
 ||games.tiscali.cz/img/bg/
 ||games.tiscali.cz/img/fav/
@@ -297,6 +297,7 @@ exashare.com###player_img
 ||aktualne.cz/*/banner.js
 ||aktualne.cz/*/adfscript$script
 ||aktualne.cz/*/*_branding$image
+||aktualne.cz$subdocument,domain=aktualne.cz
 ||i0.cz/abcampaign/
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
@@ -736,7 +737,8 @@ abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
 aktualne.cz##[id$="leader"]
 aktualne.cz##[id^="reklama"]
-aktualne.cz##A[href*="size=leader"]
+aktualne.cz##a[href*="size=leader"]
+aktualne.cz##div[class^='etargetReklama']
 aktualne.cz###reklama-halfpage
 aktualne.cz###reklama-megaboard
 aktualne.cz###reklama-wallpaper
