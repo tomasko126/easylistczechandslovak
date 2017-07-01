@@ -98,9 +98,6 @@ exashare.com###player_img
 ||cviceni-doma.cz/images/*banner*
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
-||data.idnes.cz/nocache/DPP/
-||data.idnes.cz/soutez/
-||data.idnes.cz/uni/
 ||devbook.cz/images/banners/
 ||devbook.cz/images/partnersky*.jpg
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
@@ -126,7 +123,6 @@ exashare.com###player_img
 ||games.tiscali.cz/img/special/
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
-||gidnes.cz/b/
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
@@ -141,11 +137,6 @@ exashare.com###player_img
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/realitymix/ext-data/
 ||img.karaoketexty.cz/img/ad/
-||idnes.cz/foto.aspx?*&ad=
-||idnes.cz/js/ad/
-||idnes.cz/r.asp?
-||idnes.cz^*/body-$image
-||idnes.cz^*/main-$image
 ||im9.cz/*aukro
 ||img.blesk.cz/static/data/blesk/*bg.jpg
 ||img.mimiaukce.cz/h/ac/b/
@@ -231,7 +222,6 @@ exashare.com###player_img
 ||slevy.tyden.cz/banner/
 ||spoluzaci.cz/img/new-skin/bgr-main.png
 ||static.autoweb.cz/img/brands/
-||stream*.idnes.cz/*#Reklama*
 ||stobklub.cz/images/banners/maintop.jpg
 ||super.cz/static/flash/
 ||superhry.cz/design/09/banner120.gif
@@ -316,24 +306,6 @@ exashare.com###player_img
 extra.cz##iframe[src*="performax"]
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
-
-! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
-||idnes.cz/*/please/showit/$script
-/(?=.*(?:\/\*)+.*$)(?:\bidnes.cz\/)(?:.{120,}$)/$script
-/(?:\bidnes.cz\/)(?:[^.]{120,}$)/$script
-/(?:\bidnes\.cz\/)(?:.{250,}$)/$script
-/(?:\bidnes\.cz\/)(?:.{40,48}$)/$script
-! ||idnes.cz$script,~third-party
-! @@||servix.idnes.cz/media$script,~third-party
-! @@||mapy.idnes.cz$script,~third-party
-! @@||jizdnirady.idnes.cz$script,~third-party
-! @@||idnes.cz/cms$script,~third-party
-! @@||idnes.cz/js$script,~third-party
-! @@||idnes.cz/foto.aspx$script,~third-party
-! @@||static.akcniceny.cz$image,third-party
-! @@||data.idnes.cz$script,~third-party
-! @@||dc.idnes.cz$script,~third-party
-! @@||servis.idnes.cz$script,~third-party
 
 ! isport.blesk.cz
 ||isport.blesk.cz/*/ad-list
@@ -448,11 +420,6 @@ extra.cz##iframe[src*="performax"]
 ||wasng.joj.sk/
 ||zoznamstatic.sk/project/mail/Werbung/
 !
-! ---------- General blocking rules ----------!
-!
-||takeit.idnes.cz^$subdocument
-||video.vid4u.org/vid4ul.js
-!
 ! ---------- Czech 3rd party blocking rules ----------!
 !
 ||*.livebox.cz/TA3_VOD_COM$third-party
@@ -552,7 +519,6 @@ extra.cz##iframe[src*="performax"]
 @@||ads2.czc.cz/www/
 @@||alfacomp.cz/reklama/
 @@||autotube.cz/ui/player/ad.php
-@@||bbelements.com/crossdomain.xml$domain=idnes.cz
 @@||bibloo.cz^$xmlhttprequest
 @@||blesk.cz/js/*adocean.js*$domain=synotliga.isport.blesk.cz
 @@||blesk.cz/js/*/player/videoad.swf*$domain=synotliga.isport.blesk.cz
@@ -561,8 +527,6 @@ extra.cz##iframe[src*="performax"]
 @@||cz.adocean.pl/files/js/ado.js$domain=blesk.cz
 @@||doupe.zive.cz/Client.Scripts/advertisement.js
 @@||fastshare.cz/banner/site_logo.jpg
-@@||firmy.idnes.cz$script,domain=firmy.idnes.cz
-@@||g.idnes.cz/o/lidovky_ln3b/poutaky/sport/
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
 @@||hry.cz/ad/ad.aspx?
@@ -593,7 +557,6 @@ extra.cz##iframe[src*="performax"]
 @@||*-reklama.cz
 @@||ta3.com/advert-async-system/load-items.html?
 @@||warforum.cz/ads.js
-
 doupe.zive.cz#@##adblock-leaderboard
 lidovky.cz#@#.col-ad
 nissanclub.cz#@#.reklama
@@ -860,25 +823,6 @@ edna.cz##.adsense
 edna.cz##.banner
 edna.cz##.leaderboard
 echo24.cz##.relama-caption
-ekonomika.idnes.cz##DIV#space-c-add
-ekonomika.idnes.cz###art-tags DIV[style]
-ekonomika.idnes.cz###art-tags DIV[class]
-ekonomika.idnes.cz###art-tags[class]:not(.art-tags)
-ekonomika.idnes.cz###art-tags[class^="art-tags c"]
-ekonomika.idnes.cz###content > DIV > DIV > DIV > A[href][style]
-ekonomika.idnes.cz###foot2 DIV[style]
-ekonomika.idnes.cz###foot2 DIV[class^="c"]
-ekonomika.idnes.cz###foot2 > DIV[class]
-ekonomika.idnes.cz###main DIV[style~="font-size:"]
-ekonomika.idnes.cz###main > DIV#foot2[style]
-ekonomika.idnes.cz###main > DIV#foot2[class]
-ekonomika.idnes.cz###najdete + SCRIPT + DIV + DIV
-ekonomika.idnes.cz##.ahead + DIV:not(.m-bg-1)
-ekonomika.idnes.cz##.ahead + DIV + DIV:not(.m-bg-1)
-ekonomika.idnes.cz##.authors + DIV
-ekonomika.idnes.cz##.authors + DIV + DIV[style]
-ekonomika.idnes.cz##.m-bg-4 > DIV:not(#portal):not(#topeject):not(#content):not(#najdete)
-ekonomika.idnes.cz##.text:not(#art-text)
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
@@ -941,42 +885,6 @@ hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
-idnes.cz##A[href~="bbelements"]
-idnes.cz##A[href^="http://cz.search.etargetnet.com/generic/broad/go.php?"]
-idnes.cz##DIV[id~="adform"]
-idnes.cz##DIV[id~="add"]
-idnes.cz##DIV#main > table[id][class]
-idnes.cz###aaa-box
-idnes.cz###advert
-idnes.cz###christmas-popup
-idnes.cz###eTargetContent
-idnes.cz###hyper300
-idnes.cz###r
-idnes.cz###r-billboard
-idnes.cz###self-box
-idnes.cz###self-promo
-idnes.cz###selfik-box
-idnes.cz###space-c
-idnes.cz###space-c + DIV
-idnes.cz###space-g
-idnes.cz###topkontakt-ahead
-idnes.cz###topkontakt-sph
-idnes.cz###wbox-dovolena
-idnes.cz##[class^="AdTrack"]
-idnes.cz##.adbox-regiobox
-idnes.cz##.AdTrack-CSS-Link
-idnes.cz##.aheadegiobox
-idnes.cz##.ahead
-idnes.cz##.catchbox-dual-l
-idnes.cz##.fix-m11
-idnes.cz##.m54
-idnes.cz##.r-art.art
-idnes.cz##.r-body
-idnes.cz##.r-head
-idnes.cz##.r-text
-idnes.cz##.raketa_dacan
-idnes.cz##.sme-art
-idnes.cz##.widesquare
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
 ihned.cz###r-drazby
@@ -1439,7 +1347,6 @@ zoznam.sk##P.left
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/*
 mazdaclub.cz#@#.reklama
 @@||h.imedia.cz^$domain=seznam.cz
-idnes.cz##DIV[id*="adb-box"]
 @@||i0.cz/js/advert.
 @@||i0.cz/*.js|
 jaguar-club.net#@#.reklama
@@ -1449,7 +1356,6 @@ jaguar-club.net#@#.reklama
 ||manmagazin.sk/wp-content/uploads/*/*.js?ver=2.0.11
 skrblik.cz#@##adsense
 @@||pise.cz$generichide
-@@||1gr.cz/reklama/banner.js$script,domain=idnes.cz
 
 !Titulky.com!
 titulky.com#@##reklama
@@ -1457,13 +1363,4 @@ titulky.com#@#.pub_728x90
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 
 !poradte.cz!
-poradte.cz#@#.text-ad-links
-poradte.cz#@#.text-ads
-poradte.cz#@#.text_ads
-poradte.cz#@#.text_ad
-poradte.cz#@#.textAd
-poradte.cz#@#.text-ad
-poradte.cz#@#.pub_728x90
-poradte.cz#@#.pub_300x250m
-poradte.cz#@#.pub_300x250
-@@||poradte.cz/js/ads.js
+@@||poradte.cz/$genericblock,generichide
