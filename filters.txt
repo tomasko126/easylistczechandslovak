@@ -1130,6 +1130,9 @@ novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
 olomouckadrbna.cz###bannerTop
 olomouckadrbna.cz##.bs-overhidden
+onetv.cz###AdTrackArticleBottom
+onetv.cz###movingAdRight
+onetv.cz##.ad.centered
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 orbion.cz###DIV[style="text-align: center; display: none; z-index: 9999; bottom: 0px;"]
