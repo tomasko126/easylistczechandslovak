@@ -571,6 +571,7 @@ extra.cz##iframe[src*="performax"]
 @@||i.imedia.cz/js/im2.js
 @@||i.imedia.cz/js/im3.js
 @@||images.mironet.cz$image
+@@||letstrololol.cz/$generichide
 @@||moviezone.cz/js/
 @@||*.nova.cz/static/cz/shared/js/advert.js
 @@||*.nova.cz/static/shared/app/videojs/plugins/adblock/
