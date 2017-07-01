@@ -118,6 +118,12 @@ exashare.com###player_img
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
 ||freefilm.sk/banner
+||games.tiscali.cz$subdocument
+||games.tiscali.cz/img/socials.png/*
+||games.tiscali.cz/img/bg/
+||games.tiscali.cz/img/fav/
+||games.tiscali.cz/img/logo-games.png/*
+||games.tiscali.cz/img/special/
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
 ||gidnes.cz/b/
@@ -922,8 +928,10 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
-google.cz,google.com###mbEnd
-google.cz,google.com###tads
+games.tiscali.cz##div[style="display:block!important"]
+games.tiscali.cz##script + div[style='position:relative;'] + div
+games.tiscali.cz##.box-fanatics + div
+games.tiscali.cz##.pfm-text-ad
 grunex.com##.banner-nbg-page
 grunex.com##.bg-linkA
 grunex.com##.bg-linkB
