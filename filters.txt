@@ -628,7 +628,7 @@ zive.cz#@#.box-adsense
 @@/moje-konto/inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@/moje-inzeraty/$document,domain=autobazar.sk|bazar.sk|nehnutelnosti.sk
 @@||bombuj.eu$generichide
-@||freefilm.sk$generichide
+@@||freefilm.sk$generichide
 @@||img.aaaauto.eu/thumb/
 @@||maps.gstatic.com/maps-api-v3/api/js/$domain=mapa-mapy.info.sk
 @@/moje-konto/inzeraty/
