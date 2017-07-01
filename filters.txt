@@ -118,8 +118,6 @@ exashare.com###player_img
 ||forum.w-source.net/images/*banner*.jpg
 ||fotoradce.cz/layout/inzerce/
 ||freefilm.sk/banner
-||games.tiscali.cz/*/extra/*
-||games.tiscali.cz/*/partnerJsApi*
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
 ||gidnes.cz/b/
@@ -311,34 +309,6 @@ exashare.com###player_img
 extra.cz##iframe[src*="performax"]
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
-
-! games.tiscali.cz
-||games.tiscali.cz/js/*Ad$script,~third-party
-||games.tiscali.cz/js/*BBID$script
-||games.tiscali.cz/js/*one2n$script
-||games.tiscali.cz/js/*please$script,~third-party
-||games.tiscali.cz/js/*target$script,~third-party
-||games.tiscali.cz/js/*0.19$script
-||games.tiscali.cz/*/*1.8.3.min.js
-||games.tiscali.cz/*/JSAdserving$script
-||games.tiscali.cz/*/*&clbk=sklik$script
-||games.tiscali.cz/*rand*&hostname$xmlhttprequest
-||games.tiscali.cz/*/*&ad_slot$script
-||games.tiscali.cz/*/*&uje$script
-||games.tiscali.cz/*//please/$script
-||games.tiscali.cz/*/*/*=/$script
-||games.tiscali.cz/*/*/sh?2.0.199
-||games.tiscali.cz/*/*siteid$script
-||games.tiscali.cz/*?typkodu=$script
-||games.tiscali.cz/*?2.0.200$script
-||games.tiscali.cz/*sklik$script
-||games.tiscali.cz/*;click=$script
-||games.tiscali.cz/*ad.js
-||games.tiscali.cz/*/$image,~third-party
-@@||games.tiscali.cz/img/$image
-@@||foto.games.tiscali.cz^$image
-/\bgames\.tiscali\.cz\/[\w+-]{43,83}$/$script
-/\bgames\.tiscali\.cz\/.{170,}$/$script
 
 ! idnes.cz (starsi blokovani zakomentovano, pravdepodobne jiz neni potreba)
 ||idnes.cz/*/please/showit/$script
@@ -952,47 +922,6 @@ gamepark.cz###bmenu
 gamepark.cz###supersize
 gamepark.cz##.banner
 gamepark.cz##.headerpicture
-games.tiscali.cz##A[href*="CREFURL"]
-games.tiscali.cz##A[href*="utm_campaign"]
-games.tiscali.cz##A[href*="mmotraffic.com"]
-games.tiscali.cz##A[href*="youronlinechoices"] + IFRAME
-games.tiscali.cz##A.tracked-event[href*="ibb"]
-games.tiscali.cz##BODY>DIV>DIV[class^="r"]:first-of-type
-games.tiscali.cz##BODY > DIV > DIV[class*="-main"]
-games.tiscali.cz##DIV[-abp-properties="min-height: 200px;"]
-games.tiscali.cz##DIV[-abp-properties="padding-top: 12px;"]
-games.tiscali.cz##DIV[-abp-properties="padding-top: 1*.*px;"]
-games.tiscali.cz##DIV[-abp-properties="height: 20*.*px"]
-games.tiscali.cz##DIV[-abp-properties="height: 19*.*px"]
-games.tiscali.cz##DIV[inittop]
-games.tiscali.cz##DIV[id*="1.1."]
-games.tiscali.cz##DIV[id*="2.1."]
-games.tiscali.cz##DIV[style*="z-index:9999"]
-games.tiscali.cz###alzadiv
-games.tiscali.cz###aw0
-games.tiscali.cz###banner
-games.tiscali.cz###brand-right
-games.tiscali.cz###brand-left
-games.tiscali.cz###cookie-bar
-games.tiscali.cz###intAds
-games.tiscali.cz###menu-accessibility + DIV:not(#header)
-games.tiscali.cz###sticky-top.sticky
-games.tiscali.cz##[class*="adform"]
-games.tiscali.cz##[class^="bb-brand"]
-games.tiscali.cz##[class*="ld-top"]
-games.tiscali.cz##[class^=" "]
-games.tiscali.cz##[src*="creativecdn"]
-games.tiscali.cz##.adtext
-games.tiscali.cz##.article-offer
-games.tiscali.cz##.b-300x250
-games.tiscali.cz##.bbtitle
-games.tiscali.cz##.box-offer
-games.tiscali.cz##.box-article-detail ~ DIV
-games.tiscali.cz##.pe-banner
-games.tiscali.cz##.sklik-ads
-games.tiscali.cz##.sklik-ad
-games.tiscali.cz##.top.row-main
-games.tiscali.cz##.wide
 google.cz,google.com###mbEnd
 google.cz,google.com###tads
 grunex.com##.banner-nbg-page
@@ -1506,12 +1435,6 @@ zoznam.sk##P.left
 @@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/*
 mazdaclub.cz#@#.reklama
-games.tiscali.cz#@##ads-test
-games.tiscali.cz#@#.afs_ads
-games.tiscali.cz#@#.tracked-event
-@@||go.cz.bbelements.com/bb/bb_one2n$domain=games.tiscali.cz
-@@||games.tiscali.cz/img/adblock_on.gif$image
-@@||games.tiscali.cz^$generichide
 @@||topserialy.sk/*fuck-adblock$script
 @@||topserialy.sk$generichide
 @@||topserialy.sk/js/adsbygoogle.js
