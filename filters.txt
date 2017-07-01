@@ -1155,6 +1155,9 @@ rejstrik.finance.cz##.right > IFRAME
 rejstrik.finance.cz##.toScroll
 restaurace.cz##.banner-120-600
 restaurace.cz##.banner-300-300
+restauraceoaza.cz##.AdTrack-CSS-Title
+restauraceoaza.cz##.AdTrack-CSS-Text
+restauraceoaza.cz##.outstrip1
 ronnie.cz###fixedMenu
 ronnie.cz###rek3
 ronnie.cz###rodkaz
