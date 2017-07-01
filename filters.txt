@@ -1364,3 +1364,8 @@ titulky.com#@#.pub_728x90
 
 !poradte.cz!
 @@||poradte.cz/$genericblock,generichide
+
+!idnes.cz!
+@@||bbelements.com$image,domain=idnes.cz
+@@||bbelements.com/please/code$domain=idnes.cz
+@@||idnes.cz$elemhide
