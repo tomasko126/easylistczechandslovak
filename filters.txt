@@ -1366,7 +1366,8 @@ titulky.com#@#.pub_728x90
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 
 !poradte.cz!
-@@||poradte.cz/$genericblock,generichide
+@@||poradte.cz^$elemhide
+@@||poradte.cz/js/ads.js
 
 !idnes.cz!
 @@||bbelements.com$image,domain=idnes.cz
