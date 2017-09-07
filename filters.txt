@@ -870,6 +870,9 @@ games.tiscali.cz##div[style="display:block!important"]
 games.tiscali.cz##script + div[style='position:relative;'] + div
 games.tiscali.cz##.box-fanatics + div
 games.tiscali.cz##.pfm-text-ad
+games.tiscali.cz##script:inject(abort-on-property-write.js, bmone2n)
+games.tiscali.cz###header:xpath(preceding-sibling::div)
+games.tiscali.cz##:xpath(//comment()[contains(.,"iBILLBOARD")]/parent::*)
 grunex.com##.banner-nbg-page
 grunex.com##.bg-linkA
 grunex.com##.bg-linkB
