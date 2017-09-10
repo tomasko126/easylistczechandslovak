@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 15/08/2017
+! Last change: 10/09/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -291,6 +291,12 @@ exashare.com###player_img
 ||aktualne.cz$subdocument,domain=aktualne.cz
 ||i0.cz/abcampaign/
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
+||onthe.io$third-party,domain=aktualne.cz
+||cpex.cz$third-party,domain=aktualne.cz
+||video.aktualne.cz/adpod.php?*$domain=video.aktualne.cz
+||aimatch.com$third-party,domain=aktualne.cz
+||rubiconproject.com$third-party,domain=aktualne.cz
+||adform.net$third-party,domain=aktualne.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
@@ -688,7 +694,6 @@ abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
 aktualne.cz##[id$="leader"]
-aktualne.cz##[id^="reklama"]
 aktualne.cz##a[href*="size=leader"]
 aktualne.cz##div[class^='etargetReklama']
 aktualne.cz###reklama-halfpage
@@ -1362,6 +1367,7 @@ jaguar-club.net#@#.reklama
 ||manmagazin.sk/wp-content/uploads/*/*.js?ver=2.0.11
 skrblik.cz#@##adsense
 @@||pise.cz$generichide
+@@||aktualne.cz$generichide,genericblock
 
 !Titulky.com!
 titulky.com#@##reklama
