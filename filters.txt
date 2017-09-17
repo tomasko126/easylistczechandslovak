@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 10/09/2017
+! Last change: 17/09/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -877,7 +877,8 @@ games.tiscali.cz##.box-fanatics + div
 games.tiscali.cz##.pfm-text-ad
 games.tiscali.cz##script:inject(abort-on-property-write.js, bmone2n)
 games.tiscali.cz###header:xpath(preceding-sibling::div)
-games.tiscali.cz##:xpath(//comment()[contains(.,"iBILLBOARD")]/parent::*)
+games.tiscali.cz##body:style(background: #000 !important)
+games.tiscali.cz##:xpath(//comment()[contains(.,"iBILLB0ARD") or contains(.,"iBILLBOARD") or contains(.,"bbelements.com")]/parent::*)
 grunex.com##.banner-nbg-page
 grunex.com##.bg-linkA
 grunex.com##.bg-linkB
