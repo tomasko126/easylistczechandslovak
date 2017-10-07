@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 26/09/2017
+! Last change: 7/10/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -297,6 +297,7 @@ redirect%2Fads$domain=csfd.cz
 ||onthe.io$third-party,domain=aktualne.cz
 ||cpex.cz$third-party,domain=aktualne.cz
 ||video.aktualne.cz/adpod.php?*$domain=video.aktualne.cz
+||video.aktualne.cz/auth_videodata$xmlhttprequest
 ||aimatch.com$third-party,domain=aktualne.cz
 ||rubiconproject.com$third-party,domain=aktualne.cz
 ||adform.net$third-party,domain=aktualne.cz
@@ -316,6 +317,10 @@ redirect%2Fads$domain=csfd.cz
 extra.cz##iframe[src*="performax"]
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
+
+! idnes.cz
+@@||idnes.cz$generichide,genericblock
+||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
 
 ! isport.blesk.cz
 ||isport.blesk.cz/*/ad-list
@@ -501,6 +506,7 @@ extra.cz##iframe[src*="performax"]
 ||stat.sport.cz^$third-party
 ||supersouteze.best4man.cz^$third-party
 ||tely.cz^$third-party
+||trackad.cz^$third-party
 ||xzone.cz$third-party
 ||zombiezone.cz$third-party
 !
@@ -706,10 +712,12 @@ aktualne.cz###sas-leader
 aktualne.cz###sas-jobbox-300
 aktualne.cz###sas-multisize-1
 aktualne.cz##.adWrapperFlight
+aktualne.cz##.companion
 aktualne.cz##.job_box_hp
 aktualne.cz##.job_box_300
 aktualne.cz##.leaderboard-obal
 aktualne.cz##.reklama-vpravo-obal
+aktualne.cz##.sa-hide-ee
 aktualnityden.cz##.contentTeaser.itemAddBlock
 alfa.cz##.rtxtbannerh4
 alfacomp.cz###leftouterbanner
@@ -1381,8 +1389,3 @@ titulky.com#@#.pub_728x90
 !poradte.cz!
 @@||poradte.cz^$elemhide
 @@||poradte.cz/js/ads.js
-
-!idnes.cz!
-@@||bbelements.com$image,domain=idnes.cz
-@@||bbelements.com/please/code$domain=idnes.cz
-@@||idnes.cz$elemhide
