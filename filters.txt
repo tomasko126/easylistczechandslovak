@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 10/10/2017
+! Last change: 12/10/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -830,6 +830,9 @@ dama.cz###adframe-shell
 denik.cz##.rkl-top
 diablofans.cz###bottom_fixed_leaderboard
 diit.cz###block-block-30
+diit.cz###leaderboard
+diit.cz###skyscraper > ins > iframe
+diit.cz###b468x60 > ins > iframe
 diit.cz##.footer_links
 diit.cz##.leftbox-main
 doktorka.cz###zone-doktorka-box
@@ -935,6 +938,7 @@ isport.blesk.cz##.ads
 isport.blesk.cz##.promo-bar + DIV[id]:not(.wrapper)
 itnetwork.cz##div.ad-730
 i-navody.cz###slider
+jaknaletenky.cz###social
 jizdnirady.idnes.cz##.advert
 kalkulacka-hypoteka.cz##IMG[src="/images/neomezene-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##IMG[src="/images/ebook-banner-left.jpeg"]
@@ -1053,6 +1057,7 @@ nova.cz##.big_baner
 nova.cz##.pr_box
 novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
+numbeo.com##.top_ad
 olomouckadrbna.cz###bannerTop
 olomouckadrbna.cz##.bs-overhidden
 onetv.cz###AdTrackArticleBottom
@@ -1086,6 +1091,8 @@ programujte.com##[class^="adtea"]
 programujte.com##.jobs
 prozeny.blesk.cz##.pinkHeader.sportnanetuIco
 prozeny.blesk.cz##.sportnanetu
+psnprofiles.com###content > .wide-ad
+psnprofiles.com##.side-ad
 recepty.vareni.cz##.banner
 reflex.cz###ads-leader-board
 reflex.cz###adsenceX
@@ -1100,6 +1107,7 @@ restauraceoaza.cz##.outstrip1
 ronnie.cz###fixedMenu
 ronnie.cz###rek3
 ronnie.cz###rodkaz
+root.cz##.adLeaderboard
 root.cz###box-64bit-eu
 root.cz###servers-promo
 rouming.cz##.roumingLista
