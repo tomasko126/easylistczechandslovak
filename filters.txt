@@ -187,6 +187,7 @@ redirect%2Fads$domain=csfd.cz
 ||navratdoreality.cz/static/branding$image
 ||navratdoreality.cz/static/takeover$image
 ||novinky.cz/static/css/xmas.css
+||novinky.cz/*/?bn=$script
 ||obchodnirejstrik.cz/*/please/showit/$script
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||onetv.cz/*//please$script
@@ -1059,6 +1060,11 @@ nova.cz##.big_baner
 nova.cz##.pr_box
 novaplus.nova.cz##.vjs-marker.active
 novinky.cz###advertRightTopPosition
+novinky.cz###container-banner
+novinky.cz###rightColumn
+novinky.cz###superBrandingMain
+novinky.cz##.ad
+novinky.cz##.advertTitleMPU + a
 numbeo.com##.top_ad
 olomouckadrbna.cz###bannerTop
 olomouckadrbna.cz##.bs-overhidden
