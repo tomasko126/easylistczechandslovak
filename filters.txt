@@ -182,6 +182,7 @@ redirect%2Fads$domain=csfd.cz
 ||mp3s.nadruhou.net/js/bastard_*.js
 ||mp3stahuj.cz/images/*banner*
 ||mrk.cz/images/baners/
+||mygivt.com/toolbar
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||navratdoreality.cz/static/branding$image
