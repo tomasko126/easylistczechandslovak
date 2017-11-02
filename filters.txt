@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 31/10/2017
+! Last change: 2/11/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -921,7 +921,7 @@ hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
 idnes.cz##A[href*="bbelements"]
-idnes.cz##[id^='r']
+idnes.cz##[id^='r98']
 idnes.cz##[id^='bmone2n']
 idnes.cz##.ahead
 ihned.cz###eTargetScript
