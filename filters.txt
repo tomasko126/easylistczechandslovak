@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 5/11/2017
+! Last change: 8/11/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -187,9 +187,6 @@ redirect%2Fads$domain=csfd.cz
 ||naseadresa.cz^*/flash/baner
 ||navratdoreality.cz/static/branding$image
 ||navratdoreality.cz/static/takeover$image
-||novinky.cz/static/css/xmas.css
-||novinky.cz/*/?bn=$script
-||novinky.cz/*/json$xmlhttprequest,~third-party
 ||obchodnirejstrik.cz/*/please/showit/$script
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||onetv.cz/*//please$script
@@ -348,6 +345,21 @@ extra.cz##iframe[src*="performax"]
 @@||mobilmania.cz/ScriptResource.axd$script,~third-party
 @@||forum.mobilmania.cz/styles$script,~third-party
 ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
+
+! novinky.cz
+||novinky.cz/*adblock
+||novinky.cz/*banner
+||novinky.cz/static/css/xmas.css
+||novinky.cz/*/?bn=$script
+||novinky.cz/*/json$xmlhttprequest,~third-party
+novinky.cz##script:inject(abort-on-property-write.js, AdBlockTest)
+novinky.cz###adComm
+novinky.cz###adTopBigsponsor
+novinky.cz###adTopprodukt
+novinky.cz###adTopsponsor
+novinky.cz##a[href*="clickthru"]
+novinky.cz##iframe[src*="rtbimp"]
+novinky.cz##[id^=im-]
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
