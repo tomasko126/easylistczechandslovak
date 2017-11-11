@@ -719,7 +719,6 @@ ulozisko.sk#@##reklama_big
 abecedazahrady.dama.cz##.banneraltext
 abtou.cz##DIV[id^="simplemodal"]
 adfox.cz###vse
-aktualne.cz#?#[id][class]:-abp-contains(reklama)
 aktualne.cz##[class$="-ad"]
 aktualne.cz##[id$="leader"]
 aktualne.cz##[id*="-multisize-"]
