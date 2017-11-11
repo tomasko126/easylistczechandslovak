@@ -1336,6 +1336,7 @@ heureka.sk##.filtr.category-partner
 hladaj.referaty.atlas.sk###specbox
 hnonline.sk##.s-branding
 hnonline.sk##stripemark
+info.cz###interstitial
 itnews.sk###backgroundbanner
 itnews.sk##.menu_logo
 lenzabava.sk##A[href="http://on.fb.me/1aR7Kru"]
