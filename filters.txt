@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 8/11/2017
+! Last change: 11/11/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -182,7 +182,6 @@ redirect%2Fads$domain=csfd.cz
 ||mp3s.nadruhou.net/js/bastard_*.js
 ||mp3stahuj.cz/images/*banner*
 ||mrk.cz/images/baners/
-||mygivt.com/toolbar
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
 ||navratdoreality.cz/static/branding$image
@@ -379,6 +378,8 @@ novinky.cz##[id^=im-]
 /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
+isport.blesk.cz,zive.cz##script:inject(addEventListener-defuser.js, DOMContentLoaded, cncAd.adlblock)
+isport.blesk.cz##.ads-in
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
