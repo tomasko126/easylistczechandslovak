@@ -243,6 +243,7 @@ redirect%2Fads$domain=csfd.cz
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||videoad.cz^
 ||video.aktualne.cz/adpod.php
+||video.csfd.cz/files/videos/*.webm$media,~third-party,redirect=noopmp3-0.1s
 ||view.flashx.tv:81$script
 ||war-city.eu/bannery/
 ||war-net.cz/300x200.gif
@@ -829,6 +830,7 @@ cnews.cz##.adsbygoogle
 csfd.cz##A[href*="/log?type=ads"]
 csfd.cz##A[href*="redirect/ads"]
 csfd.cz###csfd-ad-wrapper
+csfd.cz##.ad-pmg
 csfd.cz##.ad-samsung
 csfd.cz##.branding.bottom
 csfd.cz##.branding.left
