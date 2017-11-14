@@ -354,14 +354,17 @@ extra.cz##iframe[src*="performax"]
 ||novinky.cz/static/css/xmas.css
 ||novinky.cz/*/?bn=$script
 ||novinky.cz/*/json$xmlhttprequest,~third-party
-novinky.cz##script:inject(abort-on-property-write.js, AdBlockTest)
 novinky.cz###adComm
 novinky.cz###adTopBigsponsor
 novinky.cz###adTopprodukt
 novinky.cz###adTopsponsor
 novinky.cz##a[href*="clickthru"]
-novinky.cz##iframe[src*="rtbimp"]
-novinky.cz##[id^=im-]
+novinky.cz##a[href*="destination="]
+novinky.cz##a[href*="click?"]
+novinky.cz##a[href*="adform.net"]
+novinky.cz##iframe
+novinky.cz##[id^="im-"]
+novinky.cz##div[id^="adform"]
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
