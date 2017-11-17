@@ -347,6 +347,7 @@ extra.cz##iframe[src*="performax"]
 @@||mobilmania.cz/ScriptResource.axd$script,~third-party
 @@||forum.mobilmania.cz/styles$script,~third-party
 ||mobilmania.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
+mobilmania.cz##div.ads
 
 ! novinky.cz
 ||novinky.cz/*adblock
@@ -384,7 +385,7 @@ novinky.cz##div[id^="adform"]
 /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
-isport.blesk.cz,zive.cz##script:inject(addEventListener-defuser.js, DOMContentLoaded, cncAd.adlblock)
+zive.cz##div.ads
 isport.blesk.cz##.ads-in
 
 !
