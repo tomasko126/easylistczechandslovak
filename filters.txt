@@ -366,6 +366,7 @@ novinky.cz##a[href*="click?"]
 novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="%2Fwww.novinky.cz"]
+novinky.cz##a[href*="novinky.cz%"]
 novinky.cz##iframe
 novinky.cz#?#iframe
 novinky.cz##[id^="im-"]
