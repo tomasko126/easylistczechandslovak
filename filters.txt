@@ -302,6 +302,13 @@ redirect%2Fads$domain=csfd.cz
 ||aimatch.com$third-party,domain=aktualne.cz
 ||rubiconproject.com$third-party,domain=aktualne.cz
 ||adform.net$third-party,domain=aktualne.cz
+aktualne.cz##div.komercni-boxik
+aktualne.cz##div.rɇklama-obal
+aktualne.cz##div.sticky-banner
+aktualne.cz##body > div > div > div > div:first-child:not(.header-wrapper)
+aktualne.cz##div.sedy-sloupec > div:not(.boxik):not(.autor-box):not(.tlacitko-dalsi)
+aktualne.cz##div.prava-strana > div[class*="-obal"]
+aktualne.cz##div.pravy > div[class*="-obal"]
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
