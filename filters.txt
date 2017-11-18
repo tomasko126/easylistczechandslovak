@@ -355,6 +355,7 @@ mobilmania.cz##div.ads
 ||novinky.cz/static/css/xmas.css
 ||novinky.cz/*/?bn=$script
 ||novinky.cz/*/json$xmlhttprequest,~third-party
+||novinky.cz/*/sos/*$image
 novinky.cz###adComm
 novinky.cz###adTopBigsponsor
 novinky.cz###adTopprodukt
@@ -365,6 +366,7 @@ novinky.cz##a[href*="click?"]
 novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="%2Fwww.novinky.cz"]
+novinky.cz##a[href*="novinky.cz%"]
 novinky.cz##iframe
 novinky.cz#?#iframe
 novinky.cz##[id^="im-"]
