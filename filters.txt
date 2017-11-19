@@ -1231,6 +1231,7 @@ titulky.com##A[onclick^="openAd"]
 tn.nova.cz##.right_box_promo_articles
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
+topserialy.to###over-play
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##.banneritem
 tv.seznam.cz##.o2Box
