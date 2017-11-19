@@ -374,10 +374,11 @@ novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="%2Fwww.novinky.cz"]
 novinky.cz##a[href*="novinky.cz%"]
-novinky.cz##iframe
-novinky.cz#?#iframe
 novinky.cz##[id^="im-"]
 novinky.cz##div[id^="adform"]
+! Kdyz zakazeme iframy, tak web detekuje blokaci a odstrani styly.
+!novinky.cz##iframe
+!novinky.cz#?#iframe
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
