@@ -243,7 +243,6 @@ redirect%2Fads$domain=csfd.cz
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||videoad.cz^
 ||video.aktualne.cz/adpod.php
-||video.csfd.cz/files/videos/*.webm$media,~third-party,redirect=noopmp3-0.1s
 ||view.flashx.tv:81$script
 ||war-city.eu/bannery/
 ||war-net.cz/300x200.gif
