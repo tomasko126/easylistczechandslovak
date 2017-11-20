@@ -238,6 +238,7 @@ redirect%2Fads$domain=csfd.cz
 ||uloz.to/img/bannery/
 ||uloz.to/staticadvert/branding/
 ||advert.uloz.to/ads/*$subdocument
+||uschovna.cz/branding/$subdocument
 ||uschovna.cz/dt-dancer-234x60.swf
 ||videacesky.cz/img/*.swf
 ||videacesky.server.zcom.cz/redirector/redir.php
