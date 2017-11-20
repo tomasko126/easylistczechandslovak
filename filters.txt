@@ -366,6 +366,7 @@ mobilmania.cz##div.ads
 ||novinky.cz/*?d=*$subdocument
 ||novinky.cz/*novinky.cz%*$subdocument
 ||szn.cz$image,domain=novinky.cz
+||szn.cz/*v_12/vd$domain=novinky.cz
 ||favi.cz$domain=novinky.cz
 novinky.cz###adComm
 novinky.cz###adTopBigsponsor
