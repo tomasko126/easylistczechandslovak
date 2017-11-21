@@ -293,6 +293,9 @@ redirect%2Fads$domain=csfd.cz
 ||aktualne.cz/*/*_branding$image
 ||aktualne.cz/*AktualneADD*$image
 ||aktualne.cz$subdocument,domain=aktualne.cz
+||aktualne.cz/*branding$image
+||aktualne.cz/*opakovaci.jpg$image
+||aktualne.cz/*zahlavi.jpg$image
 ||i0.cz/abcampaign/
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 ||onthe.io$third-party,domain=aktualne.cz
@@ -309,6 +312,11 @@ aktualne.cz##body > div > div > div > div:first-child:not(.header-wrapper)
 aktualne.cz##div.sedy-sloupec > div:not(.boxik):not(.autor-box):not(.tlacitko-dalsi)
 aktualne.cz##div.prava-strana > div[class*="-obal"]
 aktualne.cz##div.pravy > div[class*="-obal"]
+aktualne.cz##div[id*="superhp-w"]
+aktualne.cz###side_left_loop
+aktualne.cz###side_right_loop
+aktualne.cz##a.newWin
+aktualne.cz##div.upscore-pos-5 div.pravy
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
