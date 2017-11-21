@@ -330,6 +330,7 @@ extra.cz##iframe[src*="performax"]
 @@||idnes.cz$generichide,genericblock
 ||bbelements.com/bb/*$script,third-party
 ||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
+||idnes.bbelements.com$image,domain=idnes.cz
 ||intext.lookit.cz/*$domain=idnes.cz
 
 ! isport.blesk.cz
