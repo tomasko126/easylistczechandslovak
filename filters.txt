@@ -317,6 +317,7 @@ aktualne.cz###side_left_loop
 aktualne.cz###side_right_loop
 aktualne.cz##a.newWin
 aktualne.cz##div.upscore-pos-5 div.pravy
+aktualne.cz##div.retex-burn12 + div:not(.podstranka)
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
