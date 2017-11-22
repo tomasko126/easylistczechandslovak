@@ -379,15 +379,21 @@ mobilmania.cz##div.ads
 ||szn.cz$image,domain=novinky.cz
 ||szn.cz/*v_12/vd$domain=novinky.cz
 ||favi.cz$domain=novinky.cz
+novinky.cz###adBottomWrap
 novinky.cz###adComm
 novinky.cz###adTopBigsponsor
 novinky.cz###adTopprodukt
 novinky.cz###adTopsponsor
+novinky.cz###articleContent + div
+novinky.cz###middleLdrBox
+novinky.cz###skyStarter + div
+novinky.cz###subpage > div:first-child:not(#head)
 novinky.cz##a[href*="clickthru"]
 novinky.cz##a[href*="destination="]
 novinky.cz##a[href*="click?"]
 novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="location="]
+novinky.cz##a[href*="spotId="]
 novinky.cz##[id^="im-"]
 novinky.cz##div[id^="adform"]
 ! Kdyz zakazeme iframy, tak web detekuje blokaci a odstrani styly.
