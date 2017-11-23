@@ -876,6 +876,8 @@ csfd.cz##.branding.left
 csfd.cz##.branding.right
 csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
+csfd.cz#?#.ad-pmg-skyscraper-left-wrapper
+csfd.cz#?##ad-wrapper
 ct24.cz##.commercialBox
 ctrlv.cz##DIV[id^="ad"]
 ctrlv.cz##DIV.behind
