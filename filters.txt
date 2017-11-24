@@ -380,6 +380,7 @@ mobilmania.cz##div.ads
 ||szn.cz/*v_12/vd$domain=novinky.cz
 ||favi.cz$domain=novinky.cz
 novinky.cz###adBottomWrap
+novinky.cz###adSkyBottomWrapper
 novinky.cz###adComm
 novinky.cz###adTopBigsponsor
 novinky.cz###adTopprodukt
