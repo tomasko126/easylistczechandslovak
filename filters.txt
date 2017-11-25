@@ -185,8 +185,6 @@ redirect%2Fads$domain=csfd.cz
 ||mygivt.com/toolbar
 ||naseadresa.cz/cz/$subdocument
 ||naseadresa.cz^*/flash/baner
-||navratdoreality.cz/static/branding$image
-||navratdoreality.cz/static/takeover$image
 ||obchodnirejstrik.cz/*/please/showit/$script
 ||old.disk.cz/disk/Lib.adv.Server.cls
 ||onetv.cz/*//please$script
@@ -568,14 +566,17 @@ isport.blesk.cz##.ads-in
 ||promoaim.cz/$third-party
 ||proklik.cz^$third-party
 ||rival.cz^$third-party
+||salesmanago.pl$third-party
 ||script.zebricek.cz^$third-party
 ||stat.novinky.cz^$third-party
 ||stat.sport.cz^$third-party
 ||supersouteze.best4man.cz^$third-party
+||sys.starnets.io$third-party
 ||tely.cz^$third-party
 ||trackad.cz^$third-party
 ||xzone.cz$third-party
 ||zombiezone.cz$third-party
+||zumail.cz$third-party
 !
 ! ---------- Slovak 3rd party blocking rules ----------!
 !
@@ -758,6 +759,8 @@ ulozisko.sk#@##reklama_big
 ##.velke_zlavy
 ##.vreklama
 ##.zlavy-box
+##a[href^="https://looksdigital.net/c/"]
+##a[href*="snredi.com/c/"]
 ##[id^="aswift"]
 ##[id^="sklikReklama"]
 ##[id^="sm-ad"]
@@ -1113,8 +1116,7 @@ naseadresa.cz##.homeAdvertisement
 nasepenize.cz##.ks-detail-clanku
 nasepenize.cz##.latest-hypertext
 nasepraha7.cz###reklama_leaderboard
-navratdoreality.cz##A[href*="utm_campaign"]
-navratdoreality.cz##IMG[src="pub/naprivat-250x250-02.jpg"]
+navratdoreality.cz##.mainbar div.item:has(a[target="_blank"])
 nejlevnejsiramy.cz###banner_overlay
 netu.tv###this-pays-for-bandwidth-container-hor
 nova.cz###banner_nestandard
