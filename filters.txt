@@ -233,6 +233,7 @@ redirect%2Fads$domain=csfd.cz
 ||svoboda.info/assets/files/banners_2014/
 ||titulky.com/img/bn
 ||titulky.com/img/alza/$image
+||titulky.com/js/fadb.js
 ||topkontakt.cz/banner/
 ||tryhard.cz/images/*/*fullbrand*.jpg
 ||uloz.to/bannery/
@@ -1478,7 +1479,7 @@ skrblik.cz#@##adsense
 
 !Titulky.com!
 titulky.com###cboxOverlay
-titulky.com###cboxWrapper
+titulky.com###cboxWrapper:has(a#btn-close-adba)
 @@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 
 !poradte.cz!
