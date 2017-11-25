@@ -426,7 +426,10 @@ novinky.cz##div.nextStory + div
 /(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
+zive.cz###ads-leader-board
 zive.cz##div.ads
+zive.cz##div.bx-sky
+zive.cz##div.sky-wrapper
 isport.blesk.cz##.ads-in
 
 !
