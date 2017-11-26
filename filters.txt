@@ -391,6 +391,7 @@ novinky.cz###adTopprodukt
 novinky.cz###adTopsponsor
 novinky.cz###articleContent + div
 novinky.cz###head + #main + div:not(#footer)
+novinky.cz###komercni
 novinky.cz###menuBottom + div:not(#footer)
 novinky.cz###middleLdrBox
 novinky.cz###page > div:first-child > div:first-child:not(#head)
@@ -398,6 +399,7 @@ novinky.cz###rightBottColumn > hr:first-child + div:not(#jokeBox)
 novinky.cz###sectionBox + div
 novinky.cz###skyStarter + div
 novinky.cz###subpage > div:first-child:not(#head)
+novinky.cz###TopStory > div.topArticle + div + div
 novinky.cz##a[href*="clickthru"]
 novinky.cz##a[href*="destination="]
 novinky.cz##a[href*="click?"]
@@ -407,9 +409,14 @@ novinky.cz##a[href*="spotId="]
 novinky.cz##[id^="im-"]
 novinky.cz##div[id^="adform"]
 novinky.cz##div.nextStory + div
+novinky.cz##img[width="300"]
+novinky.cz##img[width="970"]
 ! Kdyz zakazeme iframy, tak web detekuje blokaci a odstrani styly.
 !novinky.cz##iframe
 !novinky.cz#?#iframe
+! ABP Extended CSS selectors
+novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
+novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"]):not([width="1"]))
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
