@@ -340,6 +340,9 @@ extra.cz##iframe[src*="performax"]
 ||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
 ||idnes.bbelements.com$image,domain=idnes.cz
 ||intext.lookit.cz/*$domain=idnes.cz
+idnes.cz###fix-block-1 > div:first-child:not(#art-video)
+idnes.cz###fix-block-2 > div:first-child[style*="display"]
+idnes.cz###main > table[style*="display"]
 
 ! isport.blesk.cz
 ||isport.blesk.cz/*/ad-list
