@@ -347,7 +347,7 @@ idnes.cz###main > table[style*="display"]
 ! isport.blesk.cz
 ||isport.blesk.cz/*/ad-list
 ||isport.blesk.cz/*&target$script
-||isport.blesk.cz/*/*$image,~third-party
+||isport.blesk.cz/*/*$image,~third-party,domain=~sazkafantasy.isport.blesk.cz
 ||isport.blesk.cz/*//*uaw$script
 ||isport.blesk.cz/*//*//*1.1.3*/*/$script
 ||isport.blesk.cz/*1.8.3.min.js$script
