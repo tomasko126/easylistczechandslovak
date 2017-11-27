@@ -430,7 +430,10 @@ novinky.cz##div.nextStory + div
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
 zive.cz###ads-leader-board
+zive.cz###ao_Skyscraper
+zive.cz###ao_Skyscraper-2
 zive.cz##div.ads
+zive.cz##div.ads-in
 zive.cz##div.bx-sky
 zive.cz##div.sky-wrapper
 isport.blesk.cz##.ads-in
