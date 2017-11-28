@@ -395,6 +395,7 @@ novinky.cz###komercni
 novinky.cz###menuBottom + div:not(#footer)
 novinky.cz###middleLdrBox
 novinky.cz###page > div:first-child > div:first-child:not(#head)
+novinky.cz###page iframe
 novinky.cz###rightBottColumn > hr:first-child + div:not(#jokeBox)
 novinky.cz###sectionBox + div
 novinky.cz###skyStarter + div
@@ -416,7 +417,7 @@ novinky.cz##img[width="970"]
 !novinky.cz#?#iframe
 ! ABP Extended CSS selectors
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"]):not([width="1"]))
+novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"])))
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
