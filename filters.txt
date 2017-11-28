@@ -445,6 +445,8 @@ zive.cz##div.ads
 zive.cz##div.ads-in
 zive.cz##div.bx-sky
 zive.cz##div.sky-wrapper
+zive.cz##div[id$="_protec"]
+zive.cz##div[id$="_protec-2"]
 isport.blesk.cz##.ads-in
 
 !
