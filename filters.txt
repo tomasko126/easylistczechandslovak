@@ -230,7 +230,7 @@ redirect%2Fads$domain=csfd.cz
 ||svoboda.info/assets/files/banners_2013/
 ||svoboda.info/assets/files/banners_2014/
 ||titulky.com/img/bn
-||titulky.com/img/alza/$image
+||titulky.com/img/frtna2017/$image
 ||titulky.com/js/fadb.js
 ||topkontakt.cz/banner/
 ||tryhard.cz/images/*/*fullbrand*.jpg
