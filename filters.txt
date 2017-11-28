@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 26/11/2017
+! Last change: 28/11/2017
 ! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
@@ -895,6 +895,7 @@ computerworld.cz##.ad-obal
 computerworld.cz##.banner
 computerworld.cz##.square_banner
 cnews.cz##.adsbygoogle
+cnews.cz##.td-pb-span8.vc_column_container.wpb_column > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
 csfd.cz##A[href*="/log?type=ads"]
 csfd.cz##A[href*="redirect/ads"]
 csfd.cz###csfd-ad-wrapper
@@ -921,10 +922,13 @@ denik.cz##.rkl-top
 diablofans.cz###bottom_fixed_leaderboard
 diit.cz###block-block-30
 diit.cz###leaderboard
+diit.cz###pr-prace-blok-view
 diit.cz###skyscraper > ins > iframe
+diit.cz###skyscraper-levy > ins > iframe
 diit.cz###b468x60 > ins > iframe
 diit.cz##.footer_links
 diit.cz##.leftbox-main
+diit.cz##.views-row.slider-item-ad
 doktorka.cz###zone-doktorka-box
 doktorka.cz###zone-doktorka-sky
 doktorka.cz##.ad_code_box
@@ -1060,6 +1064,7 @@ kurzy.cz##.box4
 kurzy.cz##.box9
 kurzy.cz##.textovka
 lamer.cz##.square
+laracasts.com##.section.ad
 letemsvetemapplem.eu###brandingconts
 letemsvetemapplem.eu###headervelka
 letemsvetemapplem.eu###pravy_uzky
@@ -1234,6 +1239,7 @@ securityworld.cz##.banner
 serialkeys.svetu.cz###menu_rozdel_mene
 serialzone.cz###hpbglink-watch
 serialzone.cz###top-banner
+seznam.cz##.d_d1
 seznam.cz##.ogm-advert-vendor-sizer
 simpsonovi-tv.cz###a92
 simpsonovi-tv.cz###ideckoo
@@ -1277,6 +1283,9 @@ titulky.com###bnx300x300
 titulky.com##A[onclick^="openAd"]
 titulky.com##a[href*="bbelements"]
 tn.nova.cz##.right_box_promo_articles
+toggl.com##.AnnouncementBar__visible.AnnouncementBar__container
+toggl.com##.AnnouncementBar__minimized.boxes__floating.AnnouncementBar__container
+toggl.com##.AnnouncementBar__maximized.boxes__floating.AnnouncementBar__container
 toplist.cz###toplist_cz_tipy_hp
 toplist.cz###wedos
 topserialy.to###over-play
