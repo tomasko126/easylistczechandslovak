@@ -988,6 +988,7 @@ finance.cz##.arr-red
 firmy.cz###column
 firstclass.cz###stOverlay
 firstclass.cz##.promobox
+forum.root.cz##div.body_message--ad
 fotoaparat.cz###banner2
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;"]
 fotoaparat.cz##[style="border:1px solid #c7d0dc; text-align: center;font-family: Arial,\"Geneva CE\",sans-serif;"]
