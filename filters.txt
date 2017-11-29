@@ -422,7 +422,7 @@ novinky.cz##img[width="300"]
 novinky.cz##img[width="970"]
 ! ABP Extended CSS selectors
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"])))
+novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"]))
 
 ! zive.cz
 ||assets.adobedtm.com$script,domain=zive.cz
