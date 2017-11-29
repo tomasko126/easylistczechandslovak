@@ -408,7 +408,7 @@ novinky.cz##a[href*="click?"]
 novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="spotId="]
-novinky.cz##a[target="_top"] > img
+novinky.cz##a[target]:not(#loginLink):not(#seznamLink):not(#joke_more)
 novinky.cz##[id^="im-"]
 novinky.cz##canvas
 novinky.cz##div[id^="adform"]
