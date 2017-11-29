@@ -1217,6 +1217,7 @@ ronnie.cz###rek3
 ronnie.cz###rodkaz
 root.cz##.adLeaderboard
 root.cz###box-64bit-eu
+root.cz###jobs
 root.cz###servers-promo
 rouming.cz##.roumingLista
 rozzlobenimuzi.com##.bgg
