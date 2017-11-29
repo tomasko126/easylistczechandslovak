@@ -2,7 +2,7 @@
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
 ! Last change: 29/11/2017
-! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy
+! List maintainers: tomasko126, Aslanex, Moskoe, Fanboy, vobruba-martin
 ! GitHub contributors: hrobky, Conder000, MilanPala, freezy-sk, martinrotter, Blackbird88, adawolfa
 ! Expires: 1 days
 ! License: CC-BY-SA v4.0
@@ -448,6 +448,19 @@ zive.cz##div.sky-wrapper
 zive.cz##div[id$="_protec"]
 zive.cz##div[id$="_protec-2"]
 isport.blesk.cz##.ads-in
+
+! mobilmania.cz a zive.cz
+mobilmania.cz,zive.cz###content-lead
+mobilmania.cz,zive.cz##:xpath(//div[@id='ads-leader-board']/parent::*)
+mobilmania.cz,zive.cz##:xpath(//div[@id='ao_Skyscraper']/parent::*)
+mobilmania.cz,zive.cz##:xpath(//div[@class='branding-wrapper']/preceding::*)
+mobilmania.cz,zive.cz##.ar-detail + div
+mobilmania.cz,zive.cz##div[id^='ao_Skyscraper']
+mobilmania.cz,zive.cz##img[id^='ad']
+mobilmania.cz,zive.cz##div[class$='chaos'] > div[class$='-roller']
+||av.cncenter.cz/2017/*w/*.mp4$media
+/[0-9_]*x[0-9_]*.jpg$/$document=www.mobilmania.cz|www.zive.cz
+||av.cncenter.cz/upload/*sec*.mp4$domain=www.zive.cz|www.mobilmania.cz
 
 !
 ! ---------- Slovak 1st party blocking rules ----------!
