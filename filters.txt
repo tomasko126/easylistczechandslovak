@@ -75,6 +75,7 @@ exashare.com###player_img
 ||ab-forum.info/reklamy/
 ||ab-forum.info/xpeed.jpg
 ||abecedaher.cz/index_banner_
+||adslevomat.cz/banner/
 ||adx.fotoaparat.cz/www/images/
 ||alfa.cz/images/branding*.jpg
 ||alkoholik.cz/zavislost/images/banners/
@@ -409,13 +410,16 @@ novinky.cz##a[href*="location="]
 novinky.cz##a[href*="spotId="]
 novinky.cz##a[target="_top"] > img
 novinky.cz##[id^="im-"]
+novinky.cz##canvas
 novinky.cz##div[id^="adform"]
+novinky.cz##div.banner
+novinky.cz##div.glami-wrap
 novinky.cz##div.nextStory + div
+novinky.cz##img.ban
+novinky.cz##img[class^="gjolunk"]
+novinky.cz##img[id^="adform"]
 novinky.cz##img[width="300"]
 novinky.cz##img[width="970"]
-! Kdyz zakazeme iframy, tak web detekuje blokaci a odstrani styly.
-!novinky.cz##iframe
-!novinky.cz#?#iframe
 ! ABP Extended CSS selectors
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
 novinky.cz#?#div:-abp-has(> iframe[width]:not([width="0"])))
