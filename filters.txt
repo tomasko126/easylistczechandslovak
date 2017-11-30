@@ -413,8 +413,11 @@ novinky.cz##a[href*="location="]
 novinky.cz##a[href*="spotId="]
 novinky.cz##a[target]:not(#loginLink):not(#seznamLink):not(#joke_more)
 novinky.cz##[id^="im-"]
+novinky.cz##body > div.cont
 novinky.cz##canvas
 novinky.cz##div[id^="adform"]
+novinky.cz##div[id*="flipbook"]
+novinky.cz##div[id*="videobanner"]
 novinky.cz##div.banner
 novinky.cz##div.glami-wrap
 novinky.cz##div.nextStory + div
@@ -425,6 +428,11 @@ novinky.cz##img[id^="adform"]
 novinky.cz##img[width="300"]
 novinky.cz##img[width="970"]
 ! ABP Extended CSS selectors
+novinky.cz#?#body:-abp-has(> img[src*="/adfserve/"])
+novinky.cz#?#body:-abp-has(> img[src*="alza.cz"])
+novinky.cz#?#div:-abp-has(> div.performax-logo)
+novinky.cz#?#div:-abp-has(> h1.packa)
+novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
 
 ! zive.cz
