@@ -370,6 +370,7 @@ idnes.cz###main > table[style*="display"]
 mobilmania.cz##div.ads
 
 ! novinky.cz
+||imedia.cz$subdocument,domain=novinky.cz
 ||novinky.cz/*adblock
 ||novinky.cz/*banner
 ||novinky.cz/static/css/xmas.css
@@ -401,11 +402,13 @@ novinky.cz###rightBottColumn > hr:first-child + div:not(#jokeBox)
 novinky.cz###sectionBox + div
 novinky.cz###skyStarter + div
 novinky.cz###subpage > div:first-child:not(#head)
+novinky.cz###superBrandingObal
 novinky.cz###TopStory > div.topArticle + div + div
 novinky.cz##a[href*="clickthru"]
 novinky.cz##a[href*="destination="]
 novinky.cz##a[href*="click?"]
 novinky.cz##a[href*="adform.net"]
+novinky.cz##a[href*="imedia.cz"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="spotId="]
 novinky.cz##a[target]:not(#loginLink):not(#seznamLink):not(#joke_more)
@@ -415,6 +418,7 @@ novinky.cz##div[id^="adform"]
 novinky.cz##div.banner
 novinky.cz##div.glami-wrap
 novinky.cz##div.nextStory + div
+novinky.cz##iframe[srcdoc]
 novinky.cz##img.ban
 novinky.cz##img[class^="gjolunk"]
 novinky.cz##img[id^="adform"]
