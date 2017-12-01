@@ -411,7 +411,6 @@ novinky.cz##a[href*="adform.net"]
 novinky.cz##a[href*="imedia.cz"]
 novinky.cz##a[href*="location="]
 novinky.cz##a[href*="spotId="]
-novinky.cz##a[target]:not(#loginLink):not(#seznamLink):not(#joke_more)
 novinky.cz##[id^="im-"]
 novinky.cz##body > div.cont
 novinky.cz##canvas
@@ -425,7 +424,6 @@ novinky.cz##iframe[srcdoc]
 novinky.cz##img.ban
 novinky.cz##img[class^="gjolunk"]
 novinky.cz##img[id^="adform"]
-novinky.cz##img[width="300"]
 novinky.cz##img[width="970"]
 ! ABP Extended CSS selectors
 novinky.cz#?#body:-abp-has(> img[src*="/adfserve/"])
