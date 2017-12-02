@@ -1118,6 +1118,7 @@ lupa.cz##[class*="advert"]
 lupa.cz##[data-adp="leaderboard"]
 lupa.cz##[data-adp^="side-"]
 lupa.cz##[id*="Adform"]
+lupa.cz#?#div:-abp-has(> .jobs-ad-header)
 mapy.in-pocasi.cz###topbanner
 mapy.in-pocasi.cz##.devicewidth
 maminka.cz###adframe-shell
