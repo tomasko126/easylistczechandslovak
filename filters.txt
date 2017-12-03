@@ -1029,6 +1029,7 @@ mobilmania.cz,zive.cz##.ar-detail + div
 mobilmania.cz,zive.cz##.bx-billboard
 mobilmania.cz,zive.cz##.bx-scroller
 mobilmania.cz,zive.cz##div.ads
+mobilmania.cz,zive.cz##div.bx-sky-roller > div.bx-sky
 mobilmania.cz,zive.cz##div[class$='chaos'] > div[class$='-roller']
 mobilmania.cz,zive.cz##div[id^='ao_Skyscraper']
 mobilmania.cz,zive.cz##img[id^='ad']
