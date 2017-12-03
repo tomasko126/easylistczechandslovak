@@ -7,7 +7,7 @@ filters.txt
  - contains filters supported in major ad blockers + ABP specific filters
 
 filters_ublock.txt
- - contains filters supported in major ad blockers + uBlock specific filters
+ - contains filters supported in major ad blockers + uBlock specific filters + ABP specific filters compatible with uBlock
 
 filters_ie.tpl
  - Tracking Protection List, which can be used in Internet Explorer as ad filter list
