@@ -986,6 +986,7 @@ letemsvetemapplem.eu###brandingconts
 letemsvetemapplem.eu###headervelka
 letemsvetemapplem.eu###pravy_uzky
 letemsvetemapplem.eu###tallbanner1
+letstrololol.cz##.smoke-alert
 libise.eu###aa1
 lidovky.cz###reality-idnes
 lidovky.cz###self-box
