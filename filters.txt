@@ -1025,7 +1025,6 @@ mobilmania.cz##iframe[src*="alza"]
 mobilmania.cz##noscript + script + div
 mobilmania.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper):not(#mainwrap)
 mobilmania.cz,zive.cz###leadBrand
-mobilmania.cz,zive.cz##.ar-detail + div
 mobilmania.cz,zive.cz##.bx-billboard
 mobilmania.cz,zive.cz##.bx-scroller
 mobilmania.cz,zive.cz##div.ads
