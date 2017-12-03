@@ -961,6 +961,7 @@ jizdnirady.idnes.cz##.advert
 kalkulacka-hypoteka.cz##img[src="/images/ebook-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##img[src="/images/neomezene-banner-left.jpeg"]
 kaloricketabulky.cz##.bannLead
+kamsdetmi.com##div.banner_position
 karaoketexty.cz###branding_link
 karaoketexty.cz###peelback
 kecy.roumen.cz,rouming.cz##.roumingLista
