@@ -986,6 +986,7 @@ letemsvetemapplem.eu###brandingconts
 letemsvetemapplem.eu###headervelka
 letemsvetemapplem.eu###pravy_uzky
 letemsvetemapplem.eu###tallbanner1
+letstrololol.cz##.smoke-alert
 libise.eu###aa1
 lidovky.cz###reality-idnes
 lidovky.cz###self-box
@@ -1404,6 +1405,17 @@ zoznam.sk###tipy
 zoznam.sk##.adbox-genertel
 zoznam.sk##[id*="BUTTON_ZOZNAM"]
 zoznam.sk##p.left
+!
+! ---------- ABP Extended filters ---------- !
+!
+lupa.cz#?#div:-abp-has(> .jobs-ad-header)
+novinky.cz#?#body:-abp-has(> img[src*="/adfserve/"])
+novinky.cz#?#body:-abp-has(> img[src*="alza.cz"])
+novinky.cz#?#div:-abp-has(> div.performax-logo)
+novinky.cz#?#div:-abp-has(> h1.packa)
+novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
+novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
+titulky.com#?##cboxWrapper:-abp-has(> a#btn-close-adba)
 !
 ! ---------- uBlock Extended filters ---------- !
 !
