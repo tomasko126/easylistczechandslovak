@@ -1124,6 +1124,9 @@ onetv.cz##.ad.centered
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 onlajny.com##div.bannerHolderZapasRight
+onlajny.com##tr.advert
+onlajny.com##tr.multimedia:not(.gfy)
+onlajny.com##tr.tip
 orbion.cz###DIV[style="text-align: center; display: none; z-index: 9999; bottom: 0px;"]
 orbion.cz###videoad_curtain_vol_201305
 orbion.cz###videoad_full_vol_201305
