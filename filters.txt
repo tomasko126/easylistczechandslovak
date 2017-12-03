@@ -1244,6 +1244,8 @@ uloz.to##.banner300x300
 uschovna.cz###tiscali-bar
 uschovna.cz##.bottom_banner
 uschovna.cz##.right_banner_mat
+uschovna.cz##div.nahravani_neprerusi
+uschovna.cz##iframe
 videacesky.cz##.im_top
 videacesky.cz##.leftAddBarContainer
 video.idnes.cz##stripe
