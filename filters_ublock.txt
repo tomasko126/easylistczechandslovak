@@ -920,6 +920,7 @@ heureka.cz###bottom
 heureka.cz##.banner-leaderboard-cover
 heureka.cz##.filtr.category-partner
 hokej.cz##.dolni_reklama
+hokej.cz##.promo-container
 hokej.cz##.top_banner
 hokej.cz##.top_banner_second
 hrej.cz##.inzerce
