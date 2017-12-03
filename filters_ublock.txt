@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
-! Title: Easylist Czech and Slovak filter list
+! Title: Easylist Czech and Slovak filter list for uBlock
 ! Last change: 03/12/2017
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
@@ -9,7 +9,7 @@
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
 ! Forum: http://adblock.sk/forum
-! Supported filters: https://adblockplus.org/en/filters
+! Supported filters: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
 !
 ! ---------- Czech & Slovak generic blocking rules ---------- !
 !
@@ -1405,13 +1405,13 @@ zoznam.sk##.adbox-genertel
 zoznam.sk##[id*="BUTTON_ZOZNAM"]
 zoznam.sk##p.left
 !
-! ---------- ABP Extended filters ---------- !
+! ---------- uBlock Extended filters ---------- !
 !
-lupa.cz#?#div:-abp-has(> .jobs-ad-header)
-novinky.cz#?#body:-abp-has(> img[src*="/adfserve/"])
-novinky.cz#?#body:-abp-has(> img[src*="alza.cz"])
-novinky.cz#?#div:-abp-has(> div.performax-logo)
-novinky.cz#?#div:-abp-has(> h1.packa)
-novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
-novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-titulky.com#?##cboxWrapper:-abp-has(> a#btn-close-adba)
+games.tiscali.cz###header:xpath(preceding-sibling::div)
+games.tiscali.cz##body:style(background: #000 !important)
+games.tiscali.cz##script:inject(abort-on-property-write.js, bmone2n)
+games.tiscali.cz##:xpath(//comment()[contains(.,"iBILLB0ARD") or contains(.,"iBILLBOARD") or contains(.,"bbelements.com")]/parent::*)
+mobilmania.cz,zive.cz##:xpath(//div[@class='branding-wrapper']/preceding::*)
+mobilmania.cz,zive.cz##:xpath(//div[@id='ads-leader-board']/parent::*)
+mobilmania.cz,zive.cz##:xpath(//div[@id='ao_Skyscraper']/parent::*)
+titulky.com###cboxWrapper:has(a#btn-close-adba)
