@@ -4,10 +4,10 @@ EasyList Czech and Slovak
 EasyList Czech and Slovak is official filter list for AdBlock, Adblock Plus, uBlock/uBlock Origin and other ad blockers.
 
 filters.txt
- - filter list file containing filters written in ABP's filter syntax
+ - contains filters supported in major ad blockers + ABP specific filters
 
 filters_ublock.txt
- - filter list file containing filters written in uBlock's filter syntax
+ - contains filters supported in major ad blockers + uBlock specific filters
 
 filters_ie.tpl
  - Tracking Protection List, which can be used in Internet Explorer as ad filter list
