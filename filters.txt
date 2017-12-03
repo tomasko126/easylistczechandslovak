@@ -1281,7 +1281,6 @@ zive.cz###mainFORM > div > div[id*="3.1.2"]
 zive.cz###page-hub-wrapper
 zive.cz##.banner-box
 zive.cz##.bx-commercial ~ div
-zive.cz##.bx-ext-rss
 zive.cz##.bx-fullbanner ~ div
 zive.cz##.bx-livecompanies
 zive.cz##.not4bbtext + div
