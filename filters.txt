@@ -254,6 +254,7 @@ _clickthru.swf?
 ||novinky.cz/*?d=$subdocument
 ||novinky.cz/*adblock
 ||novinky.cz/*banner
+||novinky.cz/*cooker.html
 ||novinky.cz/*destination$subdocument
 ||novinky.cz/*novinky.cz$subdocument
 ||novinky.cz/static/css/xmas.css
@@ -1076,6 +1077,7 @@ novinky.cz###adTopsponsor
 novinky.cz###advertRightTopPosition
 novinky.cz###articleContent + div
 novinky.cz###container-banner
+novinky.cz###container-eta
 novinky.cz###head + #main + div:not(#footer)
 novinky.cz###komercni
 novinky.cz###menuBottom + div:not(#footer)
@@ -1085,6 +1087,7 @@ novinky.cz###page iframe
 novinky.cz###rightBottColumn > hr:first-child + div:not(#jokeBox)
 novinky.cz###rightColumn
 novinky.cz###sectionBox + div
+novinky.cz###seznamLink
 novinky.cz###skyStarter + div
 novinky.cz###subpage > div:first-child:not(#head)
 novinky.cz###superBrandingMain
