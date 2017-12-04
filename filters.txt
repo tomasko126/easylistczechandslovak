@@ -955,6 +955,7 @@ isport.blesk.cz##.promo-bar + div[id]:not(.wrapper)
 isport.blesk.cz##[id*=".1.1"]
 isport.blesk.cz##[id*=".1.2"]
 isport.blesk.cz##a[href*="ibb"]
+isport.blesk.cz##div.videoWrapperSmall
 itnetwork.cz##div.ad-730
 jaknaletenky.cz###social
 jizdnirady.idnes.cz##.advert
