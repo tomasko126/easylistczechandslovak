@@ -1216,6 +1216,7 @@ stesti.cz##.mabo.faa
 stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 stream.cz###img_link
 stream.cz###user_head
+super.cz##div.ad
 superapple.cz##.widget-header
 superapple.cz##a[href*="banner"]
 superhry.cz##.video-doporucujeme
