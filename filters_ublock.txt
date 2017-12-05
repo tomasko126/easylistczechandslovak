@@ -919,6 +919,7 @@ heureka.cz###banner-leaderboard
 heureka.cz###bottom
 heureka.cz##.banner-leaderboard-cover
 heureka.cz##.filtr.category-partner
+hihinky.cz##.smoke-alert
 hokej.cz##.dolni_reklama
 hokej.cz##.promo-container
 hokej.cz##.top_banner
@@ -1375,7 +1376,8 @@ onlinefilmy.tv###bg_left
 onlinefilmy.tv###bg_right
 onlinefilmy.tv##.ads
 onlinefilmy.tv,onlinevidea.tv##.ads_new
-pocasie.pozri.sk/nba2.gif
+pcrevue.sk##.m_top_m_15.metro
+pcrevue.sk##.col_12_of_12.col > .row > .col_12_of_12.col > .widget
 pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
 recepty.sk##.box
