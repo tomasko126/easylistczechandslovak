@@ -171,6 +171,7 @@ _clickthru.swf?
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
 ||getAd$domain=idnes.cz
+||hcdukla.cz/adds/
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
