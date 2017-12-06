@@ -852,6 +852,8 @@ cztorrent.net###bnr_header
 cztorrent.net###bnr_middle
 cztorrent.net###hracky
 dama.cz,doupe.zive.cz,maminka.cz###adframe-shell
+denik.cz###denik-top-lista-bg
+denik.cz###sticky-above
 denik.cz##.rkl-top
 diablofans.cz###bottom_fixed_leaderboard
 diit.cz###b468x60 > ins > iframe
