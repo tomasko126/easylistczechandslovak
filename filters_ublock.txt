@@ -1088,8 +1088,7 @@ novinky.cz###head + #main + div:not(#footer)
 novinky.cz###komercni
 novinky.cz###menuBottom + div:not(#footer)
 novinky.cz###middleLdrBox
-novinky.cz###page > div:first-child > div:first-child:not(#head)
-novinky.cz###page iframe
+novinky.cz###page
 novinky.cz###rightBottColumn > hr:first-child + div:not(#jokeBox)
 novinky.cz###rightColumn
 novinky.cz###sectionBox + div
