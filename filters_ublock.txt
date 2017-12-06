@@ -310,7 +310,7 @@ _clickthru.swf?
 ||szn.cz/*v_12/vd$domain=novinky.cz
 ||titulky.com/img/bn
 ||titulky.com/img/frtna2017/$image
-||titulky.com/js/fadba.js
+||titulky.com/js/fadb*.js
 ||topkontakt.cz/banner/
 ||tryhard.cz/images/*/*fullbrand*.jpg
 ||uloz.to/bannery/
@@ -1233,7 +1233,7 @@ tipcars.com###loading
 tipcars.com##iframe[id*="TC"]
 tiscali.cz##.box-offer
 titulky.com###bnx300x300
-titulky.com###cboxOverl
+titulky.com###cboxOverlay
 titulky.com##A[onclick^="openAd"]
 tn.nova.cz##.right_box_promo_articles
 toggl.com##.AnnouncementBar__maximized.boxes__floating.AnnouncementBar__container
@@ -1435,7 +1435,8 @@ novinky.cz#?#div:-abp-has(> div.performax-logo)
 novinky.cz#?#div:-abp-has(> h1.packa)
 novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-titulky.com#?##cboxWrapper:-abp-has(img[src="img/adbimg.png"])
+titulky.com#?##cboxWrapper:-abp-has(img[src*="img/adb"])
+titulky.com#?##cboxWrapper:-abp-contains("blokování reklam")
 !
 ! ---------- uBlock Extended filters ---------- !
 !
@@ -1452,4 +1453,5 @@ novinky.cz##html:if(script:has-text(/sklik-ad-type/))
 novinky.cz##script:inject(abort-on-property-read.js, localStorage)
 novinky.cz##script:inject(abort-on-property-read.js, parent)
 novinky.cz##script:inject(abort-on-property-read.js, postMessage)
+titulky.com##script:inject(abort-current-inline-script.js, adbfetected)
 uschovna.cz##body:style(background:none !important;)
