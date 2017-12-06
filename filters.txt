@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 05/12/2017
+! Last change: 06/12/2017
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -131,7 +131,6 @@ _clickthru.swf?
 ||bannery.ccb.cz^
 ||bbelements.com/bb/$script,third-party
 ||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
-||getAd$domain=idnes.cz
 ||bcastgw.livebox.cz/TA3_VOD_COM/
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
@@ -171,6 +170,7 @@ _clickthru.swf?
 ||games.tiscali.cz/img/special/
 ||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
+||getAd$domain=idnes.cz
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
