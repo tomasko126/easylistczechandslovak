@@ -916,6 +916,7 @@ grunex.com##.banner-nbg-page
 grunex.com##.bg-linkA
 grunex.com##.bg-linkB
 grunex.com##.sda-system
+hcmotor.cz##div.container.partners
 hcplzen.cz###ads_top_box
 heureka.cz###banner-leaderboard
 heureka.cz###bottom
