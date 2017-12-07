@@ -309,8 +309,8 @@ _clickthru.swf?
 ||szn.cz$image,domain=novinky.cz
 ||szn.cz/*v_12/vd$domain=novinky.cz
 ||titulky.com/img/bn
-||titulky.com/img/frtna2017/$image
-||titulky.com/js/fadb*.js
+||titulky.com/img/*ad$image
+||titulky.com/js/*ad$script
 ||topkontakt.cz/banner/
 ||tryhard.cz/images/*/*fullbrand*.jpg
 ||uloz.to/bannery/
@@ -1234,7 +1234,7 @@ tipcars.com###loading
 tipcars.com##iframe[id*="TC"]
 tiscali.cz##.box-offer
 titulky.com###bnx300x300
-titulky.com###cboxOverlay
+titulky.com##div[style^="opacity"]
 titulky.com##A[onclick^="openAd"]
 tn.nova.cz##.right_box_promo_articles
 toggl.com##.AnnouncementBar__maximized.boxes__floating.AnnouncementBar__container
@@ -1436,5 +1436,4 @@ novinky.cz#?#div:-abp-has(> div.performax-logo)
 novinky.cz#?#div:-abp-has(> h1.packa)
 novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-titulky.com#?##cboxWrapper:-abp-has(img[src*="img/adb"])
-titulky.com#?##cboxWrapper:-abp-contains("blokování reklam")
+titulky.com##div[style^="opacity"] + div#colorbox:-abp-has(a[href*="precti-si-vip-napovedu"])
