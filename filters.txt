@@ -545,7 +545,6 @@ _clickthru.swf?
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
-@@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 @@||bibloo.cz^$xmlhttprequest
 @@||blesk.cz/js/*/player/videoad.swf$domain=synotliga.isport.blesk.cz
 @@||blesk.cz/js/*adocean.js$domain=synotliga.isport.blesk.cz
@@ -1436,4 +1435,4 @@ novinky.cz#?#div:-abp-has(> div.performax-logo)
 novinky.cz#?#div:-abp-has(> h1.packa)
 novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
-titulky.com##div[style^="opacity"] + div#colorbox:-abp-has(a[href*="precti-si-vip-napovedu"])
+titulky.com##div[style^="opacity"] + div#colorbox:-abp-has(a[href*="colorbox.close"])

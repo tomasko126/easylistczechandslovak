@@ -545,7 +545,6 @@ _clickthru.swf?
 @@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
-@@||bbelements.com/bb/bb_one2n.js$domain=titulky.com
 @@||bibloo.cz^$xmlhttprequest
 @@||blesk.cz/js/*/player/videoad.swf$domain=synotliga.isport.blesk.cz
 @@||blesk.cz/js/*adocean.js$domain=synotliga.isport.blesk.cz
