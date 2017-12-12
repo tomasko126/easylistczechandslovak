@@ -936,6 +936,7 @@ i-navody.cz###slider
 idnes.cz###fix-block-1 > div:first-child:not(#art-video)
 idnes.cz###fix-block-2 > div:first-child[style*="display"]
 idnes.cz###main > table[style*="display"]
+idnes.cz###main > tale
 idnes.cz###tipsport-art
 idnes.cz##[id^='bmone2n']
 idnes.cz##[id^='r98']
@@ -1443,6 +1444,7 @@ games.tiscali.cz###header:xpath(preceding-sibling::div)
 games.tiscali.cz##body:style(background: #000 !important)
 games.tiscali.cz##script:inject(abort-on-property-write.js, bmone2n)
 games.tiscali.cz##:xpath(//comment()[contains(.,"iBILLB0ARD") or contains(.,"iBILLBOARD") or contains(.,"bbelements.com")]/parent::*)
+idnes.cz##html,body:style(background-image:none !important;)
 mobilmania.cz,zive.cz##:xpath(//div[@class='branding-wrapper']/preceding::*)
 mobilmania.cz,zive.cz##:xpath(//div[@id='ads-leader-board']/parent::*)
 mobilmania.cz,zive.cz##:xpath(//div[@id='ao_Skyscraper']/parent::*)
