@@ -172,6 +172,7 @@ _clickthru.swf?
 ||geewa.ws/js/ad.
 ||getAd$domain=idnes.cz
 ||hcdukla.cz/adds/
+||hcmotor.cz/adds/
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
