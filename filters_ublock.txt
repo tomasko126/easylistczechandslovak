@@ -1010,7 +1010,7 @@ lui-magazine.cz##.bannergroup
 lupa.cz###jobs-kurzy
 lupa.cz###jobs-prace
 lupa.cz###speed-promo
-lupa.cz##[class*="advert"]
+lupa.cz##[class*="advert"]:not(body)
 lupa.cz##[data-adp="leaderboard"]
 lupa.cz##[data-adp^="side-"]
 lupa.cz##[id*="Adform"]
