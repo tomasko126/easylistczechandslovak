@@ -1133,6 +1133,7 @@ onetv.cz###movingAdRight
 onetv.cz##.ad.centered
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
+onlajny.com###tip-game-holder
 onlajny.com##div.bannerHolderZapasRight
 onlajny.com##tr.advert
 onlajny.com##tr.multimedia:not(.gfy)
