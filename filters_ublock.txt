@@ -20,7 +20,7 @@
 .cz/banners/$domain=~web.volny.cz
 .cz/bannery_
 .cz/img/banery/
-.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz|~mironet.cz
+.cz/img/banner$domain=~abecedaher.cz|~amnesty.cz|~hitech.instruktori.cz|~melcer.cz|~mironet.cz|~vstupenky.ticket-art.cz
 .cz/o/poutani^
 .cz/rs/get-iframe.php?
 .etargetnet.
