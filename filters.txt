@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 04/01/2018
+! Last change: 13/01/2018
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -832,14 +832,9 @@ cesky-jazyk.cz##.heurekaIframeHeader
 cestovani.tiscali.cz###zone-tiscali-cestovani-wide
 cnews.cz##.td-pb-span8.vc_column_container.wpb_column > .wpb_wrapper > .wpb_content_element.wpb_text_column > .wpb_wrapper > p
 computerworld.cz##.ad-obal
-csfd.cz###csfd-ad-wrapper
+csfd.cz##div[id$="ad-wrapper"]
 csfd.cz##.ad-pmg
 csfd.cz##.ad-pmg-skyscraper-left-wrapper
-csfd.cz##.ad-samsung
-csfd.cz##.branding.bottom
-csfd.cz##.branding.left
-csfd.cz##.branding.right
-csfd.cz##.branding.top
 csfd.cz##.ct-general.th-5
 csfd.cz##a[href*="/log?type=ads"]
 csfd.cz##a[href*="redirect/ads"]
