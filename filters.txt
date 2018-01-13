@@ -320,6 +320,7 @@ _clickthru.swf?
 ||uschovna.cz/branding/$subdocument
 ||uschovna.cz/dt-dancer-234x60.swf
 ||videacesky.cz/img/*.swf
+||videacesky.cz/js/adbdetect.min.js$script
 ||videacesky.server.zcom.cz/redirector/redir.php
 ||video.aktualne.cz/adpod.php
 ||video.aktualne.cz/auth_videodata$xmlhttprequest
