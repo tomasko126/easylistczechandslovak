@@ -139,7 +139,7 @@ _clickthru.swf?
 ||cn130.com/wp-content/uploads/an-temp/
 ||count.flashx.tv:81/
 ||cpex.cz$third-party,domain=aktualne.cz
-||cryweb.github.io$domain=hcdukla.cz
+||cryweb.github.io
 ||cviceni-doma.cz/images/*banner
 ||cztorrent.net/images/bannery/
 ||d.lookit.cz/vv.js
