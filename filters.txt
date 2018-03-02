@@ -1257,7 +1257,7 @@ uschovna.cz##iframe
 videacesky.cz##.im_top
 videacesky.cz##.leftAddBarContainer
 video.idnes.cz##stripe
-video.idnes.cz##stripemark
+idnes.cz##stripemark
 vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
