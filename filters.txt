@@ -847,6 +847,7 @@ cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###bnr_header
 cztorrent.net###bnr_middle
+cztorrent.net###bnr_skyscraper_right
 cztorrent.net###hracky
 dama.cz,doupe.zive.cz,maminka.cz###adframe-shell
 denik.cz###denik-top-lista-bg
