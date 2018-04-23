@@ -956,6 +956,8 @@ ihned.cz##.jobs09-label
 ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 ihned.cz,programujte.com##.jobs
+idnes.cz##stripe
+idnes.cz##stripemark
 info.cz##.sticky-wrapper
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
@@ -1151,6 +1153,8 @@ parlamentnilisty.cz##.wallpaper
 penize.tiscali.cz###zone-tiscali-penize-wide
 play.iprima.cz###player-wrapper + div
 play.iprima.cz##.vjs-marker-ad
+playtvak.cz##stripe
+playtvak.cz##stripemark
 playzone.cz###block-block-128
 playzone.cz###block-block-132
 playzone.cz###block-block-143
@@ -1261,8 +1265,6 @@ uschovna.cz##div.nahravani_neprerusi
 uschovna.cz##iframe
 videacesky.cz##.im_top
 videacesky.cz##.leftAddBarContainer
-video.idnes.cz##stripe
-video.idnes.cz##stripemark
 vodafonesms.cz##.banner-block-inside1
 vodafonesms.cz##.banner-block-right
 volny.cz###banner_flash
