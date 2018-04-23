@@ -1444,3 +1444,7 @@ novinky.cz#?#div:-abp-has(> h1.packa)
 novinky.cz#?#div:-abp-has(> iframe[src*="mookie1.com"])
 novinky.cz#?#div:-abp-has(> script + h5[style*="position"])
 titulky.com##div[style^="opacity"] + div#colorbox:-abp-has(a[href*="colorbox.close"])
+!
+! ---------- uBlock Extended filters ---------- !
+!
+!#include filters_ublock_only.txt
