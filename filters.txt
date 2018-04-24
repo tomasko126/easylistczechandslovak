@@ -1185,6 +1185,7 @@ rozzlobenimuzi.com##.bgg
 rychlost.cz##.hb
 sauto.cz###pvMid
 search.seznam.cz###sklik-right
+search.seznam.cz##.Result--sklikTop
 search.seznam.cz##.sklik-right
 search.seznam.cz##.skliktop
 serialkeys.svetu.cz###menu_rozdel_mene
