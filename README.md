@@ -7,13 +7,7 @@ EasyList Czech and Slovak is official filter list for AdBlock, Adblock Plus, uBl
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
  - filters supported in major ad blockers
  - ABP specific filters
- - uBlock specific filters
-
-## filters_ublock.txt (deprecated, use filters.txt)
-https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters_ublock.txt
- - filters supported in major ad blockers
- - ABP specific filters compatible with uBlock
- - uBlock specific filters
+ - uBlock specific filters (included from `filters_ublock.txt`)
 
 ## filters_ie.tpl
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters_ie.tpl
