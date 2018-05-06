@@ -533,6 +533,7 @@ _clickthru.swf?
 ||p1.naj.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
 ||rsz.sk^$third-party
+||sprinklecontent.com^$third-party
 ||top-sk.mconet.biz^$third-party
 ||uspech.sk^$third-party
 ||zachej.sk$third-party
