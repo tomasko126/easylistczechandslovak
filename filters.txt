@@ -175,6 +175,7 @@ _clickthru.swf?
 ||getAd$domain=idnes.cz
 ||hcdukla.cz/adds/
 ||hcmotor.cz/adds/
+||hcorli.cz/img/hokejcz/banner_hokejcz.png
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
@@ -941,6 +942,8 @@ hokej.cz##.dolni_reklama
 hokej.cz##.promo-container
 hokej.cz##.top_banner
 hokej.cz##.top_banner_second
+hokej.cz##a[href*="//track.adform.net/"]
+hokej.cz##aside.widget-partner
 hrej.cz##.inzerce
 hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
