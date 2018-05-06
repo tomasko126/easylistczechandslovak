@@ -134,6 +134,7 @@ _clickthru.swf?
 ||bcastgw.livebox.cz/TA3_VOD_COM/
 ||blbosti.cz/sites/www.blbosti.cz/files/banner/
 ||blisty.cz/ad/
+||budejckadrbna.cz/files/drbna/banner/
 ||centrum.cz/*=wallpaper
 ||centrum.cz/design/akt3/o/ads/
 ||cn130.com/wp-content/uploads/an-temp/
@@ -805,6 +806,10 @@ blisty.cz##.topadv
 blog.cz###mainBanner
 bohemians.cz###reklama_uvod
 brnenskadrbna.cz,mrk.cz###banner-top
+budejckadrbna.cz###bannerSkycraperLeft
+budejckadrbna.cz###bannerSkycraperRight
+budejckadrbna.cz###bannerTop
+budejckadrbna.cz##.bannerHPFull
 budejckadrbna.cz##a[href^="http://www.budejckadrbna.cz/proclick.html"]
 businessworld.cz,computerworld.cz##.square_banner
 businessworld.cz,computerworld.cz,hyperinzerce.cz,pcworld.cz###skyscraper
