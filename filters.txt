@@ -1148,6 +1148,7 @@ olomouckadrbna.cz##.bs-overhidden
 onetv.cz###AdTrackArticleBottom
 onetv.cz###movingAdRight
 onetv.cz##.ad.centered
+onlajny.com###banner-left-pane
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 onlajny.com###tip-game-holder
