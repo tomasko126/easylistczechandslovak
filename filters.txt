@@ -931,6 +931,7 @@ grunex.com##.banner-nbg-page
 grunex.com##.bg-linkA
 grunex.com##.bg-linkB
 grunex.com##.sda-system
+hcdukla.cz##div.bottom-partners
 hcmotor.cz##div.container.partners
 hcplzen.cz###ads_top_box
 heureka.cz###banner-leaderboard
