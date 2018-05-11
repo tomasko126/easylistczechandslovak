@@ -954,6 +954,7 @@ idnes.cz###fix-block-1 > div:first-child:not(#art-video)
 idnes.cz###fix-block-2 > div:first-child[style*="display"]
 idnes.cz###main > table[style*="display"]
 idnes.cz###main > tale
+idnes.cz###poutani-roleta
 idnes.cz###tipsport-art
 idnes.cz##[id^='bmone2n']
 idnes.cz##[id^='r98']
