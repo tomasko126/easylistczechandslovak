@@ -1046,6 +1046,7 @@ mediar.cz##.banns-group
 medop.cz###block-nodesinblock-0
 menu.olomouc.cz##.adTopBox
 mesec.cz##.CAN_ad
+meteoprog.cz##div[id^="mp_banner_"]
 minecrafak.cz###poutak
 minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
