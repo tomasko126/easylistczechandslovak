@@ -1,7 +1,7 @@
 ||uschovna.cz$inline-script
-aktualne.cz,~video.aktualne.cz##script:inject(set-constant.js, _sashec_queue.push, noopFunc)
+aktualne.cz,~video.aktualne.cz##script:inject(set-constant.js, SiteAdvert.Queue.push, noopFunc)
 aktualne.cz##script:inject(set-constant.js, BBXPlayer.JWP.playAd, noopFunc)
-centrum.cz##script:inject(set-constant.js, _sashec_queue.push, noopFunc)
+centrum.cz##script:inject(set-constant.js, _s4sova_fronticka_muck, noopFunc)
 csfd.cz##.ad-pmg + div:style(position: unset !important;)
 csfd.cz##script:inject(set-constant.js, CSFD.ads.provider.pmg.load, noopFunc)
 games.tiscali.cz###header:xpath(preceding-sibling::div)
