@@ -857,6 +857,7 @@ e15.cz##.hp-page-card.hp-page-card-zive-firmy
 e15.cz,info.cz###leaderBox
 echo24.cz##.relama-caption
 edna.cz##.adsense
+edna.cz##.seriesadvert
 elektrocvn.estranky.cz###shifter_wrap
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
