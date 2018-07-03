@@ -134,9 +134,6 @@ _clickthru.swf?
 ||budejckadrbna.cz/files/drbna/banner/
 ||centrum.cz/*=wallpaper
 ||centrum.cz/design/akt3/o/ads/
-||centrum.cz###reklama-mediumrectangle
-||centrum.cz###.banner
-||centrum.cz###.pravy-banner
 ||cn130.com/wp-content/uploads/an-temp/
 ||cpex.cz$third-party,domain=aktualne.cz
 ||cryweb.github.io
@@ -810,6 +807,9 @@ centrum.cz##.widget.widgetType-amplionwidgets_advancedamplionwidget.widgetSlug-a
 centrum.cz##.widget.widgetType-carswidgets_carswidget.widgetSlug-cars
 centrum.cz##.widget.widgetType-rsswidgets_rsswidget.widgetSlug-dovolena-rss
 centrum.cz##[id^="widget_23"]
+centrum.cz###reklama-mediumrectangle
+centrum.cz###.banner
+centrum.cz###.pravy-banner
 cervenykostelec.cz##.sliderbubble-right
 ceskatelevize.cz###commercialBox
 ceskatelevize.cz###etargetBox
