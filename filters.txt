@@ -809,7 +809,7 @@ centrum.cz##.widget.widgetType-rsswidgets_rsswidget.widgetSlug-dovolena-rss
 centrum.cz##[id^="widget_23"]
 centrum.cz###reklama-mediumrectangle
 centrum.cz###.banner
-centrum.cz###.pravy-banner
+centrum.cz###.pravy-sloupec.pravy-banner
 cervenykostelec.cz##.sliderbubble-right
 ceskatelevize.cz###commercialBox
 ceskatelevize.cz###etargetBox
