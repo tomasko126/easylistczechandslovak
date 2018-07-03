@@ -504,7 +504,7 @@ _clickthru.swf?
 ||imr.sk^$third-party
 ||inclick.sk^$third-party
 ||kariera.zoznam.sk/?page=banner$third-party
-||login.dognet.sk^$third-party
+||login.dognet.sk/accounts/default1$third-party
 ||ls.hit.gemius.pl^$third-party
 ||netsuccess.sk^$third-party
 ||p1.naj.sk^$third-party
