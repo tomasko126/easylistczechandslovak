@@ -807,10 +807,7 @@ centrum.cz##.widget.widgetType-amplionwidgets_advancedamplionwidget.widgetSlug-a
 centrum.cz##.widget.widgetType-carswidgets_carswidget.widgetSlug-cars
 centrum.cz##.widget.widgetType-rsswidgets_rsswidget.widgetSlug-dovolena-rss
 centrum.cz##[id^="widget_23"]
-centrum.cz###reklama-mediumrectangle
-centrum.cz###.banner
-centrum.cz##div > div.banner
-centrum.cz##div.pravy-banner > div#reklama-mediumrectangle
+centrum.cz##[id^="reklama-mediumrectangle"]
 cervenykostelec.cz##.sliderbubble-right
 ceskatelevize.cz###commercialBox
 ceskatelevize.cz###etargetBox
