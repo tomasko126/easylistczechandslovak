@@ -808,8 +808,8 @@ centrum.cz##.widget.widgetType-carswidgets_carswidget.widgetSlug-cars
 centrum.cz##.widget.widgetType-rsswidgets_rsswidget.widgetSlug-dovolena-rss
 centrum.cz##[id^="widget_23"]
 centrum.cz##[id^="reklama-mediumrectangle"]
-centrum.cz##.banner
-centrum.cz##.pravy-banner
+centrum.cz##[class="banner"]
+centrum.cz##[class="pravy-banner"]
 cervenykostelec.cz##.sliderbubble-right
 ceskatelevize.cz###commercialBox
 ceskatelevize.cz###etargetBox
