@@ -184,6 +184,7 @@ _clickthru.swf?
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/abcampaign/
 ||i0.cz/realitymix/ext-data/
+||i0.cz/l.gif?s=admon
 ||idnes.bbelements.com$image,domain=idnes.cz
 ||im9.cz/*aukro
 ||imedia.cz$subdocument,domain=novinky.cz
