@@ -351,6 +351,9 @@ _clickthru.swf?
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/Client.Scripts/*please$script
 ||zive.cz/Client.Scripts/*zive?format=js
+||zive.cz^*AdConstructor$script,first-party
+||zive.cz^*+$script,first-party
+||zive.cz/*/js/layout.adscroller.js$script,first-party
 ||zkouknito.cz/js/js.htmlad.js
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 ||zvraceny.cz/data/upload/
@@ -1312,6 +1315,10 @@ zive.cz##div[id$="_protec"]
 zive.cz##div[id$="_protec-2"]
 zive.cz##form > div > div[id*="3.1.2"]
 zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
+zive.cz##div:has(:scope > #HalfPageTop)
+zive.cz##.fs-os.css-clear.bileto
+zive.cz##div:has(:scope > #Leader-1)
+zive.cz##div[class$="column"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
