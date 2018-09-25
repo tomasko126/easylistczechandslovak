@@ -384,8 +384,7 @@ _clickthru.swf?
 ||fs5.mojevideo.sk/securevd/siet.mp4
 ||gamesite.sk/templates/gamesite_sk/images/background*/
 ||hnonline.sk/*hn_lekaren_extra_blok.png
-||hnonline.sk/*/adId/*.mp4
-||*.hnonline.sk/*/adId/*.mp4
+||hnonline.sk/hn*/*/*hn$media
 ||hojko.com/images/banner*.gif
 ||i.sme.sk/fst/
 ||img.teevee.sk/img/beangel*.gif
