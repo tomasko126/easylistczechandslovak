@@ -1207,6 +1207,7 @@ serialycz.cz##iframe[src^="http://vk.com/"]
 serialzone.cz###hpbglink-watch
 seznam.cz##.d_d1
 seznam.cz##.ogm-advert-vendor-sizer
+seznam.cz#?#.Result:-abp-has(.SklikBox)
 seznamzpravy.cz##.f_fl
 seznamzpravy.cz##.f_fq
 simpsonovi-tv.cz###a92
