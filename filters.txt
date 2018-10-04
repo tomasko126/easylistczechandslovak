@@ -292,6 +292,7 @@ _clickthru.swf?
 ||sasoft.cz/files/banner.gif
 ||serialycz.cz/wp-content/uploads/fbbannercz.jpg
 ||serialycz.cz/wp-content/uploads/kupi.png
+||seznam.cz#?#.Layout--left>div:-abp-has(a[href*=imedia])
 ||showcase.gamepark.cz/
 ||skjalovec.com/img/banners/
 ||slevy.tyden.cz/banner/
