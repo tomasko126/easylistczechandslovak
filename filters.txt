@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
 ! Last change: 09/07/2018
@@ -74,9 +74,6 @@ _clickthru.swf?
 ||1.im.cz/ad/$image
 ||1.im.cz/ad/activateFlashObject.js?$domain=novinky.cz
 ||1.im.cz/ad/gemius.js
-||10.im.cz/sos/$image,domain=lide.cz|tv.seznam.cz
-||10.im.cz/sos/$object,domain=novinky.cz
-||10.im.cz/sos/$object-subrequest,domain=play.iprima.cz
 ||a.denik.cz^
 ||ab-forum.info/*banner*.gif
 ||ab-forum.info/animation.swf
@@ -129,7 +126,7 @@ _clickthru.swf?
 ||bannery.ccb.cz^
 ||bbelements.com/bb/$script,third-party
 ||bbelements.com/please/showit/*/$script,domain=idnes.cz|moviezone.cz
-||bcastgw.livebox.cz/TA3_VOD_COM/
+||ibillboard.com$domain=idnes.cz
 ||blisty.cz/ad/
 ||budejckadrbna.cz/files/drbna/banner/
 ||centrum.cz/*=wallpaper
@@ -165,7 +162,6 @@ _clickthru.swf?
 ||games.tiscali.cz/img/logo-games.png/
 ||games.tiscali.cz/img/socials.png/
 ||games.tiscali.cz/img/special/
-||garaz.autorevue.cz/advantage.js
 ||geewa.ws/js/ad.
 ||getAd$domain=idnes.cz
 ||hcdukla.cz/adds/
@@ -173,7 +169,6 @@ _clickthru.swf?
 ||hcorli.cz/img/hokejcz/banner_hokejcz.png
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
-||heureka.cz/direct/bannery/
 ||himym.cz/image/*banner*.gif
 ||hostareal.cz/provize/bannery/
 ||hry.cz/t/h/ad/
@@ -185,6 +180,7 @@ _clickthru.swf?
 ||i.stream.cz/img-mnt/player_brand/
 ||i0.cz/abcampaign/
 ||i0.cz/realitymix/ext-data/
+||i0.cz/l.gif?s=admon
 ||idnes.bbelements.com$image,domain=idnes.cz
 ||im9.cz/*aukro
 ||imedia.cz$subdocument,domain=novinky.cz
@@ -195,7 +191,6 @@ _clickthru.swf?
 ||in-pocasi.cz/img/left*.jpg
 ||in-pocasi.cz/img/right*.jpg
 ||in-pocasi.cz/img/zahlavi*.jpg
-||intext.lookit.cz/$domain=idnes.cz
 ||isport.blesk.cz/*&target$script
 ||isport.blesk.cz/*/$image,~third-party,domain=~sazkafantasy.isport.blesk.cz
 ||isport.blesk.cz/*//*//*1.1.3*/*/$script
@@ -289,6 +284,7 @@ _clickthru.swf?
 ||sasoft.cz/files/banner.gif
 ||serialycz.cz/wp-content/uploads/fbbannercz.jpg
 ||serialycz.cz/wp-content/uploads/kupi.png
+||seznam.cz#?#.Layout--left>div:-abp-has(a[href*=imedia])
 ||showcase.gamepark.cz/
 ||skjalovec.com/img/banners/
 ||slevy.tyden.cz/banner/
@@ -327,7 +323,6 @@ _clickthru.swf?
 ||warcenter.cz/btw_745x100_CS.gif
 ||warcenter.cz/jennys.gif
 ||warez.azbase.net/images/azbase.gif
-||warforum.cz/ads/$image
 ||warforum.cz/flyweb/
 ||warforum.cz/inau/
 ||warforum.cz/rotator*.php
@@ -351,6 +346,9 @@ _clickthru.swf?
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/Client.Scripts/*please$script
 ||zive.cz/Client.Scripts/*zive?format=js
+||zive.cz^*AdConstructor$script,first-party
+||zive.cz^*+$script,first-party
+||zive.cz/*/js/layout.adscroller.js$script,first-party
 ||zkouknito.cz/js/js.htmlad.js
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 ||zvraceny.cz/data/upload/
@@ -378,6 +376,7 @@ _clickthru.swf?
 ||fs5.mojevideo.sk/securevd/siet.mp4
 ||gamesite.sk/templates/gamesite_sk/images/background*/
 ||hnonline.sk/*hn_lekaren_extra_blok.png
+||hnonline.sk/*/adId/*.mp4
 ||hojko.com/images/banner*.gif
 ||i.sme.sk/fst/
 ||img.teevee.sk/img/beangel*.gif
@@ -400,9 +399,6 @@ _clickthru.swf?
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
 ||priznaj.sk/images/*_banner.png
-||recycle-static.zoznam.sk/*.html
-||recycle-static.zoznam.sk/*.mp4
-||recycle-static.zoznam.sk/*/*branding*.jpg
 ||sktorrent.eu/torrent/images/bannery/
 ||sktorrent.eu/torrent/images/bitport/
 ||sktorrent.eu/torrent/images/lovesexshop/
@@ -411,6 +407,7 @@ _clickthru.swf?
 ||spartak.sk/pics-new2/reklamy/
 ||sport.aktuality.sk/css/skins/
 ||static.itnews.sk/branding/
+||ta3.com/api/v1/livebox/video/
 ||techbox.sk/*colorbox
 ||totalpozicky.sk/images/banners/
 ||tu-ke.com/ali-jewelry.jpg
@@ -470,7 +467,6 @@ _clickthru.swf?
 ||heureka.cz^$third-party
 ||hudebniraj.cz/inshop/Layout/bannery_external/$third-party
 ||i.imedia.cz^$third-party
-||ibillboard.com^$third-party,domain=~idnes.cz
 ||im9.cz/*/vyrobce/*background$third-party
 ||intext.billboard.cz^$third-party
 ||intext.lookit.cz^$third-party
@@ -527,7 +523,6 @@ _clickthru.swf?
 @@||ads2.czc.cz/www/
 @@||adserver.adtech.de/?advideo/3.0/
 @@||alfacomp.cz/reklama/
-@@||api.play-backend.iprima.cz/ad/banner/_adsense_/_adserver/
 @@||autotube.cz/ui/player/ad.php
 @@||bbelements.com/bb/bb_one$domain=hrej.cz
 @@||bibloo.cz^$xmlhttprequest
@@ -564,7 +559,6 @@ _clickthru.swf?
 @@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||pise.cz$generichide
-@@||play.iprima.cz/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone
 @@||poradte.cz/js/ads.js
 @@||poradte.cz^$elemhide
 @@||reklama-*.cz
@@ -613,10 +607,7 @@ zive.cz#@#.box-adsense
 @@||spusti.net/advertisement.js
 @@||spusti.net/data/advertisement.js
 @@||topserialy.to$generichide
-@@||topserialy.to/js/advertisements.js
-@@||topserialy.to/js/googlead.js
 @@||tpd.sk/ads/rotator/
-@@||yukata.cz/banners/banner_88_31.png$domain=anime-kool.webnode.sk
 !
 ! ---------- Slovak Whitelisted hiding rules ---------- !
 !
@@ -646,6 +637,7 @@ ulozisko.sk#@##reklama_big
 ###inclickDock
 ###komercnisdeleni
 ###nike-banner-hokej
+###onlajny-stickers
 ###pf-wrapper
 ###prolinkhd
 ###promo-box
@@ -734,7 +726,7 @@ aktualne.cz##div.komercni-boxik
 aktualne.cz##div.prava-strana > div[class*="-obal"]
 aktualne.cz##div.pravy > div[class*="-obal"]
 aktualne.cz##div.retex-burn12 + div:not(.podstranka)
-aktualne.cz##div.rɇklama-obal
+aktualne.cz##div.rÉ‡klama-obal
 aktualne.cz##div.sedy-sloupec > div:not(.boxik):not(.autor-box):not(.tlacitko-dalsi)
 aktualne.cz##div.sticky-banner
 aktualne.cz##div.upscore-pos-5 div.pravy
@@ -773,7 +765,7 @@ blesk.cz##.boxShopy.bottomStickyBlock
 blesk.cz##.boxSlevy.bottomStickyBlock
 blesk.cz##.crossPromo
 blesk.cz##[class*="adform"]
-blesk.cz##div[data-vr-contentbox*="Komerční"]
+blesk.cz##div[data-vr-contentbox*="KomerÄŤnĂ­"]
 blesk.cz,reflex.cz,zive.cz###ads-leader-board
 blesk.cz,zive.cz##[class*="banheight"]
 blisty.cz##.botadv
@@ -1199,6 +1191,7 @@ serialycz.cz##iframe[src^="http://vk.com/"]
 serialzone.cz###hpbglink-watch
 seznam.cz##.d_d1
 seznam.cz##.ogm-advert-vendor-sizer
+seznam.cz#?#.Result:-abp-has(.SklikBox)
 seznamzpravy.cz##.f_fl
 seznamzpravy.cz##.f_fq
 simpsonovi-tv.cz###a92
@@ -1310,6 +1303,10 @@ zive.cz##div[id$="_protec"]
 zive.cz##div[id$="_protec-2"]
 zive.cz##form > div > div[id*="3.1.2"]
 zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
+zive.cz##div:has(:scope > #HalfPageTop)
+zive.cz##.fs-os.css-clear.bileto
+zive.cz##div:has(:scope > #Leader-1)
+zive.cz##div[class$="column"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
