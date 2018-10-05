@@ -952,9 +952,6 @@ idnes.cz##stable
 idnes.cz###space-c-add
 idnes.cz###selfart-box
 idnes.cz##.catchbox-full
-idnes.cz###space-c-add
-idnes.cz###selfart-box
-idnes.cz##.catchbox-full
 info.cz##.sticky-wrapper
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
