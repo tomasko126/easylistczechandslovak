@@ -948,6 +948,7 @@ ihned.cz##.karieraweb-label
 ihned.cz,programujte.com##.jobs
 idnes.cz##stripe
 idnes.cz##stripemark
+idnes.cz##stable
 info.cz##.sticky-wrapper
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
