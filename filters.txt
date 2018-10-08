@@ -66,7 +66,6 @@ _clickthru.swf?
 /(?:\blupa\.cz\/)(?:[\w+,]{400,}$)/$script
 /(?:\breflex\.cz\/)(?:.{40,48}$)/$script
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
-/[0-9_]*x[0-9_]*.jpg$/$domain=www.mobilmania.cz|www.zive.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/
@@ -114,7 +113,6 @@ _clickthru.swf?
 ||aktualne.cz/*zahlavi.jpg$image
 ||alfa.cz/images/branding*.jpg
 ||alkoholik.cz/zavislost/images/banners/
-||alza.cz/$image,third-party,domain=zive.cz
 ||assets.adobedtm.com$script,domain=mobilmania.cz|zive.cz
 ||auto.cz/*/showit$script
 ||autoesa.cz/files/bannery/
@@ -124,7 +122,6 @@ _clickthru.swf?
 ||autorevue.cz/*ad_slot$script
 ||autorevue.cz/*one2n2$script
 ||av.cncenter.cz/2017/*w/*.mp4$media
-||av.cncenter.cz/upload/*sec*.mp4$domain=www.mobilmania.cz|www.zive.cz
 ||avony.cz/mp3splocha.php
 ||bannery.ccb.cz^
 ||bbelements.com/bb/$script,third-party
@@ -338,18 +335,6 @@ _clickthru.swf?
 ||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
-||zive.cz/*//*uaw$script
-||zive.cz/*BBID$script
-||zive.cz/*JSAdserving$script
-||zive.cz/*one2n2$script
-||zive.cz/*sklik$script
-||zive.cz/*velky-vyprodej*/swf$object,~third-party
-||zive.cz/_rev2015/css/layout-branding.css$stylesheet,~third-party
-||zive.cz/_rev2015/js/*1.8.3.min.js$script
-||zive.cz/_rev2015/js/*=/$script
-||zive.cz/_rev2015/js/*?bn=$script
-||zive.cz/Client.Scripts/*please$script
-||zive.cz/Client.Scripts/*zive?format=js
 ||zive.cz^*AdConstructor$script,first-party
 ||zive.cz^*+$script,first-party
 ||zive.cz/*/js/layout.adscroller.js$script,first-party
@@ -969,6 +954,7 @@ isport.blesk.cz##a[href*="ibb"]
 isport.blesk.cz##div.videoWrapperSmall
 itnetwork.cz##div.ad-730
 jaknaletenky.cz###social
+jnp.zive.cz##.box-data
 kalkulacka-hypoteka.cz##img[src="/images/ebook-banner-left.jpeg"]
 kalkulacka-hypoteka.cz##img[src="/images/neomezene-banner-left.jpeg"]
 kaloricketabulky.cz##.bannLead
@@ -1035,22 +1021,13 @@ minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz,videacesky.cz##.fullbanner
-mobilmania.cz##.not4bbtext + a
-mobilmania.cz##[id*="3.1.1"]
-mobilmania.cz##div:-abp-has(> #HalfPageAd-1)
-mobilmania.cz##div:-abp-has(> #HalfPageAd-2)
-mobilmania.cz##div:-abp-has(> #Leaderboard-1)
-mobilmania.cz##iframe[src*="alza"]
-mobilmania.cz##noscript + script + div
-mobilmania.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper):not(#mainwrap)
-mobilmania.cz,zive.cz###leadBrand
-mobilmania.cz,zive.cz##.bx-billboard
-mobilmania.cz,zive.cz##.bx-scroller
-mobilmania.cz,zive.cz##div.ads
-mobilmania.cz,zive.cz##div.bx-sky-roller > div.bx-sky
-mobilmania.cz,zive.cz##div[class$='chaos'] > div[class$='-roller']
-mobilmania.cz,zive.cz##div[id^='ao_Skyscraper']
-mobilmania.cz,zive.cz##img[id^='ad']
+mobilmania.cz##div[id="content-lead"]
+mobilmania.cz,zive.cz###Billboard-bottom-1
+mobilmania.cz,zive.cz##.box-cex.box
+mobilmania.cz,zive.cz##.logoAodkazy
+mobilmania.cz,zive.cz##div[class$="column"]
+mobilmania.cz,zive.cz##div[class*="bx-list-simple"]
+mobilmania.cz,zive.cz##div[class*="magazine"]
 moda.cz##div[style="clear:both; padding-top:30px; width:540px;"]
 mp3s.nadruhou.net##div[style*="padding: 0px; height: 270px;"]
 mp3s.nadruhou.net##div[style*="padding: 0px; height: 275px;"]
@@ -1292,35 +1269,11 @@ zeny.cz##.commerce
 zeny.cz##.commercehead
 zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
-zing.cz###background
-zing.cz###bgSpaceArea
-zive.cz###ao_Skyscraper
-zive.cz###ao_Skyscraper-2
-zive.cz###bx-cnt-full > div > div
-zive.cz###ctl01_jobs
-zive.cz###mainFORM > div > div[class*="3.1.2"]
-zive.cz###mainFORM > div > div[id*="3.1.2"]
-zive.cz###page-hub-wrapper
-zive.cz##.banner-box
-zive.cz##.bx-commercial ~ div
-zive.cz##.bx-ext-rss
-zive.cz##.bx-fullbanner ~ div
-zive.cz##.bx-livecompanies
-zive.cz##.not4bbtext + div
-zive.cz##.prolinkhdr-content
-zive.cz##body > form:first-of-type > table:first-of-type + div
-zive.cz##div.ads-in
-zive.cz##div.bx-sky
-zive.cz##div.cs-cnt-cl-r span[style*="display"] + div
-zive.cz##div.sky-wrapper
-zive.cz##div[id$="_protec"]
-zive.cz##div[id$="_protec-2"]
-zive.cz##form > div > div[id*="3.1.2"]
-zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
-zive.cz##div:has(:scope > #HalfPageTop)
+zive.cz###box_rss_hub
 zive.cz##.fs-os.css-clear.bileto
-zive.cz##div:has(:scope > #Leader-1)
-zive.cz##div[class$="column"]
+zive.cz##[class*="bx-bb"]
+zive.cz##div[class$="wrap-under"]
+zive.cz##div[id*="overide"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
