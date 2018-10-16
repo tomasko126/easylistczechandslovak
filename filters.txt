@@ -55,7 +55,6 @@ _clickthru.swf?
 @@/moje-konto/inzeraty/
 @@https://games.tiscali.cz/img/bg/sprite.png
 @@https://games.tiscali.cz/img/bg/main.jpg
-@@https://games.tiscali.cz/img/ico/instagram_icon.svg
 !
 ! ---------- Czech 1st party blocking rules ---------- !
 !
