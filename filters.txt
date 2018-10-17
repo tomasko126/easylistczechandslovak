@@ -927,6 +927,7 @@ heureka.cz##.banner-leaderboard-cover
 heureka.cz##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 hihinky.cz##.smoke-alert
+hokej.cz##.bcg-sys-top
 hokej.cz##.dolni_reklama
 hokej.cz##.promo-container
 hokej.cz##.top_banner
