@@ -633,6 +633,7 @@ zive.cz#@#.box-adsense
 !
 dobre-recepty.sk#@##ad_skin
 komentare.sme.sk#@#.share-box
+rychlost.sk#@#.s-share-block
 ulozisko.sk#@##reklama_big
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
