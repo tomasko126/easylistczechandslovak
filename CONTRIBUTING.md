@@ -11,7 +11,7 @@ https://adblockplus.org/filter-cheatsheet
 
 Tyto odkazy Vám vysvětlí základy o tom, jak správně napsat pravidla do Easylistu. Je důležité aby se dodržela správná syntaxe.
 
-Dekujeme.
+Děkujeme.
 
 ---
 
