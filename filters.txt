@@ -1317,7 +1317,6 @@ zive.cz##form > div > div[id*="3.1.2"]
 zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
 zive.cz##div:has(:scope > #HalfPageTop)
 zive.cz##.fs-os.css-clear.bileto
-zive.cz##div:has(:scope > #Leader-1)
 zive.cz##div[class$="column"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
