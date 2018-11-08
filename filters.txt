@@ -88,7 +88,7 @@ _clickthru.swf?
 ||ab-forum.info/reklamy/
 ||ab-forum.info/xpeed.jpg
 ||abecedaher.cz/index_banner_
-||adform.net$third-party,domain=aktualne.cz
+||adform.net$third-party
 ||adx.fotoaparat.cz/www/images/
 ||aimatch.com$third-party,domain=aktualne.cz
 ||aktualne.cz$subdocument,domain=aktualne.cz
@@ -350,6 +350,7 @@ _clickthru.swf?
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/Client.Scripts/*please$script
 ||zive.cz/Client.Scripts/*zive?format=js
+||vanoce.zive.cz$subdocument
 ||zkouknito.cz/js/js.htmlad.js
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 ||zvraceny.cz/data/upload/
@@ -461,6 +462,8 @@ _clickthru.swf?
 ||bbmedia.cz^$third-party
 ||betclick.com^$third-party
 ||bidmax.cz^$third-party
+||chartbeat.com^$third-party
+||chartbeat.net^$third-party
 ||d.vvbox.cz^$third-party
 ||data.itiscali.cz^$third-party
 ||dev.youcan.cz^$third-party
@@ -506,7 +509,7 @@ _clickthru.swf?
 ||inclick.sk^$third-party
 ||kariera.zoznam.sk/?page=banner$third-party
 ||login.dognet.sk/accounts/default1$third-party
-||ls.hit.gemius.pl^$third-party
+||gemius.pl^$third-party
 ||netsuccess.sk^$third-party
 ||p1.naj.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
@@ -1317,6 +1320,12 @@ zive.cz##form > div > div[id*="3.1.2"]
 zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
 zive.cz##.fs-os.css-clear.bileto
 zive.cz##div[class$="column"]
+zive.cz###brandingCreativeWrapper
+zive.cz###bgTop-iFrame
+zive.cz##.redirectArea
+zive.cz###Leader-1
+zive.cz##div[id$="_overide"]
+zive.cz##div[class$="_chaoz"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
