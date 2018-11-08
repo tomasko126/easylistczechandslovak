@@ -357,9 +357,6 @@ _clickthru.swf?
 ||zive.cz/_rev2015/js/*?bn=$script
 ||zive.cz/Client.Scripts/*please$script
 ||zive.cz/Client.Scripts/*zive?format=js
-||zive.cz^*AdConstructor$script,first-party
-||zive.cz^*+$script,first-party
-||zive.cz/*/js/layout.adscroller.js$script,first-party
 ||zkouknito.cz/js/js.htmlad.js
 ||zrks.cz/storage/$third-party,domain=aktualne.cz
 ||zvraceny.cz/data/upload/
