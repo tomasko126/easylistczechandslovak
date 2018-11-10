@@ -288,7 +288,7 @@ _clickthru.swf?
 ||romea.cz/images/servis/banner
 ||ronnie.cz/cache/bannery/
 ||rubiconproject.com$third-party
-||s.imedia.cz/js/szn-script.js
+||imedia.cz/$script
 ||sagit.cz/inzarchiv/bannery/
 ||sapro.cz/banner/
 ||sasoft.cz/files/banner.gif
