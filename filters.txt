@@ -1048,7 +1048,6 @@ mladypodnikatel.cz##.scroll_banner
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz,videacesky.cz##.fullbanner
 mobilmania.cz##.not4bbtext + a
-mobilmania.cz##.sky-wraper
 mobilmania.cz##[id*="3.1.1"]
 mobilmania.cz##iframe[src*="alza"]
 mobilmania.cz##noscript + script + div
@@ -1336,7 +1335,7 @@ zive.cz###bgTop-iFrame
 zive.cz##.redirectArea
 zive.cz###Leader-1
 zive.cz##div[id$="_overide"]
-zive.cz##div[class$="_chaoz"]
+zive.cz,mobilmania.cz##div[class$="_chaoz"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
