@@ -1055,6 +1055,10 @@ mobilmania.cz##noscript + script + div
 mobilmania.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper):not(#mainwrap)
 mobilmania.cz###content-lead
 mobilmania.cz,zive.cz###Leader-1
+mobilmania.cz,zive.cz###bgTop-iFrame
+mobilmania.cz,zive.cz##.redirectArea
+mobilmania.cz,zive.cz##div[id$="_overide"]
+mobilmania.cz,zive.cz##div[class$="_chaoz"]
 mobilmania.cz,zive.cz###leadBrand
 mobilmania.cz,zive.cz##.bx-billboard
 mobilmania.cz,zive.cz##.bx-scroller
@@ -1333,10 +1337,6 @@ zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
 zive.cz##.fs-os.css-clear.bileto
 zive.cz##div[class$="column"]
 zive.cz###brandingCreativeWrapper
-zive.cz###bgTop-iFrame
-zive.cz##.redirectArea
-zive.cz##div[id$="_overide"]
-zive.cz##div[class$="_chaoz"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
