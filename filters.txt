@@ -60,8 +60,7 @@ _clickthru.swf?
 !
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
-/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^.]{400,}$)/$script
-/(?:(?:\bmobilmania\.cz\/Client\.Scripts\/)|(?:\bzive\.cz\/)|(?:\bautorevue\.cz\/)|(?:\bsportrevue\.cz\/)|(?:\bisport\.blesk\.cz\/))(?:[^\/]{400,}$)/$script
+
 /(?:\baktualne\.cz\/)(?:.{200,300}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
@@ -1294,8 +1293,8 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 
-/^https:\/\/www\.mobilmania\.cz\/[\da-zA-Z-_]{20,}/$script
-/^https:\/\/www\.zive\.cz\/[\da-zA-Z-_]{20,}/$script
+/mobilmania\.cz\/[\da-zA-Z-_]{20,}/$script
+/zive\.cz\/[\da-zA-Z-_]{20,}/$script
 
 ! ----- skryje cely pravy sidebar
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
