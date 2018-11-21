@@ -775,7 +775,6 @@ autohit.cz###leva-reklama
 autorevue.cz###adblock-leaderboard-clip
 autorevue.cz##[id*="3.1."]
 autorevue.cz,autozine.cz,businessworld.cz,busportal.cz,computerworld.cz,drumandbass.cz,edna.cz,ewrc.cz,gamepark.cz,mladypodnikatel.cz,pcworld.cz,recepty.vareni.cz,securityworld.cz,statnisprava.cz,tvfreak.cz,uloz.to,webshare.cz,zive.cz##.banner
-autorevue.cz,e15.cz,maminka.cz,mobilmania.cz,zive.cz##.bx-bb
 autosport.cz###header-reklama
 autosport.cz##.side-bann-l
 autosport.cz##.side-bann-r
@@ -783,7 +782,6 @@ autotube.cz##.rklv
 autotube.cz,autoweb.cz##.rklh
 autozine.cz##.banner2
 autozine.cz##.wrap + div:not(#footer)
-avmania.e15.cz,mobilmania.cz,zive.cz###content-lead
 befun.cz,extra.cz,mesec.cz,novinky.cz,podnikatel.cz##.ad
 blesk.cz###slevisteBox
 blesk.cz##.article-ad-wrapper
@@ -1051,25 +1049,6 @@ minecrafak.cz###sidebar
 mladypodnikatel.cz##.scroll_banner
 mobilizujeme.cz###leaderbanner_space
 mobilizujeme.cz,videacesky.cz##.fullbanner
-mobilmania.cz##.not4bbtext + a
-mobilmania.cz##[id*="3.1.1"]
-mobilmania.cz##iframe[src*="alza"]
-mobilmania.cz##noscript + script + div
-mobilmania.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper):not(#mainwrap)
-mobilmania.cz###content-lead
-mobilmania.cz,zive.cz###Leader-1
-mobilmania.cz,zive.cz###bgTop-iFrame
-mobilmania.cz,zive.cz##.redirectArea
-mobilmania.cz,zive.cz##div[id$="_overide"]
-mobilmania.cz,zive.cz##div[class$="_chaoz"]
-mobilmania.cz,zive.cz###leadBrand
-mobilmania.cz,zive.cz##.bx-billboard
-mobilmania.cz,zive.cz##.bx-scroller
-mobilmania.cz,zive.cz##div.ads
-mobilmania.cz,zive.cz##div.bx-sky-roller > div.bx-sky
-mobilmania.cz,zive.cz##div[class$='chaos'] > div[class$='-roller']
-mobilmania.cz,zive.cz##div[id^='ao_Skyscraper']
-mobilmania.cz,zive.cz##img[id^='ad']
 moda.cz##div[style="clear:both; padding-top:30px; width:540px;"]
 mp3s.nadruhou.net##div[style*="padding: 0px; height: 270px;"]
 mp3s.nadruhou.net##div[style*="padding: 0px; height: 275px;"]
@@ -1314,49 +1293,13 @@ zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
-zive.cz###ao_Skyscraper
-zive.cz###ao_Skyscraper-2
-zive.cz###bx-cnt-full > div > div
-zive.cz###ctl01_jobs
-zive.cz###mainFORM > div > div[class*="3.1.2"]
-zive.cz###mainFORM > div > div[id*="3.1.2"]
-zive.cz###page-hub-wrapper
-zive.cz##.banner-box
-zive.cz##.bx-commercial ~ div
-zive.cz##.bx-ext-rss
-zive.cz##.bx-fullbanner ~ div
-zive.cz##.bx-livecompanies
-zive.cz##.not4bbtext + div
-zive.cz##.prolinkhdr-content
-zive.cz##body > form:first-of-type > table:first-of-type + div
-zive.cz##div.ads-in
-zive.cz##div.bx-sky
-zive.cz##div.cs-cnt-cl-r span[style*="display"] + div
-zive.cz##div[id$="_protec"]
-zive.cz##div[id$="_protec-2"]
-zive.cz##form > div > div[id*="3.1.2"]
-zive.cz##table#prolinkhdr-v3 + div:not(.cs-cnt-wrapper)
-zive.cz##.fs-os.css-clear.bileto
-zive.cz##div[class$="column"]
-zive.cz###brandingCreativeWrapper
+
 /^https:\/\/www\.mobilmania\.cz\/[\da-zA-Z-_]{20,}/$script
 /^https:\/\/www\.zive\.cz\/[\da-zA-Z-_]{20,}/$script
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##div[data-clickattribute="mainClick"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##img[width="2000"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[id="Billboard-bottom-1"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class="px-zone"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[id*="-detail"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[id*="wrapper-"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[width="300"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[height="600"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##img[src*="kyblik"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##A[href*="CREFURL"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="is_stuck"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##A[target="_blank"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="item"]
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[style*="background-image:"]
+
 ! ----- skryje cely pravy sidebar
-!zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
+zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
+
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
