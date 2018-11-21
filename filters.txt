@@ -68,7 +68,7 @@ _clickthru.swf?
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /[0-9_]*x[0-9_]*.jpg$/$domain=www.mobilmania.cz|www.zive.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
-/(mobilmania|zive|autorevue|maminka|ahaonline|zeny|blesk)\.cz\/[\da-zA-Z-_]{20,}/$script
+/(mobilmania|zive|autorevue|maminka|ahaonline|zeny|blesk|e15|auto|reflex|abicko|dama|mojezdravi)\.cz\/[\da-zA-Z-_]{20,}/$script
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/
 ||*.war-forum.net/images/sh/
