@@ -1294,7 +1294,7 @@ zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
 ! ----- skryje cely pravy sidebar, v ktorom su aj reklami aj odkazy na clanky na inych domenach
-zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
+!zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
