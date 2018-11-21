@@ -60,7 +60,6 @@ _clickthru.swf?
 !
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:(?:.{100,200}$)|(?:.{400,}$)|(?:.{40,48}$))/$script
 /(?:(?:\bextra\.cz\/)|(?:\bonetv\.cz\/))(?:[^.]{80,130}$)/$script
-
 /(?:\baktualne\.cz\/)(?:.{200,300}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w+]+\/[\w+]+)+)(?:[\w.+/]{400,}$)/$script
 /(?:\baktualne\.cz\/)(?=(?:[\w]+)+)(?:[\w.+/]{40,50}$)/$script
@@ -69,6 +68,8 @@ _clickthru.swf?
 /(?:\breflex\.cz\/)(?:.{400,}$)/$script
 /[0-9_]*x[0-9_]*.jpg$/$domain=www.mobilmania.cz|www.zive.cz
 /\baktualne\.cz\/[\w./-]{70,110}\?_=\d{7}$/
+/mobilmania\.cz\/[\da-zA-Z-_]{20,}/$script
+/zive\.cz\/[\da-zA-Z-_]{20,}/$script
 ||*.lagardere.cz/europa2/img/u/branding*.jpg
 ||*.s12.cdn.szn.cz/vod/
 ||*.war-forum.net/images/sh/
@@ -1292,13 +1293,8 @@ zeny.cz##.partner
 zeny.tiscali.cz###zone-tiscali-zeny-wide
 zing.cz###background
 zing.cz###bgSpaceArea
-
-/mobilmania\.cz\/[\da-zA-Z-_]{20,}/$script
-/zive\.cz\/[\da-zA-Z-_]{20,}/$script
-
-! ----- skryje cely pravy sidebar
+! ----- skryje cely pravy sidebar, v ktorom su aj reklami aj odkazy na clanky na inych domenach
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz,ahaonline.cz,zeny.cz##DIV[class*="chaos"]
-
 zpravy.tiscali.cz###zone-tiscali-zpravy-wide
 zvraceny.cz###video-reklama-obal
 zvraceny.cz##.opacne.text-reklama
