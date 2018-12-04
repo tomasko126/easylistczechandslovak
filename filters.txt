@@ -301,6 +301,7 @@ _clickthru.swf?
 ||warforum.cz/x2014/
 ||warzoneforum.eu/images/*banner.gif
 ||wesa.cz/banner/
+||xsd.cz/dist$domain=centrum.cz
 ||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
