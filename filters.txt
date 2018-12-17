@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 20/11/2018
+! Last change: 17/12/2018
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -1324,6 +1324,7 @@ mail.zoznam.sk###box3
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
+modrykonik.sk###mk-branding-0
 mojevideo.sk###brnd
 narodnablockovaloteria.tipos.sk###banners
 nitralive.sk###bannertop
