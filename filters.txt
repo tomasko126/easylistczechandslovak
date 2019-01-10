@@ -835,6 +835,8 @@ busportal.cz##DIV[id*="Banner"]
 bydlimekvalitne.cz###block-block-1
 cdr.cz##.not4bbtext
 centrum.cz##[id^="widget_23"]
+centrum.cz##[class*="pravy-banner"]
+centrum.cz###reklama-leader
 centrum.cz###widget_195
 centrum.cz###widget_135
 centrum.cz###widget_223 > .widgetContent
