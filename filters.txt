@@ -874,6 +874,11 @@ hrej.cz##.inzerce
 hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
+idnes.cz###r-middleboard
+idnes.cz###r-kontext
+idnes.cz###selfart
+idnes.cz##table[id*='leaderboard']
+idnes.cz##videoplayer>stripe
 ihned.cz###eTargetScript
 ihned.cz###r-big-ozn
 ihned.cz###r-drazby
@@ -885,8 +890,6 @@ ihned.cz##.karieraweb-box
 ihned.cz##.karieraweb-label
 ihned.cz,programujte.com##.jobs
 info.cz##.sticky-wrapper
-idnes.cz##table[id*='leaderboard']
-idnes.cz##videoplayer>stripe
 iprima.cz###banner-wrapper
 iprima.cz###reklamicka-inform
 iprima.cz###work-my-reklamicka
