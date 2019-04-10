@@ -46,7 +46,6 @@
 /reklamy.
 /rennab_prefered/*
 /scripts/clickjs
-/slevy/*
 /sponzor.fcgi?
 /stabilka_
 /stabilky/*
