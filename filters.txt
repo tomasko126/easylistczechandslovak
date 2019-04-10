@@ -272,6 +272,8 @@ _clickthru.swf?
 ||mediacentrum.sk/google/
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
+||mojanitra.sk/banery/
+||mojanitra.sk//images/banery/
 ||mojevideo.sk/star.jpg
 ||onlinefilmy.tv/*bg*.jpg
 ||onlinovky.sk/bannery/
