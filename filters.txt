@@ -449,8 +449,8 @@ _clickthru.swf?
 @@||sokolov.cz/images/reklama/
 @@||static.cz.prg.cmestatic.com/static/cz/shared/js/adtrack.nova.js
 @@||static.tn.nova.cz/static/cz/shared/js/banners.js
+@@||www.top-reklama.sk$~third-party
 @@||warforum.cz/ads.js
-
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
