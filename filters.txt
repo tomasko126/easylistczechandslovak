@@ -669,6 +669,7 @@ edna.cz##.adsense
 edna.cz##.seriesadvert
 edna.cz##.leaderboard
 elektrocvn.estranky.cz###shifter_wrap
+emimino.cz###r-leaderboardhp
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
 esemes.cz,warforum.cz###t-content
