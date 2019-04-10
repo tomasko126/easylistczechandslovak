@@ -546,6 +546,7 @@ ulozisko.sk#@##reklama_big
 ##.reklama_title_flat
 ##.reklamni-up-1
 ##.reklamni-up-2
+##.rklm
 ##.sklik
 ##.sklik-block
 ##.sklik-box
@@ -830,6 +831,7 @@ osel.cz##.right
 parlamentnilisty.cz###prezentace
 parlamentnilisty.cz###square-dole
 parlamentnilisty.cz##.wallpaper
+pctuning.tyden.cz##iframe
 penize.tiscali.cz###zone-tiscali-penize-wide
 play.iprima.cz###player-wrapper + div
 play.iprima.cz##.vjs-marker-ad
