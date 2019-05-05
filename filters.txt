@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 04/05/2019
+! Last change: 05/05/2019
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -151,6 +151,8 @@ _clickthru.swf?
 ||sda.online-systemy.cz
 ||skjalovec.com/img/banners/
 ||slevy.tyden.cz/banner/
+||stat.novinky.cz
+||stat.sport.cz
 ||stobklub.cz/images/banners/maintop.jpg
 ||super.cz/static/flash/
 ||superhry.cz/design/09/banner120.gif
@@ -303,8 +305,6 @@ _clickthru.swf?
 ||productads.cz^$third-party
 ||rival.cz^$third-party
 ||salesmanago.pl^$third-party
-||stat.novinky.cz^$third-party
-||stat.sport.cz^$third-party
 ||supersouteze.best4man.cz^$third-party
 ||sys.starnets.io^$third-party
 ||trackad.cz^$third-party
