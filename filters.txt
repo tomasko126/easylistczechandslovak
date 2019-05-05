@@ -275,7 +275,7 @@ _clickthru.swf?
 ||betclick.com^$third-party
 ||bidmax.cz^$third-party
 ||c.imedia.cz^$third-party
-||caroda.io^$third-party
+||campaigns.caroda.io^$third-party
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
 ||d.vvbox.cz^$third-party
@@ -536,6 +536,7 @@ esemes.cz###h_part_right
 esemes.cz,warforum.cz###t-content
 estav.cz##.topbanner
 euro.cz##.float-ad-wrapper
+evropa2.cz##div.top-padding
 livesport.cz###box-over-content-a
 ewrc.cz###invelt
 extra.cz##div.klik--leaderboard

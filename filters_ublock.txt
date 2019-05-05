@@ -15,6 +15,8 @@ iprima.cz##+js(setTimeout-defuser.js, iframe)
 mall.tv##+js(set-constant.js, videoEvents.ad.called, true)
 media.joj.sk##+js(set-constant.js, settings.ads, false)
 media.joj.sk##+js(set-constant.js, Rmp.params.genderSelectionUrl, undefined)
+onair.evropa2.cz##+js(fuckadblock.js-3.2.0)
+||redirector.gvt1.com/videoplayback/id/$media,domain=onair.evropa2.cz,redirect=noopmp4-1s
 sauto.cz##+js(nano-setTimeout-booster.js, vendor-load, 3000)
 search.seznam.cz,clanky.seznam.cz##div.Layout--left > div:not(:has(.Result--organic))
 titulky.com##+js(abort-current-inline-script.js, adblfetected)
