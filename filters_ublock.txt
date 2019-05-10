@@ -19,7 +19,6 @@ mobilenet.cz##+js(fuckadblock.js-3.2.0)
 onair.evropa2.cz##+js(fuckadblock.js-3.2.0)
 ||redirector.gvt1.com/videoplayback/id/$media,domain=onair.evropa2.cz,redirect=noopmp4-1s
 sauto.cz##+js(nano-setTimeout-booster.js, vendor-load, 3000)
-search.seznam.cz,clanky.seznam.cz##div.Layout--left > div:not(:has(.Result--organic))
 titulky.com##+js(abort-current-inline-script.js, adblfetected)
 uloz.to##div.pg-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
