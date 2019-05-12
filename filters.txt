@@ -76,6 +76,7 @@ _clickthru.swf?
 ||cviceni-doma.cz/images/*banner
 ||cztorrent.net/images/bannery/
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
+||dmp.mall.tv^
 ||eco-aa.xsd.cz/dist/adb.js
 ||edna.cz/static/web/img/banners/branding
 ||espoluprace.cz/affiliate/
@@ -86,6 +87,7 @@ _clickthru.swf?
 ||g.cz^$subdocument,domain=g.cz
 ||garaz.autorevue.cz/advantage.js
 ||gemius.pl$subdocument,domain=motorkari.cz
+||gjc.mall.tv^
 ||hcdukla.cz/adds/
 ||hcmotor.cz/adds/
 ||hcorli.cz/img/hokejcz/banner_hokejcz.png
