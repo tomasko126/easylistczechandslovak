@@ -179,7 +179,6 @@ _clickthru.swf?
 ||warforum.cz/x2014/
 ||warzoneforum.eu/images/*banner.gif
 ||wesa.cz/banner/
-||youradio.cz/api/triton/preroll
 ||zbynekmlcoch.cz/info/images/banners/*.swf
 ||zbynekmlcoch.cz/info/images/banners/banner_
 ||zkouknito.cz/js/js.htmlad.js
@@ -340,6 +339,7 @@ _clickthru.swf?
 @@||reklama-*.cz
 @@||www.top-reklama.sk$~third-party
 @@||warforum.cz/ads.js
+@@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !

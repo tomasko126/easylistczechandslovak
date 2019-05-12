@@ -24,4 +24,6 @@ search.seznam.cz,clanky.seznam.cz##div.Layout--left > div:has(div.ZboziCategory)
 titulky.com##+js(abort-current-inline-script.js, adblfetected)
 uloz.to##div.pg-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
+youradio.cz##+js(fuckadblock.js-3.2.0)
+||media.actve.net/sads/$media,redirect=noopmp3-0.1s,domain=youradio.cz
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
