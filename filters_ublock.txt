@@ -19,7 +19,7 @@ navratdoreality.cz##+js(addEventListener-defuser.js, ended)
 onair.evropa2.cz##+js(fuckadblock.js-3.2.0)
 ||redirector.gvt1.com/videoplayback/id/$media,domain=onair.evropa2.cz,redirect=noopmp4-1s
 sauto.cz##+js(nano-setTimeout-booster.js, vendor-load, 3000)
-search.seznam.cz,clanky.seznam.cz##div.Layout--left > div > div:not([class*="Result"]):not([class*="Hint"])
+search.seznam.cz,clanky.seznam.cz##div.Layout--left > div:has(> div:not([class*="Result"]):not([class*="Hint"]))
 search.seznam.cz,clanky.seznam.cz##div.Layout--left > div:has(div.ZboziCategory)
 titulky.com##+js(abort-current-inline-script.js, adblfetected)
 uloz.to##div.pg-wrapper:style(padding-top: 0px !important;)
