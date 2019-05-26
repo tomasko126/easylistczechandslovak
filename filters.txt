@@ -340,6 +340,9 @@ sluzebnik.cz#@##adverts
 ! ---------- Slovak Whitelisted blocking rules ------------ !
 !
 @@||bombuj.eu^$generichide
+@@||bombuj.eu/prehravace/overeniecaptcha3final.php
+@@||bombuj.eu/prehravace/openload.io.php
+@@||bombuj.eu/prehravace/verystream.com.php
 @@||img.aaaauto.eu/thumb/
 @@||pcforum.sk^$elemhide
 @@||pcforum.sk/styles/*/advertisement.js
