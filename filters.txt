@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 27/05/2019
+! Last change: 29/05/2019
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -108,7 +108,6 @@ _clickthru.swf?
 ||kupi.cz/*/json
 ||kurzy.cz/e/adv?
 ||lamer.cz/images/bg*.jpg
-||letemsvetemapplem.eu/rklm/
 ||libise.eu/r/
 ||liveagent.mobilbonus.cz^
 ||logobox.cz/images/banners/
@@ -548,10 +547,10 @@ kladenskelisty.cz##.rright
 kladenskelisty.cz##.tree
 kniha.cz##div[id^="banner"]
 lamer.cz,moda.cz##.square
-letemsvetemapplem.eu###brandingconts
-letemsvetemapplem.eu###headervelka
-letemsvetemapplem.eu###pravy_uzky
-letemsvetemapplem.eu###tallbanner1
+letemsvetemapplem.eu###branding_conts
+letemsvetemapplem.eu##.headerbanner
+letemsvetemapplem.eu###floatad
+letemsvetemapplem.eu###headertopbanner
 libise.eu###aa1
 lidovky.cz##[class*="r-main"]
 lui-magazine.cz##.bannergroup
