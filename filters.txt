@@ -320,7 +320,7 @@ _clickthru.swf?
 @@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||pise.cz^$generichide
-@@||pubads.g.doubleclick.net/gampad/ads?env=vp$xmlhttprequest,domain=nova.cz
+@@||static.cz.prg.cmestatic.com/static/cz/shared/js/dfp.js$xmlhttprequest,domain=nova.cz
 @@||reklama-*.cz
 @@||www.top-reklama.sk^$~third-party
 @@||warforum.cz/ads.js
