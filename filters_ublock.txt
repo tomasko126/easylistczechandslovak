@@ -36,4 +36,5 @@ uloz.to##div.pg-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
 youradio.cz##+js(fuckadblock.js-3.2.0)
 ||media.actve.net/sads/$media,redirect=noopmp3-0.1s,domain=youradio.cz
+||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noopmp4-1s
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)

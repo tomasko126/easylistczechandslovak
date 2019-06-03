@@ -144,7 +144,6 @@ _clickthru.swf?
 ||superhry.cz/media/
 ||svoboda.info/assets/files/banners_2013/
 ||svoboda.info/assets/files/banners_2014/
-||topkontakt.cz/banner/
 ||uschovna.cz/branding/$subdocument
 ||video.aktualne.cz/adpod.php
 ||video.aktualne.cz/auth_videodata$xmlhttprequest
