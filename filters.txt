@@ -603,6 +603,9 @@ sauto.cz###pvMid
 serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
 sledujufilmy.cz##.bottom-advert
+smartmania.cz##div[id$="-banner"]
+smartmania.cz###text-html-widget-8
+smartmania.cz###text-html-widget-24
 sms.1188.cz##.leader
 sms.1188.cz##.sky-left
 sms.1188.cz##.sky-right
