@@ -327,9 +327,6 @@ sluzebnik.cz#@##adverts
 ! ---------- Slovak Whitelisted blocking rules ------------ !
 !
 @@||bombuj.eu^$generichide
-@@||bombuj.eu/prehravace/overeniecaptcha3final.php
-@@||bombuj.eu/prehravace/openload.io.php
-@@||bombuj.eu/prehravace/verystream.com.php
 @@||img.aaaauto.eu/thumb/
 @@||topserialy.to^$generichide
 @@||topserialy.to/js/advertisements.js
@@ -680,9 +677,8 @@ best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
 best4you.sk##div[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bmwklub.sk##div[id^="ad"]
-bombuj.eu###reklamacasino
-bombuj.eu###zatvorit-reklamu
-bombuj.eu###videooverlay
+bombuj.eu##[id*="rekl"]
+bombuj.eu###ad_banner
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
 cucaj.sk###interContainer
