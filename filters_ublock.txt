@@ -1,4 +1,5 @@
-centrum.cz##+js(set-constant.js, _sashec_queue.push, noopFunc)
+||a.cele.cz^$3p
+centrum.cz##+js(cookie-remover.js, avw5rcp)
 csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
 csfd.cz##+js(set-constant.js, CSFD.ads.adblock, falseFunc)
 csfd.cz##^script:has-text(completeAdsObject)
