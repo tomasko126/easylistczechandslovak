@@ -736,7 +736,15 @@ zmeskanyhovor.com##.native-ads
 !
 ! ---------- ABP Extended filters ---------- !
 !
-
+csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
+csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
+doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
+dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
+lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
+pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
+pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
+search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(> div:not([class*="Result"]):not([class*="Hint"]))
+search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
 !
 ! ---------- uBlock Extended filters ---------- !
 !
