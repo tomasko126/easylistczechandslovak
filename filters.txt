@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 01/06/2019
+! Last change: 16/06/2019
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -745,6 +745,13 @@ pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
 search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(> div:not([class*="Result"]):not([class*="Hint"]))
 search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
+
+! Filters below are not compatible with uBlock Origin (has its own version in `filters_ublock.txt`)
+csfd.cz#$#abort-current-inline-script $ completeAdsObject
+idnes.cz,novinky.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,karaoketexty.cz,iprima.cz#$#abort-current-inline-script Math adbDetect
+onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
+titulky.com#$#abort-current-inline-script adblfetected
+
 !
 ! ---------- uBlock Extended filters ---------- !
 !
