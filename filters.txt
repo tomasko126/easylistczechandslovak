@@ -469,6 +469,7 @@ diit.cz,cdr.cz##div[class*="openx-async"]
 diit.cz,cdr.cz##div.block-jobs-link
 dotekomanie.cz##div#highlitesAds
 dpp.cz,playzone.cz,serialzone.cz###top-banner
+e15.cz##.gallery-advertisement
 e-mostecko.cz###g-top-bannery
 echo24.cz##.relama-caption
 edna.cz##.adsense
@@ -748,7 +749,7 @@ search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCat
 
 ! Filters below are not compatible with uBlock Origin (has its own version in `filters_ublock.txt`)
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
-idnes.cz,novinky.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,karaoketexty.cz,iprima.cz#$#abort-current-inline-script Math adbDetect
+idnes.cz,novinky.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,karaoketexty.cz,iprima.cz,hnonline.sk,kupi.cz,kinobox.cz#$#abort-current-inline-script Math.random adb
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 
