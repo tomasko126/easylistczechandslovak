@@ -662,6 +662,7 @@ mail.zoznam.sk###box3
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
+modnipeklo.cz##[class*="r-main"]
 modrykonik.sk###mk-branding-0
 mojevideo.sk###brnd
 narodnablockovaloteria.tipos.sk###banners
@@ -703,7 +704,7 @@ dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
-search.seznam.cz,clanky.seznam.cz##.Result:not(:-abp-has([class^="Result"]))
+search.seznam.cz,clanky.seznam.cz#?#.Result:not(:-abp-has([class^="Result"]))
 search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
 !
 ! ---------- uBlock Extended filters ---------- !
