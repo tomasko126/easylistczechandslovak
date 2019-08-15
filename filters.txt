@@ -442,6 +442,9 @@ cervenykostelec.cz##.sliderbubble-right
 ceskenoviny.cz##.hypertexty
 cesky-jazyk.cz##.cornerbox
 cesky-jazyk.cz##.heurekaIframeHeader
+www.centrum.cz#?#.sticky
+www.centrum.cz##a>img:not([class])
+www.centrum.cz###creativeLink
 cnews.cz##div#td-outer-wrap > div.td-container
 computerworld.cz##.ad-obal
 cztorrent.net###banner_header
