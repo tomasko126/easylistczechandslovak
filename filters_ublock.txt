@@ -20,6 +20,7 @@ onlajny.com##+js(abort-current-inline-script.js, $, PartnerRedirectAction)
 ||r.i0.cz^$3p,image,redirect=1x1-transparent.gif
 rychlost.cz,rychlost.sk##+js(nano-setInterval-booster.js, ntmt_retest_btn_countdown_do, 1000)
 sauto.cz##+js(nano-setTimeout-booster.js, vendor-load, 3000)
+sector.sk,kinema.sk###frs:style(margin-top: 100px !important;)
 super.cz##+js(remove-attr.js, style, body)
 titulky.com##+js(abort-current-inline-script.js, $, Detected)
 titulky.com##+js(remove-attr.js, style, #head)
