@@ -1,5 +1,4 @@
 bombuj.tv##+js(fuckadblock.js-3.2.0)
-budejckadrbna.cz,brnenskadrbna.cz,olomouckadrbna.cz,libereckadrbna.cz,drbna.cz,jihlavskadrbna.cz,plzenskadrbna.cz,hradeckadrbna.cz##+js(acis, $, bit.ly)
 ||a.cele.cz^$3p
 csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
 csfd.cz##+js(set, CSFD.Ads.adblock, falseFunc)
