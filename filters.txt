@@ -89,7 +89,7 @@
 ||mrk.cz/images/baners/
 ||obchodnirejstrik.cz/*/please/showit/$script
 ||onthe.io^$third-party,domain=aktualne.cz
-||performax.cz^$domain=~performax.cz
+||performax.cz^$third-party
 ||podnikovyzpravodaj.cz/homepage/banner
 ||pornuj.cz/files/ntva.php
 ||presentation.lmc.cz/aliance/
