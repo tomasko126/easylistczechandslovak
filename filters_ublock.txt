@@ -1,5 +1,6 @@
 bombuj.tv##+js(fuckadblock.js-3.2.0)
 ||a.cele.cz^$3p
+cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
 csfd.cz##+js(set, CSFD.Ads.adblock, falseFunc)
 csfd.cz##+js(acis, $, Ads)
@@ -11,9 +12,8 @@ mall.tv##+js(set, videoEvents.ad.init, noopFunc)
 media.cms.nova.cz##+js(set-constant.js, settings.ads, false)
 media.joj.sk##+js(set-constant.js, settings.ads, false)
 media.joj.sk##+js(set-constant.js, Rmp.params.genderSelectionUrl, undefined)
-mobilenet.cz##+js(fuckadblock.js-3.2.0)
+mobilenet.cz,fzone.cz,fdrive.cz##+js(nofab)
 navratdoreality.cz##+js(addEventListener-defuser.js, ended)
-navratdoreality.cz##+js(bab-defuser.js)
 onlajny.com##+js(abort-current-inline-script.js, $, PartnerRedirectAction)
 ||r.i0.cz^$3p,image,redirect=1x1-transparent.gif
 rychlost.cz,rychlost.sk##+js(nano-setInterval-booster.js, ntmt_retest_btn_countdown_do, 1000)
