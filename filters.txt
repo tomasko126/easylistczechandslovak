@@ -236,6 +236,7 @@ sluzebnik.cz#@##adverts
 !
 dobre-recepty.sk#@##ad_skin
 centrumpravnejpomoci.sk#@#.wp_bannerize
+sport.aktuality.sk#@#.adBanner
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
