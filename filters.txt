@@ -322,7 +322,7 @@ drbna.cz##.layoutTop
 e15.cz##.gallery-advertisement
 e15.cz###topSite
 e-mostecko.cz###g-top-bannery
-echo24.cz##.relama-caption
+echo24.cz##.adv
 edna.cz##.adsense
 edna.cz##.seriesadvert
 edna.cz##.leaderboard
