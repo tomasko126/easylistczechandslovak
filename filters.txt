@@ -530,6 +530,7 @@ dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
+search.seznam.cz,clanky.seznam.cz#?#.Result--organic:-abp-has(a[tabindex="0"][class*="Result-url-link"])
 search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
 !
 ! ---------- uBlock Extended filters ---------- !
