@@ -317,7 +317,6 @@ diit.cz,cdr.cz###pr-prace-blok-view
 diit.cz,cdr.cz##div[class*="openx-async"]
 diit.cz,cdr.cz##div.block-jobs-link
 dotekomanie.cz##div#highlitesAds
-dpp.cz,playzone.cz,serialzone.cz###top-banner
 drbna.cz##.layoutTop
 e15.cz##.gallery-advertisement
 e15.cz###topSite
@@ -421,6 +420,8 @@ ronnie.cz###rodkaz
 rouming.cz##.roumingLista
 sauto.cz###pvMid
 serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
+serialzone.cz##.banner-header
+serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
 sledujufilmy.cz##.bottom-advert
 smartmania.cz##div[id$="-banner"]
@@ -461,7 +462,7 @@ warforum.cz###t-overlay
 warforum.cz##.row0
 warforum.cz##a[href="http://acu.cz"]
 warforum.cz##h3
-webshare.cz##.ws-adver-bg
+webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.breadcrumb + .ui-state-default
 webtrh.cz##ol > li[id^="navbar_notice"]
 zena-in.cz##div.main-top
