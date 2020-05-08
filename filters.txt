@@ -123,7 +123,6 @@
 ||recycle-static.zoznam.sk/js/zoznam_branding.min.js
 ||rtvs.sk/bs/xml/vast.xml
 ||rtvs.sk/bs/xml/vmap.xml
-||s.aimg.sk/*_symfony/build/*-adblock*.js$domain=aktuality.sk
 ||ta3.com/api/v1/livebox/video/
 !
 ! ---------- Czech 3rd party blocking rules ---------- !
@@ -231,9 +230,9 @@ sluzebnik.cz#@##adverts
 !
 ! ---------- Slovak Whitelisted hiding rules ---------- !
 !
+aktuality.sk#@#.adBanner
 dobre-recepty.sk#@##ad_skin
 centrumpravnejpomoci.sk#@#.wp_bannerize
-sport.aktuality.sk#@#.adBanner
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
@@ -329,7 +328,7 @@ esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
 esemes.cz,warforum.cz###t-content
 estav.cz##.topbanner
-euro.cz##.float-ad-wrapper
+euro.cz##div[id^="ad-leaderboard"]
 eurogamer.cz##.advert
 evropa2.cz##.ads
 livesport.cz###box-over-content-a
@@ -515,7 +514,6 @@ dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
-search.seznam.cz,clanky.seznam.cz#?#.Result--organic:-abp-has(p + div + div)
 search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
 !
 ! ---------- uBlock Extended filters ---------- !
