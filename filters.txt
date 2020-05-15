@@ -139,6 +139,7 @@
 ||ad1.kde.cz^$third-party
 ||adexpert.cz^$third-party
 ||adform.net^$third-party
+||adserver.nearby.cz^$third-party
 ||ads.cars.cz^$third-party
 ||ads.esports.cz^$third-party
 ||adverts.cz^$third-party
@@ -198,7 +199,9 @@
 ||partner.mrtns.eu^$third-party
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
+||turbo.web2media.sk^$third-party
 ||zachej.sk^$third-party
+||widgets.dobrekliky.sk^$third-party
 !
 ! ---------- Czech Whitelisted blocking rules ------------ !
 !
