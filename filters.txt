@@ -355,6 +355,7 @@ hcmotor.cz##div.container.partners
 heureka.cz,heureka.sk##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 heureka.cz,heureka.sk##div[class$="advert"]
+horoskopy.cz##div[data-cy]
 hrej.cz##.inzerce
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
