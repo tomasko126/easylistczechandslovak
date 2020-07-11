@@ -146,7 +146,6 @@
 ||banners.onebit.cz^$third-party
 ||betclick.com^$third-party
 ||bidmax.cz^$third-party
-||campaigns.caroda.io^$third-party
 ||chrek.stdout.cz^$third-party
 ||d.vvbox.cz^$third-party
 ||d.wedosas.net^$third-party
@@ -206,7 +205,6 @@
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
 @@||iboys.cz/advert-list.php
-@@||online.mbank.cz/Adv/$domain=mbank.cz
 @@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||pise.cz^$generichide
@@ -519,7 +517,6 @@ dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
 pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
-search.seznam.cz,clanky.seznam.cz#?#div.Layout--left > div:-abp-has(div.ZboziCategory)
 !
 ! ---------- uBlock Extended filters ---------- !
 !
