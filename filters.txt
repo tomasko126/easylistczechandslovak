@@ -58,6 +58,7 @@
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
+||horoskopy.cz$xmlhttprequest
 ||im9.cz/*aukro
 ||jiskra-benesov.cz/images/branding/
 ||jiskra-benesov.cz/webloader/jsloader-*.js
@@ -274,6 +275,7 @@ centrumpravnejpomoci.sk#@#.wp_bannerize
 ##[id^="aswift"]
 ##[id^="sklikReklama"]
 ##[id^="sm-ad"]
+##iframe[src^="https://cas.criteo.com/delivery"]
 !
 ! ---------- Czech Site Specific Element hiding rules ---------- !
 !
@@ -398,6 +400,7 @@ naakup.cz###footer-link
 nasepenize.cz##.box-offer
 nasepraha7.cz###reklama_leaderboard
 nejlevnejsiramy.cz###banner_overlay
+novinky.cz###main_body2_top
 onlajny.com###banner-left-pane
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
