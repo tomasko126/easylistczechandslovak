@@ -90,6 +90,7 @@
 ! ---------- Slovak 1st party blocking rules ---------- !
 !
 ||adb.azet.sk^
+||api-exponea.o2.sk^
 ||autobazar.eu/__branding/
 ||bmwklub.sk/images/banners/
 ||cucaj.sk/images/bannery/
