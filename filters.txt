@@ -70,6 +70,7 @@
 ||mamincinyrecepty.cz/images/banner
 ||motorkari.cz^$subdocument
 ||mrk.cz/images/inz/
+||o2.cz/servis/cookie-bar.js
 ||pornuj.cz/files/ntva.php
 ||presentation.lmc.cz/aliance/
 ||prvnizpravy.cz/repository/banner
