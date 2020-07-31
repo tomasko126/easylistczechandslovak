@@ -453,6 +453,7 @@ zing.cz##div.jeg_ad
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##div.sky-wrapper
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##.ads
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz###content-lead
+zive.cz#?#.fs-os:-abp-has(a[href*="jak-na-zive-vypnout-blokovani-reklam"])
 !
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
