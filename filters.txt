@@ -496,6 +496,8 @@ topky.sk##.addbox.avizo
 topky.sk##.box_advertisment.addbox.recycle
 topky.sk##.nastip
 topky.sk##.takeoverKlik
+toprecepty.cz##.right-banner
+toprecepty.cz##div[width=300px][height=250px]
 tv-program.sk##.dragobj > div:nth-of-type(2)
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
