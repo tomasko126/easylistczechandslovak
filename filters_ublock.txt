@@ -1,5 +1,4 @@
 aktuality.sk##+js(aeld, load, ad)
-bombuj.tv##+js(nofab)
 ||a.cele.cz^$3p
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
