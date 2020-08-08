@@ -207,6 +207,7 @@
 @@||www.top-reklama.sk^$~third-party
 @@||warforum.cz/ads.js
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
+@@||zive.cz^$generichide
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
@@ -214,7 +215,6 @@ jaguar-club.net,mazdaclub.cz,nissanclub.cz#@#.reklama
 novinky.cz#@#.g_ad
 skrblik.cz#@##adsense
 sluzebnik.cz#@##adverts
-zive.cz#@#.etarget
 !
 ! ---------- Slovak Whitelisted blocking rules ------------ !
 !
