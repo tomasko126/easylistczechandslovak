@@ -52,7 +52,7 @@
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
 ||filmporno.cz/media/banners/
-||central-beta.mall.tv^
+||central.mall.tv^
 ||hcdukla.cz/adds/
 ||hcmotor.cz/adds/
 ||hcorli.cz/img/hokejcz/banner_hokejcz.png
@@ -297,6 +297,7 @@ cesky-jazyk.cz##.heurekaIframeHeader
 cnews.cz##div#td-outer-wrap > div.td-container
 cnn.iprima.cz##div[id^="sas"]
 computerworld.cz##.ad-obal
+ctrlv.cz,ctrlv.sk##div[id^="adb"]
 cztorrent.net###banner_header
 cztorrent.net###banner_skyscraper_right
 cztorrent.net###bnr_header
