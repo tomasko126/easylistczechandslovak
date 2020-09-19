@@ -161,6 +161,7 @@
 ||intext.lookit.cz^$third-party
 ||intext.wdt.cz^$third-party
 ||megadarky.cz^$third-party
+||mer.stdout.cz^$third-party
 ||n.hyperinzerce.cz^$third-party
 ||netadvert.cz^$third-party
 ||out-ng.sklik.cz^$third-party
