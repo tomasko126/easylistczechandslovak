@@ -10,7 +10,8 @@ games.tiscali.cz##+js(aeld, load, AdWrapper)
 hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
-indian-tv.cz,nerdfix.cz##*:has(>*:matches-css(background-image: /uploads/):matches-css(position: fixed))
+||indian-tv.cz/uploads/$document
+indian-tv.cz,nerdfix.cz##a:matches-css-after(content: /reklama/i):upward(2) > *:nth-child(-n+2)
 indian-tv.cz,nerdfix.cz##+js(aeld, click, location)
 kupi.cz##.top_bg_content:style(top: 0px !important;)
 lupa.cz##+js(nofab)
