@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 05/06/2020
+! Last change: 29/11/2020
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -194,6 +194,7 @@
 ||partner.mrtns.eu^$third-party
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
+||ticketportal.sk/Carousels/$subdocument
 ||zachej.sk^$third-party
 !
 ! ---------- Czech Whitelisted blocking rules ------------ !
