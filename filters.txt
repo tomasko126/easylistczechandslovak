@@ -420,6 +420,8 @@ serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
+seznamzpravy.cz#?#a[href*="adurl="]
+seznamzpravy.cz#?#[data-e2e-advert]
 sledujufilmy.cz##.bottom-advert
 smartmania.cz##div[id$="-banner"]
 smartmania.cz###text-html-widget-8
