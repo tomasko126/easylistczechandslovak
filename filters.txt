@@ -462,6 +462,16 @@ zing.cz##div.jeg_ad
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##div.sky-wrapper
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##.ads
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz###content-lead
+||static2.krimi-plzen.cz/media/partners/*
+krimi-plzen.cz##.partner-box-main
+krimi-plzen.cz##.partner-box-main-vertical
+krimi-plzen.cz##.article-list-partner-slider
+krimi-plzen.cz##.article-list-partner-slider-controls
+krimi-plzen.cz##.article-list-partner-slider-label
+krimi-plzen.cz##.sidebar-partner-box-top
+krimi-plzen.cz##.sidebar-partner-box-middle
+krimi-plzen.cz##.partner-box-attached
+krimi-plzen.cz##.article-partner-box
 !
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
