@@ -86,6 +86,7 @@
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
 ||uschovna.cz/branding
+||vascak.cz/data/img/adblock.png$image
 ||videoad.cz^
 ||warforum.cz/ads/$image
 ||wesa.cz/banner/
@@ -333,6 +334,7 @@ euro.cz##div[id^="ad-leaderboard"]
 eurogamer.cz##.advert
 evropa2.cz##.ads
 livesport.cz###box-over-content-a
+login.szn.cz###ad
 lupa.cz,root.cz##.design-box--jobs
 lupa.cz,root.cz##.design-advert
 ewrc.cz###invelt
