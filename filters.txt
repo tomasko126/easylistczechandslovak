@@ -39,6 +39,7 @@
 ||a.csfd.cz^
 ||a.denik.cz^
 ||alkoholik.cz/zavislost/images/banners/
+||api-exponea.o2.cz^
 ||bannery.ccb.cz^
 ||bannery.navratdoreality.cz^
 ||bcastgw.livebox.cz/TA3_VOD_COM/
