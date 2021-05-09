@@ -49,7 +49,7 @@
 ||cviceni-doma.cz/images/*banner
 ||diit.cz/sites/default/files/_cdr_branding/branding.jpg
 ||digitalnitelevize.cz/obrazky/reklamni_odkazy/
-||drbna.cz/templates/drbna-2019/ads/modal.js$script
+||drbna.cz/templates/drbna-2019/modal/modal.js$script
 ||espoluprace.cz/affiliate/
 ||fdb.cz/ad/
 ||filmporno.cz/media/banners/
@@ -310,6 +310,7 @@ cnews.cz##div#td-outer-wrap > div.td-container
 cnn.iprima.cz##div[id^="sas"]
 computerworld.cz##.ad-obal
 czechcrunch.cz##div[id^="czech-"]
+czechcrunch.cz###js-branding
 databazeknih.cz##.r-main
 denik.cz##div[class^="reklama"]
 diit.cz,cdr.cz###pr-prace-blok-view
@@ -358,7 +359,7 @@ hcmotor.cz##div.container.partners
 heureka.cz,heureka.sk##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 heureka.cz,heureka.sk##div[class$="advert"]
-hrej.cz##.inzerce
+hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
 idnes.cz##[class*="r-main"]
@@ -400,7 +401,7 @@ modnipeklo.cz##[class*="r-main"]
 motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
-pestujemeweb.cz###lista
+new.csfd.cz,new.csfd.sk##.box-banner
 mrk.cz##.komerce
 naakup.cz###ad-selfpromo
 naakup.cz###footer-link
@@ -428,7 +429,6 @@ serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
-sledujufilmy.cz##.bottom-advert
 smartmania.cz##div[id$="-banner"]
 smartmania.cz###text-html-widget-8
 smartmania.cz###text-html-widget-24
@@ -497,8 +497,6 @@ mtbiker.sk##a[href*="trackBannerAd"]
 najserialy.to##.overlay
 najserialy.to##a[class^="tv-"]
 narodnablockovaloteria.tipos.sk###banners
-pcrevue.sk##.m_top_m_15.metro
-pcrevue.sk##.col_12_of_12.col > .row > .col_12_of_12.col > .widget
 pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
