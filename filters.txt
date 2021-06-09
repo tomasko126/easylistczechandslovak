@@ -376,7 +376,7 @@ kladenskelisty.cz##.rright
 kladenskelisty.cz##.tree
 kniha.cz##div[id^="banner"]
 krimi-plzen.cz##a[rel="sponsored"]
-krimi-plzen.cz##[class*="partner"]
+krimi-plzen.cz##[class*="pаrtner"]
 kupi.cz##.top_background
 lamer.cz,moda.cz##.square
 letemsvetemapplem.eu###branding_conts
