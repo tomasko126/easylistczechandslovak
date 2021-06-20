@@ -126,6 +126,7 @@
 ||rtvs.sk/bs/xml/vmap.xml
 ||sector.sk/a/
 ||ta3.com/api/v1/livebox/video/
+||zn.sk/galeria/
 !
 ! ---------- Czech 3rd party blocking rules ---------- !
 !
@@ -178,11 +179,13 @@
 ||r.i0.cz^$third-party
 ||reklamy.s3.amazonaws.com^$third-party
 ||rival.cz^$third-party
+||screechingstove.com^$third-party
 ||sda.online-systemy.cz^$third-party
 ||sda.un-42.com^$third-party
 ||storage.googleapis.com/adela-hb-platform.appspot.com/$third-party
 ||sys.starnets.io^$third-party
 ||trackad.cz^$third-party
+||viadata.store^$third-party
 ||xzone.cz^$third-party
 ||zombiezone.cz^$third-party
 ||zumail.cz^$third-party
@@ -309,6 +312,7 @@ cesky-jazyk.cz##.heurekaIframeHeader
 cnews.cz##div#td-outer-wrap > div.td-container
 cnn.iprima.cz##div[id^="sas"]
 computerworld.cz##.ad-obal
+csfd.cz,csfd.sk##.box-banner
 czechcrunch.cz##div[id^="czech-"]
 czechcrunch.cz###js-branding
 databazeknih.cz##.r-main
@@ -401,7 +405,6 @@ modnipeklo.cz##[class*="r-main"]
 motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
-new.csfd.cz,new.csfd.sk##.box-banner
 mrk.cz##.komerce
 naakup.cz###ad-selfpromo
 naakup.cz###footer-link
