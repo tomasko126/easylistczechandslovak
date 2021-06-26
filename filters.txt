@@ -466,6 +466,7 @@ warforum.cz##a[href="http://acu.cz"]
 warforum.cz##h3
 webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.banner
+zakonyprolidi.cz##.SkyLeft.Banner
 zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
 zing.cz##a[id^="rek_link"]
@@ -511,6 +512,7 @@ topky.sk##.addbox.avizo
 topky.sk##.box_advertisment.addbox.recycle
 topky.sk##.nastip
 topky.sk##.takeoverKlik
+touchit.sk##.gate-advert-wrap
 tv-program.sk##.dragobj > div:nth-of-type(2)
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
