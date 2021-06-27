@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 05/06/2020
+! Last change: 27/06/2021
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -118,7 +118,6 @@
 ||ourphorum.com/images/banner
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
-||priznaj.sk/images/*_banner.png
 ||recycle-static.zoznam.sk/*.html
 ||recycle-static.zoznam.sk/*.mp4
 ||recycle-static.zoznam.sk/*/*branding*.jpg
@@ -243,7 +242,6 @@ sluzebnik.cz#@##adverts
 !
 aktuality.sk#@#.adBanner
 dobre-recepty.sk#@##ad_skin
-centrumpravnejpomoci.sk#@#.wp_bannerize
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
@@ -506,7 +504,6 @@ mojevideo.sk###brnd
 mtbiker.sk##a[href*="trackBannerAd"]
 najserialy.to##.overlay
 najserialy.to##a[class^="tv-"]
-narodnablockovaloteria.tipos.sk###banners
 pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
