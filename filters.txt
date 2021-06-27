@@ -177,6 +177,7 @@
 ||pizzamodena.cz^$third-party
 ||productads.cz^$third-party
 ||r.i0.cz^$third-party
+||r2b2.cz^$third-party
 ||reklamy.s3.amazonaws.com^$third-party
 ||rival.cz^$third-party
 ||screechingstove.com^$third-party
