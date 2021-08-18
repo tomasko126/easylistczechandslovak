@@ -48,6 +48,8 @@ youradio.cz##+js(nofab)
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
 zive.cz##+js(acis, $, rdt)
+zdopravy.cz###AdblockInfoWrapperCard
+zdopravy.cz##+js(ra, class, #AdblockInfoWrapperContent, stay)
 
 @@||seznamzpravy.cz^$ghide
 *$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz
