@@ -36,6 +36,7 @@
 ||1.im.cz/ad/$image
 ||1.im.cz/ad/gemius.js
 ||a.blesk.cz^
+||a.centrum.cz^
 ||a.csfd.cz^
 ||a.denik.cz^
 ||alkoholik.cz/zavislost/images/banners/
