@@ -15,7 +15,7 @@
 !
 -reklama.
 .com/bannery/
-.cz/ads/$~object-subrequest
+.cz/ads/
 .cz/BAN/
 .cz/banners/
 .cz/bannery_
