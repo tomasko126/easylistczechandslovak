@@ -13,8 +13,7 @@ hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
 ||indian-tv.cz/uploads/$document
-indian-tv.cz,nerdfix.cz##a:matches-css-after(content: /r/i):upward(2) > *:nth-child(-n+2)
-indian-tv.cz,nerdfix.cz##a:has-text(/reklama/i):upward(2) > *:nth-child(-n+2)
+indian-tv.cz,nerdfix.cz##a:matches-css(background-image: /url/):matches-css(position: fixed):upward(2) > *:nth-child(-n+2)
 indian-tv.cz,nerdfix.cz##+js(aeld, click, location)
 kupi.cz##.top_bg_content:style(top: 0px !important;)
 lupa.cz##+js(nofab)
@@ -40,6 +39,7 @@ titulky.com##+js(ra, style, div[id^="head"])
 titulky.com##+js(set, showBanner600, true)
 titulky.com##+js(aeld, load)
 titulky.com##+js(aopr, onload)
+tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
@@ -47,9 +47,8 @@ youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
-zive.cz##+js(acis, $, rdt)
-zdopravy.cz###AdblockInfoWrapperCard
-zdopravy.cz##+js(ra, class, #AdblockInfoWrapperContent, stay)
+zive.cz##+js(acis, $, adb)
+zdopravy.cz##+js(aopr, atob)
 
 @@||seznamzpravy.cz^$ghide
 *$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz
