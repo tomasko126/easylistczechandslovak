@@ -8,7 +8,6 @@
 ! Expires: 1 days
 ! License: CC-BY-SA v4.0
 ! Email: tomastaro@adblock.sk
-! Forum: http://adblock.sk/forum
 ! Supported filters: https://adblockplus.org/en/filters
 !
 ! ---------- Czech & Slovak generic blocking rules ---------- !
@@ -103,8 +102,6 @@
 ||autobazar.eu/__branding/
 ||bannersector.sector.sk^
 ||bmwklub.sk/images/banners/
-||cucaj.sk/images/bannery/
-||cucaj.sk/Themes/cucaj3/images/bg/bg*.jpg
 ||flirtkontakt.sk/previews/banner*.jpg
 ||fony.sk/content/banners/
 ||fundingchoicesmessages.google.com$domain=hnonline.sk
@@ -185,7 +182,6 @@
 ||sda.online-systemy.cz^$third-party
 ||sda.un-42.com^$third-party
 ||storage.googleapis.com/adela-hb-platform.appspot.com/$third-party
-||sys.starnets.io^$third-party
 ||trackad.cz^$third-party
 ||viadata.store^$third-party
 ||xzone.cz^$third-party
@@ -301,7 +297,6 @@ autosport.cz##.side-bann-r
 autoweb.cz##.rklh
 autozine.cz##.banner2
 autozine.cz##.wrap + div:not(#footer)
-blog.cz###mainBanner
 businessworld.cz,computerworld.cz##.square_banner
 businessworld.cz,computerworld.cz,pcworld.cz###skyscraper
 busportal.cz###sideScrapperLayout
@@ -407,10 +402,8 @@ motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz##.komerce
-naakup.cz###ad-selfpromo
-naakup.cz###footer-link
 nasepenize.cz##.box-offer
-nasepraha7.cz###reklama_leaderboard
+nasepraha.cz##.npab
 onlajny.com###banner-left-pane
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
@@ -418,6 +411,7 @@ onlajny.com##div.bannerHolderZapasRight
 osel.cz##.right
 parabola.cz#?#h3:-abp-contains(/^Reklama$/)
 parabola.cz##div[style^="float:left;width:468px;"] + img[src^="data:image/gif;base64,"]
+pctuning.cz##[class*="sda-"]
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
 primat.cz##a[class^="levakolejroku"]
@@ -437,9 +431,7 @@ serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
-smartmania.cz##div[id$="-banner"]
-smartmania.cz###text-html-widget-8
-smartmania.cz###text-html-widget-24
+smartmania.cz##a[href*="track.smartmania.cz"]
 sms.cz###P_reklama_horni
 sms.cz##.reklamni_sdeleni
 sms.cz##.rs_reklama
@@ -491,7 +483,6 @@ bombuj.tv##[id*="rekl"]
 bombuj.tv###ad_banner
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
-cucaj.sk###interContainer
 dsl.sk##.header_info_text
 hnonline.sk##[id^="banner-"]
 hnonline.sk##.s-branding
@@ -529,8 +520,6 @@ csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
 dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
-pctuning.tyden.cz#?#div.moduletable:-abp-has(div[style*="reklama-bg"])
-pctuning.tyden.cz#?#div.moduletable:-abp-has(div[id^="AdTrack"])
 !
 ! ---------- uBlock Extended filters ---------- !
 !
