@@ -301,6 +301,8 @@ businessworld.cz,computerworld.cz##.square_banner
 businessworld.cz,computerworld.cz,pcworld.cz###skyscraper
 busportal.cz###sideScrapperLayout
 busportal.cz##div[id*="Banner"]
+cc.cz##div[id^="czech-"]
+cc.cz###js-branding
 ceskenoviny.cz##[id^="hyperbox"]
 ceskenoviny.cz##.box-offer
 cesky-jazyk.cz##.cornerbox
@@ -309,8 +311,6 @@ cnews.cz##div#td-outer-wrap > div.td-container
 cnn.iprima.cz##div[id^="sas"]
 computerworld.cz##.ad-obal
 csfd.cz,csfd.sk##.box-banner
-czechcrunch.cz##div[id^="czech-"]
-czechcrunch.cz###js-branding
 databazeknih.cz##.r-main
 denik.cz##div[class^="reklama"]
 diit.cz,cdr.cz###pr-prace-blok-view
