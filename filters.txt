@@ -116,10 +116,8 @@
 ||ourphorum.com/images/banner
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
-||recycle-static.zoznam.sk/*.html
+||recycle.zoznam.sk/get.fcgi
 ||recycle-static.zoznam.sk/*.mp4
-||recycle-static.zoznam.sk/*/*branding*.jpg
-||recycle-static.zoznam.sk/js/zoznam_branding.min.js
 ||rtvs.sk/bs/xml/vast.xml
 ||rtvs.sk/bs/xml/vmap.xml
 ||sector.sk/a/
@@ -199,8 +197,10 @@
 ||login.dognet.sk/accounts/default1$third-party
 ||netsuccess.sk^$third-party
 ||partner.mrtns.eu^$third-party
+||pohodo.sk^$third-party
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
+||robene.sk^$third-party
 ||zachej.sk^$third-party
 !
 ! ---------- Czech Whitelisted blocking rules ------------ !
@@ -231,7 +231,6 @@ sluzebnik.cz#@##adverts
 ! ---------- Slovak Whitelisted blocking rules ------------ !
 !
 @@||admedia.joj.sk/outstream/embed?iframe$subdocument,domain=sport.aktuality.sk
-@@||bombuj.tv^$generichide
 @@||pravopisne.sk^$generichide
 @@||sledujserialy.to/theme/js/ads.js
 !
@@ -479,11 +478,11 @@ best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
 best4you.sk##div[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bmwklub.sk##div[id^="ad"]
-bombuj.tv##[id*="rekl"]
-bombuj.tv###ad_banner
+cas.sk##div[class*="pohodoWidget"]
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
 dsl.sk##.header_info_text
+feminity.zoznam.sk##div[class*="pohodoWidget"]
 hnonline.sk##[id^="banner-"]
 hnonline.sk##.s-branding
 hnonline.sk##stripemark
