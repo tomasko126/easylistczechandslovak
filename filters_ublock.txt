@@ -14,7 +14,7 @@ hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
 ||indian-tv.cz/uploads/$document
-indian-tv.cz,nerdfix.cz##a:matches-css(background-image: /url/):matches-css(position: fixed):upward(2) > *:nth-child(-n+2)
+indian-tv.cz,nerdfix.cz##div:matches-css(background-image: /url/):matches-css(position: fixed):upward(2)
 indian-tv.cz,nerdfix.cz##+js(aeld, click, location)
 kupi.cz##.top_bg_content:style(top: 0px !important;)
 lupa.cz##+js(nofab)
@@ -48,7 +48,7 @@ youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
-zive.cz##+js(acis, $, adb)
+zive.cz##+js(acis, st, adb)
 zdopravy.cz##+js(aopr, atob)
 
 @@||seznamzpravy.cz^$ghide
