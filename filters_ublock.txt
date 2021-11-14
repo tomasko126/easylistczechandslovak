@@ -2,6 +2,7 @@ aktuality.sk##+js(aeld, load, ad)
 ||aktualne.cz^$csp=child-src *
 ||a.cele.cz^$3p
 cc.cz##+js(aopw, advads)
+cc.cz##+js(rc, has-branding, body)
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
 csfd.cz##+js(set, CSFD.Ads.adblock, falseFunc)
