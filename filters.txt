@@ -218,6 +218,7 @@
 @@||www.top-reklama.sk^$~third-party
 @@||warforum.cz/ads.js
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
+@@||zdopravy.cz^$generichide
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
@@ -407,6 +408,7 @@ onlajny.com###banner-left-pane
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
 onlajny.com##div.bannerHolderZapasRight
+onlymen.cz##pp
 osel.cz##.right
 parabola.cz#?#h3:-abp-contains(/^Reklama$/)
 parabola.cz##div[style^="float:left;width:468px;"] + img[src^="data:image/gif;base64,"]
