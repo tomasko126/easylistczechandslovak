@@ -80,11 +80,11 @@
 ||presentation.lmc.cz/aliance/
 ||prvnizpravy.cz/repository/banner
 ||reklama.warforum.cz^
+||report.sport.cz^
 ||romea.cz/images/servis/banner
 ||ronnie.cz/cache/bannery/
 ||ssp.seznam.cz^
 ||stat.novinky.cz^
-||stat.sport.cz^
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
 ||uschovna.cz/branding
@@ -198,6 +198,7 @@
 ||netsuccess.sk^$third-party
 ||partner.mrtns.eu^$third-party
 ||pohodo.sk^$third-party
+||predpredaj.zoznam.sk^$third-party,domain=cas.sk
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
 ||robene.sk^$third-party
@@ -214,6 +215,7 @@
 @@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||pise.cz^$generichide
 @@||pravopisne.cz^$generichide
+@@||sport.cz^$generichide
 @@||static.cz.prg.cmestatic.com/static/cz/shared/js/advert.js$domain=nova.cz
 @@||www.top-reklama.sk^$~third-party
 @@||warforum.cz/ads.js
@@ -481,6 +483,7 @@ best4you.sk##a[href="http://www.movieportal.eu"]
 best4you.sk##div[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bmwklub.sk##div[id^="ad"]
 cas.sk##div[class*="pohodoWidget"]
+cas.sk##a.predpredaj-black
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
 dsl.sk##.header_info_text
