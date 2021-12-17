@@ -473,6 +473,7 @@ zing.cz##a[id^="rek_link"]
 zing.cz##div.jeg_ad
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##div.sky-wrapper
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz###content-lead
+netconcert.cz##[class*="advertisement"]
 !
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
