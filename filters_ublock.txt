@@ -33,7 +33,9 @@ root.cz##+js(set, Gallery.prototype.setAdsForGallery, noopFunc)
 rychlost.cz,rychlost.sk##+js(nano-sib, ntmt_retest_btn_countdown_do, 1000)
 sauto.cz##+js(nano-stb, vendor-load, 3000)
 sector.sk,kinema.sk###frs:style(margin-top: 100px !important;)
-search.seznam.cz,clanky.seznam.cz##.Result--organic:not(:has([data-dot-data])):remove()
+seznam.cz##+js(aopw, Fisher)
+search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="sklik"]
+search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="advert"]
 sreality.cz##+js(nosiif, checkRods)
 super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
@@ -49,7 +51,7 @@ youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
-zive.cz##+js(acis, sf, adb)
+zive.cz##+js(acis, gd, adb)
 zdopravy.cz##+js(aopr, atob)
 zdopravy.cz##+js(aopr, adBlockEnabled)
 
