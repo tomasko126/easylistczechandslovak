@@ -466,6 +466,8 @@ warforum.cz##a[href="http://acu.cz"]
 warforum.cz##h3
 webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.banner
+www.seznam.cz##.ssp-advert__wrapper
+www.seznam.cz##li[data-analytics-entity-type="nativeSspAdvert"]
 zakonyprolidi.cz##.SkyLeft.Banner
 zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
