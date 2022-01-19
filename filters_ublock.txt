@@ -1,4 +1,3 @@
-aktuality.sk##+js(aeld, load, ad)
 ||aktualne.cz^$csp=child-src *
 ||a.cele.cz^$3p
 cc.cz##+js(aopw, advads)
