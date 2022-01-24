@@ -340,6 +340,7 @@ estav.cz##.topbanner
 euro.cz##div[id^="ad-leaderboard"]
 eurogamer.cz##.advert
 evropa2.cz##.ads
+karaoketexty.cz##[class*="ad_"]
 livesport.cz###box-over-content-a
 login.szn.cz###ad
 lupa.cz,root.cz##.design-box--jobs
