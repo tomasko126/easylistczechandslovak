@@ -27,6 +27,7 @@ mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.positions.init, noopFunc)
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
+parlamentnilisty.cz##+js(aopr, Ads)
 ||r.i0.cz^$3p,image,redirect=1x1.gif
 root.cz##+js(set, Gallery.prototype.setAdsForGallery, noopFunc)
 rychlost.cz,rychlost.sk##+js(nano-sib, ntmt_retest_btn_countdown_do, 1000)
