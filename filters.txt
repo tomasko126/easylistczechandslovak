@@ -441,6 +441,7 @@ sms.cz###P_reklama_horni
 sms.cz##.reklamni_sdeleni
 sms.cz##.rs_reklama
 sms.cz##[style="vertical-align:middle; text-align: left; width: 139px;"]
+sport.cz##p:has-text(/Rеklama/):upward(1)
 stesti.cz##.mabo.faa
 stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 super.cz##div.ad
