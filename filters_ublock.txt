@@ -9,7 +9,7 @@ csfd.cz##+js(acis, $, Ads)
 ctrlv.link##+js(aopr, adsAllowed)
 drbna.cz##+js(acis, $, fancyBanner)
 ||echo24.cz^$csp=child-src *
-games.tiscali.cz##+js(aeld, load, AdWrapper)
+games.tiscali.cz##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
 hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
