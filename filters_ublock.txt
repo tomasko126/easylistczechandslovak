@@ -26,6 +26,11 @@ mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.positions.init, noopFunc)
 ||mrezadosa.com^$3p
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
+novinky.cz##div[class^="h_fy h_fK h_fI h_fM h_ga"]
+novinky.cz##div[class^="o_i0"]
+novinky.cz##div[class^="h_al"]
+novinky.cz##div[class^="g_bW g_bT"]
+@@||h.imedia.cz/js/cmp2/scmp.js?auto_open=false$script,domain=www.seznam.cz
 onlajny.com##+js(acis, $, PartnerRedirectAction)
 parlamentnilisty.cz##+js(aopr, Ads)
 ||r.i0.cz^$3p,image,redirect=1x1.gif
