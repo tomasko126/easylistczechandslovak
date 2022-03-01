@@ -36,6 +36,8 @@ sector.sk,kinema.sk###frs:style(margin-top: 100px !important;)
 seznam.cz##+js(aopw, Fisher)
 search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="sklik"]
 search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="advert"]
+smartmania.cz##div[id^="topbanner-wrapper"]
+smartmania.cz##div[id^="leaderboard-wrapper"]
 sreality.cz##+js(nosiif, checkRods)
 super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
