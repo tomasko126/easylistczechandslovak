@@ -1,4 +1,3 @@
-aktuality.sk##+js(aeld, load, ad)
 ||aktualne.cz^$csp=child-src *
 ||a.cele.cz^$3p
 cc.cz##+js(aopw, advads)
@@ -10,7 +9,7 @@ csfd.cz##+js(acis, $, Ads)
 ctrlv.link##+js(aopr, adsAllowed)
 drbna.cz##+js(acis, $, fancyBanner)
 ||echo24.cz^$csp=child-src *
-games.tiscali.cz##+js(aeld, load, AdWrapper)
+games.tiscali.cz##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
 hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
@@ -28,6 +27,7 @@ mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.positions.init, noopFunc)
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
+parlamentnilisty.cz##+js(aopr, Ads)
 ||r.i0.cz^$3p,image,redirect=1x1.gif
 root.cz##+js(set, Gallery.prototype.setAdsForGallery, noopFunc)
 rychlost.cz,rychlost.sk##+js(nano-sib, ntmt_retest_btn_countdown_do, 1000)
@@ -56,16 +56,18 @@ zdopravy.cz##+js(aopr, atob)
 zdopravy.cz##+js(aopr, adBlockEnabled)
 
 @@||seznamzpravy.cz^$ghide
-*$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz
+*$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz|sport.cz
+*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz
 !#if env_firefox
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz,badfilter
-@@.png$xhr,domain=seznamzpravy.cz
+*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz,badfilter
+@@.png$xhr,domain=seznamzpravy.cz|sport.cz
 !#endif
-seznamzpravy.cz##+js(nosiif, checkRods)
+seznamzpravy.cz,sport.cz##+js(nosiif, checkRods)
 
 ! Aborting several different versions of adbDetect
 idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##+js(acis, atob)
 idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##+js(acis, String.fromCharCode)
 idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##+js(aeld, beforeunload, ())
+idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##+js(acis, document.createElement, adbDetect)
 idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##+js(cookie-remover, /^_?adb/)
+! idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##^script:has-text(adbDetect)
