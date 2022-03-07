@@ -470,7 +470,6 @@ webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.banner
 www.seznam.cz##div.ogm-sticky-repeater
 www.seznam.cz##div.ad-exclusive
-www.seznam.cz##li[data-analytics-entity-type="nativeSspAdvert"]
 www.seznam.cz#?#div.dragging-enabled:-abp-has(div.gadget--reklama)
 zakonyprolidi.cz##.SkyLeft.Banner
 zena-in.cz##div.main-top
