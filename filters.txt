@@ -468,6 +468,9 @@ warforum.cz##a[href="http://acu.cz"]
 warforum.cz##h3
 webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.banner
+www.sbazar.cz##.c-im-advertisement.c-im-advertisement--adFull
+www.sbazar.cz##.c-im-bottom--classic.c-im-bottom--adFull.c-im-bottom
+www.sbazar.cz##.c-im-side
 www.seznam.cz##div.ogm-sticky-repeater
 www.seznam.cz##div.ad-exclusive
 www.seznam.cz#?#div.dragging-enabled:-abp-has(div.gadget--reklama)
