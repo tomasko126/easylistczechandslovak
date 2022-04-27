@@ -311,7 +311,7 @@ ceskenoviny.cz##.box-offer
 cesky-jazyk.cz##.cornerbox
 cesky-jazyk.cz##.heurekaIframeHeader
 cnews.cz##div#td-outer-wrap > div.td-container
-cnn.iprima.cz##div[id^="sas"]
+cnn.iprima.cz##.mone_box
 computerworld.cz##.ad-obal
 csfd.cz,csfd.sk##.box-banner
 databazeknih.cz##.r-main
@@ -344,7 +344,7 @@ karaoketexty.cz##[class*="ad_"]
 livesport.cz###box-over-content-a
 login.szn.cz###ad
 lupa.cz,root.cz##.design-box--jobs
-lupa.cz,root.cz##.design-advert
+lupa.cz,root.cz##.design-advert-placeholder
 ewrc.cz###invelt
 extra.cz##div.klik--leaderboard
 fdb.cz###blackfooter
