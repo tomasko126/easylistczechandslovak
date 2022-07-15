@@ -27,6 +27,8 @@ navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
 parlamentnilisty.cz##+js(aopr, Ads)
+podcasty.seznam.cz##+js(set, sssp.config, noopFunc)
+podcasty.seznam.cz##+js(set, sssp, {})
 ||r.i0.cz^$3p,image,redirect=1x1.gif
 root.cz##+js(set, Gallery.prototype.setAdsForGallery, noopFunc)
 rychlost.cz,rychlost.sk##+js(nano-sib, ntmt_retest_btn_countdown_do, 1000)
