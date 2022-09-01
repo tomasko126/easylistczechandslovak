@@ -43,6 +43,7 @@
 ||bannery.ccb.cz^
 ||bannery.navratdoreality.cz^
 ||bcastgw.livebox.cz/TA3_VOD_COM/
+||c.seznam.cz^
 ||cdr.cz/sites/default/files/_cdr_branding/branding.jpg
 ||cdn.cpex.cz^
 ||cdn.dopc.cz/adb$xmlhttprequest
