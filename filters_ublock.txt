@@ -2,9 +2,7 @@
 ||a.cele.cz^$3p
 cc.cz##+js(aopr, App.branding)
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
-csfd.cz###page-wrapper:style(border-top-width: 0px !important;)
-csfd.cz##+js(set, CSFD.Ads.adblock, falseFunc)
-csfd.cz##+js(acis, $, Ads)
+csfd.cz,csfd.sk##div.body:style(padding-top: 0 !important;)
 ctrlv.link##+js(aopr, adsAllowed)
 drbna.cz##+js(acis, $, fancyBanner)
 ||echo24.cz^$csp=child-src *
@@ -59,13 +57,14 @@ zdopravy.cz##+js(aopr, adBlockEnabled)
 @@||sbazar.cz^$ghide
 @@||seznam.cz^$ghide
 @@||seznamzpravy.cz^$ghide
-*$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz
+*$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz
+*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz
 !#if env_firefox
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz,badfilter
-@@.png$xhr,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz
+*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz,badfilter
+@@.png$xhr,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz
 !#endif
-seznamzpravy.cz,sport.cz,seznam.cz,sbazar.cz##+js(nosiif, checkRods)
+seznamzpravy.cz,novinky.cz,seznam.cz,super.cz,stream.cz##+js(aeld, message, fishing)
+super.cz##+js(aeld, message, _0x)
 
 ! Aborting several different versions of adbDetect
 idnes.cz,novinky.cz,aktualne.cz,reflex.cz,zive.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,osobnosti.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz##+js(aeld, beforeunload, ())
