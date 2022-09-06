@@ -388,7 +388,7 @@ kniha.cz##div[id^="banner"]
 krimi-plzen.cz##a[rel="sponsored"]
 krimi-plzen.cz##[class*="pаrtner"]
 kupi.cz##.top_background
-kurzy.cz###adv_content
+kurzy.cz##[id^="adv_"]
 kurzy.cz###z990x200
 kurzy.cz###zr300x600
 kurzy.cz##iframe[src^="https://img.kurzy.cz/og"]
