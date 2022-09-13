@@ -213,6 +213,7 @@
 ! ---------- Czech Whitelisted blocking rules ------------ !
 !
 @@||*-reklama.cz
+@@||www.bezrealitky.*/_next/data/*/advert*.json
 @@||bmw-club.cz^$generichide
 @@||decko.ceskatelevize.cz/cms/layouts/js/analytics.js$script,domain=decko.ceskatelevize.cz
 @@||heureka.*/crossdomain.xml
