@@ -99,6 +99,9 @@
 ||wesa.cz/banner/
 ||zkouknito.cz/js/js.htmlad.js
 ||zvukarina.cz/forum/images/ostatni/
+/www.novinky.cz/.*/sklik/$domain=www.novinky.cz
+/www.novinky.cz/.*/imp\?/$domain=www.novinky.cz
+/www.novinky.cz/.*utm_campaign.*$domain=www.novinky.cz
 !
 ! ---------- Slovak 1st party blocking rules ---------- !
 !
