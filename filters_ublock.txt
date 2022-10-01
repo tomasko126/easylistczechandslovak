@@ -3,6 +3,7 @@
 cc.cz##+js(aopr, App.branding)
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz,csfd.sk##div.body:style(padding-top: 0 !important;)
+csfd.cz,csfd.sk##+js(acis, $, Ads)
 ctrlv.link##+js(aopr, adsAllowed)
 drbna.cz##+js(acis, $, fancyBanner)
 ||echo24.cz^$csp=child-src *
