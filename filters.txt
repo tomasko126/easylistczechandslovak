@@ -195,6 +195,7 @@
 ! ---------- Slovak 3rd party blocking rules ---------- !
 !
 ||ban.tipsport.sk^$third-party
+||firebasestorage.googleapis.com/v0/b/tivio-dev.appspot.com/*vast*.xml$third-party,domain=garaz.tv
 ||heureka.sk^$third-party
 ||imr.sk^$third-party
 ||inclick.sk^$third-party
