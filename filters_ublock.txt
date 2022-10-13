@@ -39,10 +39,7 @@ search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="advert"]
 sreality.cz##+js(nosiif, checkRods)
 super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
-titulky.com##+js(ra, style, div[id^="head"])
-titulky.com##+js(set, showBanner600, true)
-titulky.com##+js(aeld, load)
-titulky.com##+js(aopr, onload)
+titulky.com##+js(set, showBanner700, true)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
