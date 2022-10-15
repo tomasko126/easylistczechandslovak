@@ -530,6 +530,7 @@ topky.sk##.box_advertisment.addbox.recycle
 topky.sk##.nastip
 topky.sk##.takeoverKlik
 touchit.sk##.gate-advert-wrap
+tvtv.sk##.ad
 tv-program.sk##.dragobj > div:nth-of-type(2)
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
@@ -543,6 +544,7 @@ csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
 dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
+tvtv.sk#?#.content-item:-abp-has(.header a[href^="/reklama/"])
 !
 ! ---------- uBlock Extended filters ---------- !
 !
