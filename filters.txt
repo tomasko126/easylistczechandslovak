@@ -126,6 +126,7 @@
 ||rtvs.sk/bs/xml/vast.xml
 ||rtvs.sk/bs/xml/vmap.xml
 ||sector.sk/a/
+||serialy.io/theme/json/episode.ad.etarget.php
 ||ta3.com/api/v1/livebox/video/
 ||zn.sk/galeria/
 !
@@ -522,6 +523,7 @@ pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
 sector.sk##iframe[data-src^="/default-ad"]
+serialy.io##div[id][style="position: absolute; top: 0; left: 0; width: 100%; height: 380px; text-align: center;"]
 sktorrent.eu##div[style*="position:absolute;"]
 topky.sk###top-offers-slider
 topky.sk##.ad
