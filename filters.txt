@@ -462,8 +462,7 @@ super.cz##a[data-dot="hp_pozadi"]
 super.cz##a[data-dot="c_pozadi"]
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
-titulky.com###bnx300x300
-titulky.com##A[onclick^="openAd"]
+titulky.com###martevax-main
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
