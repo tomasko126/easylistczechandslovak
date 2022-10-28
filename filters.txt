@@ -221,6 +221,7 @@
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
 @@||iboys.cz/advert-list.php
+@@||netusers.cz/js/$script,domain=titulky.com
 @@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg$image
 @@||pise.cz^$generichide
@@ -462,7 +463,7 @@ super.cz##a[data-dot="hp_pozadi"]
 super.cz##a[data-dot="c_pozadi"]
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
-titulky.com###martevax-main
+titulky.com###pagefoot
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
