@@ -109,7 +109,7 @@
 ||bmwklub.sk/images/banners/
 ||flirtkontakt.sk/previews/banner*.jpg
 ||fony.sk/content/banners/
-||fundingchoicesmessages.google.com$domain=hnonline.sk
+||hnonline.sk/templates/site/js/ad-*.json
 ||hojko.com/images/banner*.gif
 ||image.sector.sk^
 ||img.zoznam.sk/adimages/
@@ -196,6 +196,8 @@
 ! ---------- Slovak 3rd party blocking rules ---------- !
 !
 ||ban.tipsport.sk^$third-party
+||buy-eu.piano.io/checkout/template/*templateId=OT2QMX5ABN93$third-party,domain=hnonline.sk
+||buy-eu.piano.io/checkout/offer/*templateId=OTGTFXZ7JNPY$third-party,domain=hnonline.sk
 ||firebasestorage.googleapis.com/v0/b/tivio-dev.appspot.com/*vast*.xml$third-party,domain=garaz.tv
 ||heureka.sk^$third-party
 ||imr.sk^$third-party
@@ -210,6 +212,7 @@
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
 ||robene.sk^$third-party
+||ticketportal.sk/carousels/$third-party
 ||turbo.web2media.sk$third-party
 ||zachej.sk^$third-party
 !
@@ -506,10 +509,8 @@ centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
-hnonline.sk##[id^="banner-"]
-hnonline.sk##.s-branding
+hnonline.sk##.container--ticketportal
 hnonline.sk##stripemark
-hnonline.sk##div[style*="Roboto"][style*="fixed"]
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
