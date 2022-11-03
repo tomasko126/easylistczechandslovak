@@ -389,6 +389,9 @@ kladenskelisty.cz##.rleft
 kladenskelisty.cz##.rright
 kladenskelisty.cz##.tree
 kniha.cz##div[id^="banner"]
+konzolista.cz##.ad
+konzolista.cz##.v-card.mb-6
+konzolista.cz##.v-card--link:-abp-has(.ad)
 krimi-plzen.cz##a[rel="sponsored"]
 krimi-plzen.cz##[class*="pаrtner"]
 kupi.cz##.top_background
