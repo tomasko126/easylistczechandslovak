@@ -393,7 +393,7 @@ konzolista.cz##.ad
 konzolista.cz##.v-card.mb-6
 konzolista.cz##.v-card--link:-abp-has(.ad)
 krimi-plzen.cz##a[rel="sponsored"]
-krimi-plzen.cz##[class*="pаrtner"]
+krimi-plzen.cz##[class*="partnеr"]
 kupi.cz##.top_background
 kurzy.cz##[id^="adv_"]
 kurzy.cz###z990x200
