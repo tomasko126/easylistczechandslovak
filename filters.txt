@@ -456,6 +456,9 @@ serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
 seznamzpravy.cz##[data-adtrackingtemporaryurl*="https"]
 seznamzpravy.cz##p:has-text("Rekl̩ama")
+seznamzpravy.cz##div[data-dot*="-promo"]
+seznamzpravy.cz##a.html5__link
+seznamzpravy.cz##div.combi__ad
 smartmania.cz##a[href*="track.smartmania.cz"]
 sms.cz###P_reklama_horni
 sms.cz##.reklamni_sdeleni
