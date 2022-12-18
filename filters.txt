@@ -454,6 +454,8 @@ serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
+seznamzpravy.cz##[data-adtrackingtemporaryurl*="https"]
+seznamzpravy.cz##p:has-text("Rekl̩ama")
 smartmania.cz##a[href*="track.smartmania.cz"]
 sms.cz###P_reklama_horni
 sms.cz##.reklamni_sdeleni
