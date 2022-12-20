@@ -528,6 +528,7 @@ sector.sk,kinema.sk##[id^="back"][onclick]
 sector.sk##iframe[data-src^="/default-ad"]
 serialy.io##div[id][style="position: absolute; top: 0; left: 0; width: 100%; height: 380px; text-align: center;"]
 sktorrent.eu##div[style*="position:absolute;"]
+slovnik.aktuality.sk##.desktop-wrapper:has([id^="div-gpt-ad"])
 topky.sk###top-offers-slider
 topky.sk##.ad
 topky.sk##.addbox.avizo
