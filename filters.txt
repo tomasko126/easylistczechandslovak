@@ -453,6 +453,9 @@ sauto.cz###pvMid
 serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
+seznam.cz##.gadget--zbozi
+seznam.cz##div[data-dot*="gadgetCommercial"]
+seznam.cz##div[style*="max-height:"]
 seznamzpravy.cz,prozeny.cz,garaz.cz##div.ogm-branding > div > div
 smartmania.cz##a[href*="track.smartmania.cz"]
 sms.cz###P_reklama_horni
