@@ -86,6 +86,7 @@
 ||report.sport.cz^
 ||romea.cz/images/servis/banner
 ||ronnie.cz/cache/bannery/
+||sbazar.cz/*/v1/xhr
 ||sktorrent.eu/torrent/interstitial.js
 ||ssp.seznam.cz^
 ||stat.novinky.cz^
@@ -239,6 +240,7 @@ denik.cz#@#.ads-box
 denik.cz#@#.reklama-box
 jaguar-club.net,mazdaclub.cz,nissanclub.cz#@#.reklama
 novinky.cz#@#.g_ad
+www.parabola.cz#@#.rklm
 skrblik.cz#@##adsense
 sluzebnik.cz#@##adverts
 !
