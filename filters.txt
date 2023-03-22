@@ -383,6 +383,7 @@ idos.idnes.cz##div.advert-leader-board-container
 in-pocasi.cz##.banner
 info.cz##.gallery-advertisement
 info.cz###topSite
+ireceptar.cz##.banner
 itnetwork.cz##.reklama-background
 jaknaletenky.cz###social
 kaloricketabulky.cz##.bannLead
