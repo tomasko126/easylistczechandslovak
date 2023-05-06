@@ -545,7 +545,8 @@ tvtv.sk##.ad
 tv-program.sk##.dragobj > div:nth-of-type(2)
 tv-program.sk##.stn.stns > a[target="_blank"]
 tv-program.sk##.stn.stnu > a[target="_blank"]
-vranovske.sk##div[class*="item"]:has(>div[class*="advertisement"])
+vranovske.sk##div[class^="item h2"]
+vranovske.sk##div[class="advertisement-list-component"]
 zmeskanyhovor.com##.native-ads
 zoznam.sk##a[href^="https://boxu.sk"]
 !
