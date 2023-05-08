@@ -45,6 +45,7 @@ uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
 vranovske.sk##^script:has-text(stopPrntScr)
 vranovske.sk##style:has-text(::selection):remove()
+vranovske.sk##div[class="advertisement-item-container"]:style(visibility: hidden !important)
 youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
