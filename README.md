@@ -8,7 +8,3 @@ https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filte
  - filters supported in major ad blockers
  - ABP specific filters
  - uBlock specific filters (included from `filters_ublock.txt`)
-
-## filters_ie.tpl
-https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters_ie.tpl
- - Tracking Protection List, which can be used in Internet Explorer as ad filter list
