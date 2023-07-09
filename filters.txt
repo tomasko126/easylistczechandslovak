@@ -211,6 +211,7 @@
 ||productads.sk^$third-party
 ||recycle-static.zoznam.sk^$third-party
 ||robene.sk^$third-party
+||storage.googleapis.com/tivio-production.appspot.com/ads/$third-party
 ||turbo.web2media.sk$third-party
 ||zachej.sk^$third-party
 !
