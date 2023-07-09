@@ -50,7 +50,7 @@ youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
-zive.cz##+js(aost, $.cookie, inlineScript)
+zive.cz##+js(acis, window.addEventListener, :visible)
 zdopravy.cz##+js(aopr, atob)
 zdopravy.cz##+js(aopr, adBlockEnabled)
 
