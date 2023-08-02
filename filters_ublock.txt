@@ -59,11 +59,7 @@ zdopravy.cz##+js(aopr, adBlockEnabled)
 @@||seznamzpravy.cz^$ghide
 @@||novinky.cz^$ghide
 *$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz
-!#if env_firefox
-*$xhr,redirect-rule=nooptext,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz,badfilter
 @@.png$xhr,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz
-!#endif
 seznamzpravy.cz,novinky.cz,seznam.cz,super.cz,stream.cz,novinky.cz##+js(aeld, message, fishing)
 super.cz##+js(aeld, message, _0x)
 
