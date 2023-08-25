@@ -405,10 +405,11 @@ kurzy.cz###zr300x600
 kurzy.cz##iframe[src^="https://img.kurzy.cz/og"]
 kurzy.cz##a[href*="utm_campaign=kurzy_"]
 lamer.cz,moda.cz##.square
-letemsvetemapplem.eu###branding_conts
 letemsvetemapplem.eu##.headerbanner
+letemsvetemapplem.eu##.lsads-banner
 letemsvetemapplem.eu###floatad
 letemsvetemapplem.eu###headertopbanner
+letemsvetemapplem.eu##a[id^="branding_"]
 libise.eu###aa1
 lidovky.cz##[class*="r-main"]
 lidovky.cz##div[id^="hyper"]
