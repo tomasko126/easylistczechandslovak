@@ -528,6 +528,7 @@ mojevideo.sk###brnd
 mtbiker.sk##a[href*="trackBannerAd"]
 najserialy.to##.overlay
 najserialy.to##a[class^="tv-"]
+novinky.cz##.g_eh
 pokec.azet.sk##.c_banner300x300
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
