@@ -111,6 +111,7 @@
 ||flirtkontakt.sk/previews/banner*.jpg
 ||fony.sk/content/banners/
 ||fundingchoicesmessages.google.com$domain=hnonline.sk
+||funnyburger.sk/js/anti-theft-system.js$script
 ||hojko.com/images/banner*.gif
 ||image.sector.sk^
 ||img.zoznam.sk/adimages/
