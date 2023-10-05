@@ -21,6 +21,7 @@ body:
         - The filter is not effective anymore
         - The filter causes weird behavior on the site
         - The filter removes elements which should not be removed
+        - Other
     validations:
       required: true
   - type: textarea
