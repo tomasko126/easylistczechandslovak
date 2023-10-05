@@ -329,7 +329,7 @@ cnews.cz##div#td-outer-wrap > div.td-container
 cnn.iprima.cz##.mone_box
 computerworld.cz##.ad-obal
 csfd.cz,csfd.sk##.box-banner
-databazeknih.cz##.r-main
+databazeknih.cz##div[id^="ad_"]
 denik.cz##div[class^="reklama"]
 diit.cz,cdr.cz###pr-prace-blok-view
 diit.cz,cdr.cz##div[class*="openx-async"]
