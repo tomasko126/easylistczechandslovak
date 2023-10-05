@@ -1,0 +1,28 @@
+name: Request a new filter
+description: Request a new filter to be added.
+labels: ["request"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before requesting a new filter, please search existing requests: https://github.com/tomasko126/easylistczechandslovak/issues"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear description of which elements should be hidden.
+    validations:
+      required: true
+  - type: textarea
+    id: pages
+    attributes:
+      label: Pages where these elements appear
+      description: Provide one or more pages where the elements you want hidden appear.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/videos
+      description: Provide a screenshot and/or video showing the elements with context around them.
+    validations:
+      required: false
