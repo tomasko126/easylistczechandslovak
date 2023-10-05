@@ -41,6 +41,6 @@ body:
     id: screenshots
     attributes:
       label: Screenshots/videos
-      description: Provide a screenshot and/or video showing the issue with context around them.
+      description: Provide a screenshot and/or video showing the issue with context around it.
     validations:
       required: false
