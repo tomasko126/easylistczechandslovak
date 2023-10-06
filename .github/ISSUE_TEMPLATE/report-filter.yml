@@ -1,0 +1,47 @@
+name: Report a problem with existing filter
+description: Report issues with filters that already exist.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before reporting an issue with a filter, please search existing reports: https://github.com/tomasko126/easylistczechandslovak/issues"
+  - type: textarea
+    id: filter
+    attributes:
+      label: The filter you are reporting
+      description: Provide the filter you are reporting (the filter itself or a link to it)
+    validations:
+      required: true
+  - type: dropdown
+    id: issue
+    attributes:
+      label: The issue
+      description: Choose what the issue is
+      options:
+        - The filter is not effective anymore
+        - The filter causes weird behavior on the site
+        - The filter removes elements which should not be removed
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue if it is not obvious.
+    validations:
+      required: false
+  - type: textarea
+    id: pages
+    attributes:
+      label: Pages where this issue appears
+      description: Provide one or more pages where the issue you are experiencing occurs on.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/videos
+      description: Provide a screenshot and/or video showing the issue with context around it.
+    validations:
+      required: false
