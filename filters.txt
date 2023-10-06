@@ -84,6 +84,7 @@
 ||reklama.warforum.cz^
 ||report.seznamzpravy.cz^
 ||report.sport.cz^
+||rfapi.digicon.cz/img/listovacky-cross/enigmaplus.cz.js$script
 ||romea.cz/images/servis/banner
 ||ronnie.cz/cache/bannery/
 ||sbazar.cz/*/v1/xhr
@@ -350,7 +351,6 @@ edna.cz##.leaderboard
 edna.cz##.skyscraper
 edna.cz##.banner
 emimino.cz###r-leaderboardhp
-enigmaplus.cz###listovacka
 epochaplus.cz##.rf-branding
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
