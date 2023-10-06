@@ -1,4 +1,4 @@
-name: Report a problem with existing filter
+name: Report a problem with an existing filter
 description: Report issues with filters that already exist.
 labels: ["bug"]
 body:
