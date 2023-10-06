@@ -397,7 +397,6 @@ kladenskelisty.cz##.tree
 kniha.cz##div[id^="banner"]
 konzolista.cz##.ad
 konzolista.cz##.v-card.mb-6
-konzolista.cz#?#.v-card--link:-abp-has(.ad)
 krimi-plzen.cz##a[rel="sponsored"]
 krimi-plzen.cz##[class*="partnеr"]
 kupi.cz##.top_background
@@ -426,7 +425,6 @@ menicka.cz##.header_banner
 meteoprog.cz##div[id^="mp_banner_"]
 mladypodnikatel.cz##.scroll_banner
 modnipeklo.cz##[class*="r-main"]
-motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz##.komerce
@@ -438,7 +436,6 @@ onlajny.com###sportObchodBanner
 onlajny.com##div.bannerHolderZapasRight
 onlymen.cz##pp
 osel.cz##.right
-parabola.cz#?#h3:-abp-contains(/^Reklama$/)
 parabola.cz##div[style^="float:left;width:468px;"] + img[src^="data:image/gif;base64,"]
 pctuning.cz##[class*="sda-"]
 pravidla.cz##.advtick
@@ -495,7 +492,6 @@ webshare.cz##[class^="ws-banner-"]
 webtrh.cz##.banner
 www.seznam.cz##div.ogm-sticky-repeater
 www.seznam.cz##div.ad-exclusive
-www.seznam.cz#?#div.dragging-enabled:-abp-has(div.gadget--reklama)
 zakonyprolidi.cz##.SkyLeft.Banner
 zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
@@ -536,7 +532,6 @@ sector.sk,kinema.sk##[id^="back"][onclick]
 sector.sk##iframe[data-src^="/default-ad"]
 serialy.io##div[id][style="position: absolute; top: 0; left: 0; width: 100%; height: 380px; text-align: center;"]
 sktorrent.eu##div[style*="position:absolute;"]
-slovnik.aktuality.sk##.desktop-wrapper:has([id^="div-gpt-ad"])
 sme.sk##.artemis-ad-position
 topky.sk###top-offers-slider
 topky.sk##.ad
@@ -560,8 +555,12 @@ csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
 dotekomanie.cz#?#div.box:-abp-contains(/^reklama/i)
+konzolista.cz#?#.v-card--link:-abp-has(.ad)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
+motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
+parabola.cz#?#h3:-abp-contains(/^Reklama$/)
 tvtv.sk#?#.content-item:-abp-has(.header a[href^="/reklama/"])
+www.seznam.cz#?#div.dragging-enabled:-abp-has(div.gadget--reklama)
 !
 ! ---------- uBlock Extended filters ---------- !
 !
