@@ -44,6 +44,7 @@ tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
+vtn-vranov.sk##.widget:has(img[src*="/ads/"])
 vranovske.sk##^script:has-text(stopPrntScr)
 vranovske.sk##style:has-text(::selection):remove()
 vranovske.sk##div[class="advertisement-item-container"]:style(visibility: hidden !important;)
