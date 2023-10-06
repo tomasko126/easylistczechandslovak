@@ -124,6 +124,8 @@
 ||ourphorum.com/images/banner
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
+||radia.sk/_uputavky/$subdocument
+||radia.sk/scripts/ads.js
 ||recycle.zoznam.sk/get.fcgi
 ||recycle-static.zoznam.sk/*.mp4
 ||rtvs.sk/bs/xml/vast.xml
