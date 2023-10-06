@@ -348,6 +348,8 @@ edna.cz##.leaderboard
 edna.cz##.skyscraper
 edna.cz##.banner
 emimino.cz###r-leaderboardhp
+enigmaplus.cz###listovacka
+epochaplus.cz##.rf-branding
 esemes.cz###fancybox-overlay
 esemes.cz###h_part_right
 esemes.cz,warforum.cz###t-content
