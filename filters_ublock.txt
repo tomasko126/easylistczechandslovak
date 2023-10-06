@@ -22,6 +22,7 @@ media.joj.sk##+js(set, Rmp.params.genderSelectionUrl, undefined)
 mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.adBlock.check, noopFunc)
 mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.positions.init, noopFunc)
 ||mrezadosa.com^$3p
+msmt.cz##.bcc:has(.banners)
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
