@@ -556,6 +556,10 @@ zoznam.sk##a[href^="https://boxu.sk"]
 !
 ! ---------- ABP Extended filters ---------- !
 !
+aboutyou.sk#?#div:-abp-has(>a:-abp-has(>section[data-testid="BannerImage"]))
+aboutyou.sk#?#div:-abp-has(>section[data-testid="teaserCarousel"])
+aboutyou.sk#?#ul > div:-abp-has(>a[data-testid^="outfit"])
+aboutyou.sk#?#ul > div:-abp-has(>a[data-testid="imageTile"])
 csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
