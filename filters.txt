@@ -513,6 +513,10 @@ best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
 best4you.sk##div[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bmwklub.sk##div[id^="ad"]
+brainee.hnonline.sk##.container--break-branding
+brainee.hnonline.sk##.container--ticketportal
+brainee.hnonline.sk##.item__ad-center
+brainee.hnonline.sk##.item--socials
 cas.sk##div[class*="pohodoWidget"]
 cas.sk##a.predpredaj-black
 centrum.sk##.banner
@@ -561,6 +565,8 @@ aboutyou.sk#?#div:-abp-has(>a:-abp-has(>section[data-testid="BannerImage"]))
 aboutyou.sk#?#div:-abp-has(>section[data-testid="teaserCarousel"])
 aboutyou.sk#?#ul > div:-abp-has(>a[data-testid^="outfit"])
 aboutyou.sk#?#ul > div:-abp-has(>a[data-testid="imageTile"])
+brainee.hnonline.sk#?#.container--break:-abp-has(.ad--align)
+brainee.hnonline.sk#?#div[class^="position_"]:-abp-has(.ad--align)
 csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
