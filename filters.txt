@@ -529,6 +529,8 @@ hnonline.sk##[id^="banner-"]
 hnonline.sk##.s-branding
 hnonline.sk##stripemark
 hnonline.sk##div[style*="Roboto"][style*="fixed"]
+kosicednes.sk##header > div
+kosicednes.sk##.newsletter
 michalovskespravy.sk###footer
 michalovskespravy.sk###headerSlideContent1
 michalovskespravy.sk###ocko
