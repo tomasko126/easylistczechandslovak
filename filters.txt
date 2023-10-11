@@ -523,6 +523,8 @@ cas.sk##div[class*="pohodoWidget"]
 cas.sk##a.predpredaj-black
 centrum.sk##.banner
 centrum.sk##.h2.grad2.kupons_games
+cp.hnonline.sk##.advert
+cp.hnonline.sk##.banner
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
 hnonline.sk##[id^="banner-"]
