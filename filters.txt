@@ -261,6 +261,7 @@ sluzebnik.cz#@##adverts
 !
 aktuality.sk#@#.adBanner
 dobre-recepty.sk#@##ad_skin
+vranovske.sk#@#.advertising-content
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
