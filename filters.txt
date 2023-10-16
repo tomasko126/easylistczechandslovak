@@ -250,6 +250,7 @@ novinky.cz#@#.g_ad
 www.parabola.cz#@#.rklm
 skrblik.cz#@##adsense
 sluzebnik.cz#@##adverts
+zive.cz#@#.rklm
 !
 ! ---------- Slovak Whitelisted blocking rules ------------ !
 !
