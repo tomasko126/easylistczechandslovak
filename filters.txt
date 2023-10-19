@@ -511,6 +511,9 @@ netconcert.cz##[class*="advertisement"]
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
 autobazar.eu##.bannero2
+autozurnal.com###modal-container
+autozurnal.com##.modal-backdrop
+autozurnal.com##div[id^="branding"]
 behame.sk##div[class^="banner_box"]
 best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
