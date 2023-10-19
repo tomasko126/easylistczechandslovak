@@ -1,5 +1,6 @@
 ||aktualne.cz^$csp=child-src *
 ||a.cele.cz^$3p
+www.autozurnal.com##div[id^="branding"]
 cc.cz##+js(aopr, App.branding)
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz,csfd.sk##div.body:style(padding-top: 0 !important;)
