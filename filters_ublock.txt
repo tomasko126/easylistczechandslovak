@@ -45,6 +45,7 @@ super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
+ubian.sk##aside.connection-results-ad
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
 vranovske.sk##^script:has-text(stopPrntScr)
