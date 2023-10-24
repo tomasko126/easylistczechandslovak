@@ -1,7 +1,7 @@
 EasyList Czech and Slovak
 ======================
 
-EasyList Czech and Slovak is official filter list for uBlock Origin, AdBlock, Adblock Plus and other ad blockers. If you would like to add this filter list to your ad blocking application/extension, just subscribe to one of the following:
+EasyList Czech and Slovak is an official filter list for uBlock Origin, AdBlock, Adblock Plus and other ad blockers out there. If you would like to add this filter list to your ad blocking application/extension, just subscribe to one of the following:
 
 ## filters.txt
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
