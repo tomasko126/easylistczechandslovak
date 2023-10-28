@@ -438,6 +438,7 @@ motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz##.komerce
 nasepenize.cz##.box-offer
 nasepraha.cz##.npab
+navratdoreality.cz##.box-responsive
 onlajny.com###banner-left-pane
 onlajny.com###banner-top-four
 onlajny.com###sportObchodBanner
