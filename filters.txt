@@ -240,6 +240,7 @@
 @@||warforum.cz/ads.js
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
 @@||zdopravy.cz^$generichide
+||idnes.cz^$generichide,important
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
