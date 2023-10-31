@@ -283,6 +283,7 @@ vranovske.sk#@#.advertising-content
 ##.hp-advert
 ##.jobscz
 ##.perex-adblock-warning
+##.r-main
 ##.reklama-3
 ##.reklama-bottom
 ##.reklama-box
@@ -390,7 +391,6 @@ heureka.cz,heureka.sk##div[class$="advert"]
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
-idnes.cz##[class*="r-main"]
 idos.idnes.cz##div.advert-leader-board-container
 in-pocasi.cz##.banner
 info.cz##.gallery-advertisement
@@ -420,7 +420,6 @@ letemsvetemapplem.eu##.headerbanner
 letemsvetemapplem.eu###floatad
 letemsvetemapplem.eu###headertopbanner
 libise.eu###aa1
-lidovky.cz##[class*="r-main"]
 lidovky.cz##div[id^="hyper"]
 mall.tv##.product-ad-wrapper
 mall.tv##.sqaure-mobile-ad
@@ -433,7 +432,6 @@ medop.cz###block-nodesinblock-0
 menicka.cz##.header_banner
 meteoprog.cz##div[id^="mp_banner_"]
 mladypodnikatel.cz##.scroll_banner
-modnipeklo.cz##[class*="r-main"]
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz##.komerce
