@@ -547,6 +547,8 @@ mtbiker.sk##a[href*="trackBannerAd"]
 najserialy.to##.overlay
 najserialy.to##a[class^="tv-"]
 pokec.azet.sk##.c_banner300x300
+pppeter.shop##.modal-backdrop
+pppeter.shop##.modal
 pravda.sk##.advert
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
