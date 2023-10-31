@@ -282,6 +282,7 @@ vranovske.sk#@#.advertising-content
 ##.etarget
 ##.hp-advert
 ##.jobscz
+##.perex-adblock-warning
 ##.reklama-3
 ##.reklama-bottom
 ##.reklama-box
