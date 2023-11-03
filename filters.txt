@@ -449,6 +449,8 @@ parabola.cz##div[style^="float:left;width:468px;"] + img[src^="data:image/gif;ba
 pctuning.cz##[class*="sda-"]
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
+prehrajto.cz##.ad-leaderboard-alt-wrapper
+prehrajto.cz###ad-leaderboard-alt-sides
 primat.cz##a[class^="levakolejroku"]
 primat.cz##a[class^="pravakolejroku"]
 programujte.com###branding_anchor_left
