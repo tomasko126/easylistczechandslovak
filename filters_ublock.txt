@@ -25,8 +25,9 @@ lupa.cz##+js(nofab)
 media.cms.markiza.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, Rmp.params.genderSelectionUrl, undefined)
-mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.adBlock.check, noopFunc)
-mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.positions.init, noopFunc)
+mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.psts.init, noopFunc)
+mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.featureTest.detected, false)
+mobilenet.cz,fzone.cz,fdrive.cz##div[id^="position-"]
 ||mrezadosa.com^$3p
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
