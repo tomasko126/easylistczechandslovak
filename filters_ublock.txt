@@ -1,4 +1,3 @@
-||0af2a962b0102942d9a7df351b20be55.com^$xhr
 ||a.cele.cz^$3p
 ||aktualne.cz^$csp=child-src *
 autozurnal.com##body:remove-class(modal-open)
