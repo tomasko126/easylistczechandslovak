@@ -104,6 +104,7 @@
 !
 ! ---------- Slovak 1st party blocking rules ---------- !
 !
+||0af2a962b0102942d9a7df351b20be55.com^
 ||adb.azet.sk^
 ||api-exponea.o2.sk^
 ||autobazar.eu/__branding/
@@ -134,6 +135,7 @@
 ||sector.sk/a/
 ||serialy.io/theme/json/episode.ad.etarget.php
 ||ta3.com/api/v1/livebox/video/
+||waaw.*/js/script_33.10.js?16$script
 ||zn.sk/galeria/
 !
 ! ---------- Czech 3rd party blocking rules ---------- !
@@ -522,6 +524,9 @@ best4you.sk##a[href="http://www.Onlinefilmy.eu"]
 best4you.sk##a[href="http://www.movieportal.eu"]
 best4you.sk##div[style="font-size:20px; font-family:Arial Black, Arial; color:#FF0000; font-weight:bold"]
 bmwklub.sk##div[id^="ad"]
+bombuj.si,serialy.bombuj.si##div[id*="casino"]
+bombuj.si,serialy.bombuj.si##div[id*="banner"]
+bombuj.si,serialy.bombuj.si##a[id*="popup2"]
 brainee.hnonline.sk##.container--break-branding
 brainee.hnonline.sk##.container--ticketportal
 brainee.hnonline.sk##.item__ad-center

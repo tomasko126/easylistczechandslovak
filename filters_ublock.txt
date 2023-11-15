@@ -1,7 +1,9 @@
+||0af2a962b0102942d9a7df351b20be55.com^$xhr
 ||a.cele.cz^$3p
 ||aktualne.cz^$csp=child-src *
 autozurnal.com##body:remove-class(modal-open)
 autozurnal.com##div:remove-class(with-active-branding)
+bombuj.si,serialy.bombuj.si##a[id*="zatvorit"]:remove-attr(href)
 cc.cz##+js(aopr, App.branding)
 cdr.cz,diit.cz##body:style(background-image: none !important; padding-top: 0 !important;)
 csfd.cz,csfd.sk##div.body:style(padding-top: 0 !important;)
