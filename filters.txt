@@ -75,6 +75,7 @@
 ||liveagent.mobilbonus.cz^
 ||lphard.cz/images/banners/
 ||mamincinyrecepty.cz/images/banner
+||mediatn.cms.nova.cz/robots.txt$xhr
 ||motorkari.cz^$subdocument
 ||mrk.cz/images/inz/
 ||parabola.cz/img_menu/*_01.$image
