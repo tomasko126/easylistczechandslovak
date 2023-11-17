@@ -21,8 +21,8 @@
 .cz/img/banner
 .etargetnet.
 .sk/img/banner
-/amalker/pos/mag_ads.js
 /alzafeed_cached_js.php
+/amalker/pos/mag_ads.js
 /cron.php?rand=
 /emonitor.
 /komercni-sdeleni/*
