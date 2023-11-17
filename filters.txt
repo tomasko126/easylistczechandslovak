@@ -21,7 +21,6 @@
 .cz/img/banner
 .etargetnet.
 .sk/img/banner
-/alzafeed_cached_js.php
 /amalker/pos/mag_ads.js
 /cron.php?rand=
 /emonitor.
@@ -73,6 +72,7 @@
 ||kurzy.cz/e/adv?
 ||img.kurzy.cz/og
 ||lamer.cz/images/bg*.jpg
+||letemsvetemapplem.eu/*/alzafeed_cached_js.php
 ||libise.eu/r/
 ||liveagent.mobilbonus.cz^
 ||lphard.cz/images/banners/
