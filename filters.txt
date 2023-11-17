@@ -280,7 +280,6 @@ vranovske.sk#@#.advertising-content
 ###reklamy
 ###sklik
 ###slevomat_ad
-###tfnotifier-dialog
 ###topbanner
 ###zivefirmy
 ##.adform-adbox
