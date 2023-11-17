@@ -280,6 +280,7 @@ vranovske.sk#@#.advertising-content
 ###reklamy
 ###sklik
 ###slevomat_ad
+###tfnotifier-dialog
 ###topbanner
 ###zivefirmy
 ##.adform-adbox
@@ -291,7 +292,6 @@ vranovske.sk#@#.advertising-content
 ##.lsads-banner
 ##.nativead
 ##.ownad
-###tfnotifier-dialog
 ##.perex-adblock-warning
 ##.r-main
 ##.reklama-3
