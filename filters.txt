@@ -21,6 +21,8 @@
 .cz/img/banner
 .etargetnet.
 .sk/img/banner
+/amalker/pos/mag_ads.js
+/alzafeed_cached_js.php
 /cron.php?rand=
 /emonitor.
 /komercni-sdeleni/*
@@ -268,6 +270,7 @@ vranovske.sk#@#.advertising-content
 !
 ! ---------- Czech and Slovak Generic element hiding rules ---------- !
 !
+###ad_popup
 ###adRectangle
 ##[id^="etarget"]
 ###onlajny-stickers
@@ -285,6 +288,10 @@ vranovske.sk#@#.advertising-content
 ##.etarget
 ##.hp-advert
 ##.jobscz
+##.lsads-banner
+##.nativead
+##.ownad
+###tfnotifier-dialog
 ##.perex-adblock-warning
 ##.r-main
 ##.reklama-3
@@ -418,10 +425,6 @@ kurzy.cz###zr300x600
 kurzy.cz##iframe[src^="https://img.kurzy.cz/og"]
 kurzy.cz##a[href*="utm_campaign=kurzy_"]
 lamer.cz,moda.cz##.square
-letemsvetemapplem.eu###branding_conts
-letemsvetemapplem.eu##.headerbanner
-letemsvetemapplem.eu###floatad
-letemsvetemapplem.eu###headertopbanner
 libise.eu###aa1
 lidovky.cz##div[id^="hyper"]
 mall.tv##.product-ad-wrapper
