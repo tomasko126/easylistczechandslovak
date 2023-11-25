@@ -102,6 +102,8 @@
 ||videoad.cz^
 ||warforum.cz/ads/$image
 ||wesa.cz/banner/
+||*/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
+||*/wp-content/plugins/wp-content-copy-protection/assets/css/style.min.css$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
 ||zkouknito.cz/js/js.htmlad.js
 ||zvukarina.cz/forum/images/ostatni/
 !
@@ -468,6 +470,7 @@ ronnie.cz###fixedMenu
 ronnie.cz###rek3
 ronnie.cz###rodkaz
 rouming.cz##.roumingLista
+rozbor-dila.cz,rozbor-dila.eu,rozborknihy.cz,studijni-svet.cz,ekonomie-ucetnictvi.cz,biologie-chemie.cz,anglictina-maturita.cz##.ai_widget
 sauto.cz###pvMid
 serialycz.cz##a[href^="https://prehrajto.cz/?cc=prlbmso2"]
 serialzone.cz##.banner-header
