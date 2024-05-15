@@ -31,6 +31,11 @@
 !
 ! ---------- Czech 1st party blocking rules ---------- !
 !
+||img.kurzy.cz/block/$subdocument,~third-party
+||bydleni.com/dm/banner/$domain=bydleni.cz
+bydleni.cz###rightClick
+bydleni.cz###clickLeft
+||prehrajto.cz/front/img/ads/*
 ||*.war-forum.net/images/sh/
 ||1gr.cz/js/uni/oldback/logo.png$script,domain=idnes.cz
 ||1.im.cz/ad/$image
