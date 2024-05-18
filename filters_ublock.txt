@@ -26,7 +26,6 @@ letemsvetemapplem.eu,samsungmagazine.eu##.headerbanner-wrapper:style(min-height:
 letemsvetemapplem.eu,samsungmagazine.eu,androidmagazine.eu##header.lsa:style(margin-top: 0 !important;)
 letemsvetemapplem.eu,samsungmagazine.eu,androidmagazine.eu,jablickar.cz###page_wrapper:style(cursor: auto !important;)
 lupa.cz##+js(nofab)
-media.cms.markiza.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, Rmp.params.genderSelectionUrl, undefined)
 mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.psts.init, noopFunc)
@@ -84,3 +83,6 @@ idnes.cz,novinky.cz,aktualne.cz,reflex.cz,zive.cz,e15.cz,blesk.cz,ahaonline.cz,s
 ! idnes.cz,novinky.cz,aktualne.cz,sport.aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,iprima.cz,kupi.cz,kinobox.cz,cnews.cz,zeny.cz,expres.cz,tiscali.cz,extra.cz,onetv.cz,dama.cz,g.cz,chip.cz,mojecelebrity.cz,spisovatele.cz,modnipeklo.cz,info.cz,lupa.cz,karaoketexty.cz,hnonline.sk,emimino.cz,vitalion.cz,mojezdravi.cz,abicko.cz,arome.cz,labuznik.cz,fights.cz,nasepenize.cz,euro.cz,televizeseznam.cz##^script:has-text(adbDetect)
 idnes.cz##+js(acis, HTMLIFrameElement.prototype.contentWindow)
 
+! https://github.com/uBlockOrigin/uAssets/issues/23471
+media.cms.markiza.sk##+js(set, settings.ads, false)
+||ads-twitter.com^$frame,redirect-rule=noopframe,domain=media.cms.markiza.sk
