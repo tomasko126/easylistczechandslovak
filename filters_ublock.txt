@@ -15,6 +15,7 @@ enigmaplus.cz##img[src*="/img/atlas"]:upward(3)
 epochaplus.cz##img[alt="casopis"]:upward(3)
 epochaplus.cz##body:style(padding-top:0px !important;)
 games.tiscali.cz##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
+||h.seznam.cz^$badfilter
 hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
