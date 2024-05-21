@@ -247,6 +247,7 @@
 @@||warforum.cz/ads.js
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
 @@||zdopravy.cz^$generichide
+@@||cdn.tochka-reklama.com^
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
