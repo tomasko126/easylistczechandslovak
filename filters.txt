@@ -252,6 +252,7 @@
 !
 denik.cz#@#.ads-box
 denik.cz#@#.reklama-box
+hyundai.com#@#.r-main
 jaguar-club.net,mazdaclub.cz,nissanclub.cz#@#.reklama
 novinky.cz#@#.g_ad
 www.parabola.cz#@#.rklm
