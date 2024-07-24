@@ -19,6 +19,7 @@ games.tiscali.cz##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
 hokej.cz##+js(set, canRunAds, true)
 horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
+impuls.cz##+js(set, first, false)
 ||indian-tv.cz/uploads/$document
 indian-tv.cz,nerdfix.cz##a:matches-css(background-image: /url/):matches-css(position: fixed):upward(1)
 indian-tv.cz,nerdfix.cz##+js(aeld, click, location)
@@ -29,14 +30,16 @@ letemsvetemapplem.eu,samsungmagazine.eu,androidmagazine.eu,jablickar.cz###page_w
 lupa.cz##+js(nofab)
 media.joj.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, Rmp.params.genderSelectionUrl, undefined)
-mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.psts.init, noopFunc)
-mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.featureTest.detected, false)
-mobilenet.cz,fzone.cz,fdrive.cz##div[id^="position-"]
+mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.pos.init, noopFunc)
+mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.ft.detected, false)
+mobilenet.cz,fzone.cz,fdrive.cz##div[id^="pos-"]
 ||mrezadosa.com^$3p
 navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
 parlamentnilisty.cz##+js(aopr, Ads)
+||playzone.cz^$csp=child-src *
+playzone.cz##+js(set-cookie, pl_aab_hide, 1)
 podcasty.seznam.cz##+js(set, sssp.config, noopFunc)
 podcasty.seznam.cz##+js(set, sssp, {})
 pppeter.shop##body:remove-class(modal-open)
