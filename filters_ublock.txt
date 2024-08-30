@@ -1,5 +1,4 @@
 ||a.cele.cz^$3p
-||aktualne.cz^$csp=child-src *
 autozurnal.com##body:remove-class(modal-open)
 autozurnal.com##div:remove-class(with-active-branding)
 bombuj.si,serialy.bombuj.si##a[id*="zatvorit"]:remove-attr(href)
@@ -56,6 +55,8 @@ search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="advert"]
 sreality.cz##+js(nosiif, checkRods)
 super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
+titulky.com##+js(ra, style, div[id^="head"])
+||titulky.com/banalter/
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
