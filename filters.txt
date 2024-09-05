@@ -234,6 +234,7 @@
 @@||decko.ceskatelevize.cz/cms/layouts/js/analytics.js$script,domain=decko.ceskatelevize.cz
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
+@@||heureka.*/ocm/sdk.js
 @@||iboys.cz/advert-list.php
 @@||netusers.cz/js/$script,domain=titulky.com
 @@||opti.cz/wp-content/uploads/*/reklama_*.jpg$image
