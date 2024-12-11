@@ -57,6 +57,7 @@ super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
 titulky.com##+js(ra, style, div[id^="head"])
 ||titulky.com/banalter/
+titulky.com###head_c:style(margin-top: 0 !important;)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uloz.to##div.l-wrapper:style(padding-top: 0px !important;)

@@ -253,6 +253,7 @@ kurzy.cz#$#abort-on-property-write s_back
 @@||warforum.cz/ads.js
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
 @@||zdopravy.cz^$generichide
+@@||titulky.com/ads/titulky-ads-bottom.js
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
 !
