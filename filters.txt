@@ -497,6 +497,7 @@ stesti.cz##[style="width:960px;margin:0 auto;text-align:left"]
 super.cz##div.ad
 super.cz##a[data-dot="hp_pozadi"]
 super.cz##a[data-dot="c_pozadi"]
+telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
 titulky.com###pagefoot
