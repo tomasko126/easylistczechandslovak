@@ -57,7 +57,7 @@ super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
 titulky.com##+js(set, sssp, {})
 titulky.com##+js(set, errSZ, undefined)
-titulky.com##+js(spoof-css, #martevax-primary, display, block)
+titulky.com##+js(spoof-css, #martevax001541112909, display, block)
 titulky.com##+js(spoof-css, #bnn_nu300x300, display, block)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
