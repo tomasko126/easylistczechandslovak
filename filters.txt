@@ -504,8 +504,8 @@ super.cz##a[data-dot="c_pozadi"]
 telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
-titulky.com###martevax001541112909
 titulky.com###bnn_nu300x300
+titulky.com##br + .pagefoot
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
