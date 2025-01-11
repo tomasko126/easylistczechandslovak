@@ -397,7 +397,6 @@ livesport.cz###box-over-content-a
 login.szn.cz###ad
 lupa.cz,root.cz##.design-box--jobs
 lupa.cz,root.cz##.design-advert-placeholder
-ewrc.cz###invelt
 extra.cz##div.klik--leaderboard
 fdb.cz###blackfooter
 filmporno.cz##.topbanners
