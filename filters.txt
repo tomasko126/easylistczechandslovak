@@ -401,7 +401,7 @@ filmporno.cz##.topbanners
 filmporno.cz,isport.blesk.cz##.ads
 finance.cz###box.mb
 finance.cz##.arr-red
-finance.cz,motoforum.cz###ahead
+finance.cz###ahead
 firstclass.cz###stOverlay
 firstclass.cz##.promobox
 forum.root.cz##.body_message--ad
@@ -453,6 +453,8 @@ medop.cz###block-nodesinblock-0
 menicka.cz##.header_banner
 meteoprog.cz##div[id^="mp_banner_"]
 mladypodnikatel.cz##.scroll_banner
+motoforum.cz##img[alt="Reklama"]
+motoforum.cz##.advert
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz##.komerce
