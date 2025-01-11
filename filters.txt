@@ -442,10 +442,13 @@ krimi-plzen.cz##.article-partnｅr-bοx
 krimi-plzen.cz##.ad-seznam-responsive
 kupi.cz##.top_background
 kurzy.cz##[id^="adv_"]
-kurzy.cz###z990x200
 kurzy.cz###zr300x600
-kurzy.cz##iframe[src^="https://img.kurzy.cz/og"]
+kurzy.cz##iframe[src^="https://img.kurzy.cz/sback"]
 kurzy.cz##a[href*="utm_campaign=kurzy_"]
+kurzy.cz###notifpopup
+kurzy.cz###sticky_bottom
+kurzy.cz##.ecb.loga-partneru
+kurzy.cz###wise-calc-widget
 lamer.cz,moda.cz##.square
 libise.eu###aa1
 lidovky.cz##div[id^="hyper"]
