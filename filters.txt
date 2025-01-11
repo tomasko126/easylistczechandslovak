@@ -369,7 +369,10 @@ dotekomanie.cz##div#highlitesAds
 drbna.cz##.layoutTop
 e15.cz##.gallery-advertisement
 e15.cz###topSite
-e-mostecko.cz###g-top-bannery
+e-mostecko.cz##.container.banner
+e-mostecko.cz###section1 .mod-custom.custom
+e-mostecko.cz###mod-custom301
+e-mostecko.cz###main-body .mod-custom.custom
 echo24.cz##div[class*="adcontainer"]
 echo24.cz##.intent-exit-box.l-row
 echo24.cz##.js-popup-quest.intent-exit-popup--quest.intent-exit-popup
