@@ -82,7 +82,6 @@ kurzy.cz#$#abort-on-property-write s_back
 ||mamincinyrecepty.cz/images/banner
 ||mediatn.cms.nova.cz/robots.txt$xhr
 ||motorkari.cz^$subdocument
-||mrk.cz/images/inz/
 ||parabola.cz/img_menu/*_01.$image
 ||pornuj.cz/files/ntva.php
 ||presentation.lmc.cz/aliance/
@@ -464,7 +463,9 @@ motoforum.cz##img[alt="Reklama"]
 motoforum.cz##.advert
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
-mrk.cz##.komerce
+mrk.cz###pozadistranky
+mrk.cz##.oznaceno
+mrk.cz###kolotoc1
 nasepenize.cz##.box-offer
 nasepraha.cz##.npab
 navratdoreality.cz##.box-responsive
