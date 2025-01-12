@@ -135,6 +135,7 @@ titulky.com/banaltr/
 ||ourphorum.com/images/banner
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
+programujte.com/img/pozadi_2024.jpg
 ||radia.sk/_uputavky/$subdocument
 ||radia.sk/scripts/ads.js
 ||recycle.zoznam.sk/get.fcgi
