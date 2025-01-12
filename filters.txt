@@ -104,6 +104,7 @@ titulky.com/banaltr/
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
 ||videoad.cz^
+warcenter.cz/interstitial_fs.js
 ||warforum.cz/ads/$image
 ||wesa.cz/banner/
 ||*/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
@@ -135,6 +136,7 @@ titulky.com/banaltr/
 ||ourphorum.com/images/banner
 ||pricemania.sk/pictures/banners/
 ||pricemania.sk/pictures/campaigns/
+programujte.com/img/pozadi_2024.jpg
 ||radia.sk/_uputavky/$subdocument
 ||radia.sk/scripts/ads.js
 ||recycle.zoznam.sk/get.fcgi
@@ -165,6 +167,7 @@ titulky.com/banaltr/
 ||ads.esports.cz^$third-party
 ||adverts.cz^$third-party
 ||automodul.cz^$third-party
+||ban.tipsport.cz^$third-party
 ||banan.cz^$third-party
 ||banner.ifortuna.cz^$third-party
 ||banners.onebit.cz^$third-party
@@ -177,6 +180,7 @@ titulky.com/banaltr/
 ||dot.idot.cz^$third-party
 ||ecigareta.eu^$third-party
 ||ehub.cz^$third-party
+||fastshare.cloud^$third-party
 ||fastshare.cz^$third-party
 ||graphics.stdout.cz/b:commercial$third-party
 ||heureka.cz^$third-party
@@ -462,7 +466,9 @@ motoforum.cz##img[alt="Reklama"]
 motoforum.cz##.advert
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
 motorkari.cz##.banner,.left-side-banner,.right-side-banner
-mrk.cz##.komerce
+mrk.cz###pozadistranky
+mrk.cz##.oznaceno
+mrk.cz###kolotoc1
 nasepenize.cz##.box-offer
 nasepraha.cz##.npab
 navratdoreality.cz##.box-responsive
@@ -526,6 +532,7 @@ tvfreak.cz##.skyscrapper-right
 uschovna.cz##.branding-link
 vortex.cz##.banner-brand
 war4all.com###tblHorniLista
+warcenter.cz##td[bgcolor="#066490"]
 warezforum.cz##.center
 warezforum.cz##object[id*="bfad"]
 warforum.cz###adLocation-21
