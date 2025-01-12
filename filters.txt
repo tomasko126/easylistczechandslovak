@@ -180,6 +180,7 @@ programujte.com/img/pozadi_2024.jpg
 ||dot.idot.cz^$third-party
 ||ecigareta.eu^$third-party
 ||ehub.cz^$third-party
+||fastshare.cloud^$third-party
 ||fastshare.cz^$third-party
 ||graphics.stdout.cz/b:commercial$third-party
 ||heureka.cz^$third-party
