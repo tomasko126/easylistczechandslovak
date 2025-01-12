@@ -83,7 +83,6 @@ kurzy.cz#$#abort-on-property-write s_back
 ||mediatn.cms.nova.cz/robots.txt$xhr
 ||motorkari.cz^$subdocument
 ||mrk.cz/images/inz/
-||parabola.cz/img_menu/*_01.$image
 ||pornuj.cz/files/ntva.php
 ||presentation.lmc.cz/aliance/
 ||prvnizpravy.cz/repository/banner
@@ -264,7 +263,6 @@ denik.cz#@#.reklama-box
 hyundai.com#@#.r-main
 jaguar-club.net,mazdaclub.cz,nissanclub.cz#@#.reklama
 novinky.cz#@#.g_ad
-www.parabola.cz#@#.rklm
 skrblik.cz#@##adsense
 sluzebnik.cz#@##adverts
 !
@@ -474,7 +472,13 @@ onlajny.com###sportObchodBanner
 onlajny.com##div.bannerHolderZapasRight
 onlymen.cz##pp
 osel.cz##.right
-parabola.cz##div[style^="float:left;width:468px;"] + img[src^="data:image/gif;base64,"]
+parabola.cz##.main_menu2 h1#logo + div
+parabola.cz##.nav_sloupec h3.idr
+parabola.cz##.nav_sloupec h3.idr + a
+parabola.cz##.nav_sloupec h3.ridr
+parabola.cz##.nav_sloupec h3.ridr + a
+parabola.cz##.main_menu5 > .clear_both ~ a
+parabola.cz##.main_menu5 > .clear_both ~ img
 pctuning.cz##[class*="sda-"]
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
@@ -627,7 +631,6 @@ konzolista.cz#?#.v-card--link:-abp-has(.ad)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 msmt.cz#?#.bcc:-abp-has(.banners)
-parabola.cz#?#h3:-abp-contains(/^Reklama$/)
 presovak.sk#?#.wrapper__list__article:-abp-has(.widget__form-subscribe)
 slovnik.aktuality.sk#?#.desktop-wrapper:-abp-has([id^="div-gpt-ad"])
 sports24.cz#?#.tdc-row:not(:-abp-has(>.tdc-element-style))
