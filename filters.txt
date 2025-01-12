@@ -105,6 +105,7 @@ titulky.com/banaltr/
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
 ||videoad.cz^
+warcenter.cz/interstitial_fs.js
 ||warforum.cz/ads/$image
 ||wesa.cz/banner/
 ||*/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
@@ -522,6 +523,7 @@ tvfreak.cz##.skyscrapper-right
 uschovna.cz##.branding-link
 vortex.cz##.banner-brand
 war4all.com###tblHorniLista
+warcenter.cz##td[bgcolor="#066490"]
 warezforum.cz##.center
 warezforum.cz##object[id*="bfad"]
 warforum.cz###adLocation-21
