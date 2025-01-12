@@ -165,6 +165,7 @@ titulky.com/banaltr/
 ||ads.esports.cz^$third-party
 ||adverts.cz^$third-party
 ||automodul.cz^$third-party
+||ban.tipsport.cz^$third-party
 ||banan.cz^$third-party
 ||banner.ifortuna.cz^$third-party
 ||banners.onebit.cz^$third-party
