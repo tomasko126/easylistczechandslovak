@@ -582,6 +582,7 @@ cp.sk##.advert
 cp.sk##.banner
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
+hlavnydennik.sk##.container[style="text-align: center; margin-bottom: 50px;"]
 hnonline.sk##[id^="banner-"]
 hnonline.sk##.s-branding
 hnonline.sk##stripemark
