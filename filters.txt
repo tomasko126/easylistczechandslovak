@@ -604,7 +604,7 @@ pppeter.shop##.modal
 pravda.sk##.advert
 presovak.sk###push_promt
 presovak.sk##.modal-backdrop
-pretaktovanie.zoznam.sk##.post.bg5
+pretaktovanie.sk##.headerbar>center
 sector.sk,kinema.sk##[id^="back"][onclick]
 sector.sk##iframe[data-src^="/default-ad"]
 serialy.io##div[id][style="position: absolute; top: 0; left: 0; width: 100%; height: 380px; text-align: center;"]
