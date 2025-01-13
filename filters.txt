@@ -575,6 +575,7 @@ brainee.hnonline.sk##.container--break-branding
 brainee.hnonline.sk##.container--ticketportal
 brainee.hnonline.sk##.item__ad-center
 brainee.hnonline.sk##.item--socials
+bratislavak.sk,bystricak.sk,kosicak.sk,nitrak.sk,presovak.sk,trencinak.sk,trnavak.sk,zilinak.sk##.banner_center
 cas.sk##div[class*="pohodoWidget"]
 cas.sk##a.predpredaj-black
 centrum.sk##.banner
@@ -602,8 +603,6 @@ pokec.azet.sk##.c_banner300x300
 pppeter.shop##.modal-backdrop
 pppeter.shop##.modal
 pravda.sk##.advert
-presovak.sk###push_promt
-presovak.sk##.modal-backdrop
 pretaktovanie.zoznam.sk##.post.bg5
 sector.sk,kinema.sk##[id^="back"][onclick]
 sector.sk##iframe[data-src^="/default-ad"]
@@ -643,7 +642,6 @@ konzolista.cz#?#.v-card--link:-abp-has(.ad)
 lupa.cz,root.cz#?#div.article--content:-abp-has(div.design-advert)
 motorkari.cz#?#div:-abp-has(> a[href*="?act=detail&f=8"])
 msmt.cz#?#.bcc:-abp-has(.banners)
-presovak.sk#?#.wrapper__list__article:-abp-has(.widget__form-subscribe)
 slovnik.aktuality.sk#?#.desktop-wrapper:-abp-has([id^="div-gpt-ad"])
 sports24.cz#?#.tdc-row:not(:-abp-has(>.tdc-element-style))
 tvtv.sk#?#.content-item:-abp-has(.header a[href^="/reklama/"])
