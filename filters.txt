@@ -451,7 +451,7 @@ kurzy.cz###notifpopup
 kurzy.cz###sticky_bottom
 kurzy.cz##.ecb.loga-partneru
 kurzy.cz###wise-calc-widget
-lamer.cz,moda.cz##.square
+lamer.cz##.square
 libise.eu###aa1
 lidovky.cz##div[id^="hyper"]
 mall.tv##.product-ad-wrapper
@@ -465,6 +465,7 @@ medop.cz###block-nodesinblock-0
 menicka.cz##.header_banner
 meteoprog.cz##div[id^="mp_banner_"]
 mladypodnikatel.cz##.scroll_banner
+moda.cz##.ad-box__wrapper
 motoforum.cz##img[alt="Reklama"]
 motoforum.cz##.advert
 motorkari.cz##a[trgurl],a[href*="relocate.php"]
