@@ -123,12 +123,10 @@ warcenter.cz/interstitial_fs.js
 ||eduself.sk/public/js/prebid-ads.js$script,important
 ||flirtkontakt.sk/previews/banner*.jpg
 ||fony.sk/content/banners/
-||fundingchoicesmessages.google.com$domain=hnonline.sk
 ||funnyburger.sk/js/anti-theft-system.js$script
 ||hojko.com/images/banner*.gif
 ||image.sector.sk^
 ||img.zoznam.sk/adimages/
-||media.hnonline.sk/api/v1/hn-player/stripe
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojanitra.sk/banery/
@@ -241,6 +239,9 @@ programujte.com/img/pozadi_2024.jpg
 !
 @@||*-reklama.cz
 @@||bmw-club.cz^$generichide
+@@cdn.cxense.com/cx.cce.js$domain=hnonline.sk
+@@cdn.cxense.com/cx.js$domain=hnonline.sk
+@@api.cxense.com/public/widget/data$domain=hnonline.sk
 @@||decko.ceskatelevize.cz/cms/layouts/js/analytics.js$script,domain=decko.ceskatelevize.cz
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
@@ -571,10 +572,6 @@ bmwklub.sk##div[id^="ad"]
 bombuj.si,serialy.bombuj.si##div[id*="casino"]
 bombuj.si,serialy.bombuj.si##div[id*="banner"]
 bombuj.si,serialy.bombuj.si##a[id*="popup2"]
-brainee.hnonline.sk##.container--break-branding
-brainee.hnonline.sk##.container--ticketportal
-brainee.hnonline.sk##.item__ad-center
-brainee.hnonline.sk##.item--socials
 cas.sk##div[class*="pohodoWidget"]
 cas.sk##a.predpredaj-black
 centrum.sk##.banner
@@ -584,10 +581,7 @@ cp.sk##.banner
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
 hlavnydennik.sk##.container[style="text-align: center; margin-bottom: 50px;"]
-hnonline.sk##[id^="banner-"]
-hnonline.sk##.s-branding
-hnonline.sk##stripemark
-hnonline.sk##div[style*="Roboto"][style*="fixed"]
+hnonline.sk,brainee.hnonline.sk,dia.hnonline.sk,hn24.hnonline.sk,mediweb.hnonline.sk##html:remove-class(ads-cls-fix)
 kosicednes.sk##header > div
 kosicednes.sk##.newsletter
 michalovskespravy.sk###footer
@@ -630,8 +624,6 @@ zoznam.sk##a[href^="https://boxu.sk"]
 !
 ! ---------- ABP Extended filters ---------- !
 !
-brainee.hnonline.sk#?#.container--break:-abp-has(.ad--align)
-brainee.hnonline.sk#?#div[class^="position_"]:-abp-has(.ad--align)
 csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
