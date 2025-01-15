@@ -490,6 +490,8 @@ parabola.cz##.nav_sloupec h3.ridr + a
 parabola.cz##.main_menu5 > .clear_both ~ a
 parabola.cz##.main_menu5 > .clear_both ~ img
 pctuning.cz##[class*="sda-"]
+playzone.cz##.aab-alert-wrap
+playzone.cz###ad-top-second
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
 prehrajto.cz##.ad-leaderboard-alt-wrapper

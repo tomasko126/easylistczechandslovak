@@ -39,8 +39,6 @@ navratdoreality.cz##+js(aeld, ended)
 navratdoreality.cz##+js(nobab)
 onlajny.com##+js(acis, $, PartnerRedirectAction)
 parlamentnilisty.cz##+js(aopr, Ads)
-||playzone.cz^$csp=child-src *
-playzone.cz##+js(set-cookie, pl_aab_hide, 1)
 podcasty.seznam.cz##+js(set, sssp.config, noopFunc)
 podcasty.seznam.cz##+js(set, sssp, {})
 pppeter.shop##body:remove-class(modal-open)
