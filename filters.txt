@@ -550,6 +550,9 @@ webtrh.cz##.banner
 www.seznam.cz##div.ogm-sticky-repeater
 www.seznam.cz##div.ad-exclusive
 zakonyprolidi.cz##.SkyLeft.Banner
+zdopravy.cz##.otherAds
+zdopravy.cz##.otherAds#gm-outstream+div
+zdopravy.cz##ins.adsbygoogle
 zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
 zing.cz##[class*="sda-"]
