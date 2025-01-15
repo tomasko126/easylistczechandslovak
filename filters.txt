@@ -489,6 +489,8 @@ parabola.cz##.nav_sloupec h3.ridr
 parabola.cz##.nav_sloupec h3.ridr + a
 parabola.cz##.main_menu5 > .clear_both ~ a
 parabola.cz##.main_menu5 > .clear_both ~ img
+parlamentnilisty.cz###aoleaderboard
+parlamentnilisty.cz###aowallpaperone
 pctuning.cz##[class*="sda-"]
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
