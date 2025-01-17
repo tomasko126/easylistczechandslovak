@@ -415,6 +415,13 @@ hcmotor.cz##div.container.partners
 heureka.cz,heureka.sk##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 heureka.cz,heureka.sk##div[class$="advert"]
+hlavnespravy.sk###text-2
+hlavnespravy.sk##ins.main-content 
+hlavnespravy.sk##.block.block2>.sidebar
+hlavnespravy.sk##.block.block3>.sidebar
+hlavnespravy.sk##.block.block4>.sidebar
+hlavnespravy.sk##.subscribe-overlay
+hlavnespravy.sk##.subscribe-overlay-desktop
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
