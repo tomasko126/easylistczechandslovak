@@ -29,7 +29,7 @@ letemsvetemapplem.eu,samsungmagazine.eu##.headerbanner-wrapper:style(min-height:
 letemsvetemapplem.eu,samsungmagazine.eu,androidmagazine.eu##header.lsa:style(margin-top: 0 !important;)
 letemsvetemapplem.eu,samsungmagazine.eu,androidmagazine.eu,jablickar.cz###page_wrapper:style(cursor: auto !important;)
 lupa.cz##+js(nofab)
-markiza.sk##+js(nano-stb,t(), *)
+markiza.sk,tvnoviny.sk##+js(nano-stb,t(), *)
 media.joj.sk##+js(set, settings.ads, false)
 media.joj.sk##+js(set, Rmp.params.genderSelectionUrl, undefined)
 mobilenet.cz,fzone.cz,fdrive.cz##+js(set, App.pos.init, noopFunc)
