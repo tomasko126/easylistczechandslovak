@@ -62,6 +62,7 @@
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
+horoskopy.cz/*/static/js/ssp.js?szn_loader=1
 ||im9.cz/*aukro
 ||img.cdnprg.webtea.cz/web/pozadi_webu_mc.jpg
 ||jiskra-benesov.cz/images/branding/
