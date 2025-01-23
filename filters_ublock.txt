@@ -17,7 +17,6 @@ ewrc.cz##+js(set, checkAdsBlocked, noopFunc)
 games.tiscali.cz##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
 ||h.seznam.cz^$badfilter
 hokej.cz##+js(set, canRunAds, true)
-horoskopy.cz##+js(aopw, Fisher)
 ||idos.idnes.cz^$csp=child-src *
 impuls.cz##+js(set, first, false)
 ||indian-tv.cz/uploads/$document
