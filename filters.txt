@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: http://adblock.sk
 ! Title: Easylist Czech and Slovak filter list
-! Last change: 27/06/2021
+! Last change: 23/01/2025
 ! List maintainers: tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy
 ! GitHub repository: https://github.com/tomasko126/easylistczechandslovak
 ! GitHub contributors: https://github.com/tomasko126/easylistczechandslovak/graphs/contributors
@@ -62,6 +62,7 @@
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
+horoskopy.cz/*/static/js/ssp.js?szn_loader=1
 ||im9.cz/*aukro
 ||img.cdnprg.webtea.cz/web/pozadi_webu_mc.jpg
 ||jiskra-benesov.cz/images/branding/
@@ -100,6 +101,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
 titulky.com/banaltr/
+titulky.com/ajaxlogon.php
 ||tracker.cncenter.cz^
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
@@ -123,12 +125,10 @@ warcenter.cz/interstitial_fs.js
 ||eduself.sk/public/js/prebid-ads.js$script,important
 ||flirtkontakt.sk/previews/banner*.jpg
 ||fony.sk/content/banners/
-||fundingchoicesmessages.google.com$domain=hnonline.sk
 ||funnyburger.sk/js/anti-theft-system.js$script
 ||hojko.com/images/banner*.gif
 ||image.sector.sk^
 ||img.zoznam.sk/adimages/
-||media.hnonline.sk/api/v1/hn-player/stripe
 ||mhdba.eu/banerova-reklama-animacia.gif
 ||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif
 ||mojanitra.sk/banery/
@@ -241,6 +241,9 @@ programujte.com/img/pozadi_2024.jpg
 !
 @@||*-reklama.cz
 @@||bmw-club.cz^$generichide
+@@cdn.cxense.com/cx.cce.js$domain=hnonline.sk
+@@cdn.cxense.com/cx.js$domain=hnonline.sk
+@@api.cxense.com/public/widget/data$domain=hnonline.sk
 @@||decko.ceskatelevize.cz/cms/layouts/js/analytics.js$script,domain=decko.ceskatelevize.cz
 @@||heureka.*/crossdomain.xml
 @@||heureka.*/direct/vyvoj-cen/
@@ -415,6 +418,13 @@ hcmotor.cz##div.container.partners
 heureka.cz,heureka.sk##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 heureka.cz,heureka.sk##div[class$="advert"]
+hlavnespravy.sk###text-2
+hlavnespravy.sk##ins.main-content 
+hlavnespravy.sk##.block.block2>.sidebar
+hlavnespravy.sk##.block.block3>.sidebar
+hlavnespravy.sk##.block.block4>.sidebar
+hlavnespravy.sk##.subscribe-overlay
+hlavnespravy.sk##.subscribe-overlay-desktop
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
@@ -489,7 +499,11 @@ parabola.cz##.nav_sloupec h3.ridr
 parabola.cz##.nav_sloupec h3.ridr + a
 parabola.cz##.main_menu5 > .clear_both ~ a
 parabola.cz##.main_menu5 > .clear_both ~ img
+parlamentnilisty.cz###aoleaderboard
+parlamentnilisty.cz###aowallpaperone
 pctuning.cz##[class*="sda-"]
+playzone.cz##.aab-alert-wrap
+playzone.cz###ad-top-second
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
 prehrajto.cz##.ad-leaderboard-alt-wrapper
@@ -528,6 +542,7 @@ telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
 titulky.com###bnn_nu300x300
+titulky.com###fairuser
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
@@ -550,6 +565,9 @@ webtrh.cz##.banner
 www.seznam.cz##div.ogm-sticky-repeater
 www.seznam.cz##div.ad-exclusive
 zakonyprolidi.cz##.SkyLeft.Banner
+zdopravy.cz##.otherAds
+zdopravy.cz##.otherAds#gm-outstream+div
+zdopravy.cz##ins.adsbygoogle
 zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
 zing.cz##[class*="sda-"]
@@ -585,10 +603,7 @@ cp.sk##.banner
 dsl.sk##.header_info_text
 feminity.zoznam.sk##div[class*="pohodoWidget"]
 hlavnydennik.sk##.container[style="text-align: center; margin-bottom: 50px;"]
-hnonline.sk##[id^="banner-"]
-hnonline.sk##.s-branding
-hnonline.sk##stripemark
-hnonline.sk##div[style*="Roboto"][style*="fixed"]
+hnonline.sk,brainee.hnonline.sk,dia.hnonline.sk,hn24.hnonline.sk,mediweb.hnonline.sk##html:remove-class(ads-cls-fix)
 kosicednes.sk##header > div
 kosicednes.sk##.newsletter
 michalovskespravy.sk###footer
@@ -629,8 +644,6 @@ zoznam.sk##a[href^="https://boxu.sk"]
 !
 ! ---------- ABP Extended filters ---------- !
 !
-brainee.hnonline.sk#?#.container--break:-abp-has(.ad--align)
-brainee.hnonline.sk#?#div[class^="position_"]:-abp-has(.ad--align)
 csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
