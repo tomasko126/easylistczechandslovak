@@ -101,7 +101,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
 titulky.com/banaltr/
-titulky.com/ajaxlogon.php
+titulky.com/_ajaxlogon.php
 ||tracker.cncenter.cz^
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
