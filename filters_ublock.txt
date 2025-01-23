@@ -62,7 +62,6 @@ titulky.com##+js(aeld, load, document.cookie)
 titulky.com##+js(set, xmxalr, "")
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
-uloz.to##div.l-wrapper:style(padding-top: 0px !important;)
 uschovna.cz##body:style(background:none !important;)
 vranovske.sk##^script:has-text(stopPrntScr)
 vranovske.sk##style:has-text(::selection):remove()
