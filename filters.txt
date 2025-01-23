@@ -241,6 +241,7 @@ programujte.com/img/pozadi_2024.jpg
 !
 @@||*-reklama.cz
 @@||bmw-club.cz^$generichide
+@@cdn.cpex.cz/cmp/v2/cpex-cmp.min.js$domain=hnonline.sk
 @@cdn.cxense.com/cx.cce.js$domain=hnonline.sk
 @@cdn.cxense.com/cx.js$domain=hnonline.sk
 @@api.cxense.com/public/widget/data$domain=hnonline.sk
