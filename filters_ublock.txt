@@ -42,6 +42,7 @@ parlamentnilisty.cz##+js(aopr, Ads)
 podcasty.seznam.cz##+js(set, sssp.config, noopFunc)
 podcasty.seznam.cz##+js(set, sssp, {})
 pppeter.shop##body:remove-class(modal-open)
+code.piano.io/api/tinypass.min.js$domain=hnonline.sk,badfilter
 prehrajto.cz##.content:style(margin-top: 0px !important;)
 ||r.i0.cz^$3p,image,redirect=1x1.gif
 root.cz##+js(set, Gallery.prototype.setAdsForGallery, noopFunc)
