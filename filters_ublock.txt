@@ -58,6 +58,7 @@ titulky.com##+js(set, sssp, {})
 titulky.com##a[href*='kosmetika-brno' i]:upward(3):style(opacity:0;pointer-events:none)
 titulky.com##+js(aeld, load, document.cookie)
 titulky.com##+js(set, xmxalr, "")
+titulky.com###head_c:style(margin-top: 0 !important;)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uschovna.cz##body:style(background:none !important;)
