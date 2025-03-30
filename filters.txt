@@ -254,7 +254,7 @@ programujte.com/img/pozadi_2024.jpg
 @@||www.top-reklama.sk^$~third-party
 @@||api.youradio.cz/v2/ads/preroll$xmlhttprequest
 @@||zdopravy.cz^$generichide
-@@||titulky.com/ads/titulky-ad-sidebar.js
+@@||titulky.com/banaltr/ad-rotator.js
 @@||titulky.com^$generichide
 !
 ! ---------- Czech Whitelisted hiding rules ---------- !
