@@ -468,6 +468,8 @@ motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz###pozadistranky
 mrk.cz##.oznaceno
 mrk.cz###kolotoc1
+mrk.cz##div:has(>a[href^='/g.php'])
+mrk.cz##div:has(>.scroll-x)
 nasepenize.cz##.box-offer
 nasepraha.cz##.npab
 navratdoreality.cz##.box-responsive
