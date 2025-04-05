@@ -60,7 +60,7 @@
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
-horoskopy.cz/*/static/js/ssp.js?szn_loader=1
+||horoskopy.cz/js/
 ||im9.cz/*aukro
 ||img.cdnprg.webtea.cz/web/pozadi_webu_mc.jpg
 ||jiskra-benesov.cz/images/branding/
@@ -416,6 +416,7 @@ hlavnespravy.sk##.block.block3>.sidebar
 hlavnespravy.sk##.block.block4>.sidebar
 hlavnespravy.sk##.subscribe-overlay
 hlavnespravy.sk##.subscribe-overlay-desktop
+horoskopy.cz##szn-cwl
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
