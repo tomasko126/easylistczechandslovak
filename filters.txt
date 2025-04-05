@@ -96,8 +96,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||stat.novinky.cz^
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
-titulky.com/mybanaltrea/
-titulky.com/ajaxlogon.php
+titulky.com/mybanaltreas/
 ||tracker.cncenter.cz^
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
@@ -526,7 +525,7 @@ telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
 titulky.com##iframe[src$=html i]
-titulky.com###fairuser
+titulky.com##iframe[src$=php i]
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
