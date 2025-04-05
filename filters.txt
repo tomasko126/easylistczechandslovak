@@ -416,6 +416,7 @@ hlavnespravy.sk##.block.block3>.sidebar
 hlavnespravy.sk##.block.block4>.sidebar
 hlavnespravy.sk##.subscribe-overlay
 hlavnespravy.sk##.subscribe-overlay-desktop
+hobbyelektro.eu##body>div:not(.mh-container)
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
