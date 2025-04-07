@@ -60,7 +60,7 @@
 ||hd-forum.cz/images/banner/
 ||hd-forum.cz/images/sberbank.jpg
 ||heureka.cz/direct/bannery/
-horoskopy.cz/*/static/js/ssp.js?szn_loader=1
+||horoskopy.cz/js/
 ||im9.cz/*aukro
 ||img.cdnprg.webtea.cz/web/pozadi_webu_mc.jpg
 ||jiskra-benesov.cz/images/branding/
@@ -96,8 +96,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||stat.novinky.cz^
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
-titulky.com/banaltr/
-titulky.com/ajaxlogon.php
+titulky.com/mybanaltreas/
 ||tracker.cncenter.cz^
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
@@ -417,6 +416,7 @@ hlavnespravy.sk##.block.block4>.sidebar
 hlavnespravy.sk##.subscribe-overlay
 hlavnespravy.sk##.subscribe-overlay-desktop
 hobbyelektro.eu##body>div:not(.mh-container)
+horoskopy.cz##szn-cwl
 hrej.cz##[class*="sda-"]
 hybrid.cz##.TopFullBanner
 idnes.cz##div[id^="hyper"]
@@ -469,6 +469,8 @@ motorkari.cz##.banner,.left-side-banner,.right-side-banner
 mrk.cz###pozadistranky
 mrk.cz##.oznaceno
 mrk.cz###kolotoc1
+mrk.cz##div:has(>a[href^='/g.php'])
+mrk.cz##div:has(>.scroll-x)
 nasepenize.cz##.box-offer
 nasepraha.cz##.npab
 navratdoreality.cz##.box-responsive
@@ -526,8 +528,8 @@ super.cz##a[data-dot="c_pozadi"]
 telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
-titulky.com###bnnr300x300
-titulky.com###fairuser
+titulky.com##iframe[src$=html i]
+titulky.com##iframe[src$=php i]
 topzine.cz###vyjizdeciBoxikDiv
 tryhard.cz##[class*="sda-"]
 tv.seznam.cz##div[class^="branding-ad"]
