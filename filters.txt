@@ -96,7 +96,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||stat.novinky.cz^
 ||stat.super.cz^
 ||stobklub.cz/images/banners/maintop.jpg
-titulky.com/mybanaltreas/
+titulky.com/mybanal/
 ||tracker.cncenter.cz^
 ||uschovna.cz/branding
 ||vascak.cz/data/img/adblock.png$image
@@ -527,6 +527,7 @@ super.cz##a[data-dot="c_pozadi"]
 telekomunikace.cz##.Flagrow-Ads-under-header
 tipcars.com##.amalker
 tiscali.cz##.bbtitle
+titulky.com##iframe[src$=htm i]
 titulky.com##iframe[src$=html i]
 titulky.com##iframe[src$=php i]
 topzine.cz###vyjizdeciBoxikDiv
