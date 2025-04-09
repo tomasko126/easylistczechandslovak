@@ -453,6 +453,16 @@ kurzy.cz##.ecb.loga-partneru
 kurzy.cz###wise-calc-widget
 lamer.cz##.square
 lidovky.cz##div[id^="hyper"]
+lidovky.cz###main>table
+lidovky.cz##body::before
+lidovky.cz###waiting-screen
+lidovky.cz##div:has(>div>div>a[href^="https://servix.idnes.cz"])
+lidovky.cz###rmegovka-sph
+lidovky.cz##.col-foto:style(margin-right:0px !important)
+lidovky.cz##div[data-redistribute="ad"]
+lidovky.cz##div:has(>.r-head>span)
+lidovky.cz,www.idnes.cz##div:has(>a[data-js-xhr="1"]>img.block.full.mbrem)
+idnes.cz###extra-tab
 matematika.cz###box-3
 matematika.cz###rbackground-link
 matematika.cz##div[id*="reklama"]
