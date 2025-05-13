@@ -615,6 +615,8 @@ ubian.sk##.connection-results-ad
 vtn-vranov.sk##div[id^="advert_"]
 vranovske.sk##div[class^="item h2"]
 vranovske.sk##div[class="advertisement-list-component"]
+warforum.xyz##img[src="https://naprivat.net/img/banners/banner1.png"]
+warforum.xyz##a[href="https://naprivat.net/?utm_source=warforum&utm_medium=banner&utm_content=970x310"]
 zmeskanyhovor.com##.native-ads
 zoznam.sk##a[href^="https://boxu.sk"]
 !
