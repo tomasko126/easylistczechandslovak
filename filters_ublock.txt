@@ -51,6 +51,11 @@ sector.sk,kinema.sk###frs:style(margin-top: 100px !important;)
 seznam.cz##+js(aopw, Fisher)
 search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="sklik"]
 search.seznam.cz,clanky.seznam.cz##div[data-e-b-n*="advert"]
+sport.aktuality.sk##.main-block-3.section-ms-v-hokeji-2025:style(background-color:black !important;background-image:none !important)
+sport.aktuality.sk##.main-block-3.section-ms-v-hokeji-2025 .block-title.main:style(padding-bottom:0 !important)
+sport.aktuality.sk##main:style(background-color:white !important;background-image:none !important)
+sport.aktuality.sk##.article-of-day-doxxbet-sponsor:style(background-color:black !important;background-image:none !important)
+sport.aktuality.sk##.section-tiposbet-sponsor .main-block-3:style(background-color:red !important;background-image:none !important)
 sreality.cz##+js(nosiif, checkRods)
 super.cz##+js(ra, style, body)
 svetandroida.cz##+js(aopr, detectAdBlocker)
