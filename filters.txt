@@ -557,6 +557,7 @@ netconcert.cz##[class*="advertisement"]
 !
 ! ---------- Slovak Site Specific Element Hiding Rules ---------- !
 !
+allegro.sk##.opbox-sheet.card:has(div[data-box-name^="allegro.ads."])
 autobazar.eu##.bannero2
 autozurnal.com###modal-container
 autozurnal.com##.modal-backdrop
