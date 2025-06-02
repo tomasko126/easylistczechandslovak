@@ -620,6 +620,7 @@ zoznam.sk##a[href^="https://boxu.sk"]
 !
 ! ---------- ABP Extended filters ---------- !
 !
+allegro.cz##.opbox-sheet.card:has(div[data-box-name^="allegro.ads."])
 csfd.cz#?#.widget-group-2 li:-abp-has(div.ad-pmg)
 csfd.cz#?#.ct-related:-abp-contains(/^\s+Reklama/)
 doktorka.cz#?#.block-imageblock:-abp-contains(Reklama)
