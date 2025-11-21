@@ -8,6 +8,7 @@ chip.4net.tv,doubrava.4net.tv,gemnet.4net.tvhtn.4net.tv,itv.satt.cz,jon.4net.tv,
 csfd.cz,csfd.sk##div.body:style(padding-top: 0 !important;)
 csfd.cz,csfd.sk##+js(acis, $, Ads)
 ctrlv.link##+js(aopr, adsAllowed)
+||doubleclick.net^$image,redirect=2x2.png,domain=renault-club.cz
 drbna.cz##+js(acis, $, fancyBanner)
 ||echo24.cz^$csp=child-src *
 enigmaplus.cz,epochaplus.cz##img[src^="/upload/data/"]:upward(3)
