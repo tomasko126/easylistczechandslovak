@@ -82,6 +82,7 @@ youradio.cz##+js(nofab)
 ||media.actve.net/sads/$media,redirect=noop-0.1s.mp3,domain=youradio.cz
 ||redirector.gvt1.com/videoplayback/id/$media,domain=youradio.cz,redirect=noop-1s.mp4
 zing.cz##div.jeg_topbar:style(margin-bottom: 0px !important;)
+zive.cz##article:has-text(/^Reklama$/)
 zive.cz##+js(acis, window.addEventListener, :visible)
 zdopravy.cz##+js(aopr, atob)
 zdopravy.cz##+js(set, hasUserActiveSubscription, true)
@@ -90,6 +91,7 @@ zdopravy.cz##+js(set, hasUserActiveSubscription, true)
 @@||seznam.cz^$ghide
 @@||seznamzpravy.cz^$ghide
 @@||novinky.cz^$ghide
+zive.cz#@#article:has-text(Reklama)
 *$image,redirect-rule=1x1.gif,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz
 @@.png$xhr,domain=seznamzpravy.cz|sport.cz|seznam.cz|sbazar.cz|firmy.cz|super.cz|garaz.cz|stream.cz|novinky.cz
 seznamzpravy.cz,novinky.cz,seznam.cz,super.cz,stream.cz,novinky.cz##+js(aeld, message, fishing)
