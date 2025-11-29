@@ -509,7 +509,9 @@ ronnie.cz###rek3
 ronnie.cz###rodkaz
 rouming.cz##.roumingLista
 rozbor-dila.cz,rozbor-dila.eu,rozborknihy.cz,studijni-svet.cz,ekonomie-ucetnictvi.cz,biologie-chemie.cz,anglictina-maturita.cz##.ai_widget
+sauto.cz###direct-auto-banner
 sauto.cz###pvMid
+sauto.cz##.car-insurance__wrapper
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznam.cz##.gadget--zbozi
