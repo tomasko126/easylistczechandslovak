@@ -103,6 +103,7 @@ titulky.com/mybanal/
 ||vascak.cz/data/img/adblock.png$image
 ||videoad.cz^
 warcenter.cz/interstitial_fs.js
+||warforum.xyz/ads.js
 ||wesa.cz/banner/
 ||*/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
 ||*/wp-content/plugins/wp-content-copy-protection/assets/css/style.min.css$domain=rozbor-dila.cz|rozbor-dila.eu|rozborknihy.cz|studijni-svet.cz|ekonomie-ucetnictvi.cz|biologie-chemie.cz|anglictina-maturita.cz
