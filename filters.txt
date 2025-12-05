@@ -90,7 +90,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||romea.cz/images/servis/banner
 ||ronnie.cz/cache/bannery/
 ||sauto.cz/*bkeaW9ubGF*.$script
-||sauto.cz/*/static/js/ssp.js
+||sauto.cz/*/js/ssp.js
 ||sauto.cz/*/v1/xhr
 ||sbazar.cz/*/v1/xhr
 ||sktorrent.eu/torrent/interstitial.js
