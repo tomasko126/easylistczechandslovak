@@ -1,0 +1,13 @@
+name: 'Close stale issues'
+on:
+  schedule:
+    - cron: '0 7 * * *'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v10
+        with:
+          stale-issue-message: "Hi, this issue has been marked as stale. Please check that your issue is still relevant and add a comment."
+          close-issue-message: "Hi, this issue has been closed due to being stale. Please reopen if your issue is still relevant."
