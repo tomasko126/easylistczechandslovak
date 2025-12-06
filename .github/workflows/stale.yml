@@ -11,3 +11,4 @@ jobs:
         with:
           stale-issue-message: "Hi, this issue has been marked as stale due to inactivity. Please check that your issue is still relevant and add a comment."
           close-issue-message: "Hi, this issue has been closed due to inactivity. Please reopen if your issue is still relevant."
+          operations-per-run: 500
