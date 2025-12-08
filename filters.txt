@@ -413,7 +413,7 @@ heureka.cz,heureka.sk##.filtr.category-partner
 heureka.cz,heureka.sk##div[class*="__banner"]
 heureka.cz,heureka.sk##div[class$="advert"]
 hlavnespravy.sk###text-2
-hlavnespravy.sk##ins.main-content 
+hlavnespravy.sk##ins.main-content
 hlavnespravy.sk##.block.block2>.sidebar
 hlavnespravy.sk##.block.block3>.sidebar
 hlavnespravy.sk##.block.block4>.sidebar
@@ -527,7 +527,6 @@ sauto.cz##a[data-dot="go-to-check-history"]
 sauto.cz##a[data-dot="check-condition-link"]
 sauto.cz##.p-uw-item-detail__skyscraper
 sauto.cz##.c-layout__wrapper > :not(.c-layout)
-sauto.cz##.c-layout__content > :not(.p-uw-item-detail__content)
 serialzone.cz##.banner-header
 serialzone.cz##.mid-lead-hp
 seznam.cz##.gadget--zbozi
