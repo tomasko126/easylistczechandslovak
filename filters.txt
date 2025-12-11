@@ -495,6 +495,8 @@ parlamentnilisty.cz###aowallpaperone
 pctuning.cz##[class*="sda-"]
 playzone.cz##.aab-alert-wrap
 playzone.cz###ad-top-second
+praguemorning.cz##.info-left > :not(p)
+praguemorning.cz##.widget_media_image
 pravidla.cz##.advtick
 pravopisne.cz,pravopisne.sk##.advert
 prehrajto.cz##.ad-leaderboard-alt-wrapper
