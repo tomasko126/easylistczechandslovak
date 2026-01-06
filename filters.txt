@@ -78,7 +78,7 @@ kurzy.cz#$#abort-on-property-write s_back
 ||liveagent.mobilbonus.cz^
 ||lphard.cz/images/banners/
 ||mamincinyrecepty.cz/images/banner
-||mediatn.cms.nova.cz/robots.txt$xhr
+||mediatn.cms.nova.cz/robots.txt$xmlhttprequest
 ||motorkari.cz^$subdocument
 ||mrk.cz/images/inz/
 ||pornuj.cz/files/ntva.php
