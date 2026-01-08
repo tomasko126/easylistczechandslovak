@@ -74,6 +74,7 @@ titulky.com##a:matches-css(background:/marteva/i):upward(3)
 titulky.com##+js(aeld, load, document.cookie)
 titulky.com##+js(set, xmxalr, "")
 titulky.com###head_c:style(margin-top: 0 !important;)
+titulky.com##+js(acis, showAdb_info)
 tn.nova.cz##+js(set, useSeznamAds, false)
 ||trackad.cz/adtrack.php$domain=nova.cz,script,redirect=noop.js
 uschovna.cz##body:style(background:none !important;)
