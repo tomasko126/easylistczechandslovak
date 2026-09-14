@@ -462,6 +462,7 @@ kurzy.cz###sticky_bottom
 kurzy.cz##.ecb.loga-partneru
 kurzy.cz###wise-calc-widget
 lamer.cz##.square
+letemsvetemapplem.eu###tfnotifier-dialog
 lidovky.cz##div[id^="hyper"]
 matematika.cz###box-3
 matematika.cz###rbackground-link
