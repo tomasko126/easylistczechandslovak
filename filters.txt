@@ -337,6 +337,11 @@ vranovske.sk#@#.advertising-content
 !
 365tipu.cz##.wpa.top
 aktualne.cz##[class^="advert__"]
+appliste.cz##.apam-deal-purchase
+appliste.cz##.apam-generated-product-sentence
+appliste.cz##.apam-inline-offer
+appliste.cz##.apam-mobile-offer
+appliste.cz###onesignal-slidedown-container
 appliste.cz##.banner-header
 autobazar.cz###biglink
 autoforum.cz###content-right > div[style]:first-of-type
